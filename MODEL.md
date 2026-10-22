@@ -3,13 +3,24 @@
 Fair (no-margin) odds for every AFLW match, published on Fairline:
 https://fairline.thomasfrederickmason.workers.dev
 
-## Weekly run: one command
+## Keeping the board up to date (automatic since 2026-10-22)
+
+GitHub Actions (`.github/workflows/reprice.yml`) runs `node run-round.js --publish --auto` every hour (every three hours on Monday and Tuesday, every half hour from 11am to 10pm on Thursday to Sunday). Each run:
+
+1. Asks AFL.com.au for finished games that `data/matches.json` doesn't have (`new-results.js`). If there are any, it refits everything (steps 1–6 of `run-round.js`) and commits the refreshed data back to the repo.
+2. Prices the games still to be played with the latest weather forecast and team sheets, and checks that every market agrees.
+3. Pushes the board to Fairline (`push-board.js` → `POST /api/board`). The Worker keeps it in KV and serves it straight away, with no deploy. It only stores a push when a price moved enough to matter: 0.5 points of win chance, a quarter-point of margin, half a point of total, or new team news.
+
+The bookies' prices are captured alongside the model's price at the same moment, so the Record tab compares like with like.
+
+By hand, on the PC:
 
 ```
-node run-round.js <round> --deploy
+node run-round.js <round> --publish    refit, price and push to the live board
+node run-round.js <round> --deploy     ...and redeploy the Worker with this board bundled as its fallback
 ```
 
-It pulls the results, refits everything, prices the games still to be played, checks that every market agrees, then publishes and deploys. It stops at the first failure, and nothing is published unless every step passes. Leave out `--deploy` to preview without publishing, or leave out `<round>` to price the next round with games left.
+Both stop at the first failure, and nothing is published unless every step passes. Leave out `--publish` to preview, or leave out `<round>` to price the next round with games left. The board token is in `.board-token` (not in git) and in the repo's Actions secret `FAIRLINE_BOARD_TOKEN`.
 
 ## A prediction, step by step
 
