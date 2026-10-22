@@ -45,7 +45,9 @@ jobs:
         with:
           node-version: "22"
       - name: Refit if needed, reprice, publish
-        run: node run-round.js ${{ inputs.round }} --publish --auto ${{ inputs.force && '--force' || '' }}
+        run: |
+          set -o pipefail
+          node run-round.js ${{ inputs.round }} --publish --auto ${{ inputs.force && '--force' || '' }} 2>&1 | tee run.log
       # Only a refit changes the model's inputs (results, team sheets, player
       # stats, ratings); the reprice files are rebuilt every run, and the
       # published predictions live in Fairline's ledger, so they aren't committed.
@@ -58,3 +60,7 @@ jobs:
           git commit -m "data: refit after new results ($(date '+%a %d %b %H:%M'))"
           git pull --rebase
           git push
+      # always, so a failed run is visible at Fairline's /api/board?runs=1
+      - name: Report the outcome to Fairline
+        if: always()
+        run: node report-run.js "${{ job.status }}" run.log
