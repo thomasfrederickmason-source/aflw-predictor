@@ -1,0 +1,10 @@
+node_modules/
+backups/
+# Fairline's board token (the Actions secret FAIRLINE_BOARD_TOKEN holds the same value)
+.board-token
+# one-off analysis output and saved oddsportal pages
+data/_tmp*
+data/*.html
+data/*.bak
+data/*.r5bak
+*.log

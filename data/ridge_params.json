@@ -1,0 +1,17 @@
+{
+ "totals": {
+  "tau": 80,
+  "gamma": 0.1,
+  "lambda": 16,
+  "tunedOn": "2019-2025",
+  "tuneMAE": 16.26,
+  "tunedAt": "2026-10-02T02:09:24.347Z"
+ },
+ "tau": 40,
+ "gamma": 0.2,
+ "lambda": 0.25,
+ "a": 0.75,
+ "tunedOn": "2019-2025",
+ "tuneBrier": 0.174,
+ "tunedAt": "2026-10-02T04:46:19.494Z"
+}

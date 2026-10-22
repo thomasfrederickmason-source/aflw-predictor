@@ -1,0 +1,3632 @@
+{
+ "CD_M20262640101": {
+  "rainMm": 1.4,
+  "windMs": 2.68,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20262640102": {
+  "rainMm": 0,
+  "windMs": 1.61,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20262640109": {
+  "rainMm": 0,
+  "windMs": 1.76,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20262640104": {
+  "rainMm": 0,
+  "windMs": 1.76,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20262640103": {
+  "rainMm": 0,
+  "windMs": 4.28,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20262640105": {
+  "rainMm": 0,
+  "windMs": 1.38,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20262640106": {
+  "rainMm": 0,
+  "windMs": 3.68,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20262640107": {
+  "rainMm": 0,
+  "windMs": 2.45,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20262640108": {
+  "rainMm": 10.2,
+  "windMs": 4.85,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20262640202": {
+  "rainMm": 0,
+  "windMs": 2.12,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20262640208": {
+  "rainMm": 0,
+  "windMs": 1.8,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20262640201": {
+  "rainMm": 0,
+  "windMs": 3.95,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20262640203": {
+  "rainMm": 0,
+  "windMs": 0.86,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20262640209": {
+  "rainMm": 0,
+  "windMs": 3.92,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20262640204": {
+  "rainMm": 0.2,
+  "windMs": 2.62,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20262640206": {
+  "rainMm": 0.2,
+  "windMs": 2.62,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20262640205": {
+  "rainMm": 0.2,
+  "windMs": 2.62,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20262640207": {
+  "rainMm": 0,
+  "windMs": 2.41,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20252640101": {
+  "rainMm": 0,
+  "windMs": 2.14,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640102": {
+  "rainMm": 21.2,
+  "windMs": 3.56,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20252640103": {
+  "rainMm": 14.8,
+  "windMs": 3.54,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20252640104": {
+  "rainMm": 1.8,
+  "windMs": 3.09,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20252640105": {
+  "rainMm": 0,
+  "windMs": 5.41,
+  "station": "nsw/canberra_airport"
+ },
+ "CD_M20252640106": {
+  "rainMm": 4.4,
+  "windMs": 2.52,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640107": {
+  "rainMm": 0,
+  "windMs": 2.41,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20252640108": {
+  "rainMm": 0.6,
+  "windMs": 2.31,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640109": {
+  "rainMm": 1.8,
+  "windMs": 5.65,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20252640201": {
+  "rainMm": 0,
+  "windMs": 1.93,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640202": {
+  "rainMm": 0,
+  "windMs": 1.93,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640203": {
+  "rainMm": 0.2,
+  "windMs": 3.23,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20252640204": {
+  "rainMm": 0,
+  "windMs": 1.02,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20252640205": {
+  "rainMm": 0.2,
+  "windMs": 1.07,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M20252640208": {
+  "rainMm": 0,
+  "windMs": 1.42,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640207": {
+  "rainMm": 0,
+  "windMs": 1.42,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640206": {
+  "rainMm": 0,
+  "windMs": 1.42,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640209": {
+  "rainMm": 0,
+  "windMs": 3.95,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20252640301": {
+  "rainMm": 0,
+  "windMs": 2.5,
+  "station": "nt/darwin_airport"
+ },
+ "CD_M20252640302": {
+  "rainMm": 0.4,
+  "windMs": 9.29,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20252640303": {
+  "rainMm": 10.8,
+  "windMs": 4.55,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640304": {
+  "rainMm": 18.4,
+  "windMs": 6.59,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20252640305": {
+  "rainMm": 6.2,
+  "windMs": 4.7,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20252640306": {
+  "rainMm": 10.8,
+  "windMs": 4.55,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640307": {
+  "rainMm": 1.6,
+  "windMs": 2.38,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640308": {
+  "rainMm": 0,
+  "windMs": 1.15,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20252640309": {
+  "rainMm": 0,
+  "windMs": 2.08,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20252640401": {
+  "rainMm": 0,
+  "windMs": 3.51,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640402": {
+  "rainMm": 1,
+  "windMs": 7.11,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20252640403": {
+  "rainMm": 0,
+  "windMs": 3.51,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640404": {
+  "rainMm": 0,
+  "windMs": 8.83,
+  "station": "qld/cairns_aero"
+ },
+ "CD_M20252640405": {
+  "rainMm": 0,
+  "windMs": 5.21,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20252640406": {
+  "rainMm": 0.2,
+  "windMs": 6.86,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20252640407": {
+  "rainMm": 0,
+  "windMs": 6.31,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640408": {
+  "rainMm": 0,
+  "windMs": 6.31,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640409": {
+  "rainMm": 12,
+  "windMs": 2.57,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20252640501": {
+  "rainMm": 0,
+  "windMs": 1.43,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640502": {
+  "rainMm": 0,
+  "windMs": 1.43,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640503": {
+  "rainMm": 0,
+  "windMs": 3.58,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20252640504": {
+  "rainMm": 0,
+  "windMs": 1.86,
+  "station": "nsw/canberra_airport"
+ },
+ "CD_M20252640505": {
+  "rainMm": 0,
+  "windMs": 4.75,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640506": {
+  "rainMm": 0,
+  "windMs": 4.75,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640507": {
+  "rainMm": 0,
+  "windMs": 3.35,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M20252640508": {
+  "rainMm": 0,
+  "windMs": 1.84,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20252640509": {
+  "rainMm": 11.8,
+  "windMs": 4.68,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20252640601": {
+  "rainMm": 0.2,
+  "windMs": 3.16,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640604": {
+  "rainMm": 0.4,
+  "windMs": 0,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20252640602": {
+  "rainMm": 0.2,
+  "windMs": 3.16,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640603": {
+  "rainMm": 0.2,
+  "windMs": 1.73,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20252640605": {
+  "rainMm": 0,
+  "windMs": 5.02,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20252640606": {
+  "rainMm": 0,
+  "windMs": 3.41,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640607": {
+  "rainMm": 0,
+  "windMs": 3.41,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640608": {
+  "rainMm": 0,
+  "windMs": 3.41,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640609": {
+  "rainMm": 0,
+  "windMs": 3.51,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20252640701": {
+  "rainMm": 0,
+  "windMs": 6.31,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20252640702": {
+  "rainMm": 0,
+  "windMs": 3.51,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640703": {
+  "rainMm": 0,
+  "windMs": 3.51,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640704": {
+  "rainMm": 0,
+  "windMs": 3.51,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640705": {
+  "rainMm": 0,
+  "windMs": 3.51,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640706": {
+  "rainMm": 0,
+  "windMs": 2.23,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640707": {
+  "rainMm": 1.2,
+  "windMs": 2.67,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20252640708": {
+  "rainMm": 0,
+  "windMs": 1.9,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20252640709": {
+  "rainMm": 0.2,
+  "windMs": 2.9,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20252640801": {
+  "rainMm": 4.4,
+  "windMs": 5.26,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M20252640802": {
+  "rainMm": 0.6,
+  "windMs": 2.66,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640803": {
+  "rainMm": 0,
+  "windMs": 4,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20252640804": {
+  "rainMm": 0,
+  "windMs": 3.06,
+  "station": "tas/launceston_(ti_tree_bend)"
+ },
+ "CD_M20252640805": {
+  "rainMm": 0,
+  "windMs": 5.16,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20252640806": {
+  "rainMm": 0,
+  "windMs": 5.05,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20252640807": {
+  "rainMm": 0,
+  "windMs": 4.7,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640808": {
+  "rainMm": 0,
+  "windMs": 5.78,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20252640809": {
+  "rainMm": 15.4,
+  "windMs": 2.7,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20252640901": {
+  "rainMm": 0,
+  "windMs": 4.82,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640902": {
+  "rainMm": 0,
+  "windMs": 5.81,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20252640903": {
+  "rainMm": 0,
+  "windMs": 5.49,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20252640904": {
+  "rainMm": 0,
+  "windMs": 3.52,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M20252640905": {
+  "rainMm": 0,
+  "windMs": 3.56,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20252640906": {
+  "rainMm": 0,
+  "windMs": 3.27,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640907": {
+  "rainMm": 0,
+  "windMs": 7.35,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20252640908": {
+  "rainMm": 2,
+  "windMs": 3.08,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252640909": {
+  "rainMm": 0,
+  "windMs": 2.18,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20252641001": {
+  "rainMm": 0,
+  "windMs": 3.15,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20252641002": {
+  "rainMm": 0,
+  "windMs": 2.32,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20252641003": {
+  "rainMm": 0,
+  "windMs": 1.96,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641004": {
+  "rainMm": 0,
+  "windMs": 1.96,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641005": {
+  "rainMm": 0.6,
+  "windMs": 5.34,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20252641006": {
+  "rainMm": 0,
+  "windMs": 1.96,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641007": {
+  "rainMm": 0,
+  "windMs": 3.95,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641008": {
+  "rainMm": 0,
+  "windMs": 3.95,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641009": {
+  "rainMm": 0,
+  "windMs": 3.7,
+  "station": "qld/mackay_aero"
+ },
+ "CD_M20252641101": {
+  "rainMm": 0,
+  "windMs": 2.48,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20252641102": {
+  "rainMm": 0,
+  "windMs": 4.36,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20252641103": {
+  "rainMm": 0,
+  "windMs": 1.33,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641104": {
+  "rainMm": 4.8,
+  "windMs": 2.49,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20252641105": {
+  "rainMm": 0,
+  "windMs": 3.46,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20252641106": {
+  "rainMm": 10.6,
+  "windMs": 5.04,
+  "station": "vic/ballarat_aerodrome"
+ },
+ "CD_M20252641107": {
+  "rainMm": 0.2,
+  "windMs": 4.5,
+  "station": "tas/hobart_(ellerslie_road)"
+ },
+ "CD_M20252641108": {
+  "rainMm": 6.2,
+  "windMs": 2.17,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641109": {
+  "rainMm": 0,
+  "windMs": 5.74,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20252641205": {
+  "rainMm": 0,
+  "windMs": 1.72,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M20252641209": {
+  "rainMm": 1.6,
+  "windMs": 2.76,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20252641204": {
+  "rainMm": 15.2,
+  "windMs": 5.29,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20252641206": {
+  "rainMm": 1,
+  "windMs": 1.97,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641208": {
+  "rainMm": 0.2,
+  "windMs": 5.98,
+  "station": "nsw/coffs_harbour_airport"
+ },
+ "CD_M20252641203": {
+  "rainMm": 0.4,
+  "windMs": 1.66,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20252641202": {
+  "rainMm": 0,
+  "windMs": 3.42,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641207": {
+  "rainMm": 0,
+  "windMs": 3.42,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641201": {
+  "rainMm": 0,
+  "windMs": 6.08,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20252641301": {
+  "rainMm": 1.6,
+  "windMs": 2.81,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641302": {
+  "rainMm": 3,
+  "windMs": 4.02,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641303": {
+  "rainMm": 15.6,
+  "windMs": 2.9,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641304": {
+  "rainMm": 0,
+  "windMs": 4.83,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20252641401": {
+  "rainMm": 2.6,
+  "windMs": 2.25,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641402": {
+  "rainMm": 2.6,
+  "windMs": 2.25,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641501": {
+  "rainMm": 0,
+  "windMs": 1.98,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20252641502": {
+  "rainMm": 0,
+  "windMs": 3.76,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20252641601": {
+  "rainMm": 15.6,
+  "windMs": 2.81,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640101": {
+  "rainMm": 0,
+  "windMs": 6.94,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20242640102": {
+  "rainMm": 8,
+  "windMs": 3.11,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20242640103": {
+  "rainMm": 0,
+  "windMs": 8.95,
+  "station": "nsw/canberra_airport"
+ },
+ "CD_M20242640104": {
+  "rainMm": null,
+  "windMs": 5.37,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640105": {
+  "rainMm": 0,
+  "windMs": 4.33,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20242640106": {
+  "rainMm": 0,
+  "windMs": 10.29,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20242640107": {
+  "rainMm": 2.2,
+  "windMs": 8.61,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20242640108": {
+  "rainMm": 0,
+  "windMs": 6.1,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M20242640109": {
+  "rainMm": 0,
+  "windMs": 2.63,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20242640201": {
+  "rainMm": 1.6,
+  "windMs": 4.36,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640202": {
+  "rainMm": 0,
+  "windMs": 2.75,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640203": {
+  "rainMm": 4.8,
+  "windMs": 1.7,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20242640204": {
+  "rainMm": 0,
+  "windMs": 2.75,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640205": {
+  "rainMm": 0,
+  "windMs": 4.16,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640206": {
+  "rainMm": 0,
+  "windMs": 4.19,
+  "station": "qld/mackay_aero"
+ },
+ "CD_M20242640207": {
+  "rainMm": 0,
+  "windMs": 4.16,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640208": {
+  "rainMm": 0,
+  "windMs": 4.16,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640209": {
+  "rainMm": 0,
+  "windMs": 1.53,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20242640301": {
+  "rainMm": 8.2,
+  "windMs": 3.08,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640302": {
+  "rainMm": 8.8,
+  "windMs": 4.74,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20242640303": {
+  "rainMm": 0,
+  "windMs": 3.43,
+  "station": "nsw/coffs_harbour_airport"
+ },
+ "CD_M20242640304": {
+  "rainMm": 3.4,
+  "windMs": 3.37,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640305": {
+  "rainMm": 0,
+  "windMs": 5.28,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20242640306": {
+  "rainMm": 0,
+  "windMs": 5.69,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20242640307": {
+  "rainMm": 2.2,
+  "windMs": 3.14,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640308": {
+  "rainMm": 2.2,
+  "windMs": 3.14,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640309": {
+  "rainMm": 0.6,
+  "windMs": 6.98,
+  "station": "nsw/canberra_airport"
+ },
+ "CD_M20242640401": {
+  "rainMm": 1.4,
+  "windMs": 2.32,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640402": {
+  "rainMm": 0,
+  "windMs": 2.63,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20242640403": {
+  "rainMm": 0.4,
+  "windMs": 3.14,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640404": {
+  "rainMm": 1.4,
+  "windMs": 3.19,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640405": {
+  "rainMm": 0,
+  "windMs": 4.01,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20242640406": {
+  "rainMm": 6.4,
+  "windMs": 3.22,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640407": {
+  "rainMm": 0,
+  "windMs": 3.01,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20242640408": {
+  "rainMm": 2.6,
+  "windMs": 4.77,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20242640409": {
+  "rainMm": 0.2,
+  "windMs": 3.01,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640410": {
+  "rainMm": 0,
+  "windMs": 4.34,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20242640411": {
+  "rainMm": 0,
+  "windMs": 2.5,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20242640501": {
+  "rainMm": 0,
+  "windMs": 2.11,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640502": {
+  "rainMm": 1.2,
+  "windMs": 2.12,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640503": {
+  "rainMm": 3.4,
+  "windMs": 4.13,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20242640504": {
+  "rainMm": 0.2,
+  "windMs": 1.52,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640505": {
+  "rainMm": 0.2,
+  "windMs": 1.52,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640506": {
+  "rainMm": 0.2,
+  "windMs": 1.52,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640507": {
+  "rainMm": 0.2,
+  "windMs": 1.52,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640508": {
+  "rainMm": 0,
+  "windMs": 4.78,
+  "station": "tas/launceston_(ti_tree_bend)"
+ },
+ "CD_M20242640509": {
+  "rainMm": 1.6,
+  "windMs": 3.88,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20242640510": {
+  "rainMm": 0,
+  "windMs": 3.5,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20242640511": {
+  "rainMm": 8.2,
+  "windMs": 6.08,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20242640601": {
+  "rainMm": 0,
+  "windMs": 2.78,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20242640602": {
+  "rainMm": 0,
+  "windMs": 2.19,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M20242640603": {
+  "rainMm": 0,
+  "windMs": 1.69,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640604": {
+  "rainMm": 0,
+  "windMs": 3,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640605": {
+  "rainMm": 1.6,
+  "windMs": 5.28,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20242640606": {
+  "rainMm": 0.2,
+  "windMs": 2.55,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640607": {
+  "rainMm": 0.2,
+  "windMs": 2.55,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640608": {
+  "rainMm": 0.2,
+  "windMs": 1.59,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20242640609": {
+  "rainMm": 0.2,
+  "windMs": 2.55,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640610": {
+  "rainMm": null,
+  "windMs": 3.51,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20242640611": {
+  "rainMm": 0.2,
+  "windMs": 4.84,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20242640612": {
+  "rainMm": 0,
+  "windMs": 1.72,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20242640701": {
+  "rainMm": 1.8,
+  "windMs": 1.86,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M20242640702": {
+  "rainMm": 0,
+  "windMs": 4.02,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20242640703": {
+  "rainMm": 0,
+  "windMs": 5.79,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20242640704": {
+  "rainMm": 0,
+  "windMs": 2.5,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640705": {
+  "rainMm": 0,
+  "windMs": 2.21,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M20242640706": {
+  "rainMm": 0,
+  "windMs": 2.73,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640707": {
+  "rainMm": 0,
+  "windMs": 2.44,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20242640708": {
+  "rainMm": 0,
+  "windMs": 3.08,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20242640709": {
+  "rainMm": 0,
+  "windMs": 5.24,
+  "station": "tas/hobart_(ellerslie_road)"
+ },
+ "CD_M20242640710": {
+  "rainMm": 0,
+  "windMs": 4.02,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640711": {
+  "rainMm": 0,
+  "windMs": 5.67,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20242640801": {
+  "rainMm": 0,
+  "windMs": 3.45,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640802": {
+  "rainMm": 4.8,
+  "windMs": 7.5,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20242640803": {
+  "rainMm": 48.2,
+  "windMs": 2,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M20242640804": {
+  "rainMm": 7.8,
+  "windMs": 4.54,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20242640805": {
+  "rainMm": 32.4,
+  "windMs": 3.83,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640806": {
+  "rainMm": 0,
+  "windMs": 1.73,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20242640807": {
+  "rainMm": 0,
+  "windMs": 2.92,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20242640808": {
+  "rainMm": 0,
+  "windMs": 2.99,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640809": {
+  "rainMm": 0,
+  "windMs": 2.99,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640901": {
+  "rainMm": 0,
+  "windMs": 2.14,
+  "station": "qld/cairns_aero"
+ },
+ "CD_M20242640902": {
+  "rainMm": 0,
+  "windMs": 2.93,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20242640903": {
+  "rainMm": 0,
+  "windMs": 6.47,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20242640904": {
+  "rainMm": 0,
+  "windMs": 5.29,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20242640905": {
+  "rainMm": 0,
+  "windMs": 4.14,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20242640906": {
+  "rainMm": 0.6,
+  "windMs": 3.22,
+  "station": "nt/darwin_airport"
+ },
+ "CD_M20242640907": {
+  "rainMm": 0,
+  "windMs": 5.48,
+  "station": "vic/ballarat_aerodrome"
+ },
+ "CD_M20242640908": {
+  "rainMm": 0,
+  "windMs": 3.35,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242640909": {
+  "rainMm": 0,
+  "windMs": 2.99,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20242641006": {
+  "rainMm": 0,
+  "windMs": 3.5,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20242641005": {
+  "rainMm": 0,
+  "windMs": 3.75,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242641008": {
+  "rainMm": 0.2,
+  "windMs": 6.33,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20242641004": {
+  "rainMm": 0,
+  "windMs": 3.75,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242641002": {
+  "rainMm": 0,
+  "windMs": 3.75,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242641007": {
+  "rainMm": 0,
+  "windMs": 4.55,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242641003": {
+  "rainMm": 0,
+  "windMs": 4.55,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242641001": {
+  "rainMm": 0,
+  "windMs": 5.2,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20242641009": {
+  "rainMm": 0.8,
+  "windMs": 3.68,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20242641101": {
+  "rainMm": 1.8,
+  "windMs": 3.5,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242641102": {
+  "rainMm": 0,
+  "windMs": 3.19,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20242641103": {
+  "rainMm": 0,
+  "windMs": 1.89,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242641104": {
+  "rainMm": 0,
+  "windMs": 3.54,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20242641201": {
+  "rainMm": 0,
+  "windMs": 7.34,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20242641202": {
+  "rainMm": 0,
+  "windMs": 3.65,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242641301": {
+  "rainMm": 0,
+  "windMs": 2.86,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20242641302": {
+  "rainMm": 18.6,
+  "windMs": 2.93,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20242641401": {
+  "rainMm": 1.4,
+  "windMs": 1.76,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640101": {
+  "rainMm": 1.8,
+  "windMs": 2.15,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640102": {
+  "rainMm": 0,
+  "windMs": 0.94,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640103": {
+  "rainMm": 0,
+  "windMs": 3.06,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20232640104": {
+  "rainMm": 0.2,
+  "windMs": 1.16,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20232640105": {
+  "rainMm": 0,
+  "windMs": 1.28,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M20232640106": {
+  "rainMm": 0,
+  "windMs": 3.69,
+  "station": "tas/hobart_(ellerslie_road)"
+ },
+ "CD_M20232640107": {
+  "rainMm": 0,
+  "windMs": 2.35,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20232640108": {
+  "rainMm": 0,
+  "windMs": 3.16,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20232640109": {
+  "rainMm": 9,
+  "windMs": 5.7,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20232640201": {
+  "rainMm": 4,
+  "windMs": 5.35,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640202": {
+  "rainMm": 0,
+  "windMs": 5.14,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20232640203": {
+  "rainMm": 1,
+  "windMs": 2.52,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20232640204": {
+  "rainMm": 2.4,
+  "windMs": 5.82,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20232640205": {
+  "rainMm": 2.8,
+  "windMs": 3.07,
+  "station": "vic/ballarat_aerodrome"
+ },
+ "CD_M20232640206": {
+  "rainMm": 1,
+  "windMs": 1.75,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640207": {
+  "rainMm": 1,
+  "windMs": 1.75,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640208": {
+  "rainMm": 1,
+  "windMs": 1.75,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640209": {
+  "rainMm": 0.2,
+  "windMs": 2.26,
+  "station": "nsw/canberra_airport"
+ },
+ "CD_M20232640301": {
+  "rainMm": 0,
+  "windMs": 3.99,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20232640302": {
+  "rainMm": 0,
+  "windMs": 4.2,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20232640303": {
+  "rainMm": 0,
+  "windMs": 2.54,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20232640304": {
+  "rainMm": 0,
+  "windMs": 3.61,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640305": {
+  "rainMm": 0.2,
+  "windMs": 1.83,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20232640306": {
+  "rainMm": 0,
+  "windMs": 1.95,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640307": {
+  "rainMm": 0.8,
+  "windMs": 3.15,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20232640308": {
+  "rainMm": 0,
+  "windMs": 1.95,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640309": {
+  "rainMm": 0,
+  "windMs": 1.76,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20232640401": {
+  "rainMm": 0.2,
+  "windMs": 1.16,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M20232640402": {
+  "rainMm": 0,
+  "windMs": 2.36,
+  "station": "nsw/canberra_airport"
+ },
+ "CD_M20232640403": {
+  "rainMm": 0,
+  "windMs": 1.41,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640404": {
+  "rainMm": 0,
+  "windMs": 3.74,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20232640405": {
+  "rainMm": 0,
+  "windMs": 3.52,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20232640406": {
+  "rainMm": null,
+  "windMs": 2.27,
+  "station": "tas/launceston_(ti_tree_bend)"
+ },
+ "CD_M20232640407": {
+  "rainMm": 0,
+  "windMs": 2.89,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640408": {
+  "rainMm": 0,
+  "windMs": 2.89,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640409": {
+  "rainMm": 0.8,
+  "windMs": 6.04,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20232640501": {
+  "rainMm": 0,
+  "windMs": 3.23,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20232640502": {
+  "rainMm": 0,
+  "windMs": 1.93,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640503": {
+  "rainMm": 0,
+  "windMs": 1.93,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640504": {
+  "rainMm": 0,
+  "windMs": 1.93,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640505": {
+  "rainMm": 0,
+  "windMs": 2.44,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20232640506": {
+  "rainMm": 0,
+  "windMs": 4.6,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640507": {
+  "rainMm": 0,
+  "windMs": 3.96,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640508": {
+  "rainMm": 0,
+  "windMs": 2.93,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M20232640509": {
+  "rainMm": 0,
+  "windMs": 5.36,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20232640601": {
+  "rainMm": 7.2,
+  "windMs": 3.35,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640602": {
+  "rainMm": 2.2,
+  "windMs": 6.3,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20232640603": {
+  "rainMm": 0.4,
+  "windMs": 2.1,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640604": {
+  "rainMm": 0.4,
+  "windMs": 2.1,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640605": {
+  "rainMm": 0,
+  "windMs": 4.95,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20232640606": {
+  "rainMm": 0,
+  "windMs": 3.9,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20232640607": {
+  "rainMm": 0,
+  "windMs": 2.6,
+  "station": "vic/warrnambool_airport_ndb"
+ },
+ "CD_M20232640608": {
+  "rainMm": 0,
+  "windMs": 1.69,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640609": {
+  "rainMm": 0,
+  "windMs": 2.15,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20232640701": {
+  "rainMm": 0,
+  "windMs": 6.06,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20232640702": {
+  "rainMm": 2.2,
+  "windMs": 3.21,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640703": {
+  "rainMm": 0.4,
+  "windMs": 6.05,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20232640704": {
+  "rainMm": 0,
+  "windMs": 5.79,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20232640705": {
+  "rainMm": 0,
+  "windMs": 4,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20232640706": {
+  "rainMm": 2.2,
+  "windMs": 3.21,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640707": {
+  "rainMm": 0,
+  "windMs": 2.1,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640708": {
+  "rainMm": 0,
+  "windMs": 2.1,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640709": {
+  "rainMm": 0,
+  "windMs": 2.9,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20232640801": {
+  "rainMm": 0,
+  "windMs": 3.76,
+  "station": "qld/cairns_aero"
+ },
+ "CD_M20232640802": {
+  "rainMm": 0,
+  "windMs": 3.06,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640803": {
+  "rainMm": 0,
+  "windMs": 3.38,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20232640804": {
+  "rainMm": 0,
+  "windMs": 7.14,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20232640805": {
+  "rainMm": 0,
+  "windMs": 8.85,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20232640806": {
+  "rainMm": 0,
+  "windMs": 3.06,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640807": {
+  "rainMm": 0.2,
+  "windMs": 4.19,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640808": {
+  "rainMm": 0,
+  "windMs": 3.15,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20232640809": {
+  "rainMm": 0.2,
+  "windMs": 4.19,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640901": {
+  "rainMm": 0.4,
+  "windMs": 6.85,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20232640902": {
+  "rainMm": 0,
+  "windMs": 5.07,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640903": {
+  "rainMm": 0,
+  "windMs": 5.07,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640904": {
+  "rainMm": 0,
+  "windMs": 5.07,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640905": {
+  "rainMm": 0,
+  "windMs": 3.64,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20232640906": {
+  "rainMm": 0,
+  "windMs": 5.07,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232640907": {
+  "rainMm": 0,
+  "windMs": 5.79,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20232640908": {
+  "rainMm": 0,
+  "windMs": 3.53,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20232640909": {
+  "rainMm": 0,
+  "windMs": 1.49,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M20232641001": {
+  "rainMm": 0,
+  "windMs": 4.65,
+  "station": "qld/mackay_aero"
+ },
+ "CD_M20232641007": {
+  "rainMm": 0,
+  "windMs": 3.61,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232641003": {
+  "rainMm": 0,
+  "windMs": 5.67,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20232641005": {
+  "rainMm": 0,
+  "windMs": 4.99,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20232641006": {
+  "rainMm": 0,
+  "windMs": 3.65,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20232641004": {
+  "rainMm": 5.8,
+  "windMs": 3.15,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20232641002": {
+  "rainMm": 0,
+  "windMs": 1.94,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232641009": {
+  "rainMm": 0,
+  "windMs": 1.94,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232641008": {
+  "rainMm": 0,
+  "windMs": 1.93,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20232641101": {
+  "rainMm": 0,
+  "windMs": 6.5,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20232641102": {
+  "rainMm": 13.8,
+  "windMs": 3.29,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20232641103": {
+  "rainMm": 0,
+  "windMs": 3.43,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20232641104": {
+  "rainMm": 0,
+  "windMs": 3.05,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232641201": {
+  "rainMm": 0,
+  "windMs": 3.33,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20232641202": {
+  "rainMm": 0,
+  "windMs": 2.06,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232641301": {
+  "rainMm": 5,
+  "windMs": 2.51,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20232641302": {
+  "rainMm": 3.8,
+  "windMs": 2.67,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20232641401": {
+  "rainMm": 7,
+  "windMs": 2.85,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640101": {
+  "rainMm": 3.2,
+  "windMs": 0.85,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M20222640102": {
+  "rainMm": 24.8,
+  "windMs": 2.66,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640103": {
+  "rainMm": 24.8,
+  "windMs": 2.66,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640104": {
+  "rainMm": 0,
+  "windMs": 4.29,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20222640107": {
+  "rainMm": 0,
+  "windMs": 3.01,
+  "station": "sa/noarlunga"
+ },
+ "CD_M20222640105": {
+  "rainMm": 0,
+  "windMs": 2.25,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640106": {
+  "rainMm": 0,
+  "windMs": 4.69,
+  "station": "qld/mackay_aero"
+ },
+ "CD_M20222640201": {
+  "rainMm": 0,
+  "windMs": 2.49,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640202": {
+  "rainMm": 6,
+  "windMs": 2.79,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640204": {
+  "rainMm": 0,
+  "windMs": 3.81,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20222640205": {
+  "rainMm": 0,
+  "windMs": 1.7,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640206": {
+  "rainMm": 0,
+  "windMs": 4.17,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20222640207": {
+  "rainMm": 0,
+  "windMs": 1.7,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640203": {
+  "rainMm": 0,
+  "windMs": 5.49,
+  "station": "vic/ballarat_aerodrome"
+ },
+ "CD_M20222640301": {
+  "rainMm": 0,
+  "windMs": 2.81,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20222640307": {
+  "rainMm": 0,
+  "windMs": 2.88,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640302": {
+  "rainMm": 0,
+  "windMs": 2.88,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640303": {
+  "rainMm": 0,
+  "windMs": 2.88,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640305": {
+  "rainMm": 0,
+  "windMs": 1.88,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640306": {
+  "rainMm": 0,
+  "windMs": 3.47,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20222640304": {
+  "rainMm": 0,
+  "windMs": 6.21,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20222640406": {
+  "rainMm": 7,
+  "windMs": 4.37,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640407": {
+  "rainMm": 0,
+  "windMs": 7.98,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20222640402": {
+  "rainMm": 0,
+  "windMs": 6.03,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20222640404": {
+  "rainMm": 0,
+  "windMs": 6.49,
+  "station": "qld/sunshine_coast_airport"
+ },
+ "CD_M20222640405": {
+  "rainMm": 0,
+  "windMs": 1.69,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640401": {
+  "rainMm": 0,
+  "windMs": 6,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20222640403": {
+  "rainMm": 0,
+  "windMs": 1.95,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640501": {
+  "rainMm": 1.4,
+  "windMs": 4.1,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20222640503": {
+  "rainMm": 2,
+  "windMs": 9.32,
+  "station": "qld/sunshine_coast_airport"
+ },
+ "CD_M20222640507": {
+  "rainMm": 0,
+  "windMs": 1.94,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640504": {
+  "rainMm": 0,
+  "windMs": 1.94,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640506": {
+  "rainMm": 0,
+  "windMs": 1.94,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640505": {
+  "rainMm": 0,
+  "windMs": 3.04,
+  "station": "tas/hobart_(ellerslie_road)"
+ },
+ "CD_M20222640502": {
+  "rainMm": 137.2,
+  "windMs": 4.34,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20222640607": {
+  "rainMm": 0,
+  "windMs": 6.83,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20222640602": {
+  "rainMm": 0,
+  "windMs": 2.48,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640605": {
+  "rainMm": 0,
+  "windMs": 2.48,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640604": {
+  "rainMm": 0,
+  "windMs": 3.11,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20222640601": {
+  "rainMm": 0,
+  "windMs": 4.65,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640603": {
+  "rainMm": 0,
+  "windMs": 2.41,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20222640606": {
+  "rainMm": 0,
+  "windMs": 3.48,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20222640707": {
+  "rainMm": 0,
+  "windMs": 3.37,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640702": {
+  "rainMm": 0.2,
+  "windMs": 5.86,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20222640703": {
+  "rainMm": 0.6,
+  "windMs": 2.42,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640704": {
+  "rainMm": 0,
+  "windMs": 1.42,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20222640701": {
+  "rainMm": 0,
+  "windMs": 5.2,
+  "station": "tas/hobart_(ellerslie_road)"
+ },
+ "CD_M20222640706": {
+  "rainMm": 0,
+  "windMs": 3.48,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20222640804": {
+  "rainMm": 0.8,
+  "windMs": 2.52,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20222640802": {
+  "rainMm": 0,
+  "windMs": 2.97,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640803": {
+  "rainMm": 0,
+  "windMs": 2.97,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640807": {
+  "rainMm": 0,
+  "windMs": 1.15,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640805": {
+  "rainMm": 0,
+  "windMs": 1.15,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640806": {
+  "rainMm": 0,
+  "windMs": 3.41,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20222640801": {
+  "rainMm": 32.4,
+  "windMs": 2.85,
+  "station": "nsw/canberra_airport"
+ },
+ "CD_M20222640906": {
+  "rainMm": 37.8,
+  "windMs": 2.95,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640905": {
+  "rainMm": 9.4,
+  "windMs": 3.97,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20222640904": {
+  "rainMm": 0,
+  "windMs": 1.89,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20222640907": {
+  "rainMm": 0,
+  "windMs": 1.89,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20222640902": {
+  "rainMm": 4.8,
+  "windMs": 4.26,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222640901": {
+  "rainMm": 0,
+  "windMs": 6.04,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20222640903": {
+  "rainMm": 4.8,
+  "windMs": 4.26,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222641007": {
+  "rainMm": 0,
+  "windMs": 3.35,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222641002": {
+  "rainMm": 0,
+  "windMs": 2.36,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20222641001": {
+  "rainMm": 0,
+  "windMs": 1.52,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222641004": {
+  "rainMm": 0,
+  "windMs": 1.52,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222641003": {
+  "rainMm": 0,
+  "windMs": 1.52,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222641006": {
+  "rainMm": 0,
+  "windMs": 2.43,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222641101": {
+  "rainMm": 0,
+  "windMs": 3.38,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20222641201": {
+  "rainMm": 0,
+  "windMs": 1.71,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20222641301": {
+  "rainMm": 0,
+  "windMs": 1.91,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222641302": {
+  "rainMm": 9.6,
+  "windMs": 3.18,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20222641401": {
+  "rainMm": 0.4,
+  "windMs": 3.33,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20222641402": {
+  "rainMm": 0,
+  "windMs": 4.62,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20222641501": {
+  "rainMm": 0,
+  "windMs": 3.22,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M21012640101": {
+  "rainMm": 4.8,
+  "windMs": 2.12,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640102": {
+  "rainMm": 0,
+  "windMs": 2.27,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M21012640103": {
+  "rainMm": 0,
+  "windMs": 3.18,
+  "station": "tas/hobart_(ellerslie_road)"
+ },
+ "CD_M21012640104": {
+  "rainMm": 3.2,
+  "windMs": 2.41,
+  "station": "wa/perth_metro"
+ },
+ "CD_M21012640105": {
+  "rainMm": 13.2,
+  "windMs": 3.63,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M21012640106": {
+  "rainMm": 0.2,
+  "windMs": 1.72,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640107": {
+  "rainMm": 0,
+  "windMs": 3.15,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640108": {
+  "rainMm": 0,
+  "windMs": 3.14,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M21012640109": {
+  "rainMm": 0,
+  "windMs": 3.34,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M21012640201": {
+  "rainMm": 2.4,
+  "windMs": 2.86,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640202": {
+  "rainMm": 0,
+  "windMs": 2.15,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640203": {
+  "rainMm": 0,
+  "windMs": 3.45,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M21012640204": {
+  "rainMm": 7.6,
+  "windMs": 3.76,
+  "station": "wa/perth_metro"
+ },
+ "CD_M21012640205": {
+  "rainMm": 0.2,
+  "windMs": 1.6,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640206": {
+  "rainMm": 0.2,
+  "windMs": 1.6,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640207": {
+  "rainMm": 0,
+  "windMs": 2.87,
+  "station": "nsw/canberra_airport"
+ },
+ "CD_M21012640208": {
+  "rainMm": 0.2,
+  "windMs": 1.6,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640209": {
+  "rainMm": 8.4,
+  "windMs": 6.85,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M21012640301": {
+  "rainMm": 0.2,
+  "windMs": 2.99,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640303": {
+  "rainMm": 2.4,
+  "windMs": 4.35,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M21012640305": {
+  "rainMm": 6,
+  "windMs": 4.69,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M21012640304": {
+  "rainMm": 2.6,
+  "windMs": 4.44,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M21012640302": {
+  "rainMm": 7.8,
+  "windMs": 4.01,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M21012640306": {
+  "rainMm": 0,
+  "windMs": 3.02,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640307": {
+  "rainMm": 0,
+  "windMs": 3.02,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640308": {
+  "rainMm": 0,
+  "windMs": 3.02,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640309": {
+  "rainMm": 0,
+  "windMs": 1.07,
+  "station": "wa/perth_metro"
+ },
+ "CD_M21012640401": {
+  "rainMm": 0.6,
+  "windMs": 1.32,
+  "station": "tas/launceston_(ti_tree_bend)"
+ },
+ "CD_M21012640404": {
+  "rainMm": 0,
+  "windMs": 7.04,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M21012640402": {
+  "rainMm": 0,
+  "windMs": 4.72,
+  "station": "qld/mackay_aero"
+ },
+ "CD_M21012640403": {
+  "rainMm": 3.2,
+  "windMs": 9.43,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M21012640405": {
+  "rainMm": 0,
+  "windMs": 1.55,
+  "station": "wa/perth_metro"
+ },
+ "CD_M21012640406": {
+  "rainMm": 4.2,
+  "windMs": 4.33,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640407": {
+  "rainMm": 9.6,
+  "windMs": 2.89,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640408": {
+  "rainMm": 9.6,
+  "windMs": 2.89,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640409": {
+  "rainMm": 9.6,
+  "windMs": 2.89,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640502": {
+  "rainMm": 1.6,
+  "windMs": 1.89,
+  "station": "wa/perth_metro"
+ },
+ "CD_M21012640501": {
+  "rainMm": 0,
+  "windMs": 2.54,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M21012640503": {
+  "rainMm": 0.2,
+  "windMs": 2.34,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640504": {
+  "rainMm": 0.2,
+  "windMs": 2.34,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640505": {
+  "rainMm": 0.2,
+  "windMs": 2.34,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640506": {
+  "rainMm": 0.2,
+  "windMs": 2.34,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640507": {
+  "rainMm": 0.4,
+  "windMs": 3.2,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640508": {
+  "rainMm": 0,
+  "windMs": 3.65,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M21012640509": {
+  "rainMm": 0,
+  "windMs": 2.12,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M21012640601": {
+  "rainMm": 0,
+  "windMs": 3.97,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M21012640602": {
+  "rainMm": 0,
+  "windMs": 3.78,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M21012640603": {
+  "rainMm": 6.4,
+  "windMs": 6.36,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M21012640604": {
+  "rainMm": 0,
+  "windMs": 4.82,
+  "station": "vic/ballarat_aerodrome"
+ },
+ "CD_M21012640605": {
+  "rainMm": 0,
+  "windMs": 1.53,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640606": {
+  "rainMm": 0,
+  "windMs": 1.53,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640607": {
+  "rainMm": 3,
+  "windMs": 3.83,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M21012640608": {
+  "rainMm": 0,
+  "windMs": 3.48,
+  "station": "wa/perth_metro"
+ },
+ "CD_M21012640609": {
+  "rainMm": 0,
+  "windMs": 1.53,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640701": {
+  "rainMm": 15.2,
+  "windMs": 2.36,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640702": {
+  "rainMm": 0,
+  "windMs": 2.12,
+  "station": "wa/perth_metro"
+ },
+ "CD_M21012640703": {
+  "rainMm": 5,
+  "windMs": 5.21,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M21012640704": {
+  "rainMm": 0.4,
+  "windMs": 4.25,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M21012640705": {
+  "rainMm": 19.8,
+  "windMs": 2.73,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640706": {
+  "rainMm": 34.6,
+  "windMs": 1.85,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M21012640707": {
+  "rainMm": 1.6,
+  "windMs": 3.23,
+  "station": "vic/warrnambool_airport_ndb"
+ },
+ "CD_M21012640708": {
+  "rainMm": 0.2,
+  "windMs": 2.5,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640709": {
+  "rainMm": 0.2,
+  "windMs": 2.5,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640801": {
+  "rainMm": 22.6,
+  "windMs": 3.39,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640802": {
+  "rainMm": 1.6,
+  "windMs": 3.02,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M21012640803": {
+  "rainMm": 0.4,
+  "windMs": 3.79,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M21012640804": {
+  "rainMm": 1.2,
+  "windMs": 2.3,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640805": {
+  "rainMm": 1.2,
+  "windMs": 2.3,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640806": {
+  "rainMm": 0,
+  "windMs": 5.51,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M21012640807": {
+  "rainMm": 1.6,
+  "windMs": 3.2,
+  "station": "vic/ballarat_aerodrome"
+ },
+ "CD_M21012640808": {
+  "rainMm": 0,
+  "windMs": 4.88,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M21012640809": {
+  "rainMm": 0,
+  "windMs": 2.23,
+  "station": "wa/perth_metro"
+ },
+ "CD_M21012640901": {
+  "rainMm": 0,
+  "windMs": 4.23,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M21012640902": {
+  "rainMm": 1,
+  "windMs": 6.55,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M21012640903": {
+  "rainMm": 18.6,
+  "windMs": 2.6,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640904": {
+  "rainMm": 0.6,
+  "windMs": 8.83,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M21012640905": {
+  "rainMm": 1.6,
+  "windMs": 2.41,
+  "station": "wa/perth_metro"
+ },
+ "CD_M21012640906": {
+  "rainMm": 18.8,
+  "windMs": 1.15,
+  "station": "vic/frankston_(ballam_park)"
+ },
+ "CD_M21012640907": {
+  "rainMm": 4.2,
+  "windMs": 3.32,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012640908": {
+  "rainMm": 0,
+  "windMs": 3.45,
+  "station": "vic/mildura_airport"
+ },
+ "CD_M21012640909": {
+  "rainMm": 4.2,
+  "windMs": 3.32,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012641002": {
+  "rainMm": 15.8,
+  "windMs": 3.64,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012641001": {
+  "rainMm": 0,
+  "windMs": 3.76,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M21012641006": {
+  "rainMm": 3,
+  "windMs": 2.49,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012641009": {
+  "rainMm": 3,
+  "windMs": 2.49,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012641004": {
+  "rainMm": 1,
+  "windMs": 4.09,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M21012641003": {
+  "rainMm": 0,
+  "windMs": 4.2,
+  "station": "wa/perth_metro"
+ },
+ "CD_M21012641008": {
+  "rainMm": 0,
+  "windMs": 7.18,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M21012641007": {
+  "rainMm": 2.4,
+  "windMs": 3.86,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012641005": {
+  "rainMm": 0.2,
+  "windMs": 5.94,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M21012641101": {
+  "rainMm": 0.2,
+  "windMs": 2.24,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012641102": {
+  "rainMm": 0,
+  "windMs": 6.05,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M21012641103": {
+  "rainMm": 0,
+  "windMs": 1.98,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M21012641104": {
+  "rainMm": 0,
+  "windMs": 2.24,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012641201": {
+  "rainMm": 0,
+  "windMs": 2.29,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012641202": {
+  "rainMm": 1,
+  "windMs": 6.22,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M21012641301": {
+  "rainMm": 0,
+  "windMs": 3.74,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M21012641302": {
+  "rainMm": 0,
+  "windMs": 4.55,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M21012641401": {
+  "rainMm": 0,
+  "windMs": 2.76,
+  "station": "qld/amberley_amo"
+ },
+ "CD_M20212640101": {
+  "rainMm": 0,
+  "windMs": 1.77,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640102": {
+  "rainMm": 3.6,
+  "windMs": 1.94,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640104": {
+  "rainMm": 0,
+  "windMs": 6.19,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20212640103": {
+  "rainMm": 0,
+  "windMs": 3.1,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20212640106": {
+  "rainMm": 0,
+  "windMs": 3.05,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20212640105": {
+  "rainMm": 0,
+  "windMs": 3.05,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640107": {
+  "rainMm": 0,
+  "windMs": 3.71,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20212640201": {
+  "rainMm": 0.4,
+  "windMs": 4.14,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640205": {
+  "rainMm": 1.6,
+  "windMs": 2.98,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640207": {
+  "rainMm": 1.6,
+  "windMs": 2.98,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640202": {
+  "rainMm": 1.8,
+  "windMs": 3.45,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640206": {
+  "rainMm": 0,
+  "windMs": 2.99,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20212640203": {
+  "rainMm": 0.2,
+  "windMs": 5.59,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20212640204": {
+  "rainMm": 19.6,
+  "windMs": 4.02,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20212640301": {
+  "rainMm": 2.6,
+  "windMs": 3.87,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20212640302": {
+  "rainMm": 6.2,
+  "windMs": 6.79,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20212640303": {
+  "rainMm": 0,
+  "windMs": 2.98,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640304": {
+  "rainMm": 0,
+  "windMs": 2.98,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640305": {
+  "rainMm": 0.2,
+  "windMs": 4.61,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20212640307": {
+  "rainMm": 0,
+  "windMs": 2.73,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640306": {
+  "rainMm": 0,
+  "windMs": 4.73,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20212640401": {
+  "rainMm": 0,
+  "windMs": 3.6,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640402": {
+  "rainMm": 0,
+  "windMs": 2.57,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640403": {
+  "rainMm": 0,
+  "windMs": 2.63,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20212640404": {
+  "rainMm": 0,
+  "windMs": 2.57,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640405": {
+  "rainMm": 0,
+  "windMs": 4.35,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20212640406": {
+  "rainMm": 0,
+  "windMs": 2.44,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640407": {
+  "rainMm": 0,
+  "windMs": 3.67,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20212640501": {
+  "rainMm": 0.2,
+  "windMs": 3.54,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20212640502": {
+  "rainMm": 0,
+  "windMs": 0.97,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640503": {
+  "rainMm": 0,
+  "windMs": 3.36,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20212640504": {
+  "rainMm": 0,
+  "windMs": 1.96,
+  "station": "tas/launceston_(ti_tree_bend)"
+ },
+ "CD_M20212640505": {
+  "rainMm": 0,
+  "windMs": 4.42,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20212640506": {
+  "rainMm": 0,
+  "windMs": 2.1,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640507": {
+  "rainMm": 0,
+  "windMs": 3.34,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20212640601": {
+  "rainMm": 1.4,
+  "windMs": 3.81,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640602": {
+  "rainMm": 0,
+  "windMs": 3.37,
+  "station": "nsw/canberra_airport"
+ },
+ "CD_M20212640603": {
+  "rainMm": 0,
+  "windMs": 2.99,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20212640604": {
+  "rainMm": 0,
+  "windMs": 2.74,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640605": {
+  "rainMm": 0,
+  "windMs": 1.77,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640606": {
+  "rainMm": 0,
+  "windMs": 1.77,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640607": {
+  "rainMm": 0,
+  "windMs": 2.35,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20212640701": {
+  "rainMm": 29.4,
+  "windMs": 3.23,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20212640702": {
+  "rainMm": 0,
+  "windMs": 3.13,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640703": {
+  "rainMm": 0,
+  "windMs": 6.48,
+  "station": "tas/hobart_(ellerslie_road)"
+ },
+ "CD_M20212640704": {
+  "rainMm": 0,
+  "windMs": 3.13,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640705": {
+  "rainMm": 17.2,
+  "windMs": 2.51,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640706": {
+  "rainMm": 17.2,
+  "windMs": 2.51,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640707": {
+  "rainMm": 0,
+  "windMs": 3.04,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20212640801": {
+  "rainMm": 0,
+  "windMs": 3.33,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20212640802": {
+  "rainMm": 0,
+  "windMs": 3.76,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20212640803": {
+  "rainMm": 0,
+  "windMs": 1.36,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640804": {
+  "rainMm": 0.4,
+  "windMs": 2.64,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20212640805": {
+  "rainMm": 1.2,
+  "windMs": 0.49,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640806": {
+  "rainMm": 0,
+  "windMs": 5.25,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20212640807": {
+  "rainMm": 0,
+  "windMs": 2.03,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20212640901": {
+  "rainMm": 0.2,
+  "windMs": 2.67,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640902": {
+  "rainMm": 3.4,
+  "windMs": 1.98,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640903": {
+  "rainMm": 3.4,
+  "windMs": 1.98,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212640904": {
+  "rainMm": 0,
+  "windMs": 2.98,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20212640905": {
+  "rainMm": 1.8,
+  "windMs": 3.34,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20212640906": {
+  "rainMm": 0,
+  "windMs": 4.16,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20212640907": {
+  "rainMm": 0,
+  "windMs": 1.74,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20212641001": {
+  "rainMm": 0,
+  "windMs": 3.54,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212641002": {
+  "rainMm": 0,
+  "windMs": 3.54,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20212641101": {
+  "rainMm": 0.4,
+  "windMs": 7.88,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20212641102": {
+  "rainMm": 0,
+  "windMs": 2.69,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20212641201": {
+  "rainMm": 0,
+  "windMs": 3.31,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20202640101": {
+  "rainMm": 0,
+  "windMs": 1.74,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640102": {
+  "rainMm": 53.4,
+  "windMs": 8.69,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20202640103": {
+  "rainMm": 0,
+  "windMs": 3.68,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640104": {
+  "rainMm": 1.8,
+  "windMs": 3.17,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20202640105": {
+  "rainMm": 0,
+  "windMs": 4.32,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640106": {
+  "rainMm": 0,
+  "windMs": 4.32,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640107": {
+  "rainMm": 0,
+  "windMs": 4.44,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20202640201": {
+  "rainMm": 0,
+  "windMs": 2.23,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640202": {
+  "rainMm": 0,
+  "windMs": 4.99,
+  "station": "tas/launceston_(ti_tree_bend)"
+ },
+ "CD_M20202640203": {
+  "rainMm": 0,
+  "windMs": 3.64,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20202640204": {
+  "rainMm": 0,
+  "windMs": 2.92,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20202640205": {
+  "rainMm": 0.6,
+  "windMs": 3.9,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20202640206": {
+  "rainMm": 2.8,
+  "windMs": 2.49,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640207": {
+  "rainMm": 0,
+  "windMs": 4.49,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20202640301": {
+  "rainMm": 2.8,
+  "windMs": 2.97,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640302": {
+  "rainMm": 0,
+  "windMs": 2.64,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640303": {
+  "rainMm": 0.4,
+  "windMs": 8.32,
+  "station": "qld/gold_coast_seaway"
+ },
+ "CD_M20202640304": {
+  "rainMm": 1,
+  "windMs": 1.86,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20202640305": {
+  "rainMm": 0.6,
+  "windMs": 3.76,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20202640306": {
+  "rainMm": 0,
+  "windMs": 2.21,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640307": {
+  "rainMm": 0,
+  "windMs": 2.6,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20202640401": {
+  "rainMm": 0,
+  "windMs": 2.1,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640402": {
+  "rainMm": 0.2,
+  "windMs": 2.33,
+  "station": "vic/bendigo_airport"
+ },
+ "CD_M20202640403": {
+  "rainMm": 0,
+  "windMs": 1.54,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640404": {
+  "rainMm": 0.2,
+  "windMs": 2.74,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20202640405": {
+  "rainMm": 0,
+  "windMs": 3.9,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20202640406": {
+  "rainMm": 0,
+  "windMs": 3.21,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640407": {
+  "rainMm": 0,
+  "windMs": 3.31,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20202640501": {
+  "rainMm": 9.8,
+  "windMs": 3.46,
+  "station": "qld/mackay_aero"
+ },
+ "CD_M20202640502": {
+  "rainMm": 0,
+  "windMs": 4.39,
+  "station": "tas/hobart_(ellerslie_road)"
+ },
+ "CD_M20202640503": {
+  "rainMm": 0,
+  "windMs": 2.86,
+  "station": "nsw/wagga_wagga_amo"
+ },
+ "CD_M20202640504": {
+  "rainMm": 0.2,
+  "windMs": 3.29,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640505": {
+  "rainMm": 1.4,
+  "windMs": 3.43,
+  "station": "vic/morwell_(latrobe_valley_airport)"
+ },
+ "CD_M20202640506": {
+  "rainMm": 0,
+  "windMs": 2.96,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640507": {
+  "rainMm": 0,
+  "windMs": 2.18,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20202640601": {
+  "rainMm": 0,
+  "windMs": 6.09,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20202640602": {
+  "rainMm": 2.6,
+  "windMs": 4.94,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20202640603": {
+  "rainMm": 0.6,
+  "windMs": 4.19,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640604": {
+  "rainMm": 0,
+  "windMs": 4.05,
+  "station": "nt/alice_springs_airport"
+ },
+ "CD_M20202640605": {
+  "rainMm": 0,
+  "windMs": 2.74,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640606": {
+  "rainMm": 0,
+  "windMs": 4.05,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20202640607": {
+  "rainMm": 8.6,
+  "windMs": 1.84,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20202640701": {
+  "rainMm": 0,
+  "windMs": 2.11,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20202640702": {
+  "rainMm": 0,
+  "windMs": 4.54,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20202640704": {
+  "rainMm": 0,
+  "windMs": 2.71,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20202640703": {
+  "rainMm": 0,
+  "windMs": 2.63,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640101": {
+  "rainMm": 0,
+  "windMs": 2.82,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20192640102": {
+  "rainMm": 0,
+  "windMs": 2.19,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20192640103": {
+  "rainMm": 0,
+  "windMs": 3.76,
+  "station": "tas/hobart_(ellerslie_road)"
+ },
+ "CD_M20192640104": {
+  "rainMm": 0,
+  "windMs": 2.4,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640105": {
+  "rainMm": 3.2,
+  "windMs": 4.17,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20192640201": {
+  "rainMm": 0,
+  "windMs": 5.18,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20192640202": {
+  "rainMm": 0,
+  "windMs": 3.68,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640203": {
+  "rainMm": 0,
+  "windMs": 3.68,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640204": {
+  "rainMm": 4.8,
+  "windMs": 2.14,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640205": {
+  "rainMm": 0,
+  "windMs": 2.96,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20192640301": {
+  "rainMm": 0,
+  "windMs": 2.13,
+  "station": "tas/launceston_(ti_tree_bend)"
+ },
+ "CD_M20192640302": {
+  "rainMm": 0,
+  "windMs": 5.06,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20192640303": {
+  "rainMm": 0,
+  "windMs": 3.26,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20192640304": {
+  "rainMm": 0,
+  "windMs": 2.19,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20192640305": {
+  "rainMm": 0,
+  "windMs": 4.34,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20192640401": {
+  "rainMm": 0,
+  "windMs": 4,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20192640402": {
+  "rainMm": 0,
+  "windMs": 3.3,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640403": {
+  "rainMm": 0,
+  "windMs": 5.18,
+  "station": "nt/darwin_airport"
+ },
+ "CD_M20192640404": {
+  "rainMm": 0,
+  "windMs": 5.26,
+  "station": "vic/morwell_(latrobe_valley_airport)"
+ },
+ "CD_M20192640405": {
+  "rainMm": 0,
+  "windMs": 1.83,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640501": {
+  "rainMm": 2.2,
+  "windMs": 3.64,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20192640502": {
+  "rainMm": 0,
+  "windMs": 3.8,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640503": {
+  "rainMm": 0.2,
+  "windMs": 5.57,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20192640504": {
+  "rainMm": 0,
+  "windMs": 3.96,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640505": {
+  "rainMm": 0,
+  "windMs": 2.42,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20192640601": {
+  "rainMm": 0,
+  "windMs": 2.76,
+  "station": "vic/breakwater_(geelong_racecourse)"
+ },
+ "CD_M20192640602": {
+  "rainMm": 0,
+  "windMs": 1.84,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640603": {
+  "rainMm": 0,
+  "windMs": 1.84,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640604": {
+  "rainMm": 0,
+  "windMs": 3.91,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20192640605": {
+  "rainMm": 0,
+  "windMs": 2.16,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640701": {
+  "rainMm": 0,
+  "windMs": 4.25,
+  "station": "nsw/canberra_airport"
+ },
+ "CD_M20192640702": {
+  "rainMm": 0,
+  "windMs": 1.7,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640703": {
+  "rainMm": 0,
+  "windMs": 2.56,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20192640704": {
+  "rainMm": 0,
+  "windMs": 1.3,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640705": {
+  "rainMm": 0,
+  "windMs": 1.3,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640801": {
+  "rainMm": 1.8,
+  "windMs": 3.71,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20192640802": {
+  "rainMm": 0,
+  "windMs": 6.6,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20192640901": {
+  "rainMm": 1.2,
+  "windMs": 6.32,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20182640101": {
+  "rainMm": 0,
+  "windMs": 2.68,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20182640102": {
+  "rainMm": 0,
+  "windMs": 2.76,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20182640103": {
+  "rainMm": 0,
+  "windMs": 5.77,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20182640104": {
+  "rainMm": 0,
+  "windMs": 1.92,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20182640201": {
+  "rainMm": 0,
+  "windMs": 5.14,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20182640202": {
+  "rainMm": 0,
+  "windMs": 3.03,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20182640203": {
+  "rainMm": 0,
+  "windMs": 3.45,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20182640204": {
+  "rainMm": 0.2,
+  "windMs": 5.46,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20182640301": {
+  "rainMm": 0,
+  "windMs": 3.25,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20182640302": {
+  "rainMm": 0,
+  "windMs": 2.33,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20182640303": {
+  "rainMm": 0,
+  "windMs": 1.84,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20182640304": {
+  "rainMm": 0,
+  "windMs": 2.46,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20182640401": {
+  "rainMm": 0.2,
+  "windMs": 3.31,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20182640402": {
+  "rainMm": 112.4,
+  "windMs": 3.6,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20182640403": {
+  "rainMm": 0,
+  "windMs": 4.74,
+  "station": "nt/alice_springs_airport"
+ },
+ "CD_M20182640404": {
+  "rainMm": 0,
+  "windMs": 8.8,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20182640501": {
+  "rainMm": 0.4,
+  "windMs": 1.64,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20182640502": {
+  "rainMm": 0,
+  "windMs": 3.02,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20182640503": {
+  "rainMm": 0,
+  "windMs": 5.68,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20182640504": {
+  "rainMm": 0,
+  "windMs": 3.89,
+  "station": "vic/morwell_(latrobe_valley_airport)"
+ },
+ "CD_M20182640601": {
+  "rainMm": 0,
+  "windMs": 5.48,
+  "station": "nt/darwin_airport"
+ },
+ "CD_M20182640602": {
+  "rainMm": 0.8,
+  "windMs": 4.48,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20182640603": {
+  "rainMm": 0,
+  "windMs": 2.37,
+  "station": "nsw/canberra_airport"
+ },
+ "CD_M20182640604": {
+  "rainMm": 0,
+  "windMs": 2.92,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20182640701": {
+  "rainMm": 0,
+  "windMs": 4.72,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20182640702": {
+  "rainMm": 0,
+  "windMs": 3.76,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20182640703": {
+  "rainMm": 0,
+  "windMs": 4.53,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20182640704": {
+  "rainMm": 0,
+  "windMs": 3.62,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20182640801": {
+  "rainMm": 0,
+  "windMs": 3.03,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20172640101": {
+  "rainMm": 0,
+  "windMs": 1.82,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20172640102": {
+  "rainMm": 0,
+  "windMs": 3.1,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20172640103": {
+  "rainMm": 0,
+  "windMs": 2.28,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20172640104": {
+  "rainMm": 0,
+  "windMs": 3.34,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20172640201": {
+  "rainMm": 0,
+  "windMs": 1.62,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20172640202": {
+  "rainMm": 0,
+  "windMs": 2.34,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20172640203": {
+  "rainMm": 0,
+  "windMs": 2.34,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20172640204": {
+  "rainMm": 0,
+  "windMs": 3.97,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20172640301": {
+  "rainMm": 2,
+  "windMs": 6.62,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20172640302": {
+  "rainMm": 0,
+  "windMs": 7.06,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20172640303": {
+  "rainMm": 0,
+  "windMs": 2.67,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20172640304": {
+  "rainMm": 4.8,
+  "windMs": 5.23,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20172640401": {
+  "rainMm": 0,
+  "windMs": 3.59,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20172640402": {
+  "rainMm": 0,
+  "windMs": 4.66,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20172640403": {
+  "rainMm": 0,
+  "windMs": 3.59,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20172640404": {
+  "rainMm": 0,
+  "windMs": 2.8,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20172640501": {
+  "rainMm": 12.6,
+  "windMs": 5.59,
+  "station": "nsw/sydney_airport_amo"
+ },
+ "CD_M20172640502": {
+  "rainMm": 0,
+  "windMs": 1.35,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20172640503": {
+  "rainMm": 0,
+  "windMs": 3.38,
+  "station": "wa/mandurah"
+ },
+ "CD_M20172640504": {
+  "rainMm": 0,
+  "windMs": 4.38,
+  "station": "sa/adelaide_airport"
+ },
+ "CD_M20172640601": {
+  "rainMm": 0,
+  "windMs": 4.01,
+  "station": "wa/perth_metro"
+ },
+ "CD_M20172640602": {
+  "rainMm": 0,
+  "windMs": 4.01,
+  "station": "qld/brisbane_aero"
+ },
+ "CD_M20172640603": {
+  "rainMm": 0,
+  "windMs": 2.78,
+  "station": "nt/darwin_airport"
+ },
+ "CD_M20172640604": {
+  "rainMm": 0,
+  "windMs": 1.96,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20172640701": {
+  "rainMm": 0,
+  "windMs": 1.45,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20172640702": {
+  "rainMm": 0,
+  "windMs": 5.43,
+  "station": "nsw/canberra_airport"
+ },
+ "CD_M20172640703": {
+  "rainMm": 0,
+  "windMs": 1.96,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20172640704": {
+  "rainMm": 0,
+  "windMs": 1.96,
+  "station": "vic/melbourne_(olympic_park)"
+ },
+ "CD_M20172640801": {
+  "rainMm": 6.6,
+  "windMs": 5.88,
+  "station": "qld/gold_coast_seaway"
+ }
+}

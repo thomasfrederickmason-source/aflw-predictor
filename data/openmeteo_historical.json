@@ -1,0 +1,6386 @@
+{
+ "CD_M20262640101": {
+  "preMatchRainMm": 0.02,
+  "duringMatchRainMm": 0.02,
+  "duringMatchWindKmh": 12.9,
+  "rescaleFactor": 0.203,
+  "bomDayTotalMm": 1.4,
+  "modelDayTotalMm": 6.9
+ },
+ "CD_M20262640102": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.2,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M20262640109": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.35,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640104": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.2,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640103": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.9,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.7
+ },
+ "CD_M20262640105": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 3.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640106": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640107": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.2,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640108": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.1,
+  "rescaleFactor": 3.187,
+  "bomDayTotalMm": 10.2,
+  "modelDayTotalMm": 3.2
+ },
+ "CD_M20262640202": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.05,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20262640208": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.6,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 9.6
+ },
+ "CD_M20262640201": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.45,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20262640203": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 3.9,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20262640209": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.6,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.7
+ },
+ "CD_M20262640204": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 5.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640206": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640205": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640207": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640101": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640102": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 5.9,
+  "rescaleFactor": 19.273,
+  "bomDayTotalMm": 21.2,
+  "modelDayTotalMm": 1.1
+ },
+ "CD_M20252640103": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.6,
+  "rescaleFactor": 5.692,
+  "bomDayTotalMm": 14.8,
+  "modelDayTotalMm": 2.6
+ },
+ "CD_M20252640104": {
+  "preMatchRainMm": 0.6,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.450000000000003,
+  "rescaleFactor": 6,
+  "bomDayTotalMm": 1.8,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20252640105": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.3,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20252640106": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.8,
+  "rescaleFactor": 5.5,
+  "bomDayTotalMm": 4.4,
+  "modelDayTotalMm": 0.8
+ },
+ "CD_M20252640107": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640108": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.8,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.6,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20252640109": {
+  "preMatchRainMm": 0.04,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.65,
+  "rescaleFactor": 0.145,
+  "bomDayTotalMm": 1.8,
+  "modelDayTotalMm": 12.4
+ },
+ "CD_M20252640201": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.8,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20252640202": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.2,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20252640203": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640204": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.2,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20252640205": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 3.85,
+  "rescaleFactor": 0.667,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20252640208": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.649999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640207": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640206": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640209": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640301": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640302": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 27.9,
+  "rescaleFactor": 2,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20252640303": {
+  "preMatchRainMm": 0.11,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.3,
+  "rescaleFactor": 1.059,
+  "bomDayTotalMm": 10.8,
+  "modelDayTotalMm": 10.2
+ },
+ "CD_M20252640304": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.75,
+  "rescaleFactor": 4.381,
+  "bomDayTotalMm": 18.4,
+  "modelDayTotalMm": 4.2
+ },
+ "CD_M20252640305": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.600000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 6.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640306": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.85,
+  "rescaleFactor": 1.059,
+  "bomDayTotalMm": 10.8,
+  "modelDayTotalMm": 10.2
+ },
+ "CD_M20252640307": {
+  "preMatchRainMm": 0.36,
+  "duringMatchRainMm": 0.71,
+  "duringMatchWindKmh": 14.600000000000001,
+  "rescaleFactor": 1.778,
+  "bomDayTotalMm": 1.6,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M20252640308": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640309": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.35,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640401": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.1,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20252640402": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.75,
+  "rescaleFactor": 2,
+  "bomDayTotalMm": 1,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20252640403": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.45,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20252640404": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 26.799999999999997,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M20252640405": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640406": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.2,
+  "rescaleFactor": 0.063,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 3.2
+ },
+ "CD_M20252640407": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 30.25,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 8.7
+ },
+ "CD_M20252640408": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 30.25,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 8.7
+ },
+ "CD_M20252640409": {
+  "preMatchRainMm": 1.1,
+  "duringMatchRainMm": 0.06,
+  "duringMatchWindKmh": 19.3,
+  "rescaleFactor": 0.609,
+  "bomDayTotalMm": 12,
+  "modelDayTotalMm": 19.7
+ },
+ "CD_M20252640501": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.15,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20252640502": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.9,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20252640503": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640504": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640505": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 23.35,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640506": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 23.35,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640507": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 24.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640508": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640509": {
+  "preMatchRainMm": 0.19,
+  "duringMatchRainMm": 0.1,
+  "duringMatchWindKmh": 32.25,
+  "rescaleFactor": 0.967,
+  "bomDayTotalMm": 11.8,
+  "modelDayTotalMm": 12.2
+ },
+ "CD_M20252640601": {
+  "preMatchRainMm": 0.06,
+  "duringMatchRainMm": 0.06,
+  "duringMatchWindKmh": 18,
+  "rescaleFactor": 0.286,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.7
+ },
+ "CD_M20252640604": {
+  "preMatchRainMm": 0.12,
+  "duringMatchRainMm": 0.08,
+  "duringMatchWindKmh": 18.2,
+  "rescaleFactor": 0.4,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 1
+ },
+ "CD_M20252640602": {
+  "preMatchRainMm": 0.06,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.3,
+  "rescaleFactor": 0.286,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.7
+ },
+ "CD_M20252640603": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640605": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640606": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.799999999999999,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 6.3
+ },
+ "CD_M20252640607": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.45,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 6.3
+ },
+ "CD_M20252640608": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.45,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 6.3
+ },
+ "CD_M20252640609": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 4.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640701": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M20252640702": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.3,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 7.3
+ },
+ "CD_M20252640703": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.7,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 7.3
+ },
+ "CD_M20252640704": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 7.3
+ },
+ "CD_M20252640705": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.7,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 7.3
+ },
+ "CD_M20252640706": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.2,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640707": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 2.5999999999999996,
+  "rescaleFactor": 0.15,
+  "bomDayTotalMm": 1.2,
+  "modelDayTotalMm": 8
+ },
+ "CD_M20252640708": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.049999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640709": {
+  "preMatchRainMm": 0.03,
+  "duringMatchRainMm": 0.01,
+  "duringMatchWindKmh": 21.9,
+  "rescaleFactor": 0.105,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 1.9
+ },
+ "CD_M20252640801": {
+  "preMatchRainMm": 0.04,
+  "duringMatchRainMm": 0.04,
+  "duringMatchWindKmh": 30.1,
+  "rescaleFactor": 0.407,
+  "bomDayTotalMm": 4.4,
+  "modelDayTotalMm": 10.8
+ },
+ "CD_M20252640802": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 3.65,
+  "rescaleFactor": 2,
+  "bomDayTotalMm": 0.6,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20252640803": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640804": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640805": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640806": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640807": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 24.3,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 2.4
+ },
+ "CD_M20252640808": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.299999999999997,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 6.6
+ },
+ "CD_M20252640809": {
+  "preMatchRainMm": 0.17,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.65,
+  "rescaleFactor": 1.73,
+  "bomDayTotalMm": 15.4,
+  "modelDayTotalMm": 8.9
+ },
+ "CD_M20252640901": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.55,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20252640902": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.799999999999997,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 2.1
+ },
+ "CD_M20252640903": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 24.2,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20252640904": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.65,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.6
+ },
+ "CD_M20252640905": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252640906": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.25,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.5
+ },
+ "CD_M20252640907": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 30.7,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.3
+ },
+ "CD_M20252640908": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.81,
+  "duringMatchWindKmh": 16.75,
+  "rescaleFactor": 0.476,
+  "bomDayTotalMm": 2,
+  "modelDayTotalMm": 4.2
+ },
+ "CD_M20252640909": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252641001": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.35,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20252641002": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252641003": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.550000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252641004": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252641005": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.6,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252641006": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252641007": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.7,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.8
+ },
+ "CD_M20252641008": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.899999999999999,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.8
+ },
+ "CD_M20252641009": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.85,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252641101": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 3.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252641102": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.600000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252641103": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 3.35,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.8
+ },
+ "CD_M20252641104": {
+  "preMatchRainMm": 0.34,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14,
+  "rescaleFactor": 3.429,
+  "bomDayTotalMm": 4.8,
+  "modelDayTotalMm": 1.4
+ },
+ "CD_M20252641105": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.100000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252641106": {
+  "preMatchRainMm": 0.41,
+  "duringMatchRainMm": 2.47,
+  "duringMatchWindKmh": 19.25,
+  "rescaleFactor": 0.822,
+  "bomDayTotalMm": 10.6,
+  "modelDayTotalMm": 12.9
+ },
+ "CD_M20252641107": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.04,
+  "duringMatchWindKmh": 19.25,
+  "rescaleFactor": 0.4,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20252641108": {
+  "preMatchRainMm": 0.16,
+  "duringMatchRainMm": 1.56,
+  "duringMatchWindKmh": 12.75,
+  "rescaleFactor": 0.274,
+  "bomDayTotalMm": 6.2,
+  "modelDayTotalMm": 22.6
+ },
+ "CD_M20252641109": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.850000000000001,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 13.4
+ },
+ "CD_M20252641205": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.8,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 5.9
+ },
+ "CD_M20252641209": {
+  "preMatchRainMm": 0.04,
+  "duringMatchRainMm": 0.17,
+  "duringMatchWindKmh": 21.049999999999997,
+  "rescaleFactor": 0.421,
+  "bomDayTotalMm": 1.6,
+  "modelDayTotalMm": 3.8
+ },
+ "CD_M20252641204": {
+  "preMatchRainMm": 0.93,
+  "duringMatchRainMm": 0.1,
+  "duringMatchWindKmh": 6.3999999999999995,
+  "rescaleFactor": 1.034,
+  "bomDayTotalMm": 15.2,
+  "modelDayTotalMm": 14.7
+ },
+ "CD_M20252641206": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 1,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252641208": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.05,
+  "duringMatchWindKmh": 5.55,
+  "rescaleFactor": 0.008,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 25.1
+ },
+ "CD_M20252641203": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20252641202": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.85,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20252641207": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.8,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20252641201": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.3,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 2.2
+ },
+ "CD_M20252641301": {
+  "preMatchRainMm": 0.04,
+  "duringMatchRainMm": 0.53,
+  "duringMatchWindKmh": 9.95,
+  "rescaleFactor": 0.188,
+  "bomDayTotalMm": 1.6,
+  "modelDayTotalMm": 8.5
+ },
+ "CD_M20252641302": {
+  "preMatchRainMm": 0.44,
+  "duringMatchRainMm": 0.48,
+  "duringMatchWindKmh": 23.4,
+  "rescaleFactor": 0.152,
+  "bomDayTotalMm": 3,
+  "modelDayTotalMm": 19.8
+ },
+ "CD_M20252641303": {
+  "preMatchRainMm": 1,
+  "duringMatchRainMm": 1,
+  "duringMatchWindKmh": 15.700000000000001,
+  "rescaleFactor": 3.319,
+  "bomDayTotalMm": 15.6,
+  "modelDayTotalMm": 4.7
+ },
+ "CD_M20252641304": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.1,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20252641401": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.03,
+  "duringMatchWindKmh": 6.65,
+  "rescaleFactor": 0.13,
+  "bomDayTotalMm": 2.6,
+  "modelDayTotalMm": 20
+ },
+ "CD_M20252641402": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 5.95,
+  "rescaleFactor": 0.13,
+  "bomDayTotalMm": 2.6,
+  "modelDayTotalMm": 20
+ },
+ "CD_M20252641501": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.25,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 3.1
+ },
+ "CD_M20252641502": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.2,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 2
+ },
+ "CD_M20252641601": {
+  "preMatchRainMm": 0.33,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.100000000000001,
+  "rescaleFactor": 1.106,
+  "bomDayTotalMm": 15.6,
+  "modelDayTotalMm": 14.1
+ },
+ "CD_M20242640101": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640102": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.3,
+  "rescaleFactor": 6.667,
+  "bomDayTotalMm": 8,
+  "modelDayTotalMm": 1.2
+ },
+ "CD_M20242640103": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 30.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640104": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 31.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640105": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640106": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 38.05,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20242640107": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 23.9,
+  "rescaleFactor": 0.759,
+  "bomDayTotalMm": 2.2,
+  "modelDayTotalMm": 2.9
+ },
+ "CD_M20242640108": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 33.1,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 10.5
+ },
+ "CD_M20242640109": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640201": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.09,
+  "duringMatchWindKmh": 15.2,
+  "rescaleFactor": 0.889,
+  "bomDayTotalMm": 1.6,
+  "modelDayTotalMm": 1.8
+ },
+ "CD_M20242640202": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.450000000000003,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640203": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.85,
+  "rescaleFactor": 24,
+  "bomDayTotalMm": 4.8,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20242640204": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640205": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 27.1,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20242640206": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.05,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.2
+ },
+ "CD_M20242640207": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 26.950000000000003,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20242640208": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 26.950000000000003,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20242640209": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.1,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640301": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 2.05,
+  "duringMatchWindKmh": 5.25,
+  "rescaleFactor": 20.5,
+  "bomDayTotalMm": 8.2,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20242640302": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.7,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 8.8,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640303": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640304": {
+  "preMatchRainMm": 0.14,
+  "duringMatchRainMm": 0.07,
+  "duringMatchWindKmh": 29.75,
+  "rescaleFactor": 0.68,
+  "bomDayTotalMm": 3.4,
+  "modelDayTotalMm": 5
+ },
+ "CD_M20242640305": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20242640306": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.7,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640307": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 2.2,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20242640308": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.1,
+  "duringMatchWindKmh": 19.8,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 2.2,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20242640309": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.6,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640401": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 1.4,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640402": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20242640403": {
+  "preMatchRainMm": 0.01,
+  "duringMatchRainMm": 0.05,
+  "duringMatchWindKmh": 16.6,
+  "rescaleFactor": 0.093,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 4.3
+ },
+ "CD_M20242640404": {
+  "preMatchRainMm": 0.53,
+  "duringMatchRainMm": 0.38,
+  "duringMatchWindKmh": 20.6,
+  "rescaleFactor": 0.171,
+  "bomDayTotalMm": 1.4,
+  "modelDayTotalMm": 8.2
+ },
+ "CD_M20242640405": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640406": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.799999999999997,
+  "rescaleFactor": 7.111,
+  "bomDayTotalMm": 6.4,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M20242640407": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.450000000000003,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640408": {
+  "preMatchRainMm": 0.34,
+  "duringMatchRainMm": 0.23,
+  "duringMatchWindKmh": 18.65,
+  "rescaleFactor": 1.13,
+  "bomDayTotalMm": 2.6,
+  "modelDayTotalMm": 2.3
+ },
+ "CD_M20242640409": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.1,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640410": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.550000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640411": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 27.299999999999997,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640501": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 4.65,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.4
+ },
+ "CD_M20242640502": {
+  "preMatchRainMm": 0.04,
+  "duringMatchRainMm": 0.23,
+  "duringMatchWindKmh": 21.299999999999997,
+  "rescaleFactor": 0.135,
+  "bomDayTotalMm": 1.2,
+  "modelDayTotalMm": 8.9
+ },
+ "CD_M20242640503": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.4,
+  "rescaleFactor": 17,
+  "bomDayTotalMm": 3.4,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20242640504": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640505": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.8,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640506": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.85,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640507": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.1,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640508": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 23.299999999999997,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 5.4
+ },
+ "CD_M20242640509": {
+  "preMatchRainMm": 0.3,
+  "duringMatchRainMm": 0.06,
+  "duringMatchWindKmh": 12.4,
+  "rescaleFactor": 0.127,
+  "bomDayTotalMm": 1.6,
+  "modelDayTotalMm": 12.6
+ },
+ "CD_M20242640510": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.9,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.7
+ },
+ "CD_M20242640511": {
+  "preMatchRainMm": 0.12,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.25,
+  "rescaleFactor": 1.242,
+  "bomDayTotalMm": 8.2,
+  "modelDayTotalMm": 6.6
+ },
+ "CD_M20242640601": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.8
+ },
+ "CD_M20242640602": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.2,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640603": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640604": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640605": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.100000000000001,
+  "rescaleFactor": 1.231,
+  "bomDayTotalMm": 1.6,
+  "modelDayTotalMm": 1.3
+ },
+ "CD_M20242640606": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.07,
+  "duringMatchWindKmh": 19.9,
+  "rescaleFactor": 0.021,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 9.6
+ },
+ "CD_M20242640607": {
+  "preMatchRainMm": 0.07,
+  "duringMatchRainMm": 0.06,
+  "duringMatchWindKmh": 11,
+  "rescaleFactor": 0.021,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 9.6
+ },
+ "CD_M20242640608": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.899999999999999,
+  "rescaleFactor": 0.667,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20242640609": {
+  "preMatchRainMm": 0.04,
+  "duringMatchRainMm": 0.02,
+  "duringMatchWindKmh": 5.550000000000001,
+  "rescaleFactor": 0.021,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 9.6
+ },
+ "CD_M20242640610": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.850000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640611": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.300000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640612": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.5,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M20242640701": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 4.85,
+  "rescaleFactor": 3,
+  "bomDayTotalMm": 1.8,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M20242640702": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640703": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.450000000000003,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640704": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.7,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640705": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640706": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20242640707": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.35,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 9.3
+ },
+ "CD_M20242640708": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 22.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640709": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640710": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640711": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.3,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M20242640801": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.55,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 4
+ },
+ "CD_M20242640802": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.9,
+  "rescaleFactor": 1.2,
+  "bomDayTotalMm": 4.8,
+  "modelDayTotalMm": 4
+ },
+ "CD_M20242640803": {
+  "preMatchRainMm": 6.03,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17,
+  "rescaleFactor": 60.25,
+  "bomDayTotalMm": 48.2,
+  "modelDayTotalMm": 0.8
+ },
+ "CD_M20242640804": {
+  "preMatchRainMm": 4.23,
+  "duringMatchRainMm": 0.4,
+  "duringMatchWindKmh": 17.2,
+  "rescaleFactor": 1.322,
+  "bomDayTotalMm": 7.8,
+  "modelDayTotalMm": 5.9
+ },
+ "CD_M20242640805": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.700000000000003,
+  "rescaleFactor": 9.529,
+  "bomDayTotalMm": 32.4,
+  "modelDayTotalMm": 3.4
+ },
+ "CD_M20242640806": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640807": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640808": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.700000000000003,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20242640809": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.7,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20242640901": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 2.5999999999999996,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640902": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640903": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640904": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.75,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M20242640905": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 34.1,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640906": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.6,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242640907": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.5,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20242640908": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.7,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20242640909": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.05,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.3
+ },
+ "CD_M20242641006": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242641005": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 27.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242641008": {
+  "preMatchRainMm": 0.07,
+  "duringMatchRainMm": 0.01,
+  "duringMatchWindKmh": 20.35,
+  "rescaleFactor": 0.133,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 1.5
+ },
+ "CD_M20242641004": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242641002": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 25.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242641007": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.1,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.9
+ },
+ "CD_M20242641003": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.85,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.9
+ },
+ "CD_M20242641001": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.8,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.1
+ },
+ "CD_M20242641009": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 24.35,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.8,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242641101": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.85,
+  "rescaleFactor": 1.8,
+  "bomDayTotalMm": 1.8,
+  "modelDayTotalMm": 1
+ },
+ "CD_M20242641102": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 29.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242641103": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.350000000000001,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20242641104": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.950000000000003,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242641201": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 24.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242641202": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.2,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20242641301": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.2,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1
+ },
+ "CD_M20242641302": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.850000000000001,
+  "rescaleFactor": 16.909,
+  "bomDayTotalMm": 18.6,
+  "modelDayTotalMm": 1.1
+ },
+ "CD_M20242641401": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.05,
+  "rescaleFactor": 0.25,
+  "bomDayTotalMm": 1.4,
+  "modelDayTotalMm": 5.6
+ },
+ "CD_M20232640101": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.7,
+  "rescaleFactor": 4.5,
+  "bomDayTotalMm": 1.8,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20232640102": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 1.4500000000000002,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640103": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.300000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640104": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 5.35,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640105": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640106": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640107": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.950000000000001,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20232640108": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640109": {
+  "preMatchRainMm": 0.12,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 29.75,
+  "rescaleFactor": 1.184,
+  "bomDayTotalMm": 9,
+  "modelDayTotalMm": 7.6
+ },
+ "CD_M20232640201": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 27.65,
+  "rescaleFactor": 4.444,
+  "bomDayTotalMm": 4,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M20232640202": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.399999999999999,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.8
+ },
+ "CD_M20232640203": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 1,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640204": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.950000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 2.4,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640205": {
+  "preMatchRainMm": 1.12,
+  "duringMatchRainMm": 0.84,
+  "duringMatchWindKmh": 11.4,
+  "rescaleFactor": 2.8,
+  "bomDayTotalMm": 2.8,
+  "modelDayTotalMm": 1
+ },
+ "CD_M20232640206": {
+  "preMatchRainMm": 0.17,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.899999999999999,
+  "rescaleFactor": 1.667,
+  "bomDayTotalMm": 1,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M20232640207": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.6,
+  "rescaleFactor": 1.667,
+  "bomDayTotalMm": 1,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M20232640208": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.6,
+  "rescaleFactor": 1.667,
+  "bomDayTotalMm": 1,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M20232640209": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.2,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640301": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.200000000000003,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640302": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640303": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 4.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640304": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640305": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.6,
+  "rescaleFactor": 0.118,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 1.7
+ },
+ "CD_M20232640306": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.7,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640307": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.6,
+  "rescaleFactor": 1.333,
+  "bomDayTotalMm": 0.8,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M20232640308": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640309": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640401": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640402": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 2.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640403": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640404": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 4.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640405": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640406": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.1,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640407": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640408": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640409": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16,
+  "rescaleFactor": 0.615,
+  "bomDayTotalMm": 0.8,
+  "modelDayTotalMm": 1.3
+ },
+ "CD_M20232640501": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 5.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640502": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640503": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 2.35,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640504": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.100000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640505": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.8,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20232640506": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 28.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640507": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 24.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640508": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.5,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20232640509": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.25,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20232640601": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.3,
+  "rescaleFactor": 6.545,
+  "bomDayTotalMm": 7.2,
+  "modelDayTotalMm": 1.1
+ },
+ "CD_M20232640602": {
+  "preMatchRainMm": 0.44,
+  "duringMatchRainMm": 0.11,
+  "duringMatchWindKmh": 22.5,
+  "rescaleFactor": 1.1,
+  "bomDayTotalMm": 2.2,
+  "modelDayTotalMm": 2
+ },
+ "CD_M20232640603": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640604": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640605": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.1,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640606": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.75,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M20232640607": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.399999999999999,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20232640608": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640609": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640701": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.049999999999997,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20232640702": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.24,
+  "duringMatchWindKmh": 23.35,
+  "rescaleFactor": 2.444,
+  "bomDayTotalMm": 2.2,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M20232640703": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 30.45,
+  "rescaleFactor": 2,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20232640704": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640705": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.399999999999999,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20232640706": {
+  "preMatchRainMm": 0.24,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.3,
+  "rescaleFactor": 2.444,
+  "bomDayTotalMm": 2.2,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M20232640707": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.4,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 4.5
+ },
+ "CD_M20232640708": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.05,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 4.5
+ },
+ "CD_M20232640709": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640801": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640802": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.1,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.7
+ },
+ "CD_M20232640803": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640804": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 27.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640805": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 27.8,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.4
+ },
+ "CD_M20232640806": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.15,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.7
+ },
+ "CD_M20232640807": {
+  "preMatchRainMm": 0.05,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 30.25,
+  "rescaleFactor": 0.154,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 1.3
+ },
+ "CD_M20232640808": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 27.2,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20232640809": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 23.65,
+  "rescaleFactor": 0.154,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 1.3
+ },
+ "CD_M20232640901": {
+  "preMatchRainMm": 0.03,
+  "duringMatchRainMm": 0.02,
+  "duringMatchWindKmh": 25.4,
+  "rescaleFactor": 0.091,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 4.4
+ },
+ "CD_M20232640902": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 30.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640903": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 26.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640904": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 26.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640905": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 30.700000000000003,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640906": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640907": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 22.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640908": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232640909": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.2,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232641001": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232641007": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232641003": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.700000000000003,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232641005": {
+  "preMatchRainMm": 0.1,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 22.200000000000003,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20232641006": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 25.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232641004": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.1,
+  "rescaleFactor": 1.568,
+  "bomDayTotalMm": 5.8,
+  "modelDayTotalMm": 3.7
+ },
+ "CD_M20232641002": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232641009": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232641008": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.399999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232641101": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232641102": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.5,
+  "rescaleFactor": 15.333,
+  "bomDayTotalMm": 13.8,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M20232641103": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 27.35,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232641104": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232641201": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.8,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232641202": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20232641301": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 5.800000000000001,
+  "rescaleFactor": 1.852,
+  "bomDayTotalMm": 5,
+  "modelDayTotalMm": 2.7
+ },
+ "CD_M20232641302": {
+  "preMatchRainMm": 0.17,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.95,
+  "rescaleFactor": 0.864,
+  "bomDayTotalMm": 3.8,
+  "modelDayTotalMm": 4.4
+ },
+ "CD_M20232641401": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.9,
+  "rescaleFactor": 6.364,
+  "bomDayTotalMm": 7,
+  "modelDayTotalMm": 1.1
+ },
+ "CD_M20222640101": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.05,
+  "rescaleFactor": 0.127,
+  "bomDayTotalMm": 3.2,
+  "modelDayTotalMm": 25.1
+ },
+ "CD_M20222640102": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.5,
+  "rescaleFactor": 6.889,
+  "bomDayTotalMm": 24.8,
+  "modelDayTotalMm": 3.6
+ },
+ "CD_M20222640103": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.2,
+  "rescaleFactor": 6.889,
+  "bomDayTotalMm": 24.8,
+  "modelDayTotalMm": 3.6
+ },
+ "CD_M20222640104": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 42.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640107": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.85,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640105": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.450000000000003,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640106": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.350000000000001,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 3.1
+ },
+ "CD_M20222640201": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.3,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 6.6
+ },
+ "CD_M20222640202": {
+  "preMatchRainMm": 0.19,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.75,
+  "rescaleFactor": 1.875,
+  "bomDayTotalMm": 6,
+  "modelDayTotalMm": 3.2
+ },
+ "CD_M20222640204": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.4,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20222640205": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20222640206": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.200000000000003,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640207": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20222640203": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.7,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M20222640301": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640307": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640302": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 24.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640303": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640305": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640306": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 4.1,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1
+ },
+ "CD_M20222640304": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.75,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 6.1
+ },
+ "CD_M20222640406": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.200000000000003,
+  "rescaleFactor": 6.364,
+  "bomDayTotalMm": 7,
+  "modelDayTotalMm": 1.1
+ },
+ "CD_M20222640407": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640402": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640404": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.15,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 2
+ },
+ "CD_M20222640405": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.05,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20222640401": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.9,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.4
+ },
+ "CD_M20222640403": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640501": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 1.4,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640503": {
+  "preMatchRainMm": 0.17,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 31.9,
+  "rescaleFactor": 1.667,
+  "bomDayTotalMm": 2,
+  "modelDayTotalMm": 1.2
+ },
+ "CD_M20222640507": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.899999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640504": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640506": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640505": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20222640502": {
+  "preMatchRainMm": 2.89,
+  "duringMatchRainMm": 1.44,
+  "duringMatchWindKmh": 13.7,
+  "rescaleFactor": 14.442,
+  "bomDayTotalMm": 137.2,
+  "modelDayTotalMm": 9.5
+ },
+ "CD_M20222640607": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.45,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20222640602": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640605": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 25.7,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640604": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 31.2,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640601": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 26.450000000000003,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640603": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640606": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640707": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.1,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20222640702": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.55,
+  "rescaleFactor": 0.08,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 2.5
+ },
+ "CD_M20222640703": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.6,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640704": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 25.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640701": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 22.4,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1
+ },
+ "CD_M20222640706": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.15,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M20222640804": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 22.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.8,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640802": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20222640803": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20222640807": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640805": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640806": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640801": {
+  "preMatchRainMm": 2.49,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.8,
+  "rescaleFactor": 24.923,
+  "bomDayTotalMm": 32.4,
+  "modelDayTotalMm": 1.3
+ },
+ "CD_M20222640906": {
+  "preMatchRainMm": 1.53,
+  "duringMatchRainMm": 0.76,
+  "duringMatchWindKmh": 20.200000000000003,
+  "rescaleFactor": 1.273,
+  "bomDayTotalMm": 37.8,
+  "modelDayTotalMm": 29.7
+ },
+ "CD_M20222640905": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.8,
+  "rescaleFactor": 3.241,
+  "bomDayTotalMm": 9.4,
+  "modelDayTotalMm": 2.9
+ },
+ "CD_M20222640904": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640907": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 22.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640902": {
+  "preMatchRainMm": 0.71,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 24.7,
+  "rescaleFactor": 1.021,
+  "bomDayTotalMm": 4.8,
+  "modelDayTotalMm": 4.7
+ },
+ "CD_M20222640901": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 22.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222640903": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.15,
+  "rescaleFactor": 1.021,
+  "bomDayTotalMm": 4.8,
+  "modelDayTotalMm": 4.7
+ },
+ "CD_M20222641007": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 26.299999999999997,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20222641002": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.2,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20222641001": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222641004": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222641003": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222641006": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.799999999999997,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20222641101": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 5.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222641201": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.45,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20222641301": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222641302": {
+  "preMatchRainMm": 0.35,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.8,
+  "rescaleFactor": 1.157,
+  "bomDayTotalMm": 9.6,
+  "modelDayTotalMm": 8.3
+ },
+ "CD_M20222641401": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.1,
+  "duringMatchWindKmh": 20.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20222641402": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20222641501": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.8,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640101": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 4.699999999999999,
+  "rescaleFactor": 2.526,
+  "bomDayTotalMm": 4.8,
+  "modelDayTotalMm": 1.9
+ },
+ "CD_M21012640102": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.8,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M21012640103": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 4.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640104": {
+  "preMatchRainMm": 0.1,
+  "duringMatchRainMm": 0.19,
+  "duringMatchWindKmh": 28.8,
+  "rescaleFactor": 0.323,
+  "bomDayTotalMm": 3.2,
+  "modelDayTotalMm": 9.9
+ },
+ "CD_M21012640105": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.95,
+  "rescaleFactor": 8.25,
+  "bomDayTotalMm": 13.2,
+  "modelDayTotalMm": 1.6
+ },
+ "CD_M21012640106": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.199999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M21012640107": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.1,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640108": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.55,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M21012640109": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.6,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M21012640201": {
+  "preMatchRainMm": 0.4,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.350000000000001,
+  "rescaleFactor": 2,
+  "bomDayTotalMm": 2.4,
+  "modelDayTotalMm": 1.2
+ },
+ "CD_M21012640202": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.75,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.7
+ },
+ "CD_M21012640203": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.399999999999999,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.2
+ },
+ "CD_M21012640204": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 1.39,
+  "duringMatchWindKmh": 33.35,
+  "rescaleFactor": 1.267,
+  "bomDayTotalMm": 7.6,
+  "modelDayTotalMm": 6
+ },
+ "CD_M21012640205": {
+  "preMatchRainMm": 0.04,
+  "duringMatchRainMm": 0.04,
+  "duringMatchWindKmh": 12.55,
+  "rescaleFactor": 0.4,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M21012640206": {
+  "preMatchRainMm": 0.04,
+  "duringMatchRainMm": 0.08,
+  "duringMatchWindKmh": 17.299999999999997,
+  "rescaleFactor": 0.4,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M21012640207": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640208": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.1,
+  "rescaleFactor": 0.5,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M21012640209": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 23.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 8.4,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M21012640301": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.399999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M21012640303": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.9,
+  "rescaleFactor": 12,
+  "bomDayTotalMm": 2.4,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M21012640305": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 6,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M21012640304": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.9,
+  "rescaleFactor": 0.634,
+  "bomDayTotalMm": 2.6,
+  "modelDayTotalMm": 4.1
+ },
+ "CD_M21012640302": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 7.8,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640306": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.2,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 3.9
+ },
+ "CD_M21012640307": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.75,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 3.9
+ },
+ "CD_M21012640308": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.6,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 3.9
+ },
+ "CD_M21012640309": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.85,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640401": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.8,
+  "rescaleFactor": 0.316,
+  "bomDayTotalMm": 0.6,
+  "modelDayTotalMm": 1.9
+ },
+ "CD_M21012640404": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.1,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640402": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.35,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.1
+ },
+ "CD_M21012640403": {
+  "preMatchRainMm": 0.1,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 33.5,
+  "rescaleFactor": 0.478,
+  "bomDayTotalMm": 3.2,
+  "modelDayTotalMm": 6.7
+ },
+ "CD_M21012640405": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.2,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M21012640406": {
+  "preMatchRainMm": 0.07,
+  "duringMatchRainMm": 0.41,
+  "duringMatchWindKmh": 26.95,
+  "rescaleFactor": 0.677,
+  "bomDayTotalMm": 4.2,
+  "modelDayTotalMm": 6.2
+ },
+ "CD_M21012640407": {
+  "preMatchRainMm": 0.05,
+  "duringMatchRainMm": 0.95,
+  "duringMatchWindKmh": 12.65,
+  "rescaleFactor": 0.527,
+  "bomDayTotalMm": 9.6,
+  "modelDayTotalMm": 18.2
+ },
+ "CD_M21012640408": {
+  "preMatchRainMm": 0.95,
+  "duringMatchRainMm": 2.85,
+  "duringMatchWindKmh": 14.899999999999999,
+  "rescaleFactor": 0.527,
+  "bomDayTotalMm": 9.6,
+  "modelDayTotalMm": 18.2
+ },
+ "CD_M21012640409": {
+  "preMatchRainMm": 2.85,
+  "duringMatchRainMm": 0.05,
+  "duringMatchWindKmh": 11.25,
+  "rescaleFactor": 0.527,
+  "bomDayTotalMm": 9.6,
+  "modelDayTotalMm": 18.2
+ },
+ "CD_M21012640502": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.8500000000000005,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 1.6,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640501": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.2,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M21012640503": {
+  "preMatchRainMm": 0.03,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.5,
+  "rescaleFactor": 0.036,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 5.5
+ },
+ "CD_M21012640504": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.75,
+  "rescaleFactor": 0.022,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 9.1
+ },
+ "CD_M21012640505": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.75,
+  "rescaleFactor": 0.036,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 5.5
+ },
+ "CD_M21012640506": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.01,
+  "duringMatchWindKmh": 12.95,
+  "rescaleFactor": 0.036,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 5.5
+ },
+ "CD_M21012640507": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.65,
+  "rescaleFactor": 0.444,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M21012640508": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640509": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.5,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 2.5
+ },
+ "CD_M21012640601": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.75,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M21012640602": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.899999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640603": {
+  "preMatchRainMm": 1.07,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.2,
+  "rescaleFactor": 10.667,
+  "bomDayTotalMm": 6.4,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M21012640604": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.850000000000001,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M21012640605": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.600000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640606": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640607": {
+  "preMatchRainMm": 0.91,
+  "duringMatchRainMm": 0.36,
+  "duringMatchWindKmh": 9.2,
+  "rescaleFactor": 0.909,
+  "bomDayTotalMm": 3,
+  "modelDayTotalMm": 3.3
+ },
+ "CD_M21012640608": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.25,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M21012640609": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.8,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640701": {
+  "preMatchRainMm": 0.18,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.399999999999999,
+  "rescaleFactor": 1.788,
+  "bomDayTotalMm": 15.2,
+  "modelDayTotalMm": 8.5
+ },
+ "CD_M21012640702": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640703": {
+  "preMatchRainMm": 0.03,
+  "duringMatchRainMm": 0.24,
+  "duringMatchWindKmh": 15.350000000000001,
+  "rescaleFactor": 0.113,
+  "bomDayTotalMm": 5,
+  "modelDayTotalMm": 44.4
+ },
+ "CD_M21012640704": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640705": {
+  "preMatchRainMm": 1.16,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.7,
+  "rescaleFactor": 11.647,
+  "bomDayTotalMm": 19.8,
+  "modelDayTotalMm": 1.7
+ },
+ "CD_M21012640706": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.35,
+  "rescaleFactor": 38.444,
+  "bomDayTotalMm": 34.6,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M21012640707": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.399999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 1.6,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M21012640708": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.15,
+  "rescaleFactor": 0.5,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M21012640709": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.75,
+  "rescaleFactor": 0.5,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M21012640801": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.899999999999999,
+  "rescaleFactor": 5.512,
+  "bomDayTotalMm": 22.6,
+  "modelDayTotalMm": 4.1
+ },
+ "CD_M21012640802": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.149999999999999,
+  "rescaleFactor": 3.2,
+  "bomDayTotalMm": 1.6,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M21012640803": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9,
+  "rescaleFactor": 0.286,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 1.4
+ },
+ "CD_M21012640804": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 5.300000000000001,
+  "rescaleFactor": 1.333,
+  "bomDayTotalMm": 1.2,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M21012640805": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.75,
+  "rescaleFactor": 1.333,
+  "bomDayTotalMm": 1.2,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M21012640806": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.899999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012640807": {
+  "preMatchRainMm": 0.15,
+  "duringMatchRainMm": 0.15,
+  "duringMatchWindKmh": 12.5,
+  "rescaleFactor": 0.762,
+  "bomDayTotalMm": 1.6,
+  "modelDayTotalMm": 2.1
+ },
+ "CD_M21012640808": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.149999999999999,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 3.9
+ },
+ "CD_M21012640809": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.3,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 2.3
+ },
+ "CD_M21012640901": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.6,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M21012640902": {
+  "preMatchRainMm": 0.11,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21,
+  "rescaleFactor": 0.056,
+  "bomDayTotalMm": 1,
+  "modelDayTotalMm": 17.7
+ },
+ "CD_M21012640903": {
+  "preMatchRainMm": 0.6,
+  "duringMatchRainMm": 0.15,
+  "duringMatchWindKmh": 17.75,
+  "rescaleFactor": 1.512,
+  "bomDayTotalMm": 18.6,
+  "modelDayTotalMm": 12.3
+ },
+ "CD_M21012640904": {
+  "preMatchRainMm": 0.13,
+  "duringMatchRainMm": 0.07,
+  "duringMatchWindKmh": 22.700000000000003,
+  "rescaleFactor": 0.333,
+  "bomDayTotalMm": 0.6,
+  "modelDayTotalMm": 1.8
+ },
+ "CD_M21012640905": {
+  "preMatchRainMm": 0.53,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.35,
+  "rescaleFactor": 2.667,
+  "bomDayTotalMm": 1.6,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M21012640906": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.649999999999999,
+  "rescaleFactor": 1.774,
+  "bomDayTotalMm": 18.8,
+  "modelDayTotalMm": 10.6
+ },
+ "CD_M21012640907": {
+  "preMatchRainMm": 0.47,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.55,
+  "rescaleFactor": 4.667,
+  "bomDayTotalMm": 4.2,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M21012640908": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.15,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 7.2
+ },
+ "CD_M21012640909": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 25.3,
+  "rescaleFactor": 4.667,
+  "bomDayTotalMm": 4.2,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M21012641002": {
+  "preMatchRainMm": 1.44,
+  "duringMatchRainMm": 0.36,
+  "duringMatchWindKmh": 19.35,
+  "rescaleFactor": 3.591,
+  "bomDayTotalMm": 15.8,
+  "modelDayTotalMm": 4.4
+ },
+ "CD_M21012641001": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012641006": {
+  "preMatchRainMm": 0.62,
+  "duringMatchRainMm": 1.15,
+  "duringMatchWindKmh": 18.65,
+  "rescaleFactor": 0.882,
+  "bomDayTotalMm": 3,
+  "modelDayTotalMm": 3.4
+ },
+ "CD_M21012641009": {
+  "preMatchRainMm": 1.15,
+  "duringMatchRainMm": 0.53,
+  "duringMatchWindKmh": 12.1,
+  "rescaleFactor": 0.882,
+  "bomDayTotalMm": 3,
+  "modelDayTotalMm": 3.4
+ },
+ "CD_M21012641004": {
+  "preMatchRainMm": 0.41,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.25,
+  "rescaleFactor": 0.455,
+  "bomDayTotalMm": 1,
+  "modelDayTotalMm": 2.2
+ },
+ "CD_M21012641003": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 33.45,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 12.3
+ },
+ "CD_M21012641008": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 26.3,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 10.3
+ },
+ "CD_M21012641007": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.51,
+  "duringMatchWindKmh": 25.05,
+  "rescaleFactor": 1.263,
+  "bomDayTotalMm": 2.4,
+  "modelDayTotalMm": 1.9
+ },
+ "CD_M21012641005": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.85,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012641101": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.9,
+  "rescaleFactor": 0.25,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.8
+ },
+ "CD_M21012641102": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.9,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M21012641103": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.4,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M21012641104": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.2,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M21012641201": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.4,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 4.1
+ },
+ "CD_M21012641202": {
+  "preMatchRainMm": 0.12,
+  "duringMatchRainMm": 0.04,
+  "duringMatchWindKmh": 24.700000000000003,
+  "rescaleFactor": 0.051,
+  "bomDayTotalMm": 1,
+  "modelDayTotalMm": 19.5
+ },
+ "CD_M21012641301": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M21012641302": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 37.4,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 14.4
+ },
+ "CD_M21012641401": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.199999999999999,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.9
+ },
+ "CD_M20212640101": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.05,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 3.7
+ },
+ "CD_M20212640102": {
+  "preMatchRainMm": 0.02,
+  "duringMatchRainMm": 0.03,
+  "duringMatchWindKmh": 13.3,
+  "rescaleFactor": 0.107,
+  "bomDayTotalMm": 3.6,
+  "modelDayTotalMm": 33.7
+ },
+ "CD_M20212640104": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.2,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.2
+ },
+ "CD_M20212640103": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.85,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640106": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640105": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.85,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640107": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 35,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640201": {
+  "preMatchRainMm": 0.06,
+  "duringMatchRainMm": 0.04,
+  "duringMatchWindKmh": 10.55,
+  "rescaleFactor": 0.041,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 9.8
+ },
+ "CD_M20212640205": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.8,
+  "rescaleFactor": 1.6,
+  "bomDayTotalMm": 1.6,
+  "modelDayTotalMm": 1
+ },
+ "CD_M20212640207": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.3,
+  "rescaleFactor": 1.6,
+  "bomDayTotalMm": 1.6,
+  "modelDayTotalMm": 1
+ },
+ "CD_M20212640202": {
+  "preMatchRainMm": 0.18,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 23.1,
+  "rescaleFactor": 1.8,
+  "bomDayTotalMm": 1.8,
+  "modelDayTotalMm": 1
+ },
+ "CD_M20212640206": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.899999999999999,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.2
+ },
+ "CD_M20212640203": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.299999999999997,
+  "rescaleFactor": 0.5,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20212640204": {
+  "preMatchRainMm": 1.72,
+  "duringMatchRainMm": 1.47,
+  "duringMatchWindKmh": 32.2,
+  "rescaleFactor": 1.225,
+  "bomDayTotalMm": 19.6,
+  "modelDayTotalMm": 16
+ },
+ "CD_M20212640301": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.25,
+  "rescaleFactor": 0.839,
+  "bomDayTotalMm": 2.6,
+  "modelDayTotalMm": 3.1
+ },
+ "CD_M20212640302": {
+  "preMatchRainMm": 1.27,
+  "duringMatchRainMm": 0.6,
+  "duringMatchWindKmh": 28.549999999999997,
+  "rescaleFactor": 0.747,
+  "bomDayTotalMm": 6.2,
+  "modelDayTotalMm": 8.3
+ },
+ "CD_M20212640303": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.549999999999997,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20212640304": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.5,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20212640305": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640307": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 23.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640306": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.5,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20212640401": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640402": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640403": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 28.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640404": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.1,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640405": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.4,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20212640406": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.4,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20212640407": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.649999999999999,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.6
+ },
+ "CD_M20212640501": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640502": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640503": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 31,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640504": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640505": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.8,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640506": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640507": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.7,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640601": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.55,
+  "rescaleFactor": 2.8,
+  "bomDayTotalMm": 1.4,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20212640602": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.1,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640603": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.8,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640604": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.2,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640605": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640606": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 4.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640607": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.149999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640701": {
+  "preMatchRainMm": 1.48,
+  "duringMatchRainMm": 0.49,
+  "duringMatchWindKmh": 5.9,
+  "rescaleFactor": 2.471,
+  "bomDayTotalMm": 29.4,
+  "modelDayTotalMm": 11.9
+ },
+ "CD_M20212640702": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.8,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 10.5
+ },
+ "CD_M20212640703": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.05,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 3.9
+ },
+ "CD_M20212640704": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.35,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 10.5
+ },
+ "CD_M20212640705": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 17.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640706": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.799999999999997,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 17.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640707": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640801": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.9,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.3
+ },
+ "CD_M20212640802": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 25.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640803": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 25.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640804": {
+  "preMatchRainMm": 0.05,
+  "duringMatchRainMm": 0.04,
+  "duringMatchWindKmh": 10,
+  "rescaleFactor": 0.032,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 12.5
+ },
+ "CD_M20212640805": {
+  "preMatchRainMm": 0.23,
+  "duringMatchRainMm": 0.33,
+  "duringMatchWindKmh": 7.449999999999999,
+  "rescaleFactor": 0.145,
+  "bomDayTotalMm": 1.2,
+  "modelDayTotalMm": 8.3
+ },
+ "CD_M20212640806": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.1,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640807": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640901": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.45,
+  "rescaleFactor": 0.286,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.7
+ },
+ "CD_M20212640902": {
+  "preMatchRainMm": 0.17,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.85,
+  "rescaleFactor": 0.576,
+  "bomDayTotalMm": 3.4,
+  "modelDayTotalMm": 5.9
+ },
+ "CD_M20212640903": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.55,
+  "rescaleFactor": 0.576,
+  "bomDayTotalMm": 3.4,
+  "modelDayTotalMm": 5.9
+ },
+ "CD_M20212640904": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.75,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20212640905": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 1.8,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640906": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212640907": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.2,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212641001": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212641002": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212641101": {
+  "preMatchRainMm": 0.08,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 29.55,
+  "rescaleFactor": 0.267,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 1.5
+ },
+ "CD_M20212641102": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 3.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20212641201": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.45,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20202640101": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20202640102": {
+  "preMatchRainMm": 5.29,
+  "duringMatchRainMm": 1.82,
+  "duringMatchWindKmh": 29.799999999999997,
+  "rescaleFactor": 1.823,
+  "bomDayTotalMm": 53.4,
+  "modelDayTotalMm": 29.3
+ },
+ "CD_M20202640103": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 29.950000000000003,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20202640104": {
+  "preMatchRainMm": 0.11,
+  "duringMatchRainMm": 0.14,
+  "duringMatchWindKmh": 9.05,
+  "rescaleFactor": 0.047,
+  "bomDayTotalMm": 1.8,
+  "modelDayTotalMm": 38.5
+ },
+ "CD_M20202640105": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 29.2,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20202640106": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 28.45,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20202640107": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 39.35,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20202640201": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.35,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 9.5
+ },
+ "CD_M20202640202": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 25.85,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.8
+ },
+ "CD_M20202640203": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.55,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.7
+ },
+ "CD_M20202640204": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 24.6,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20202640205": {
+  "preMatchRainMm": 0.12,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 22.700000000000003,
+  "rescaleFactor": 1.2,
+  "bomDayTotalMm": 0.6,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20202640206": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.7,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 2.8,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20202640207": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.85,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20202640301": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.6,
+  "rescaleFactor": 0.875,
+  "bomDayTotalMm": 2.8,
+  "modelDayTotalMm": 3.2
+ },
+ "CD_M20202640302": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20202640303": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 22.299999999999997,
+  "rescaleFactor": 2,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20202640304": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 4.449999999999999,
+  "rescaleFactor": 0.5,
+  "bomDayTotalMm": 1,
+  "modelDayTotalMm": 2
+ },
+ "CD_M20202640305": {
+  "preMatchRainMm": 0.19,
+  "duringMatchRainMm": 0.03,
+  "duringMatchWindKmh": 12,
+  "rescaleFactor": 0.316,
+  "bomDayTotalMm": 0.6,
+  "modelDayTotalMm": 1.9
+ },
+ "CD_M20202640306": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20202640307": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20202640401": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.149999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20202640402": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 5.7,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20202640403": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20202640404": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.04,
+  "duringMatchWindKmh": 17.450000000000003,
+  "rescaleFactor": 0.4,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20202640405": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.8,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 4.4
+ },
+ "CD_M20202640406": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.4,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M20202640407": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20202640501": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.4,
+  "rescaleFactor": 6.533,
+  "bomDayTotalMm": 9.8,
+  "modelDayTotalMm": 1.5
+ },
+ "CD_M20202640502": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.25,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.4
+ },
+ "CD_M20202640503": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.449999999999999,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20202640504": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.9,
+  "rescaleFactor": 0.133,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 1.5
+ },
+ "CD_M20202640505": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.850000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 1.4,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20202640506": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.35,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20202640507": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.7,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20202640601": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 25.9,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20202640602": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 2.6,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20202640603": {
+  "preMatchRainMm": 0.15,
+  "duringMatchRainMm": 0.15,
+  "duringMatchWindKmh": 19.65,
+  "rescaleFactor": 1.5,
+  "bomDayTotalMm": 0.6,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20202640604": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.799999999999997,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20202640605": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20202640606": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20202640607": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 1.43,
+  "duringMatchWindKmh": 20.85,
+  "rescaleFactor": 7.167,
+  "bomDayTotalMm": 8.6,
+  "modelDayTotalMm": 1.2
+ },
+ "CD_M20202640701": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.55,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20202640702": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.85,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.3
+ },
+ "CD_M20202640704": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20202640703": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 25.950000000000003,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.8
+ },
+ "CD_M20192640101": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 22.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640102": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.7,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640103": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 4.2,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20192640104": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 23.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640105": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.95,
+  "rescaleFactor": 0.696,
+  "bomDayTotalMm": 3.2,
+  "modelDayTotalMm": 4.6
+ },
+ "CD_M20192640201": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.149999999999999,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20192640202": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 25.9,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 3.6
+ },
+ "CD_M20192640203": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.950000000000003,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 3.6
+ },
+ "CD_M20192640204": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 4.8,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640205": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 33.35,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640301": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.699999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640302": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 22.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640303": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 32.2,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640304": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.850000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640305": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640401": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 22.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640402": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640403": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 4.35,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.8
+ },
+ "CD_M20192640404": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.049999999999997,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640405": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640501": {
+  "preMatchRainMm": 0.05,
+  "duringMatchRainMm": 0.05,
+  "duringMatchWindKmh": 13.95,
+  "rescaleFactor": 0.244,
+  "bomDayTotalMm": 2.2,
+  "modelDayTotalMm": 9
+ },
+ "CD_M20192640502": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640503": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.85,
+  "rescaleFactor": 0.4,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20192640504": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.7,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640505": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 30,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640601": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640602": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640603": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.449999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640604": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.1,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M20192640605": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.9,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20192640701": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.75,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M20192640702": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640703": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 22.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640704": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640705": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20192640801": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.68,
+  "duringMatchWindKmh": 23.9,
+  "rescaleFactor": 2.25,
+  "bomDayTotalMm": 1.8,
+  "modelDayTotalMm": 0.8
+ },
+ "CD_M20192640802": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 23.6,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 3
+ },
+ "CD_M20192640901": {
+  "preMatchRainMm": 0.47,
+  "duringMatchRainMm": 0.07,
+  "duringMatchWindKmh": 21.4,
+  "rescaleFactor": 0.667,
+  "bomDayTotalMm": 1.2,
+  "modelDayTotalMm": 1.8
+ },
+ "CD_M20182640101": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.8,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640102": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640103": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 24.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640104": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640201": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640202": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.65,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.2
+ },
+ "CD_M20182640203": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 29.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640204": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20182640301": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640302": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.100000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640303": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.45,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 2
+ },
+ "CD_M20182640304": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 25.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640401": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.55,
+  "rescaleFactor": 0.154,
+  "bomDayTotalMm": 0.2,
+  "modelDayTotalMm": 1.3
+ },
+ "CD_M20182640402": {
+  "preMatchRainMm": 3.29,
+  "duringMatchRainMm": 5.92,
+  "duringMatchWindKmh": 9.95,
+  "rescaleFactor": 6.573,
+  "bomDayTotalMm": 112.4,
+  "modelDayTotalMm": 17.1
+ },
+ "CD_M20182640403": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640404": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 22.8,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 21.9
+ },
+ "CD_M20182640501": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0.4,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640502": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.35,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640503": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.049999999999997,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640504": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640601": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.7,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 3.4
+ },
+ "CD_M20182640602": {
+  "preMatchRainMm": 0.08,
+  "duringMatchRainMm": 0.2,
+  "duringMatchWindKmh": 15.600000000000001,
+  "rescaleFactor": 0.4,
+  "bomDayTotalMm": 0.8,
+  "modelDayTotalMm": 2
+ },
+ "CD_M20182640603": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640604": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 23.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640701": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.7
+ },
+ "CD_M20182640702": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 30.5,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.6
+ },
+ "CD_M20182640703": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 23,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20182640704": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 25.85,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 1.9
+ },
+ "CD_M20182640801": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.55,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 19.6
+ },
+ "CD_M20172640101": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20172640102": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 3.5999999999999996,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 4.2
+ },
+ "CD_M20172640103": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.2,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20172640104": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.6,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 21.1
+ },
+ "CD_M20172640201": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20172640202": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.549999999999997,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20172640203": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.2,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20172640204": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 22.4,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 8.3
+ },
+ "CD_M20172640301": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.32,
+  "duringMatchWindKmh": 19.05,
+  "rescaleFactor": 0.068,
+  "bomDayTotalMm": 2,
+  "modelDayTotalMm": 29.6
+ },
+ "CD_M20172640302": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.549999999999997,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20172640303": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20172640304": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 1.26,
+  "duringMatchWindKmh": 24.85,
+  "rescaleFactor": 2.526,
+  "bomDayTotalMm": 4.8,
+  "modelDayTotalMm": 1.9
+ },
+ "CD_M20172640401": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20172640402": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20172640403": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.350000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20172640404": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 23.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20172640501": {
+  "preMatchRainMm": 0.92,
+  "duringMatchRainMm": 1.17,
+  "duringMatchWindKmh": 15.95,
+  "rescaleFactor": 0.834,
+  "bomDayTotalMm": 12.6,
+  "modelDayTotalMm": 15.1
+ },
+ "CD_M20172640502": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.399999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20172640503": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20172640504": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20172640601": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20172640602": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.75,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.4
+ },
+ "CD_M20172640603": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.25,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 5.7
+ },
+ "CD_M20172640604": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.45,
+  "rescaleFactor": 0,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.5
+ },
+ "CD_M20172640701": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.1,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20172640702": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20172640703": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20172640704": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": 0,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20172640801": {
+  "preMatchRainMm": 5.66,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.9,
+  "rescaleFactor": 9.429,
+  "bomDayTotalMm": 6.6,
+  "modelDayTotalMm": 0.7
+ },
+ "CD_M20262640301": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640302": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640303": {
+  "preMatchRainMm": 0.5,
+  "duringMatchRainMm": 0.3,
+  "duringMatchWindKmh": 16.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 2.3
+ },
+ "CD_M20262640304": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 5.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640305": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640306": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640307": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.1,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640308": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640309": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 5.75,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640401": {
+  "preMatchRainMm": 0.1,
+  "duringMatchRainMm": 0.2,
+  "duringMatchWindKmh": 25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 16
+ },
+ "CD_M20262640402": {
+  "preMatchRainMm": 0.2,
+  "duringMatchRainMm": 0.4,
+  "duringMatchWindKmh": 24.799999999999997,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 16
+ },
+ "CD_M20262640403": {
+  "preMatchRainMm": 0.6,
+  "duringMatchRainMm": 0.7,
+  "duringMatchWindKmh": 31.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 4.6
+ },
+ "CD_M20262640404": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640405": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 5.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20262640406": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9.100000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 3.5
+ },
+ "CD_M20262640407": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20262640408": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20262640409": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0.8
+ },
+ "CD_M20262640501": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640502": {
+  "preMatchRainMm": 0.3,
+  "duringMatchRainMm": 0.3,
+  "duringMatchWindKmh": 13.85,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 3
+ },
+ "CD_M20262640503": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.55,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640504": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 2.9
+ },
+ "CD_M20262640505": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640506": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640507": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.4,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640508": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.35,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640509": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.85,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640601": {
+  "preMatchRainMm": 0.1,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 27.8,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 3.3
+ },
+ "CD_M20262640602": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.1,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640603": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640604": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640605": {
+  "preMatchRainMm": 0.3,
+  "duringMatchRainMm": 0.2,
+  "duringMatchWindKmh": 23.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 3.3
+ },
+ "CD_M20262640606": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 19.799999999999997,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640607": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 30.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640608": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 30.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640609": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.899999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640701": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.850000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640702": {
+  "preMatchRainMm": 0.1,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 1.8
+ },
+ "CD_M20262640703": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 1.8
+ },
+ "CD_M20262640704": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 3.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 1.8
+ },
+ "CD_M20262640705": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 1.8
+ },
+ "CD_M20262640706": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640707": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.8,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640708": {
+  "preMatchRainMm": 1,
+  "duringMatchRainMm": 1,
+  "duringMatchWindKmh": 17.950000000000003,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 5.8
+ },
+ "CD_M20262640709": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.1,
+  "duringMatchWindKmh": 11.100000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20262640801": {
+  "preMatchRainMm": 4.2,
+  "duringMatchRainMm": 5.5,
+  "duringMatchWindKmh": 5.7,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 27.1
+ },
+ "CD_M20262640802": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 14.9
+ },
+ "CD_M20262640803": {
+  "preMatchRainMm": 0.2,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 17.4
+ },
+ "CD_M20262640804": {
+  "preMatchRainMm": 1.4,
+  "duringMatchRainMm": 0.5,
+  "duringMatchWindKmh": 21.35,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 27.5
+ },
+ "CD_M20262640805": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640806": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.3,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20262640807": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640808": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10.45,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640809": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 13.85,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640901": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.350000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640902": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 1.2
+ },
+ "CD_M20262640903": {
+  "preMatchRainMm": 0.2,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 16.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 1.4
+ },
+ "CD_M20262640904": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 18.2,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20262640905": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.35,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 1.2
+ },
+ "CD_M20262640906": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 6.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20262640907": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 20.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640908": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 21.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262640909": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 15.5,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262641001": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262641002": {
+  "preMatchRainMm": 0.1,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 4.1,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0.1
+ },
+ "CD_M20262641003": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.25,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262641004": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 14.65,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0.3
+ },
+ "CD_M20262641005": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 11.15,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262641006": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 10,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262641007": {
+  "preMatchRainMm": 0.1,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 12.350000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0.2
+ },
+ "CD_M20262641008": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 7.550000000000001,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0
+ },
+ "CD_M20262641009": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 17.8,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 2
+ }
+}

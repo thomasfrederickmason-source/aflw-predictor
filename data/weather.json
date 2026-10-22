@@ -1,0 +1,3632 @@
+{
+ "CD_M20262640101": {
+  "description": "Possible shower Windy",
+  "tempInCelsius": 14,
+  "weatherType": "RAIN"
+ },
+ "CD_M20262640102": {
+  "description": "Possible shower",
+  "tempInCelsius": 16,
+  "weatherType": "RAIN"
+ },
+ "CD_M20262640109": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 15,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20262640104": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 15,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20262640103": {
+  "description": "Showers developing",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M20262640105": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 15,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20262640106": {
+  "description": "Cloudy",
+  "tempInCelsius": 16,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20262640107": {
+  "description": "Sunny",
+  "tempInCelsius": 24,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20262640108": {
+  "description": "Showers easing",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20262640202": {
+  "description": "Shower or two",
+  "tempInCelsius": 16,
+  "weatherType": "RAIN"
+ },
+ "CD_M20262640208": {
+  "description": "Shower or two",
+  "tempInCelsius": 23,
+  "weatherType": "RAIN"
+ },
+ "CD_M20262640201": {
+  "description": "Shower or two",
+  "tempInCelsius": 17,
+  "weatherType": "RAIN"
+ },
+ "CD_M20262640203": {
+  "description": "Cloudy",
+  "tempInCelsius": 23,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20262640209": {
+  "description": "Possible shower",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M20262640204": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 17,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20262640206": {
+  "description": "Cloudy",
+  "tempInCelsius": 17,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20262640205": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 17,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20262640207": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640101": {
+  "description": "Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20252640102": {
+  "description": "Showers easing",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640103": {
+  "description": "Possible shower",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640104": {
+  "description": "Shower or two",
+  "tempInCelsius": 12,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640105": {
+  "description": "Shower or two clearing",
+  "tempInCelsius": 12,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640106": {
+  "description": "Shower or two",
+  "tempInCelsius": 12,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640107": {
+  "description": "Sunny",
+  "tempInCelsius": 22,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20252640108": {
+  "description": "Possible shower",
+  "tempInCelsius": 13,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640109": {
+  "description": "Showers",
+  "tempInCelsius": 13,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640201": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 16,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640202": {
+  "description": "Possible shower",
+  "tempInCelsius": 16,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640203": {
+  "description": "Sunny",
+  "tempInCelsius": 25,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20252640204": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 20,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640205": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 16,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640208": {
+  "description": "Cloud clearing",
+  "tempInCelsius": 15,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640207": {
+  "description": "Cloud clearing",
+  "tempInCelsius": 15,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640206": {
+  "description": "Cloud clearing",
+  "tempInCelsius": 15,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640209": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 21,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640301": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 32,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640302": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640303": {
+  "description": "Showers easing Wind easing",
+  "tempInCelsius": 13,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640304": {
+  "description": "Showers easing Wind easing",
+  "tempInCelsius": 13,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640305": {
+  "description": "Cloudy",
+  "tempInCelsius": 14,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20252640306": {
+  "description": "Showers easing Wind easing",
+  "tempInCelsius": 13,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640307": {
+  "description": "Shower or two",
+  "tempInCelsius": 17,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640308": {
+  "description": "Sunny",
+  "tempInCelsius": 21,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20252640309": {
+  "description": "Morning frost Mostly sunny",
+  "tempInCelsius": 23,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640401": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 21,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640402": {
+  "description": "Shower or two",
+  "tempInCelsius": 22,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640403": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 21,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640404": {
+  "description": "Shower or two",
+  "tempInCelsius": 30,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640405": {
+  "description": "Sunny",
+  "tempInCelsius": 24,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20252640406": {
+  "description": "Morning shower or two",
+  "tempInCelsius": 23,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640407": {
+  "description": "Showers",
+  "tempInCelsius": 22,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640408": {
+  "description": "Showers",
+  "tempInCelsius": 22,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640409": {
+  "description": "Showers",
+  "tempInCelsius": 17,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640501": {
+  "description": "Cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20252640502": {
+  "description": "Cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20252640503": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 19,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640504": {
+  "description": "Morning frost Mostly sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640505": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 22,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640506": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 22,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640507": {
+  "description": "Sunny",
+  "tempInCelsius": 21,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20252640508": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 25,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640509": {
+  "description": "Showers Windy",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640601": {
+  "description": "Shower or two easing",
+  "tempInCelsius": 15,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640604": {
+  "description": "Shower or two",
+  "tempInCelsius": 16,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640602": {
+  "description": "Shower or two easing",
+  "tempInCelsius": 15,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640603": {
+  "description": "Sunny",
+  "tempInCelsius": 23,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20252640605": {
+  "description": "Sunny",
+  "tempInCelsius": 23,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20252640606": {
+  "description": "Showers",
+  "tempInCelsius": 17,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640607": {
+  "description": "Showers",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640608": {
+  "description": "Showers",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640609": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 25,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640701": {
+  "description": "Shower or two",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640702": {
+  "description": "Showers developing",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640703": {
+  "description": "Shower or two developing",
+  "tempInCelsius": 22,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640704": {
+  "description": "Shower or two developing",
+  "tempInCelsius": 22,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640705": {
+  "description": "Shower or two developing",
+  "tempInCelsius": 22,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640706": {
+  "description": "Cloudy",
+  "tempInCelsius": 16,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20252640707": {
+  "description": "Showers easing",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640708": {
+  "description": "Sunny",
+  "tempInCelsius": 32,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20252640709": {
+  "description": "Showers",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640801": {
+  "description": "Showers Windy",
+  "tempInCelsius": 15,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640802": {
+  "description": "Shower or two",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640803": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 23,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640804": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 21,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640805": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 25,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252640806": {
+  "description": "Sunny",
+  "tempInCelsius": 29,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20252640807": {
+  "description": "Showers increasing Windy",
+  "tempInCelsius": 27,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640808": {
+  "description": "Showers increasing",
+  "tempInCelsius": 27,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640809": {
+  "description": "Showers easing",
+  "tempInCelsius": 17,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640901": {
+  "description": "Possible shower",
+  "tempInCelsius": 22,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640902": {
+  "description": "Shower or two",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640903": {
+  "description": "Shower or two",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640904": {
+  "description": "Showers increasing",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640905": {
+  "description": "Sunny morning Possible storm",
+  "tempInCelsius": 36,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20252640906": {
+  "description": "Shower or two",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640907": {
+  "description": "Shower or two Becoming windy",
+  "tempInCelsius": 30,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640908": {
+  "description": "Showers increasing",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252640909": {
+  "description": "Sunny",
+  "tempInCelsius": 25,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20252641001": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 21,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252641002": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 29,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252641003": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252641004": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 20,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252641005": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 22,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252641006": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 20,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252641007": {
+  "description": "Shower or two",
+  "tempInCelsius": 30,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252641008": {
+  "description": "Shower or two",
+  "tempInCelsius": 30,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252641009": {
+  "description": "Sunny",
+  "tempInCelsius": 30,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20252641101": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 22,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252641102": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 24,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252641103": {
+  "description": "Shower or two",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252641104": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 22,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252641105": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 30,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252641106": {
+  "description": "Rain Storm",
+  "tempInCelsius": 19,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20252641107": {
+  "description": "Shower or two",
+  "tempInCelsius": 17,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252641108": {
+  "description": "Rain Storm developing",
+  "tempInCelsius": 21,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20252641109": {
+  "description": "Shower or two Possible storm",
+  "tempInCelsius": 30,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20252641205": {
+  "description": "Shower or two",
+  "tempInCelsius": 23,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252641209": {
+  "description": "Showers increasing",
+  "tempInCelsius": 24,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252641204": {
+  "description": "Shower or two Possible storm",
+  "tempInCelsius": 24,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20252641206": {
+  "description": "Cloudy",
+  "tempInCelsius": 22,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20252641208": {
+  "description": "Shower or two Storm",
+  "tempInCelsius": 26,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20252641203": {
+  "description": "Cloudy",
+  "tempInCelsius": 22,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20252641202": {
+  "description": "Sunny morning Shower or two",
+  "tempInCelsius": 31,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252641207": {
+  "description": "Late shower or two",
+  "tempInCelsius": 31,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252641201": {
+  "description": "Showers",
+  "tempInCelsius": 26,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252641301": {
+  "description": "Showers increasing",
+  "tempInCelsius": 29,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252641302": {
+  "description": "Rain",
+  "tempInCelsius": 13,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252641303": {
+  "description": "Showers",
+  "tempInCelsius": 16,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252641304": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20252641401": {
+  "description": "Shower or two",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252641402": {
+  "description": "Shower or two",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252641501": {
+  "description": "Showers increasing",
+  "tempInCelsius": 23,
+  "weatherType": "RAIN"
+ },
+ "CD_M20252641502": {
+  "description": "Possible shower or storm",
+  "tempInCelsius": 29,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20252641601": {
+  "description": "Rain",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640101": {
+  "description": "Windy Sunny",
+  "tempInCelsius": 29,
+  "weatherType": "WINDY"
+ },
+ "CD_M20242640102": {
+  "description": "Shower or two",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640103": {
+  "description": "Windy Partly cloudy",
+  "tempInCelsius": 16,
+  "weatherType": "WINDY"
+ },
+ "CD_M20242640104": {
+  "description": "Shower or two",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640105": {
+  "description": "Sunny",
+  "tempInCelsius": 32,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640106": {
+  "description": "Becoming windy Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "WINDY"
+ },
+ "CD_M20242640107": {
+  "description": "Showers easing Windy",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640108": {
+  "description": "Windy Showers",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640109": {
+  "description": "Sunny",
+  "tempInCelsius": 36,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640201": {
+  "description": "Late rain developing Wind easing",
+  "tempInCelsius": 24,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640202": {
+  "description": "Possible shower",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640203": {
+  "description": "Possible shower",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640204": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640205": {
+  "description": "Shower or two",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640206": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 25,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640207": {
+  "description": "Shower or two",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640208": {
+  "description": "Shower or two",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640209": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 21,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640301": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 15,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640302": {
+  "description": "Shower or two",
+  "tempInCelsius": 24,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640303": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 21,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640304": {
+  "description": "Showers Becoming windy",
+  "tempInCelsius": 12,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640305": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 17,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640306": {
+  "description": "Sunny",
+  "tempInCelsius": 17,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640307": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 13,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640308": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 13,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640309": {
+  "description": "Early frost Mostly sunny",
+  "tempInCelsius": 14,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640401": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 17,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640402": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 28,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640403": {
+  "description": "Showers easing",
+  "tempInCelsius": 16,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640404": {
+  "description": "Showers increasing",
+  "tempInCelsius": 17,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640405": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 25,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640406": {
+  "description": "Morning shower or two",
+  "tempInCelsius": 17,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640407": {
+  "description": "Sunny",
+  "tempInCelsius": 23,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640408": {
+  "description": "Showers easing",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640409": {
+  "description": "Cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20242640410": {
+  "description": "Sunny",
+  "tempInCelsius": 25,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640411": {
+  "description": "Sunny",
+  "tempInCelsius": 25,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640501": {
+  "description": "Cloudy",
+  "tempInCelsius": 23,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20242640502": {
+  "description": "Rain",
+  "tempInCelsius": 15,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640503": {
+  "description": "Cloudy",
+  "tempInCelsius": 14,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20242640504": {
+  "description": "Sunny",
+  "tempInCelsius": 17,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640505": {
+  "description": "Sunny",
+  "tempInCelsius": 17,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640506": {
+  "description": "Sunny",
+  "tempInCelsius": 17,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640507": {
+  "description": "Sunny",
+  "tempInCelsius": 17,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640508": {
+  "description": "Showers Windy",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640509": {
+  "description": "Shower or two",
+  "tempInCelsius": 22,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640510": {
+  "description": "Possible morning shower",
+  "tempInCelsius": 29,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640511": {
+  "description": "Showers easing",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640601": {
+  "description": "Shower or two",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640602": {
+  "description": "Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640603": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640604": {
+  "description": "Sunny",
+  "tempInCelsius": 25,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640605": {
+  "description": "Shower or two",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640606": {
+  "description": "Showers",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640607": {
+  "description": "Showers",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640608": {
+  "description": "Shower or two",
+  "tempInCelsius": 22,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640609": {
+  "description": "Showers",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640610": {
+  "description": "Sunny",
+  "tempInCelsius": 30,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640611": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 28,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640612": {
+  "description": "Possible morning shower",
+  "tempInCelsius": 23,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640701": {
+  "description": "Cloudy",
+  "tempInCelsius": 14,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20242640702": {
+  "description": "Sunny",
+  "tempInCelsius": 26,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640703": {
+  "description": "Sunny",
+  "tempInCelsius": 21,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640704": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 17,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640705": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640706": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640707": {
+  "description": "Shower or two",
+  "tempInCelsius": 29,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640708": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 24,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640709": {
+  "description": "Late shower or two",
+  "tempInCelsius": 23,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640710": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 24,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640711": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 22,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640801": {
+  "description": "Showers increasing",
+  "tempInCelsius": 27,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640802": {
+  "description": "Showers easing",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640803": {
+  "description": "Shower or two",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640804": {
+  "description": "Shower or two",
+  "tempInCelsius": 26,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640805": {
+  "description": "Showers easing",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640806": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 24,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640807": {
+  "description": "Cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20242640808": {
+  "description": "Cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20242640809": {
+  "description": "Cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20242640901": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 32,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640902": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 21,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640903": {
+  "description": "Sunny",
+  "tempInCelsius": 20,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20242640904": {
+  "description": "Shower or two",
+  "tempInCelsius": 23,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242640905": {
+  "description": "Cloud clearing",
+  "tempInCelsius": 24,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640906": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 35,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640907": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 23,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640908": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 24,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242640909": {
+  "description": "Possible shower",
+  "tempInCelsius": 28,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242641006": {
+  "description": "Cloudy",
+  "tempInCelsius": 17,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20242641005": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 26,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242641008": {
+  "description": "Possible morning shower",
+  "tempInCelsius": 22,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242641004": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 26,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242641002": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 26,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242641007": {
+  "description": "Shower or two",
+  "tempInCelsius": 24,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242641003": {
+  "description": "Shower or two Wind easing",
+  "tempInCelsius": 23,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242641001": {
+  "description": "Possible early shower",
+  "tempInCelsius": 23,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242641009": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 23,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242641101": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 20,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242641102": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 24,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242641103": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 20,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242641104": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 27,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242641201": {
+  "description": "Late shower or two Cool change",
+  "tempInCelsius": 37,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242641202": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 34,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242641301": {
+  "description": "Partly cloudy, late cool change",
+  "tempInCelsius": 37,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20242641302": {
+  "description": "Possible shower",
+  "tempInCelsius": 28,
+  "weatherType": "RAIN"
+ },
+ "CD_M20242641401": {
+  "description": "Rain",
+  "tempInCelsius": 22,
+  "weatherType": "RAIN"
+ },
+ "CD_M20232640101": {
+  "description": "Possible morning shower, clearing",
+  "tempInCelsius": 15,
+  "weatherType": "RAIN"
+ },
+ "CD_M20232640102": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 17,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640103": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640104": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 17,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640105": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 16,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640106": {
+  "description": "Sunny",
+  "tempInCelsius": 19,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640107": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 28,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640108": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640109": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640201": {
+  "description": "Showers Windy",
+  "tempInCelsius": 12,
+  "weatherType": "RAIN"
+ },
+ "CD_M20232640202": {
+  "description": "Sunny",
+  "tempInCelsius": 23,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640203": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640204": {
+  "description": "Sunny",
+  "tempInCelsius": 19,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640205": {
+  "description": "Shower or two",
+  "tempInCelsius": 13,
+  "weatherType": "RAIN"
+ },
+ "CD_M20232640206": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 15,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640207": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 15,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640208": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 15,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640209": {
+  "description": "Morning frost Sunny",
+  "tempInCelsius": 16,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640301": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 22,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640302": {
+  "description": "Sunny",
+  "tempInCelsius": 34,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640303": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640304": {
+  "description": "Sunny",
+  "tempInCelsius": 25,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640305": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640306": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 22,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640307": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640308": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 23,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640309": {
+  "description": "Sunny",
+  "tempInCelsius": 29,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640401": {
+  "description": "Cloudy",
+  "tempInCelsius": 16,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20232640402": {
+  "description": "Morning frost Mostly sunny",
+  "tempInCelsius": 20,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640403": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 19,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640404": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640405": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 21,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640406": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640407": {
+  "description": "Sunny",
+  "tempInCelsius": 24,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640408": {
+  "description": "Sunny",
+  "tempInCelsius": 24,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640409": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 23,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640501": {
+  "description": "Cloud clearing",
+  "tempInCelsius": 22,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640502": {
+  "description": "Sunny",
+  "tempInCelsius": 25,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640503": {
+  "description": "Sunny",
+  "tempInCelsius": 25,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640504": {
+  "description": "Sunny",
+  "tempInCelsius": 25,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640505": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640506": {
+  "description": "Sunny",
+  "tempInCelsius": 29,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640507": {
+  "description": "Wind easing Partly cloudy",
+  "tempInCelsius": 22,
+  "weatherType": "WINDY"
+ },
+ "CD_M20232640508": {
+  "description": "Wind easing Partly cloudy",
+  "tempInCelsius": 23,
+  "weatherType": "WINDY"
+ },
+ "CD_M20232640509": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640601": {
+  "description": "Shower or two",
+  "tempInCelsius": 15,
+  "weatherType": "RAIN"
+ },
+ "CD_M20232640602": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 21,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640603": {
+  "description": "Cloudy",
+  "tempInCelsius": 15,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20232640604": {
+  "description": "Cloudy",
+  "tempInCelsius": 16,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20232640605": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640606": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640607": {
+  "description": "Cloudy",
+  "tempInCelsius": 16,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20232640608": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 17,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640609": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640701": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640702": {
+  "description": "Shower or two",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20232640703": {
+  "description": "Shower or two",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20232640704": {
+  "description": "Sunny",
+  "tempInCelsius": 29,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640705": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640706": {
+  "description": "Shower or two",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20232640707": {
+  "description": "Showers increasing",
+  "tempInCelsius": 17,
+  "weatherType": "RAIN"
+ },
+ "CD_M20232640708": {
+  "description": "Showers increasing",
+  "tempInCelsius": 17,
+  "weatherType": "RAIN"
+ },
+ "CD_M20232640709": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640801": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640802": {
+  "description": "Cloudy",
+  "tempInCelsius": 23,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20232640803": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640804": {
+  "description": "Sunny",
+  "tempInCelsius": 26,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640805": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640806": {
+  "description": "Cloudy",
+  "tempInCelsius": 23,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20232640807": {
+  "description": "Showers Becoming windy",
+  "tempInCelsius": 16,
+  "weatherType": "RAIN"
+ },
+ "CD_M20232640808": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640809": {
+  "description": "Showers Becoming windy",
+  "tempInCelsius": 16,
+  "weatherType": "RAIN"
+ },
+ "CD_M20232640901": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640902": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 23,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640903": {
+  "description": "Windy Partly cloudy",
+  "tempInCelsius": 23,
+  "weatherType": "WINDY"
+ },
+ "CD_M20232640904": {
+  "description": "Windy Partly cloudy",
+  "tempInCelsius": 24,
+  "weatherType": "WINDY"
+ },
+ "CD_M20232640905": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640906": {
+  "description": "Windy Partly cloudy",
+  "tempInCelsius": 24,
+  "weatherType": "WINDY"
+ },
+ "CD_M20232640907": {
+  "description": "Sunny",
+  "tempInCelsius": 26,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232640908": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232640909": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 23,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232641001": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232641007": {
+  "description": "Cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20232641003": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232641005": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232641006": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232641004": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232641002": {
+  "description": "Sunny",
+  "tempInCelsius": 23,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232641009": {
+  "description": "Sunny",
+  "tempInCelsius": 23,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20232641008": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232641101": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232641102": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232641103": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 21,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232641104": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232641201": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232641202": {
+  "description": "Becoming sunny",
+  "tempInCelsius": 23,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232641301": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20232641302": {
+  "description": "Shower or two",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M20232641401": {
+  "description": "Shower or two",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M20222640101": {
+  "description": "Humid Possible storm",
+  "tempInCelsius": 29,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20222640102": {
+  "description": "Shower or two",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M20222640103": {
+  "description": "Shower or two",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M20222640104": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640107": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640105": {
+  "description": "Cloud clearing",
+  "tempInCelsius": 23,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640106": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640201": {
+  "description": "Humid A few showers Possible storm",
+  "tempInCelsius": 32,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20222640202": {
+  "description": "Light shower or two clearing",
+  "tempInCelsius": 25,
+  "weatherType": "RAIN"
+ },
+ "CD_M20222640204": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 27,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640205": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 29,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640206": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640207": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 29,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640203": {
+  "description": "Possible afternoon shower",
+  "tempInCelsius": 25,
+  "weatherType": "RAIN"
+ },
+ "CD_M20222640301": {
+  "description": "Sunny",
+  "tempInCelsius": 30,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20222640307": {
+  "description": "Sunny",
+  "tempInCelsius": 33,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20222640302": {
+  "description": "Sunny",
+  "tempInCelsius": 33,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20222640303": {
+  "description": "Sunny",
+  "tempInCelsius": 33,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20222640305": {
+  "description": "Sunny",
+  "tempInCelsius": 34,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20222640306": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640304": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640406": {
+  "description": "Humid Shower or two Possible storm",
+  "tempInCelsius": 34,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20222640407": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 29,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640402": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640404": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640405": {
+  "description": "Humid Cloudy",
+  "tempInCelsius": 28,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20222640401": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640403": {
+  "description": "Sunny",
+  "tempInCelsius": 31,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20222640501": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 24,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640503": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640507": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 27,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640504": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 29,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640506": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 29,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640505": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 22,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640502": {
+  "description": "Showers",
+  "tempInCelsius": 27,
+  "weatherType": "RAIN"
+ },
+ "CD_M20222640607": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640602": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 29,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640605": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 28,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640604": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640601": {
+  "description": "Hot Wind easing Late change",
+  "tempInCelsius": 34,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640603": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640606": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640707": {
+  "description": "Cloudy",
+  "tempInCelsius": 21,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20222640702": {
+  "description": "Cloudy",
+  "tempInCelsius": 26,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20222640703": {
+  "description": "Sunny afternoon",
+  "tempInCelsius": 24,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640704": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640701": {
+  "description": "Possible late shower",
+  "tempInCelsius": 25,
+  "weatherType": "RAIN"
+ },
+ "CD_M20222640706": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640804": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640802": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 27,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640803": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 27,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640807": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 27,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640805": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 27,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640806": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640801": {
+  "description": "Shower or two",
+  "tempInCelsius": 24,
+  "weatherType": "RAIN"
+ },
+ "CD_M20222640906": {
+  "description": "Early rain then a shower or two",
+  "tempInCelsius": 22,
+  "weatherType": "RAIN"
+ },
+ "CD_M20222640905": {
+  "description": "Showers",
+  "tempInCelsius": 28,
+  "weatherType": "RAIN"
+ },
+ "CD_M20222640904": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640907": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640902": {
+  "description": "Shower or two clearing",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M20222640901": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222640903": {
+  "description": "Shower or two clearing",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M20222641007": {
+  "description": "Possible shower",
+  "tempInCelsius": 24,
+  "weatherType": "RAIN"
+ },
+ "CD_M20222641002": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 21,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222641001": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 23,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222641004": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 23,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222641003": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 24,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222641006": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 29,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222641101": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222641201": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222641301": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 29,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222641302": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222641401": {
+  "description": "Shower or two",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M20222641402": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20222641501": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640101": {
+  "description": "Showers easing",
+  "tempInCelsius": 14,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640102": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640103": {
+  "description": "Cloud easing",
+  "tempInCelsius": 15,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640104": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640105": {
+  "description": "Showers",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640106": {
+  "description": "Morning fog then partly cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640107": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 20,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640108": {
+  "description": "Shower or two",
+  "tempInCelsius": 23,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640109": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 20,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640201": {
+  "description": "A few showers",
+  "tempInCelsius": 13,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640202": {
+  "description": "Shower or two",
+  "tempInCelsius": 14,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640203": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640204": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640205": {
+  "description": "Cloudy",
+  "tempInCelsius": 14,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M21012640206": {
+  "description": "Cloudy",
+  "tempInCelsius": 14,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M21012640207": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 15,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640208": {
+  "description": "Cloudy",
+  "tempInCelsius": 14,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M21012640209": {
+  "description": "Possible shower",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640301": {
+  "description": "Shower or two",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640303": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640305": {
+  "description": "Possible shower",
+  "tempInCelsius": 22,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640304": {
+  "description": "Showers easing",
+  "tempInCelsius": 16,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640302": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 26,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640306": {
+  "description": "Showers developing",
+  "tempInCelsius": 17,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640307": {
+  "description": "Showers developing",
+  "tempInCelsius": 17,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640308": {
+  "description": "Showers developing",
+  "tempInCelsius": 17,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640309": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640401": {
+  "description": "Showers",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640404": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 23,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640402": {
+  "description": "Late shower or two Possible storm",
+  "tempInCelsius": 29,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M21012640403": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640405": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640406": {
+  "description": "Showers",
+  "tempInCelsius": 15,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640407": {
+  "description": "Rain",
+  "tempInCelsius": 15,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640408": {
+  "description": "Rain",
+  "tempInCelsius": 15,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640409": {
+  "description": "Rain",
+  "tempInCelsius": 15,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640502": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640501": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 19,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640503": {
+  "description": "Showers",
+  "tempInCelsius": 16,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640504": {
+  "description": "Showers",
+  "tempInCelsius": 16,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640505": {
+  "description": "Showers",
+  "tempInCelsius": 16,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640506": {
+  "description": "Showers",
+  "tempInCelsius": 16,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640507": {
+  "description": "Morning shower or two",
+  "tempInCelsius": 15,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640508": {
+  "description": "Sunny",
+  "tempInCelsius": 24,
+  "weatherType": "SUNNY"
+ },
+ "CD_M21012640509": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640601": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640602": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640603": {
+  "description": "Showers",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640604": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 17,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640605": {
+  "description": "Sunny",
+  "tempInCelsius": 19,
+  "weatherType": "SUNNY"
+ },
+ "CD_M21012640606": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 19,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640607": {
+  "description": "Showers",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640608": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640609": {
+  "description": "Sunny",
+  "tempInCelsius": 20,
+  "weatherType": "SUNNY"
+ },
+ "CD_M21012640701": {
+  "description": "Showers",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640702": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640703": {
+  "description": "Rain increasing",
+  "tempInCelsius": 23,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640704": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640705": {
+  "description": "Shower or two",
+  "tempInCelsius": 15,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640706": {
+  "description": "Shower or two",
+  "tempInCelsius": 15,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640707": {
+  "description": "Possible shower",
+  "tempInCelsius": 15,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640708": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 15,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640709": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 15,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640801": {
+  "description": "Showers",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640802": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640803": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640804": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640805": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640806": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640807": {
+  "description": "Shower or two",
+  "tempInCelsius": 14,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640808": {
+  "description": "Showers increasing",
+  "tempInCelsius": 22,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640809": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640901": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640902": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640903": {
+  "description": "Rain easing",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640904": {
+  "description": "Showers increasing",
+  "tempInCelsius": 25,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640905": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012640906": {
+  "description": "Rain",
+  "tempInCelsius": 19,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640907": {
+  "description": "Afternoon shower or two",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640908": {
+  "description": "Rain Possible heavy falls",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012640909": {
+  "description": "Shower or two",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012641002": {
+  "description": "Showers",
+  "tempInCelsius": 14,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012641001": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012641006": {
+  "description": "Showers increasing",
+  "tempInCelsius": 16,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012641009": {
+  "description": "Shower or two",
+  "tempInCelsius": 17,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012641004": {
+  "description": "Shower or two",
+  "tempInCelsius": 17,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012641003": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012641008": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012641007": {
+  "description": "Late shower Becoming windy",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012641005": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 23,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012641101": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012641102": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012641103": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 20,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012641104": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 25,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012641201": {
+  "description": "Possible late shower",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M21012641202": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012641301": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M21012641302": {
+  "description": "Showers Possible late storm",
+  "tempInCelsius": 25,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M21012641401": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640101": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640102": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640104": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640103": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640106": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640105": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640107": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640201": {
+  "description": "Rain and storms Windy",
+  "tempInCelsius": 27,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20212640205": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 25,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640207": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 25,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640202": {
+  "description": "Cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20212640206": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640203": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 31,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640204": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640301": {
+  "description": "Early shower or two",
+  "tempInCelsius": 25,
+  "weatherType": "RAIN"
+ },
+ "CD_M20212640302": {
+  "description": "Rain",
+  "tempInCelsius": 25,
+  "weatherType": "RAIN"
+ },
+ "CD_M20212640303": {
+  "description": "Drizzle at times clearing",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M20212640304": {
+  "description": "Drizzle at times clearing",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M20212640305": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640307": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 22,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640306": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640401": {
+  "description": "Sunny Windy morning",
+  "tempInCelsius": 33,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20212640402": {
+  "description": "Cool change Humid",
+  "tempInCelsius": 29,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640403": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640404": {
+  "description": "Cool change Humid",
+  "tempInCelsius": 29,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640405": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640406": {
+  "description": "Cloudy",
+  "tempInCelsius": 22,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20212640407": {
+  "description": "Shower or two",
+  "tempInCelsius": 29,
+  "weatherType": "RAIN"
+ },
+ "CD_M20212640501": {
+  "description": "Cloudy",
+  "tempInCelsius": 20,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20212640502": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 21,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640503": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640504": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 22,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640505": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640506": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 28,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640507": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640601": {
+  "description": "Cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20212640602": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 24,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640603": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640604": {
+  "description": "Becoming sunny",
+  "tempInCelsius": 21,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640605": {
+  "description": "Cloud increasing",
+  "tempInCelsius": 28,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640606": {
+  "description": "Cloud increasing",
+  "tempInCelsius": 28,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640607": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640701": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640702": {
+  "description": "Rain developing",
+  "tempInCelsius": 26,
+  "weatherType": "RAIN"
+ },
+ "CD_M20212640703": {
+  "description": "Afternoon showers",
+  "tempInCelsius": 24,
+  "weatherType": "RAIN"
+ },
+ "CD_M20212640704": {
+  "description": "Rain developing",
+  "tempInCelsius": 26,
+  "weatherType": "RAIN"
+ },
+ "CD_M20212640705": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640706": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640707": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640801": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640802": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 26,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640803": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 26,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640804": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640805": {
+  "description": "Shower or two",
+  "tempInCelsius": 23,
+  "weatherType": "RAIN"
+ },
+ "CD_M20212640806": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640807": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640901": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 22,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640902": {
+  "description": "Shower or two",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M20212640903": {
+  "description": "Shower or two",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M20212640904": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640905": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640906": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 26,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212640907": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212641001": {
+  "description": "Sunny",
+  "tempInCelsius": 31,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20212641002": {
+  "description": "Sunny",
+  "tempInCelsius": 32,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20212641101": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20212641102": {
+  "description": "Sunny",
+  "tempInCelsius": 33,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20212641201": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640101": {
+  "description": "Humid Partly cloudy",
+  "tempInCelsius": 26,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20202640102": {
+  "description": "Rain, heavy at times",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M20202640103": {
+  "description": "Humid Smoke",
+  "tempInCelsius": 28,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20202640104": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640105": {
+  "description": "Humid Hazy",
+  "tempInCelsius": 26,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20202640106": {
+  "description": "Humid Hazy",
+  "tempInCelsius": 26,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20202640107": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640201": {
+  "description": "Showers and storms developing",
+  "tempInCelsius": 31,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20202640202": {
+  "description": "Showers developing",
+  "tempInCelsius": 25,
+  "weatherType": "RAIN"
+ },
+ "CD_M20202640203": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640204": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640205": {
+  "description": "Humid Cloudy",
+  "tempInCelsius": 23,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20202640206": {
+  "description": "Humid Partly cloudy",
+  "tempInCelsius": 25,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640207": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640301": {
+  "description": "Shower or two clearing",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M20202640302": {
+  "description": "Sunny",
+  "tempInCelsius": 22,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20202640303": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640304": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640305": {
+  "description": "Possible shower",
+  "tempInCelsius": 26,
+  "weatherType": "RAIN"
+ },
+ "CD_M20202640306": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 31,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640307": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 30,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640401": {
+  "description": "Cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20202640402": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 28,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640403": {
+  "description": "Becoming sunny",
+  "tempInCelsius": 23,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640404": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640405": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640406": {
+  "description": "Dry day Possible late shower",
+  "tempInCelsius": 32,
+  "weatherType": "RAIN"
+ },
+ "CD_M20202640407": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640501": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640502": {
+  "description": "Light shower or two",
+  "tempInCelsius": 16,
+  "weatherType": "RAIN"
+ },
+ "CD_M20202640503": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 26,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640504": {
+  "description": "Becoming sunny",
+  "tempInCelsius": 21,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640505": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 20,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640506": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 22,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640507": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640601": {
+  "description": "Windy Cool change with showers",
+  "tempInCelsius": 29,
+  "weatherType": "RAIN"
+ },
+ "CD_M20202640602": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640603": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640604": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640605": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 20,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640606": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640607": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640701": {
+  "description": "Mostly cloudy",
+  "tempInCelsius": 19,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20202640702": {
+  "description": "Possible shower",
+  "tempInCelsius": 24,
+  "weatherType": "RAIN"
+ },
+ "CD_M20202640704": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20202640703": {
+  "description": "Possible shower",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20192640101": {
+  "description": "Sunny",
+  "tempInCelsius": 33,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20192640102": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640103": {
+  "description": "Possible late shower",
+  "tempInCelsius": 29,
+  "weatherType": "RAIN"
+ },
+ "CD_M20192640104": {
+  "description": "Late cool change",
+  "tempInCelsius": 39,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20192640105": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640201": {
+  "description": "Shower or two",
+  "tempInCelsius": 30,
+  "weatherType": "RAIN"
+ },
+ "CD_M20192640202": {
+  "description": "Showers clearing later Windy",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M20192640203": {
+  "description": "Showers clearing later Windy",
+  "tempInCelsius": 20,
+  "weatherType": "RAIN"
+ },
+ "CD_M20192640204": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 25,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640205": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640301": {
+  "description": "Becoming cloudy",
+  "tempInCelsius": 26,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640302": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 29,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20192640303": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640304": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640305": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640401": {
+  "description": "Becoming sunny",
+  "tempInCelsius": 25,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640402": {
+  "description": "Becoming sunny",
+  "tempInCelsius": 25,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640403": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640404": {
+  "description": "Sunny",
+  "tempInCelsius": 29,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20192640405": {
+  "description": "Sunny",
+  "tempInCelsius": 32,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20192640501": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640502": {
+  "description": "Hot and sunny",
+  "tempInCelsius": 37,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20192640503": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 33,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640504": {
+  "description": "Hot Partly cloudy",
+  "tempInCelsius": 37,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640505": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640601": {
+  "description": "Becoming sunny",
+  "tempInCelsius": 25,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640602": {
+  "description": "Becoming sunny",
+  "tempInCelsius": 26,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640603": {
+  "description": "Becoming sunny",
+  "tempInCelsius": 26,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640604": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640605": {
+  "description": "Morning smoke haze",
+  "tempInCelsius": 25,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20192640701": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 26,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640702": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 29,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640703": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640704": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 26,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20192640705": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 26,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20192640801": {
+  "description": "Possible shower",
+  "tempInCelsius": 32,
+  "weatherType": "RAIN"
+ },
+ "CD_M20192640802": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20192640901": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640101": {
+  "description": "Clear",
+  "tempInCelsius": 18,
+  "weatherType": "CLEAR_NIGHT"
+ },
+ "CD_M20182640102": {
+  "description": "Clear",
+  "tempInCelsius": 18,
+  "weatherType": "CLEAR_NIGHT"
+ },
+ "CD_M20182640103": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640104": {
+  "description": "Clear",
+  "tempInCelsius": 18,
+  "weatherType": "CLEAR_NIGHT"
+ },
+ "CD_M20182640201": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640202": {
+  "description": "Squally cool change Possible storm",
+  "tempInCelsius": 18,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20182640203": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640204": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640301": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640302": {
+  "description": "Mostly clear",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640303": {
+  "description": "Possible shower",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20182640304": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640401": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640402": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640403": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640404": {
+  "description": "Rain",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20182640501": {
+  "description": "Mostly clear",
+  "tempInCelsius": 18,
+  "weatherType": "CLEAR_NIGHT"
+ },
+ "CD_M20182640502": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640503": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640504": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 24,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640601": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640602": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640603": {
+  "description": "Clear",
+  "tempInCelsius": 18,
+  "weatherType": "CLEAR_NIGHT"
+ },
+ "CD_M20182640604": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640701": {
+  "description": "Cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20182640702": {
+  "description": "Mostly Sunny",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20182640703": {
+  "description": "Cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20182640704": {
+  "description": "Morning showers Windy",
+  "tempInCelsius": 26,
+  "weatherType": "RAIN"
+ },
+ "CD_M20182640801": {
+  "description": "Showers increasing",
+  "tempInCelsius": 24,
+  "weatherType": "RAIN"
+ },
+ "CD_M20172640101": {
+  "description": "Clear",
+  "tempInCelsius": 18,
+  "weatherType": "CLEAR_NIGHT"
+ },
+ "CD_M20172640102": {
+  "description": "Rain at times",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20172640103": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20172640104": {
+  "description": "Rain Possible storm",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20172640201": {
+  "description": "Clear",
+  "tempInCelsius": 18,
+  "weatherType": "CLEAR_NIGHT"
+ },
+ "CD_M20172640202": {
+  "description": "Possible shower",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20172640203": {
+  "description": "Possible shower",
+  "tempInCelsius": 18,
+  "weatherType": "RAIN"
+ },
+ "CD_M20172640204": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20172640301": {
+  "description": "Shower/storms",
+  "tempInCelsius": 18,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20172640302": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20172640303": {
+  "description": "Partly cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20172640304": {
+  "description": "Shower or two",
+  "tempInCelsius": 21,
+  "weatherType": "RAIN"
+ },
+ "CD_M20172640401": {
+  "description": "Clear",
+  "tempInCelsius": 18,
+  "weatherType": "CLEAR_NIGHT"
+ },
+ "CD_M20172640402": {
+  "description": "Mostly clear",
+  "tempInCelsius": 18,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20172640403": {
+  "description": "Clear",
+  "tempInCelsius": 18,
+  "weatherType": "CLEAR_NIGHT"
+ },
+ "CD_M20172640404": {
+  "description": "Clear",
+  "tempInCelsius": 18,
+  "weatherType": "CLEAR_NIGHT"
+ },
+ "CD_M20172640501": {
+  "description": "Heavy showers Possible storm",
+  "tempInCelsius": 18,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20172640502": {
+  "description": "Humid Becoming mostly sunny",
+  "tempInCelsius": 28,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20172640503": {
+  "description": "Clear",
+  "tempInCelsius": 18,
+  "weatherType": "CLEAR_NIGHT"
+ },
+ "CD_M20172640504": {
+  "description": "Sunny",
+  "tempInCelsius": 33,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20172640601": {
+  "description": "Sunny",
+  "tempInCelsius": 32,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20172640602": {
+  "description": "Mostly sunny",
+  "tempInCelsius": 31,
+  "weatherType": "MOSTLY_SUNNY"
+ },
+ "CD_M20172640603": {
+  "description": "Shower or two Possible storm",
+  "tempInCelsius": 33,
+  "weatherType": "THUNDERSTORMS"
+ },
+ "CD_M20172640604": {
+  "description": "Shower or two",
+  "tempInCelsius": 29,
+  "weatherType": "RAIN"
+ },
+ "CD_M20172640701": {
+  "description": "Clear",
+  "tempInCelsius": 18,
+  "weatherType": "CLEAR_NIGHT"
+ },
+ "CD_M20172640702": {
+  "description": "Cloudy",
+  "tempInCelsius": 18,
+  "weatherType": "OVERCAST"
+ },
+ "CD_M20172640703": {
+  "description": "Sunny",
+  "tempInCelsius": 32,
+  "weatherType": "SUNNY"
+ },
+ "CD_M20172640704": {
+  "description": "Clear",
+  "tempInCelsius": 18,
+  "weatherType": "CLEAR_NIGHT"
+ },
+ "CD_M20172640801": {
+  "description": "Possible shower",
+  "tempInCelsius": 28,
+  "weatherType": "RAIN"
+ }
+}

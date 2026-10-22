@@ -1,0 +1,60 @@
+name: Reprice Fairline
+
+# The scheduled model run (added 2026-10-22), so Fairline keeps up with the
+# weather forecast, team sheets and results without anyone at the PC.
+# Each run: if AFL.com.au has new results, refit the model and commit the
+# refreshed data back here; then reprice the next round with the latest
+# forecast and named teams and push it to Fairline's live board. Fairline only
+# stores a push when a price moved enough to matter.
+#
+# Times are UTC (Melbourne is UTC+11 in daylight saving). Every job bills at
+# least a minute, so the cadence is kept inside the free 2,000 minutes a month.
+on:
+  schedule:
+    - cron: "15 */3 * * 1,2"        # Mon-Tue: every 3 hours (the forecast for the coming round)
+    - cron: "15 * * * 3,4,5,6,0"    # Wed-Sun: hourly
+    - cron: "45 0-11 * * 4,5,6,0"   # Thu-Sun, 11am-10pm Melbourne: also on the half hour (teams, late changes)
+  workflow_dispatch:
+    inputs:
+      round:
+        description: "Round to price (blank = the next round with games to play)"
+        required: false
+        default: ""
+      force:
+        description: "Store the board even if no price moved"
+        type: boolean
+        default: false
+
+concurrency:
+  group: reprice
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  reprice:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TZ: Australia/Melbourne
+      FAIRLINE_BOARD_TOKEN: ${{ secrets.FAIRLINE_BOARD_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Refit if needed, reprice, publish
+        run: node run-round.js ${{ inputs.round }} --publish --auto ${{ inputs.force && '--force' || '' }}
+      # Only a refit changes the model's inputs (results, team sheets, player
+      # stats, ratings); the reprice files are rebuilt every run, and the
+      # published predictions live in Fairline's ledger, so they aren't committed.
+      - name: Commit refreshed data after a refit
+        run: |
+          if git diff --quiet -- data/matches.json; then echo "No refit this run, nothing to commit."; exit 0; fi
+          git config user.name "fairline-reprice"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          git commit -m "data: refit after new results ($(date '+%a %d %b %H:%M'))"
+          git pull --rebase
+          git push

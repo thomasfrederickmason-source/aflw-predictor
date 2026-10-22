@@ -1,0 +1,732 @@
+season,date,homeTeam,awayTeam,homeScore,awayScore,stage,homeAvgOdds,homeMaxOdds,awayAvgOdds,awayMaxOdds,bookmakerCount
+2017,1490410500,Brisbane Lions W,Adelaide Crows W,29,35, - Grand Final,2.07,2.08,1.73,1.75,4
+2017,1489898100,Carlton Blues W,Brisbane Lions W,37,37,,,,,,
+2017,1489890900,Collingwood Magpies W,Adelaide Crows W,46,70,,1.73,1.75,2.03,2.05,3
+2017,1489824600,GWS Giants W,Western Bulldogs W,20,52,,1.73,1.75,2.04,2.05,3
+2017,1489815300,Melbourne Demons W,Fremantle Dockers W,70,16,,1.33,1.33,3.16,3.25,3
+2017,1489277100,Collingwood Magpies W,GWS Giants W,55,19,,1.48,1.5,2.52,2.55,2
+2017,1489219800,Adelaide Crows W,Melbourne Demons W,32,34,,2.9,2.9,1.4,1.4,3
+2017,1489190700,Brisbane Lions W,Western Bulldogs W,23,16,,1.36,1.36,3.1,3.1,3
+2017,1489129500,Fremantle Dockers W,Carlton Blues W,43,27,,2.21,2.22,1.62,1.65,3
+2017,1488615000,Adelaide Crows W,Brisbane Lions W,30,33,,2.38,2.4,1.54,1.55,3
+2017,1488594900,Fremantle Dockers W,Collingwood Magpies W,31,32,,1.88,1.9,1.88,1.9,3
+2017,1488587700,Carlton Blues W,Western Bulldogs W,54,48,,1.55,1.55,2.36,2.4,3
+2017,1488521100,GWS Giants W,Melbourne Demons W,20,15,,2.86,2.9,1.39,1.4,3
+2017,1488096300,Fremantle Dockers W,Adelaide Crows W,23,46,,1.42,1.42,2.74,2.8,3
+2017,1488010200,Western Bulldogs W,Collingwood Magpies W,25,32,,2.15,2.15,1.65,1.68,3
+2017,1488000900,Brisbane Lions W,GWS Giants W,43,9,,1.35,1.35,3.09,3.15,3
+2017,1487982900,Melbourne Demons W,Carlton Blues W,42,36,,1.84,1.85,1.92,1.95,3
+2017,1487466300,Adelaide Crows W,Carlton Blues W,17,14,,1.49,1.5,2.51,2.55,3
+2017,1487407200,Western Bulldogs W,Melbourne Demons W,29,43,,2.05,2.1,1.72,1.72,3
+2017,1487396100,Brisbane Lions W,Collingwood Magpies W,27,23,,1.34,1.35,3.09,3.15,3
+2017,1487379900,GWS Giants W,Fremantle Dockers W,43,43,,,,,,
+2017,1486886700,Fremantle Dockers W,Brisbane Lions W,23,36,,2.72,2.75,1.42,1.44,3
+2017,1486802400,Collingwood Magpies W,Melbourne Demons W,25,44,,2.13,2.15,1.67,1.68,3
+2017,1486787700,Carlton Blues W,GWS Giants W,47,34,,1.08,1.08,7.12,7.5,3
+2017,1486715700,Western Bulldogs W,Adelaide Crows W,23,48,,2.84,2.9,1.4,1.4,3
+2017,1486274700,Melbourne Demons W,Brisbane Lions W,10,25,,,,,,
+2017,1486197600,Western Bulldogs W,Fremantle Dockers W,44,12,,1.74,1.78,2.04,2.05,2
+2017,1486188300,Adelaide Crows W,GWS Giants W,48,12,,1.4,1.42,2.84,2.9,3
+2017,1486111500,Carlton Blues W,Collingwood Magpies W,46,11,,1.94,1.97,1.84,1.9,3
+2018,1521855300,Western Bulldogs W,Brisbane Lions W,27,21, - Grand Final,1.76,1.78,2,2.05,3
+2018,1521344100,Collingwood Magpies W,Adelaide Crows W,53,32,,2.27,2.35,1.62,1.69,3
+2018,1521274200,Western Bulldogs W,Melbourne Demons W,33,31,,1.8,1.82,1.98,2,3
+2018,1521266700,Fremantle Dockers W,Carlton Blues W,59,48,,1.57,1.64,2.37,2.45,3
+2018,1521187500,GWS Giants W,Brisbane Lions W,24,64,,2.1,2.18,1.71,1.77,3
+2018,1520746500,Carlton Blues W,Melbourne Demons W,22,57,,1.29,1.31,3.43,3.7,3
+2018,1520669400,GWS Giants W,Western Bulldogs W,46,28,,2.66,2.75,1.44,1.45,3
+2018,1520660100,Brisbane Lions W,Collingwood Magpies W,39,53,,3.13,3.2,1.34,1.36,3
+2018,1520582700,Adelaide Crows W,Fremantle Dockers W,40,36,,1.32,1.33,3.28,3.35,2
+2018,1520134500,Collingwood Magpies W,Western Bulldogs W,41,49,,1.39,1.4,2.94,3,3
+2018,1520064600,Adelaide Crows W,Carlton Blues W,55,20,,1.42,1.48,2.85,3,3
+2018,1520057100,Fremantle Dockers W,GWS Giants W,21,39,,2.15,2.2,1.68,1.72,3
+2018,1519977900,Melbourne Demons W,Brisbane Lions W,34,28,,1.77,1.81,2.03,2.05,3
+2018,1519536900,GWS Giants W,Adelaide Crows W,19,19,,,,,,
+2018,1519459800,Melbourne Demons W,Collingwood Magpies W,24,58,,3.47,3.6,1.29,1.3,2
+2018,1519450500,Brisbane Lions W,Fremantle Dockers W,22,15,,1.44,1.45,2.7,2.75,2
+2018,1519373100,Western Bulldogs W,Carlton Blues W,86,13,,1.65,1.68,2.19,2.2,2
+2018,1518939300,Fremantle Dockers W,Melbourne Demons W,36,31,,2.76,2.8,1.42,1.44,3
+2018,1518932100,Collingwood Magpies W,GWS Giants W,35,48,,2.07,2.1,1.73,1.75,3
+2018,1518856800,Carlton Blues W,Brisbane Lions W,18,40,,2.21,2.25,1.64,1.65,3
+2018,1518836700,Adelaide Crows W,Western Bulldogs W,41,34,,2.21,2.25,1.64,1.65,3
+2018,1518327300,Brisbane Lions W,Western Bulldogs W,24,33,,2.17,2.2,1.67,1.69,3
+2018,1518250200,Fremantle Dockers W,Collingwood Magpies W,40,27,,1.97,2.02,1.81,1.87,3
+2018,1518242700,Melbourne Demons W,Adelaide Crows W,56,24,,1.52,1.59,2.48,2.6,3
+2018,1518163500,GWS Giants W,Carlton Blues W,9,30,,1.55,1.56,2.4,2.45,3
+2018,1517722500,Western Bulldogs W,Fremantle Dockers W,49,23,,1.39,1.4,2.85,2.9,3
+2018,1517645700,Adelaide Crows W,Brisbane Lions W,19,31,,2.27,2.3,1.59,1.6,3
+2018,1517637900,Melbourne Demons W,GWS Giants W,45,39,,1.27,1.28,3.5,3.6,3
+2018,1517561100,Carlton Blues W,Collingwood Magpies W,22,14,,1.43,1.46,2.71,2.8,3
+2019,1553997600,Adelaide Crows W,Carlton Blues W,63,18, - Play Offs,1.11,1.12,6.09,6.25,3
+2019,1553393400,Adelaide Crows W,Geelong Cats W,73,7, - Play Offs,1.08,1.09,7.37,8,3
+2019,1553312700,Carlton Blues W,Fremantle Dockers W,64,28, - Play Offs,2.45,2.5,1.53,1.58,3
+2019,1552799100,Western Bulldogs W,Carlton Blues W,38,41,,2.07,2.15,1.74,1.81,3
+2019,1552791900,Collingwood Magpies W,Brisbane Lions W,25,19,,2.41,2.55,1.56,1.65,3
+2019,1552723800,Fremantle Dockers W,North Melbourne W,52,25,,1.89,1.91,1.88,1.91,3
+2019,1552715100,Melbourne Demons W,Adelaide Crows W,8,68,,1.48,1.52,2.59,2.75,3
+2019,1552637700,GWS Giants W,Geelong Cats W,41,10,,2.19,2.25,1.66,1.7,3
+2019,1552194300,Carlton Blues W,Brisbane Lions W,43,27,,2.07,2.15,1.74,1.81,3
+2019,1552187100,Adelaide Crows W,GWS Giants W,59,27,,1.07,1.08,8.28,9.95,3
+2019,1552119000,Western Bulldogs W,Melbourne Demons W,38,39,,1.41,1.44,2.85,3,3
+2019,1552110300,Collingwood Magpies W,North Melbourne W,31,53,,1.12,1.14,6.05,6.95,3
+2019,1552102500,Geelong Cats W,Fremantle Dockers W,13,49,,1.58,1.65,2.34,2.55,3
+2019,1551596700,Fremantle Dockers W,Western Bulldogs W,52,34,,1.57,1.62,2.35,2.55,3
+2019,1551589500,North Melbourne W,Adelaide Crows W,29,64,,2.15,2.35,1.69,1.78,3
+2019,1551582300,GWS Giants W,Melbourne Demons W,18,57,,1.37,1.41,3.06,3.2,3
+2019,1551514500,Carlton Blues W,Collingwood Magpies W,34,29,,1.44,1.44,2.78,2.8,3
+2019,1551505500,Brisbane Lions W,Geelong Cats W,8,35,,3.01,3.19,1.37,1.44,3
+2019,1550984700,Melbourne Demons W,North Melbourne W,34,38,,1.47,1.48,2.62,2.65,3
+2019,1550977500,Collingwood Magpies W,GWS Giants W,27,36,,1.56,1.64,2.38,2.5,3
+2019,1550918100,Adelaide Crows W,Fremantle Dockers W,65,23,,1.67,1.73,2.16,2.25,3
+2019,1550909700,Western Bulldogs W,Brisbane Lions W,17,49,,2.46,2.55,1.53,1.6,3
+2019,1550900700,Geelong Cats W,Carlton Blues W,19,14,,2.49,2.55,1.52,1.55,3
+2019,1550381700,Brisbane Lions W,Melbourne Demons W,21,60,,2.02,2.1,1.77,1.82,3
+2019,1550374500,Adelaide Crows W,Geelong Cats W,66,37,,1.26,1.3,3.73,4,3
+2019,1550304900,Fremantle Dockers W,Collingwood Magpies W,51,18,,1.26,1.28,3.77,3.85,3
+2019,1550295900,GWS Giants W,Carlton Blues W,36,65,,2.49,2.55,1.51,1.54,3
+2019,1550218500,North Melbourne W,Western Bulldogs W,53,22,,1.51,1.57,2.52,2.6,3
+2019,1549782300,Fremantle Dockers W,Brisbane Lions W,67,40,,2.05,2.1,1.75,1.8,3
+2019,1549775100,Carlton Blues W,Adelaide Crows W,44,57,,1.5,1.55,2.55,2.61,3
+2019,1549700100,Western Bulldogs W,Geelong Cats W,34,16,,1.51,1.6,2.51,2.6,3
+2019,1549691100,Collingwood Magpies W,Melbourne Demons W,9,26,,1.53,1.57,2.47,2.55,3
+2019,1549613700,GWS Giants W,North Melbourne W,23,48,,1.6,1.62,2.3,2.3,3
+2019,1549173900,Brisbane Lions W,GWS Giants W,29,27,,1.74,1.75,2.07,2.1,5
+2019,1549166700,Melbourne Demons W,Fremantle Dockers W,55,59,,2.46,2.55,1.54,1.59,5
+2019,1549159500,North Melbourne W,Carlton Blues W,52,16,,1.5,1.64,2.57,2.75,5
+2019,1549100400,Adelaide Crows W,Western Bulldogs W,17,18,,2.08,2.2,1.73,1.77,5
+2019,1549093500,Geelong Cats W,Collingwood Magpies W,24,23,,2.18,2.4,1.67,1.74,5
+2020,1584861000,Collingwood Magpies W,St Kilda W,0,0,,,,,,
+2020,1584853800,Fremantle Dockers W,Melbourne Demons W,0,0,,,,,,
+2020,1584843000,Gold Coast Suns W,Adelaide Crows W,0,0,,,,,,
+2020,1584843000,Carlton Blues W,Brisbane Lions W,44,15, - Play Offs,1.33,1.35,3.27,3.5,5
+2020,1584771000,GWS Giants W,Geelong Cats W,0,0,,,,,,
+2020,1584769200,Fremantle Dockers W,Gold Coast Suns W,80,10, - Play Offs,1.18,1.2,4.74,5,5
+2020,1584763800,North Melbourne W,Western Bulldogs W,0,0,,,,,,
+2020,1584762000,GWS Giants W,Melbourne Demons W,26,29, - Play Offs,1.47,1.52,2.62,2.8,5
+2020,1584756600,Carlton Blues W,West Coast Eagles W,0,0,,,,,,
+2020,1584754800,North Melbourne W,Collingwood Magpies W,34,32, - Play Offs,1.25,1.26,3.83,4,5
+2020,1584686700,Richmond W,Brisbane Lions W,0,0,,,,,,
+2020,1584252600,West Coast Eagles W,Gold Coast Suns W,8,33,,1.59,1.64,2.31,2.35,4
+2020,1584245400,Adelaide Crows W,GWS Giants W,21,26,,3.15,3.5,1.35,1.44,4
+2020,1584238200,Western Bulldogs W,Fremantle Dockers W,51,66,,1.21,1.23,4.29,4.55,4
+2020,1584175200,Melbourne Demons W,Carlton Blues W,24,40,,2.57,2.75,1.48,1.54,4
+2020,1584166200,St Kilda W,Richmond W,42,3,,1.27,1.28,3.68,3.85,4
+2020,1584159000,Brisbane Lions W,Collingwood Magpies W,14,43,,2.05,2.15,1.74,1.8,4
+2020,1584087000,Geelong Cats W,North Melbourne W,20,66,,1.25,1.27,3.84,4.15,4
+2020,1583647800,Fremantle Dockers W,Brisbane Lions W,50,32,,1.49,1.51,2.56,2.65,4
+2020,1583640600,Melbourne Demons W,West Coast Eagles W,66,7,,1.11,1.15,6.31,7.5,4
+2020,1583633400,Collingwood Magpies W,Western Bulldogs W,53,21,,1.53,1.56,2.46,2.55,4
+2020,1583568600,Carlton Blues W,St Kilda W,50,29,,1.26,1.3,3.79,4,3
+2020,1583561400,GWS Giants W,Richmond W,56,11,,1.24,1.25,3.96,4,3
+2020,1583554200,North Melbourne W,Adelaide Crows W,63,21,,1.39,1.42,2.9,3,3
+2020,1583482200,Gold Coast Suns W,Geelong Cats W,18,38,,1.9,1.98,1.88,1.91,3
+2020,1583043000,Brisbane Lions W,GWS Giants W,51,23,,1.51,1.54,2.49,2.55,4
+2020,1583035800,St Kilda W,Fremantle Dockers W,23,24,,1.27,1.3,3.63,4,4
+2020,1583028600,Adelaide Crows W,Carlton Blues W,28,36,,3.84,4,1.25,1.25,4
+2020,1582963800,West Coast Eagles W,Western Bulldogs W,30,26,,3.48,3.95,1.29,1.35,4
+2020,1582956600,North Melbourne W,Gold Coast Suns W,47,34,,1.11,1.14,6.11,7,4
+2020,1582949400,Richmond W,Geelong Cats W,45,67,,1.24,1.28,3.94,4.5,4
+2020,1582871700,Collingwood Magpies W,Melbourne Demons W,26,46,,1.7,1.75,2.11,2.15,4
+2020,1582438200,Geelong Cats W,Adelaide Crows W,38,49,,1.36,1.4,3.05,3.2,4
+2020,1582431000,Richmond W,North Melbourne W,20,76,,1.2,1.25,4.41,5,4
+2020,1582423800,GWS Giants W,West Coast Eagles W,42,14,,1.27,1.3,3.69,4.14,4
+2020,1582359000,Fremantle Dockers W,Collingwood Magpies W,33,30,,1.42,1.45,2.77,2.9,4
+2020,1582351800,Gold Coast Suns W,Brisbane Lions W,28,28,,,,,,
+2020,1582344600,Western Bulldogs W,Carlton Blues W,30,51,,1.59,1.62,2.31,2.4,4
+2020,1582272600,St Kilda W,Melbourne Demons W,19,14,,4.56,5,1.19,1.22,4
+2020,1581833400,Adelaide Crows W,St Kilda W,40,27,,1.14,1.16,5.54,5.75,3
+2020,1581826200,Carlton Blues W,Collingwood Magpies W,24,39,,2.46,2.6,1.53,1.62,3
+2020,1581819000,Geelong Cats W,Brisbane Lions W,20,39,,2.15,2.25,1.68,1.75,3
+2020,1581754200,West Coast Eagles W,Fremantle Dockers W,15,60,,1.21,1.23,4.25,4.31,3
+2020,1581747000,Gold Coast Suns W,Richmond W,33,22,,2.53,2.75,1.51,1.56,3
+2020,1581739800,North Melbourne W,GWS Giants W,37,19,,1.3,1.33,3.41,3.6,3
+2020,1581669600,Western Bulldogs W,Melbourne Demons W,12,32,,1.55,1.55,2.41,2.5,2
+2020,1581228600,Fremantle Dockers W,Geelong Cats W,44,28,,1.55,1.58,2.41,2.5,3
+2020,1581221400,St Kilda W,Western Bulldogs W,14,39,,1.5,1.53,2.53,2.55,3
+2020,1581214200,Collingwood Magpies W,West Coast Eagles W,38,11,,1.32,1.37,3.29,3.5,3
+2020,1581142200,Brisbane Lions W,Adelaide Crows W,34,21,,2.82,3,1.42,1.47,3
+2021,1618632000,Adelaide Crows W,Brisbane Lions W,20,38, - Play Offs,2.53,2.6,1.51,1.55,8
+2021,1618035000,Brisbane Lions W,Collingwood Magpies W,45,41, - Play Offs,1.68,1.7,2.16,2.2,8
+2021,1618027800,Adelaide Crows W,Melbourne Demons W,33,15, - Play Offs,1.51,1.59,2.52,2.8,8
+2021,1617423000,Collingwood Magpies W,North Melbourne W,50,44, - Play Offs,1.73,1.78,2.09,2.16,8
+2021,1617415500,Melbourne Demons W,Fremantle Dockers W,40,23, - Play Offs,1.77,1.81,2.03,2.06,8
+2021,1616915400,West Coast Eagles W,St Kilda W,20,76,,2.33,2.4,1.59,1.65,7
+2021,1616908200,GWS Giants W,Carlton Blues W,31,32,,1.19,1.22,4.58,4.8,7
+2021,1616895600,Adelaide Crows W,Collingwood Magpies W,31,17,,1.59,1.61,2.32,2.4,7
+2021,1616825400,Gold Coast Suns W,Geelong Cats W,24,41,,2.34,2.4,1.58,1.62,7
+2021,1616818200,Melbourne Demons W,Brisbane Lions W,38,36,,2.51,2.57,1.51,1.59,7
+2021,1616811000,North Melbourne W,Fremantle Dockers W,30,29,,2.05,2.1,1.75,1.78,7
+2021,1616739000,Western Bulldogs W,Richmond W,45,32,,1.4,1.41,2.91,3,7
+2021,1616310600,Fremantle Dockers W,Melbourne Demons W,32,37,,2.88,3,1.41,1.45,7
+2021,1616303400,Adelaide Crows W,Western Bulldogs W,78,22,,1.29,1.3,3.56,3.75,7
+2021,1616290800,Richmond W,West Coast Eagles W,42,34,,1.28,1.3,3.66,3.85,7
+2021,1616220600,Brisbane Lions W,North Melbourne W,35,20,,1.63,1.66,2.23,2.29,7
+2021,1616213400,Collingwood Magpies W,St Kilda W,59,13,,1.04,1.06,10.44,11,7
+2021,1616206200,Geelong Cats W,GWS Giants W,9,16,,1.12,1.14,5.99,6.51,7
+2021,1616134200,Gold Coast Suns W,Carlton Blues W,27,87,,1.08,1.09,7.93,9,7
+2021,1615788600,West Coast Eagles W,Geelong Cats W,53,14,,1.62,1.65,2.26,2.3,7
+2021,1615695000,Brisbane Lions W,Collingwood Magpies W,35,32,,2.17,2.22,1.67,1.72,7
+2021,1615687800,Carlton Blues W,Fremantle Dockers W,41,45,,1.26,1.31,3.72,4.01,7
+2021,1615623000,Melbourne Demons W,Adelaide Crows W,43,15,,3.01,3.2,1.37,1.4,7
+2021,1615615800,North Melbourne W,Western Bulldogs W,37,26,,1.22,1.25,4.15,4.35,7
+2021,1615608600,St Kilda W,GWS Giants W,25,45,,2.43,2.6,1.54,1.58,7
+2021,1615538400,Gold Coast Suns W,Richmond W,26,41,,1.34,1.37,3.21,3.4,7
+2021,1615095600,West Coast Eagles W,Fremantle Dockers W,8,75,,1.04,1.06,10.47,11.8,7
+2021,1615088400,Collingwood Magpies W,GWS Giants W,0,0,,,,,,
+2021,1615088400,Collingwood Magpies W,Western Bulldogs W,51,15,,1.3,1.3,3.46,3.6,6
+2021,1615081200,Carlton Blues W,Geelong Cats W,64,31,,1.06,1.11,9.28,12,7
+2021,1615018200,Melbourne Demons W,St Kilda W,66,22,,1.27,1.32,3.69,4,7
+2021,1615011000,Adelaide Crows W,Gold Coast Suns W,85,15,,1.02,1.03,14.95,17,7
+2021,1615003800,GWS Giants W,Brisbane Lions W,17,55,,1.16,1.18,5.1,5.5,7
+2021,1614924600,Richmond W,North Melbourne W,32,67,,1.17,1.21,5,5.3,7
+2021,1614492600,West Coast Eagles W,Gold Coast Suns W,34,33,,1.43,1.45,2.77,2.9,7
+2021,1614485400,Collingwood Magpies W,Melbourne Demons W,49,14,,1.69,1.72,2.13,2.18,7
+2021,1614478200,Adelaide Crows W,St Kilda W,61,8,,1.16,1.2,5.13,5.53,7
+2021,1614413400,North Melbourne W,Carlton Blues W,59,37,,1.33,1.37,3.25,3.4,7
+2021,1614406200,Fremantle Dockers W,Brisbane Lions W,14,25,,3.57,3.85,1.29,1.35,7
+2021,1614399000,Western Bulldogs W,GWS Giants W,47,22,,1.3,1.33,3.43,3.62,7
+2021,1614327000,Geelong Cats W,Richmond W,13,60,,1.5,1.53,2.56,2.6,7
+2021,1613887800,GWS Giants W,West Coast Eagles W,48,28,,1.31,1.37,3.4,3.65,7
+2021,1613880600,Western Bulldogs W,Melbourne Demons W,37,24,,2.85,3.2,1.41,1.47,7
+2021,1613873400,Brisbane Lions W,Adelaide Crows W,33,45,,2.2,2.27,1.66,1.72,7
+2021,1613808600,North Melbourne W,Collingwood Magpies W,8,28,,2.72,2.8,1.45,1.46,7
+2021,1613801400,Fremantle Dockers W,Gold Coast Suns W,55,6,,1.04,1.04,10.3,12,7
+2021,1613794200,Carlton Blues W,Richmond W,51,46,,1.1,1.13,6.94,7.55,7
+2021,1613722200,St Kilda W,Geelong Cats W,51,22,,1.25,1.28,3.86,4.2,7
+2021,1613369700,Brisbane Lions W,West Coast Eagles W,65,20,,1.13,1.17,5.82,6.3,7
+2021,1613275800,Richmond W,Collingwood Magpies W,31,48,,1.15,1.17,5.17,5.5,7
+2022-s6,1649471400,Adelaide Crows W,Melbourne Demons W,29,16, - Play Offs,1.63,1.65,2.23,2.25,4
+2022-s6,1648870800,Adelaide Crows W,Fremantle Dockers W,40,26, - Play Offs,1.38,1.39,2.96,3.02,4
+2022-s6,1648863600,Melbourne Demons W,Brisbane Lions W,33,29, - Play Offs,2.1,2.2,1.71,1.73,4
+2022-s6,1648346700,Brisbane Lions W,Collingwood Magpies W,70,20, - Play Offs,1.14,1.15,5.38,5.6,4
+2022-s6,1647659400,North Melbourne W,Fremantle Dockers W,31,69, - Play Offs,2.19,2.27,1.66,1.69,4
+2022-s6,1647151800,Fremantle Dockers W,Gold Coast Suns W,46,9,,1.13,1.15,5.73,6.3,4
+2022-s6,1647144600,Western Bulldogs W,Brisbane Lions W,34,66,,1.19,1.2,4.53,4.77,4
+2022-s6,1647137400,St Kilda W,Adelaide Crows W,14,53,,1.05,1.05,9.63,11,4
+2022-s6,1647072600,Melbourne Demons W,Carlton Blues W,34,33,,1.14,1.15,5.48,5.6,4
+2022-s6,1647065400,North Melbourne W,West Coast Eagles W,59,20,,1.02,1.03,14.75,17,4
+2022-s6,1647058200,Collingwood Magpies W,Richmond W,47,9,,1.15,1.16,5.26,5.53,4
+2022-s6,1646982600,Geelong Cats W,GWS Giants W,35,53,,2.59,2.7,1.49,1.53,4
+2022-s6,1646547000,Carlton Blues W,Gold Coast Suns W,46,16,,1.49,1.55,2.56,2.7,4
+2022-s6,1646539800,Adelaide Crows W,Collingwood Magpies W,30,28,,1.16,1.17,5.1,5.6,4
+2022-s6,1646532600,Brisbane Lions W,North Melbourne W,50,14,,1.52,1.58,2.49,2.57,4
+2022-s6,1646476800,West Coast Eagles W,Western Bulldogs W,8,68,,1.19,1.2,4.49,4.86,4
+2022-s6,1646467200,Fremantle Dockers W,Melbourne Demons W,19,107,,1.53,1.69,2.56,3.3,4
+2022-s6,1646460600,GWS Giants W,Richmond W,38,46,,1.67,1.7,2.15,2.17,4
+2022-s6,1646453400,St Kilda W,Geelong Cats W,18,9,,2.33,2.35,1.58,1.59,4
+2022-s6,1645949400,GWS Giants W,Carlton Blues W,33,51,,1.56,1.6,2.38,2.42,4
+2022-s6,1645942200,West Coast Eagles W,Brisbane Lions W,24,98,,1.07,1.09,7.7,8.2,4
+2022-s6,1645935000,Collingwood Magpies W,Western Bulldogs W,66,41,,1.58,1.62,2.35,2.46,4
+2022-s6,1645927800,St Kilda W,Gold Coast Suns W,34,31,,2.9,3.02,1.4,1.42,4
+2022-s6,1645863000,Melbourne Demons W,North Melbourne W,27,17,,1.6,1.63,2.3,2.34,4
+2022-s6,1645855800,Richmond W,Geelong Cats W,10,33,,3,3.1,1.37,1.4,4
+2022-s6,1645848600,Fremantle Dockers W,Adelaide Crows W,16,25,,2.21,2.25,1.65,1.68,4
+2022-s6,1645598400,GWS Giants W,St Kilda W,41,39,,1.42,1.45,2.83,3,4
+2022-s6,1645517400,Gold Coast Suns W,Western Bulldogs W,41,41,,,,,,
+2022-s6,1645431000,Brisbane Lions W,Melbourne Demons W,32,35,,2.06,2.1,1.74,1.78,4
+2022-s6,1645330200,North Melbourne W,Collingwood Magpies W,38,15,,1.32,1.36,3.33,3.62,5
+2022-s6,1645258200,West Coast Eagles W,Richmond W,45,68,,1.64,1.66,2.21,2.22,5
+2022-s6,1645251000,Carlton Blues W,St Kilda W,48,2,,1.51,1.53,2.52,2.55,5
+2022-s6,1645243800,GWS Giants W,Adelaide Crows W,5,45,,1.08,1.12,7.52,8.7,5
+2022-s6,1645171800,Western Bulldogs W,Geelong Cats W,28,16,,1.3,1.32,3.4,3.51,5
+2022-s6,1645087200,Gold Coast Suns W,Brisbane Lions W,16,85,,1.42,1.45,2.81,2.85,5
+2022-s6,1644732600,Adelaide Crows W,Western Bulldogs W,48,49,,9.11,11,1.05,1.07,5
+2022-s6,1644725400,Collingwood Magpies W,West Coast Eagles W,46,22,,1.44,1.45,2.71,2.74,5
+2022-s6,1644718200,St Kilda W,Brisbane Lions W,26,31,,1.07,1.08,8.38,8.7,5
+2022-s6,1644649800,Fremantle Dockers W,Carlton Blues W,51,9,,1.1,1.11,6.64,7.2,5
+2022-s6,1644642600,Melbourne Demons W,GWS Giants W,44,7,,1.21,1.25,4.32,4.77,5
+2022-s6,1644635400,Richmond W,North Melbourne W,18,37,,1.16,1.18,5.01,5.33,5
+2022-s6,1644567000,Gold Coast Suns W,Geelong Cats W,49,38,,1.57,1.65,2.36,2.46,5
+2022-s6,1644300600,St Kilda W,West Coast Eagles W,20,22,,1.59,1.68,2.31,2.47,5
+2022-s6,1644127800,North Melbourne W,Fremantle Dockers W,26,16,,1.74,1.81,2.05,2.1,5
+2022-s6,1644120600,Carlton Blues W,Adelaide Crows W,12,51,,1.09,1.09,7.31,8.5,5
+2022-s6,1644113400,Western Bulldogs W,Richmond W,30,13,,2.3,2.35,1.6,1.62,5
+2022-s6,1644048600,Melbourne Demons W,Gold Coast Suns W,38,26,,1.21,1.27,4.39,5.32,5
+2022-s6,1644041400,Brisbane Lions W,Collingwood Magpies W,35,11,,1.49,1.55,2.57,2.65,5
+2022-s6,1643962200,Geelong Cats W,West Coast Eagles W,27,24,,1.3,1.33,3.35,3.45,5
+2022-s6,1643703000,Western Bulldogs W,Fremantle Dockers W,19,25,,1.13,1.14,5.5,5.55,3
+2022-s7,1669520400,Brisbane Lions W,Melbourne Demons W,15,19, - Play Offs,2.74,2.8,1.43,1.45,5
+2022-s7,1668831000,Melbourne Demons W,North Melbourne W,33,16, - Play Offs,1.32,1.38,3.26,3.45,5
+2022-s7,1668760800,Brisbane Lions W,Adelaide Crows W,46,23, - Play Offs,1.16,1.22,4.86,5.09,5
+2022-s7,1668228000,Adelaide Crows W,Collingwood Magpies W,23,11, - Play Offs,1.29,1.32,3.41,3.45,5
+2022-s7,1668220800,Richmond W,North Melbourne W,38,74, - Play Offs,1.63,1.69,2.21,2.3,5
+2022-s7,1667707800,Collingwood Magpies W,Western Bulldogs W,40,35, - Play Offs,1.54,1.58,2.41,2.42,5
+2022-s7,1667635800,Geelong Cats W,North Melbourne W,14,16, - Play Offs,1.86,2,1.9,1.95,5
+2022-s7,1667625000,Brisbane Lions W,Richmond W,39,22, - Play Offs,1.15,1.19,5.09,5.6,5
+2022-s7,1667549400,Melbourne Demons W,Adelaide Crows W,48,27, - Play Offs,1.23,1.28,3.97,4.26,5
+2022-s7,1667110200,GWS Giants W,Gold Coast Suns W,44,32,,3.61,3.62,1.27,1.29,5
+2022-s7,1667103000,North Melbourne W,Richmond W,27,27,,,,,,
+2022-s7,1667095800,Port Adelaide W,Essendon Bombers W,10,37,,1.63,1.72,2.23,2.32,5
+2022-s7,1667031000,Fremantle Dockers W,Hawthorn Hawks W,49,44,,1.42,1.45,2.77,2.82,5
+2022-s7,1667023800,Geelong Cats W,Sydney Swans W,102,27,,1.02,1.03,14.47,21,5
+2022-s7,1667016600,St Kilda W,Adelaide Crows W,13,29,,1.05,1.07,9.09,10.5,5
+2022-s7,1667009400,Melbourne Demons W,West Coast Eagles W,79,1,,1.01,1.01,19.01,29,5
+2022-s7,1666948200,Brisbane Lions W,Collingwood Magpies W,55,10,,1.12,1.16,5.91,6.51,5
+2022-s7,1666941000,Carlton Blues W,Western Bulldogs W,31,34,,1.29,1.31,3.4,3.6,5
+2022-s7,1666505400,Melbourne Demons W,Essendon Bombers W,50,9,,1.05,1.06,9.48,11.1,5
+2022-s7,1666498200,Richmond W,GWS Giants W,58,15,,1.17,1.19,4.89,5.67,5
+2022-s7,1666491000,St Kilda W,Port Adelaide W,35,33,,1.45,1.5,2.68,2.8,5
+2022-s7,1666426200,Hawthorn Hawks W,Brisbane Lions W,7,61,,1.01,1.01,16.35,26,5
+2022-s7,1666419000,West Coast Eagles W,Western Bulldogs W,23,55,,1.33,1.35,3.2,3.32,5
+2022-s7,1666411800,Sydney Swans W,Fremantle Dockers W,28,42,,1.14,1.15,5.34,5.53,5
+2022-s7,1666404600,Collingwood Magpies W,North Melbourne W,25,57,,1.97,2,1.79,1.82,5
+2022-s7,1666341600,Gold Coast Suns W,Carlton Blues W,42,15,,1.68,1.72,2.14,2.17,5
+2022-s7,1666334400,Adelaide Crows W,Geelong Cats W,30,28,,1.26,1.3,3.67,3.88,5
+2022-s7,1665900600,Fremantle Dockers W,Collingwood Magpies W,3,32,,1.47,1.51,2.61,2.7,5
+2022-s7,1665893400,GWS Giants W,Hawthorn Hawks W,34,33,,1.5,1.52,2.53,2.62,5
+2022-s7,1665886200,Western Bulldogs W,St Kilda W,35,20,,1.22,1.22,4.13,4.26,5
+2022-s7,1665823200,Gold Coast Suns W,Melbourne Demons W,9,58,,1.1,1.11,6.57,6.6,5
+2022-s7,1665816000,Geelong Cats W,West Coast Eagles W,34,25,,1.07,1.09,7.88,8.2,5
+2022-s7,1665807000,Essendon Bombers W,Sydney Swans W,48,44,,1.02,1.03,12.78,16,5
+2022-s7,1665799800,Port Adelaide W,North Melbourne W,29,54,,1.04,1.05,10.17,11,5
+2022-s7,1665739800,Brisbane Lions W,Adelaide Crows W,53,31,,1.47,1.51,2.61,2.7,5
+2022-s7,1665732600,Carlton Blues W,Richmond W,34,44,,1.39,1.48,2.89,3.02,5
+2022-s7,1665295800,Collingwood Magpies W,GWS Giants W,46,14,,1.12,1.13,5.45,5.6,5
+2022-s7,1665288600,Melbourne Demons W,Western Bulldogs W,73,9,,1.16,1.18,5.04,5.53,5
+2022-s7,1665281400,Essendon Bombers W,Geelong Cats W,28,43,,1.45,1.48,2.67,2.76,5
+2022-s7,1665216600,Hawthorn Hawks W,Port Adelaide W,29,16,,3.12,3.26,1.34,1.35,5
+2022-s7,1665209400,North Melbourne W,Brisbane Lions W,26,33,,1.24,1.28,3.78,3.95,5
+2022-s7,1665202200,Adelaide Crows W,Fremantle Dockers W,49,31,,1.04,1.06,9.41,9.55,5
+2022-s7,1665195000,Sydney Swans W,Gold Coast Suns W,15,49,,1.05,1.06,8.45,9,5
+2022-s7,1665133800,West Coast Eagles W,Richmond W,24,43,,1.09,1.1,6.98,7.55,5
+2022-s7,1665126600,St Kilda W,Carlton Blues W,17,44,,2.22,2.25,1.62,1.63,5
+2022-s7,1664691000,North Melbourne W,Sydney Swans W,67,1,,1.01,1.02,17.14,35,5
+2022-s7,1664683800,Fremantle Dockers W,Melbourne Demons W,36,66,,1.09,1.11,7.06,7.55,5
+2022-s7,1664676600,Brisbane Lions W,Essendon Bombers W,62,18,,1.04,1.05,9.99,11,5
+2022-s7,1664611800,Richmond W,Gold Coast Suns W,23,19,,1.26,1.32,3.69,3.96,5
+2022-s7,1664604600,St Kilda W,Collingwood Magpies W,34,36,,1.09,1.12,6.83,7.55,5
+2023,1701574200,North Melbourne W,Brisbane Lions W,27,44, - Play Offs,2.16,2.2,1.65,1.66,4
+2023,1700971500,North Melbourne W,Adelaide Crows W,32,31, - Play Offs,1.86,1.9,1.92,2,4
+2023,1700901900,Brisbane Lions W,Geelong Cats W,38,34, - Play Offs,1.33,1.35,3.2,3.27,4
+2023,1700366700,Melbourne Demons W,Geelong Cats W,45,50, - Play Offs,3.74,3.81,1.25,1.28,4
+2023,1700297100,Adelaide Crows W,Sydney Swans W,82,15, - Play Offs,1.11,1.14,5.93,6.3,4
+2023,1699761900,Melbourne Demons W,North Melbourne W,9,50, - Play Offs,2.98,3,1.37,1.38,4
+2023,1699754700,Geelong Cats W,Essendon Bombers W,51,33, - Play Offs,1.45,1.47,2.65,2.8,4
+2023,1699690500,Gold Coast Suns W,Sydney Swans W,41,58, - Play Offs,2.85,3.12,1.41,1.45,4
+2023,1699675500,Adelaide Crows W,Brisbane Lions W,37,39, - Play Offs,2.53,2.61,1.5,1.55,4
+2023,1699164300,Fremantle Dockers W,Sydney Swans W,18,40,,1.76,1.81,2.01,2.05,4
+2023,1699157100,Collingwood Magpies W,Richmond W,25,77,,2.78,2.89,1.42,1.43,4
+2023,1699149900,Carlton Blues W,St Kilda W,26,46,,1.61,1.65,2.26,2.4,4
+2023,1699085100,Brisbane Lions W,Melbourne Demons W,53,28,,3.31,3.4,1.31,1.34,4
+2023,1699077900,West Coast Eagles W,Adelaide Crows W,45,71,,1.01,1.02,20.13,35,4
+2023,1699077900,Geelong Cats W,Hawthorn Hawks W,60,20,,1.07,1.08,7.55,7.7,4
+2023,1699070700,Port Adelaide W,GWS Giants W,88,30,,1.57,1.58,2.41,2.46,4
+2023,1699063500,Western Bulldogs W,North Melbourne W,9,55,,1.01,1.01,21.28,35,4
+2023,1699001100,Gold Coast Suns W,Essendon Bombers W,39,25,,1.74,1.78,2.06,2.1,4
+2023,1698559500,Hawthorn Hawks W,Port Adelaide W,40,32,,1.44,1.45,2.69,2.8,4
+2023,1698552300,Adelaide Crows W,North Melbourne W,41,38,,1.43,1.44,2.72,2.8,4
+2023,1698545100,Sydney Swans W,Collingwood Magpies W,58,39,,3.59,3.72,1.27,1.3,4
+2023,1698480900,Richmond W,Geelong Cats W,11,49,,1.65,1.69,2.21,2.25,4
+2023,1698473100,West Coast Eagles W,Western Bulldogs W,36,44,,2.25,2.25,1.61,1.62,4
+2023,1698465900,St Kilda W,Brisbane Lions W,55,34,,7.53,7.75,1.07,1.08,4
+2023,1698465900,Essendon Bombers W,Carlton Blues W,56,24,,1.61,1.62,2.25,2.25,4
+2023,1698458700,Melbourne Demons W,Fremantle Dockers W,61,28,,1.01,1.01,21.4,30,4
+2023,1698396300,Gold Coast Suns W,GWS Giants W,48,17,,1.23,1.25,3.9,3.97,4
+2023,1697954700,Essendon Bombers W,West Coast Eagles W,19,23,,15.04,18,1.02,1.02,4
+2023,1697947500,Fremantle Dockers W,St Kilda W,45,21,,2.05,2.1,1.73,1.74,4
+2023,1697940300,Collingwood Magpies W,Geelong Cats W,30,24,,1.74,1.78,2.03,2.06,4
+2023,1697876100,Melbourne Demons W,North Melbourne W,37,14,,1.4,1.42,2.83,2.87,4
+2023,1697868300,Port Adelaide W,Gold Coast Suns W,45,45,,,,,,
+2023,1697861100,Brisbane Lions W,Adelaide Crows W,42,39,,1.87,1.89,1.88,1.9,4
+2023,1697861100,GWS Giants W,Carlton Blues W,49,47,,3.28,3.45,1.31,1.35,4
+2023,1697853900,Western Bulldogs W,Sydney Swans W,39,96,,1.88,1.98,1.88,1.95,4
+2023,1697791500,Hawthorn Hawks W,Richmond W,30,41,,1.32,1.35,3.22,3.31,4
+2023,1697349900,West Coast Eagles W,Melbourne Demons W,12,82,,1.01,1.01,30,70,4
+2023,1697342700,Carlton Blues W,Collingwood Magpies W,10,27,,1.67,1.75,2.17,2.23,4
+2023,1697335500,North Melbourne W,Port Adelaide W,87,24,,1.01,1.01,21.48,40,4
+2023,1697271600,Richmond W,Essendon Bombers W,36,53,,1.9,1.95,1.85,1.91,4
+2023,1697263500,Gold Coast Suns W,Brisbane Lions W,21,57,,1.32,1.35,3.25,3.45,4
+2023,1697256300,Geelong Cats W,Fremantle Dockers W,47,23,,1.16,1.22,4.93,5.45,4
+2023,1697256300,Sydney Swans W,Hawthorn Hawks W,26,40,,2.47,2.69,1.52,1.56,4
+2023,1697249100,St Kilda W,GWS Giants W,48,35,,1.33,1.34,3.22,3.3,4
+2023,1697184900,Adelaide Crows W,Western Bulldogs W,59,17,,1.01,1.01,18.98,30,4
+2023,1696745100,Fremantle Dockers W,North Melbourne W,21,66,,1.1,1.11,6.25,7.3,4
+2023,1696737900,Richmond W,Gold Coast Suns W,35,36,,1.78,1.95,2,2.12,4
+2023,1696730700,Essendon Bombers W,Geelong Cats W,29,19,,3.17,3.3,1.33,1.34,4
+2023,1696666500,Brisbane Lions W,Collingwood Magpies W,28,33,,7.92,9.5,1.07,1.07,4
+2023,1696658700,Port Adelaide W,Sydney Swans W,30,45,,2.09,2.1,1.71,1.75,4
+2024,1732956300,North Melbourne W,Brisbane Lions W,39,9, - Play Offs,1.27,1.3,3.55,3.66,6
+2024,1732350600,Brisbane Lions W,Adelaide Crows W,50,32, - Play Offs,1.67,1.7,2.11,2.18,6
+2024,1732334700,North Melbourne W,Port Adelaide W,78,21, - Play Offs,1.04,1.05,9.44,11,6
+2024,1731745800,Hawthorn Hawks W,Port Adelaide W,49,50, - Play Offs,4.72,4.93,1.16,1.16,5
+2024,1731731700,Adelaide Crows W,Fremantle Dockers W,49,12, - Play Offs,1.16,1.17,4.71,4.84,5
+2024,1731211500,Port Adelaide W,Richmond W,72,48, - Play Offs,2.34,2.38,1.55,1.56,5
+2024,1731204300,Hawthorn Hawks W,Brisbane Lions W,32,38, - Play Offs,1.75,1.76,1.99,2,5
+2024,1731139200,Fremantle Dockers W,Essendon Bombers W,36,26, - Play Offs,1.34,1.37,3.08,3.24,5
+2024,1731053700,North Melbourne W,Adelaide Crows W,38,31, - Play Offs,1.25,1.27,3.63,3.76,5
+2024,1730621100,Fremantle Dockers W,Western Bulldogs W,35,21,,1.11,1.11,5.88,6.05,5
+2024,1730613900,Port Adelaide W,GWS Giants W,43,42,,1.06,1.06,7.74,8.12,5
+2024,1730606700,Richmond W,Hawthorn Hawks W,23,46,,1.34,1.35,3.05,3.12,5
+2024,1730599500,St Kilda W,Brisbane Lions W,41,68,,1.06,1.06,7.64,7.93,5
+2024,1730535300,Carlton Blues W,Essendon Bombers W,24,60,,1.2,1.21,4.19,4.31,5
+2024,1730527500,North Melbourne W,Gold Coast Suns W,78,15,,1.01,1.01,15.83,25,4
+2024,1730520300,Sydney Swans W,West Coast Eagles W,74,28,,1.68,1.74,2.09,2.17,5
+2024,1730513100,Melbourne Demons W,Collingwood Magpies W,74,27,,1.04,1.05,8.66,9.12,5
+2024,1730448900,Geelong Cats W,Adelaide Crows W,28,32,,1.37,1.37,2.93,2.97,5
+2024,1730009100,Brisbane Lions W,Sydney Swans W,78,10,,1.03,1.04,10.16,12,5
+2024,1730001900,Collingwood Magpies W,Carlton Blues W,28,32,,1.6,1.64,2.22,2.27,5
+2024,1729998300,Western Bulldogs W,St Kilda W,36,35,,3.6,3.6,1.26,1.26,5
+2024,1729934100,Essendon Bombers W,Richmond W,42,42,,,,,,
+2024,1729926300,West Coast Eagles W,Geelong Cats W,23,56,,1.13,1.13,5.41,5.6,5
+2024,1729919100,Gold Coast Suns W,Port Adelaide W,24,58,,1.42,1.45,2.78,2.85,5
+2024,1729911900,GWS Giants W,Fremantle Dockers W,25,55,,1.23,1.23,3.88,3.95,5
+2024,1729845900,Adelaide Crows W,North Melbourne W,33,41,,1.31,1.34,3.22,3.36,5
+2024,1729759500,Hawthorn Hawks W,Melbourne Demons W,23,17,,1.32,1.36,3.2,3.45,5
+2024,1729404300,Collingwood Magpies W,Adelaide Crows W,13,56,,1.02,1.02,10.79,11.5,5
+2024,1729397100,Essendon Bombers W,North Melbourne W,7,58,,1.05,1.05,8.51,8.95,5
+2024,1729389900,Geelong Cats W,Brisbane Lions W,47,37,,4.2,4.48,1.2,1.23,5
+2024,1729325100,West Coast Eagles W,Fremantle Dockers W,12,35,,1.23,1.26,3.78,3.88,5
+2024,1729317900,Melbourne Demons W,Richmond W,51,38,,2.23,2.28,1.59,1.6,5
+2024,1729310700,Sydney Swans W,Gold Coast Suns W,46,50,,2.06,2.1,1.7,1.73,5
+2024,1729303500,Hawthorn Hawks W,GWS Giants W,61,24,,1.01,1.01,11.49,12.5,5
+2024,1729241100,Port Adelaide W,St Kilda W,47,32,,1.79,1.8,1.94,1.98,5
+2024,1729152900,Carlton Blues W,Western Bulldogs W,28,61,,3.26,3.31,1.3,1.31,5
+2024,1728799500,GWS Giants W,Adelaide Crows W,28,92,,1.07,1.08,7.3,7.93,5
+2024,1728792300,St Kilda W,Melbourne Demons W,30,44,,1.94,1.98,1.79,1.81,5
+2024,1728785100,North Melbourne W,Sydney Swans W,87,27,,1.01,1.01,11.63,12.5,5
+2024,1728720900,Fremantle Dockers W,Carlton Blues W,30,34,,5.76,5.94,1.11,1.11,5
+2024,1728713100,Brisbane Lions W,Gold Coast Suns W,44,28,,1.02,1.02,10.79,11.5,5
+2024,1728705900,Richmond W,Geelong Cats W,46,39,,1.37,1.38,2.88,2.94,5
+2024,1728698700,Hawthorn Hawks W,West Coast Eagles W,74,8,,1.09,1.09,6.54,6.88,5
+2024,1728634500,Western Bulldogs W,Essendon Bombers W,3,26,,1.16,1.18,4.71,5.15,5
+2024,1728549900,Port Adelaide W,Collingwood Magpies W,33,25,,1.2,1.21,4.21,4.35,5
+2024,1728463500,Adelaide Crows W,Melbourne Demons W,14,16,,7.8,8.43,1.05,1.06,5
+2024,1728375300,St Kilda W,GWS Giants W,49,15,,1.3,1.31,3.24,3.31,5
+2024,1728194700,Fremantle Dockers W,Hawthorn Hawks W,25,34,,1.62,1.65,2.18,2.23,5
+2024,1728187500,Sydney Swans W,Geelong Cats W,41,44,,1.31,1.33,3.19,3.31,5
+2024,1728180300,Gold Coast Suns W,Essendon Bombers W,27,36,,1.3,1.33,3.25,3.34,5
+2025,1764405900,North Melbourne W,Brisbane Lions W,56,16, - Play Offs,1.17,1.18,4.65,5,5
+2025,1763800500,Brisbane Lions W,Carlton Blues W,67,32, - Play Offs,1.34,1.35,3.15,3.5,5
+2025,1763784300,North Melbourne W,Melbourne Demons W,46,36, - Play Offs,1.06,1.07,8.24,11,5
+2025,1763194500,Hawthorn Hawks W,Carlton Blues W,33,79, - Play Offs,1.54,1.56,2.39,2.5,5
+2025,1763172300,Melbourne Demons W,Adelaide Crows W,60,49, - Play Offs,1.45,1.46,2.7,2.9,4
+2025,1762661100,Adelaide Crows W,St Kilda W,60,16, - Play Offs,1.21,1.24,4.15,5,5
+2025,1762653900,Melbourne Demons W,Brisbane Lions W,43,56, - Play Offs,1.8,1.82,1.96,2,4
+2025,1762574700,Carlton Blues W,West Coast Eagles W,60,19, - Play Offs,1.26,1.27,3.68,3.85,5
+2025,1762503300,North Melbourne W,Hawthorn Hawks W,42,3, - Play Offs,1.02,1.02,13.33,19,3
+2025,1762063500,Adelaide Crows W,Fremantle Dockers W,29,17,,1.39,1.41,2.88,3.2,5
+2025,1762056300,St Kilda W,Western Bulldogs W,27,72,,2.12,2.2,1.68,1.71,5
+2025,1762049100,Collingwood Magpies W,Brisbane Lions W,32,52,,1.02,1.03,10.58,12,4
+2025,1761984900,Geelong Cats W,Melbourne Demons W,45,59,,1.22,1.23,4.06,4.35,5
+2025,1761977100,Sydney Swans W,Essendon Bombers W,11,14,,7.44,8,1.07,1.08,5
+2025,1761969900,Richmond W,Gold Coast Suns W,25,39,,5.32,5.6,1.14,1.15,5
+2025,1761962700,GWS Giants W,Port Adelaide W,24,81,,1.13,1.14,5.36,6,5
+2025,1761905700,West Coast Eagles W,Carlton Blues W,22,42,,1.74,1.78,2.02,2.05,5
+2025,1761898500,Hawthorn Hawks W,North Melbourne W,18,67,,1.04,1.05,9.18,10,5
+2025,1761455100,Gold Coast Suns W,Collingwood Magpies W,24,39,,1.33,1.4,3.15,3.3,5
+2025,1761451500,Carlton Blues W,GWS Giants W,81,35,,1.18,1.19,4.49,4.8,5
+2025,1761444300,Western Bulldogs W,Geelong Cats W,26,37,,1.81,1.85,1.93,2.1,5
+2025,1761444300,North Melbourne W,St Kilda W,67,21,,1.01,1.01,15.25,21,4
+2025,1761380100,Brisbane Lions W,Melbourne Demons W,45,36,,1.64,1.68,2.17,2.21,5
+2025,1761372300,Fremantle Dockers W,Richmond W,58,14,,1.25,1.26,3.73,4,5
+2025,1761365100,Essendon Bombers W,Hawthorn Hawks W,26,56,,1.12,1.12,5.89,6.25,4
+2025,1761357900,Sydney Swans W,West Coast Eagles W,43,26,,1.46,1.48,2.61,2.65,4
+2025,1761294900,Adelaide Crows W,Port Adelaide W,45,52,,2.55,2.75,1.47,1.49,5
+2025,1760853900,Gold Coast Suns W,Western Bulldogs W,6,72,,1.13,1.13,5.54,6,6
+2025,1760846700,Collingwood Magpies W,Richmond W,33,46,,1.43,1.46,2.72,3,6
+2025,1760839500,Essendon Bombers W,Brisbane Lions W,16,54,,1.02,1.04,10.25,11,6
+2025,1760775300,Carlton Blues W,St Kilda W,36,49,,3.13,3.35,1.33,1.34,6
+2025,1760760300,North Melbourne W,Adelaide Crows W,71,31,,1.03,1.05,9.25,10,6
+2025,1760760300,GWS Giants W,Fremantle Dockers W,40,47,,1.22,1.23,3.99,4.2,6
+2025,1760753100,Melbourne Demons W,Sydney Swans W,65,21,,1.24,1.27,3.85,4.35,6
+2025,1760696100,West Coast Eagles W,Geelong Cats W,50,19,,2.1,2.15,1.68,1.78,6
+2025,1760688900,Port Adelaide W,Hawthorn Hawks W,94,59,,2.6,2.7,1.46,1.5,5
+2025,1760249100,Fremantle Dockers W,Melbourne Demons W,40,35,,4.8,5.25,1.16,1.17,6
+2025,1760241900,St Kilda W,Collingwood Magpies W,35,12,,1.38,1.4,2.91,3.2,5
+2025,1760234700,Sydney Swans W,Carlton Blues W,76,37,,2.12,2.18,1.66,1.7,5
+2025,1760170500,Richmond W,North Melbourne W,14,50,,1.01,1.01,17.5,23,4
+2025,1760162700,Brisbane Lions W,Port Adelaide W,62,33,,1.05,1.06,8.28,9.5,6
+2025,1760155500,Geelong Cats W,GWS Giants W,72,45,,1.04,1.05,8.95,10,6
+2025,1760155500,Hawthorn Hawks W,Gold Coast Suns W,60,37,,1.01,1.01,12.76,19,5
+2025,1760148300,Adelaide Crows W,West Coast Eagles W,48,31,,1.38,1.39,2.91,3.1,5
+2025,1760084100,Western Bulldogs W,Essendon Bombers W,67,10,,2.21,2.25,1.62,1.68,5
+2025,1759644300,West Coast Eagles W,Collingwood Magpies W,62,17,,1.42,1.45,2.72,2.8,6
+2025,1759637100,Geelong Cats W,Carlton Blues W,37,55,,2.33,2.4,1.55,1.62,6
+2025,1759629900,Richmond W,Adelaide Crows W,58,47,,7.43,8,1.07,1.08,6
+2025,1759569300,Port Adelaide W,Western Bulldogs W,54,35,,1.45,1.47,2.62,2.7,6
+2025,1759561500,Gold Coast Suns W,Brisbane Lions W,15,83,,1.01,1.01,14,21,5
+2026,1787469600,Port Adelaide W,Hawthorn Hawks W,33,65,,2.92,3.1,1.38,1.4,6
+2026,1787462400,Carlton Blues W,Adelaide Crows W,50,23,,1.63,1.71,2.19,2.25,6
+2026,1787459700,Melbourne Demons W,GWS Giants W,60,12,,1.02,1.02,12.4,15,6
+2026,1787452500,Collingwood Magpies W,Fremantle Dockers W,30,50,,1.25,1.27,3.8,4,4
+2026,1787452200,Sydney Swans W,Essendon Bombers W,66,42,,1.06,1.1,8.8,10,4
+2026,1787390100,Brisbane Lions W,North Melbourne W,33,44,,1.12,1.14,5.72,5.8,4
+2026,1787382000,Geelong Cats W,St Kilda W,100,15,,1.38,1.41,2.93,3.5,6
+2026,1787373300,West Coast Eagles W,Gold Coast Suns W,34,69,,5.85,6.2,1.12,1.14,4
+2026,1787371500,Western Bulldogs W,Richmond W,48,37,,1.44,1.45,2.72,2.8,4
+2026,1786862700,GWS Giants W,West Coast Eagles W,54,42,,3.02,3.3,1.36,1.42,4
+2026,1786854900,Fremantle Dockers W,Port Adelaide W,20,41,,1.82,1.85,1.94,2,4
+2026,1786847700,Adelaide Crows W,Sydney Swans W,53,61,,2.16,2.25,1.66,1.67,4
+2026,1786847700,Essendon Bombers W,Brisbane Lions W,37,85,,1.1,1.11,6.5,7,4
+2026,1786785300,Gold Coast Suns W,Western Bulldogs W,14,40,,1.22,1.28,3.83,4.8,6
+2026,1786777500,Richmond W,Collingwood Magpies W,46,28,,1.68,1.71,2.13,2.2,5
+2026,1786762800,North Melbourne W,Geelong Cats W,100,27,,1.07,1.09,8.15,10,4
+2026,1786612500,Hawthorn Hawks W,Melbourne Demons W,41,60,,1.25,1.27,3.67,4,6
+2026,1786257300,St Kilda W,Carlton Blues W,40,66,,1.41,1.44,2.78,2.95,6
+2021,1613304000,Adelaide Crows W,Fremantle Dockers W,13,43,,1.57,,2.37,,
+2021,1613217600,Melbourne Demons W,North Melbourne W,60,51,,3.3,,1.32,,
+2021,1613217600,St Kilda W,Carlton Blues W,16,40,,2.4,,1.55,,
+2021,1613217600,GWS Giants W,Gold Coast Suns W,18,8,,1.26,,3.74,,
+2021,1613131200,Geelong Cats W,Western Bulldogs W,9,24,,4.22,,1.22,,
+2021,1612699200,Fremantle Dockers W,West Coast Eagles W,23,14,,1.09,,7.6,,
+2021,1612699200,GWS Giants W,Adelaide Crows W,15,62,,3.72,,1.27,,
+2021,1612699200,Brisbane Lions W,Gold Coast Suns W,65,2,,1.28,,3.63,,
+2021,1612699200,North Melbourne W,St Kilda W,36,10,,1.2,,4.49,,
+2021,1612612800,Melbourne Demons W,Richmond W,44,16,,1.11,,6.41,,
+2021,1612612800,Collingwood Magpies W,Geelong Cats W,45,16,,1.17,,4.9,,
+2021,1612526400,Western Bulldogs W,Carlton Blues W,42,36,,3.24,,1.34,,
+2021,1612094400,Fremantle Dockers W,GWS Giants W,58,28,,1.28,,3.66,,
+2021,1612094400,Richmond W,Brisbane Lions W,12,41,,3.79,,1.26,,
+2021,1612094400,Geelong Cats W,North Melbourne W,9,71,,3.29,,1.33,,
+2021,1612008000,West Coast Eagles W,Adelaide Crows W,18,56,,3.63,,1.28,,
+2021,1612008000,Gold Coast Suns W,Melbourne Demons W,35,56,,3,,1.38,,
+2021,1611921600,St Kilda W,Western Bulldogs W,51,42,,1.72,,2.1,,
+2021,1611835200,Carlton Blues W,Collingwood Magpies W,27,33,,1.55,,2.43,,
+2022-s6,1643544000,Gold Coast Suns W,Richmond W,39,34,,2.96,,1.38,,
+2022-s6,1643544000,Carlton Blues W,North Melbourne W,21,51,,3.25,,1.33,,
+2022-s6,1643457600,Brisbane Lions W,Geelong Cats W,27,25,,1.13,,5.77,,
+2022-s6,1643457600,Adelaide Crows W,Melbourne Demons W,35,21,,1.66,,2.17,,
+2022-s6,1643371200,GWS Giants W,Western Bulldogs W,43,22,,2.64,,1.47,,
+2022-s6,1643284800,Collingwood Magpies W,Fremantle Dockers W,7,38,,1.65,,2.2,,
+2022-s6,1643112000,Brisbane Lions W,Carlton Blues W,63,28,,1.41,,2.84,,
+2022-s6,1642939200,North Melbourne W,GWS Giants W,54,27,,1.17,,4.54,,
+2022-s6,1642852800,Richmond W,Fremantle Dockers W,47,77,,2.95,,1.39,,
+2022-s6,1642852800,Melbourne Demons W,St Kilda W,64,23,,1.04,,9.9,,
+2022-s6,1642852800,West Coast Eagles W,Adelaide Crows W,9,42,,9.74,,1.04,,
+2022-s6,1642766400,Geelong Cats W,Collingwood Magpies W,24,35,,5.34,,1.13,,
+2022-s6,1642334400,Fremantle Dockers W,GWS Giants W,52,20,,1.32,,3.27,,
+2022-s6,1642334400,Adelaide Crows W,North Melbourne W,37,24,,1.36,,3.09,,
+2022-s6,1642334400,West Coast Eagles W,Gold Coast Suns W,33,46,,1.6,,2.3,,
+2022-s6,1642248000,Geelong Cats W,Carlton Blues W,17,31,,2.91,,1.41,,
+2022-s6,1642248000,Collingwood Magpies W,St Kilda W,41,14,,1.12,,5.77,,
+2022-s6,1642161600,Richmond W,Melbourne Demons W,38,54,,3.89,,1.25,,
+2022-s6,1641729600,Gold Coast Suns W,GWS Giants W,21,36,,3.62,,1.27,,
+2022-s6,1641729600,Carlton Blues W,Collingwood Magpies W,25,44,,2.85,,1.4,,
+2022-s6,1641729600,Adelaide Crows W,Brisbane Lions W,39,9,,1.78,,1.99,,
+2022-s6,1641643200,Fremantle Dockers W,West Coast Eagles W,43,15,,1.21,,4.27,,
+2022-s6,1641643200,Western Bulldogs W,Melbourne Demons W,22,46,,3.02,,1.37,,
+2022-s6,1641643200,North Melbourne W,Geelong Cats W,26,18,,1.09,,6.95,,
+2022-s6,1641556800,St Kilda W,Richmond W,23,61,,2.39,,1.56,,
+2022-s7,1664625600,Western Bulldogs W,Geelong Cats W,36,37,,1.64,,2.19,,
+2022-s7,1664625600,GWS Giants W,Carlton Blues W,29,12,,3.49,,1.28,,
+2022-s7,1664539200,Port Adelaide W,Adelaide Crows W,3,63,,10.04,,1.04,,
+2022-s7,1664539200,Hawthorn Hawks W,West Coast Eagles W,44,41,,3.91,,1.24,,
+2022-s7,1664107200,Adelaide Crows W,GWS Giants W,97,1,,1.09,,6.89,,
+2022-s7,1664107200,Gold Coast Suns W,Port Adelaide W,46,32,,1.67,,2.14,,
+2022-s7,1664020800,Richmond W,Brisbane Lions W,18,14,,8.14,,1.06,,
+2022-s7,1663934400,Carlton Blues W,Melbourne Demons W,8,50,,6.23,,1.11,,
+2022-s7,1663934400,Sydney Swans W,Hawthorn Hawks W,31,35,,2.47,,1.52,,
+2022-s7,1663934400,Collingwood Magpies W,Essendon Bombers W,28,17,,1.31,,3.28,,
+2022-s7,1663934400,Western Bulldogs W,North Melbourne W,28,43,,2.8,,1.41,,
+2022-s7,1663848000,Geelong Cats W,St Kilda W,71,21,,1.43,,2.72,,
+2022-s7,1663848000,West Coast Eagles W,Fremantle Dockers W,23,26,,3.39,,1.3,,
+2022-s7,1663502400,Melbourne Demons W,Brisbane Lions W,27,42,,2.57,,1.48,,
+2022-s7,1663502400,Essendon Bombers W,Richmond W,24,26,,1.61,,2.26,,
+2022-s7,1663502400,Collingwood Magpies W,Adelaide Crows W,16,21,,2.16,,1.67,,
+2022-s7,1663416000,Hawthorn Hawks W,Western Bulldogs W,7,37,,13.17,,1.02,,
+2022-s7,1663416000,Fremantle Dockers W,Carlton Blues W,32,32,,1.54,,2.41,,
+2022-s7,1663416000,Port Adelaide W,Sydney Swans W,68,2,,1.05,,9.55,,
+2022-s7,1663416000,Gold Coast Suns W,St Kilda W,42,28,,3.04,,1.36,,
+2022-s7,1663416000,GWS Giants W,West Coast Eagles W,9,16,,1.1,,6.44,,
+2022-s7,1663329600,North Melbourne W,Geelong Cats W,28,16,,1.41,,2.82,,
+2022-s7,1662897600,West Coast Eagles W,Essendon Bombers W,32,84,,3.77,,1.25,,
+2022-s7,1662897600,Richmond W,Hawthorn Hawks W,44,9,,1.06,,8.36,,
+2022-s7,1662897600,St Kilda W,Melbourne Demons W,20,46,,4.82,,1.17,,
+2022-s7,1662897600,Carlton Blues W,Port Adelaide W,27,27,,1.32,,3.29,,
+2022-s7,1662811200,Brisbane Lions W,Gold Coast Suns W,82,9,,1.01,,14.88,,
+2022-s7,1662811200,Geelong Cats W,Collingwood Magpies W,11,15,,2.74,,1.43,,
+2022-s7,1662811200,Sydney Swans W,GWS Giants W,18,65,,4.51,,1.19,,
+2022-s7,1662811200,Adelaide Crows W,North Melbourne W,30,16,,1.64,,2.19,,
+2022-s7,1662724800,Western Bulldogs W,Fremantle Dockers W,23,20,,1.21,,4.11,,
+2022-s7,1662292800,Gold Coast Suns W,West Coast Eagles W,47,14,,2.07,,1.71,,
+2022-s7,1662292800,Hawthorn Hawks W,St Kilda W,10,63,,5.8,,1.12,,
+2022-s7,1662292800,GWS Giants W,Brisbane Lions W,20,67,,9.47,,1.04,,
+2022-s7,1662292800,Collingwood Magpies W,Sydney Swans W,45,14,,1.02,,10.2,,
+2022-s7,1662292800,Essendon Bombers W,Carlton Blues W,31,32,,1.53,,2.33,,
+2022-s7,1662206400,Fremantle Dockers W,Geelong Cats W,1,27,,1.47,,2.49,,
+2022-s7,1662206400,Port Adelaide W,Western Bulldogs W,9,28,,2.86,,1.37,,
+2022-s7,1662206400,Richmond W,Adelaide Crows W,27,36,,5.51,,1.13,,
+2022-s7,1662120000,Melbourne Demons W,North Melbourne W,26,24,,1.24,,3.75,,
+2022-s7,1661688000,Geelong Cats W,Richmond W,15,11,,1.92,,1.83,,
+2022-s7,1661688000,Brisbane Lions W,Fremantle Dockers W,76,27,,1.13,,5.57,,
+2022-s7,1661688000,Western Bulldogs W,GWS Giants W,41,34,,1.41,,2.81,,
+2022-s7,1661601600,Essendon Bombers W,Hawthorn Hawks W,53,27,,1.09,,6.79,,
+2022-s7,1661601600,Sydney Swans W,St Kilda W,27,56,,2.61,,1.47,,
+2022-s7,1661601600,West Coast Eagles W,Port Adelaide W,40,28,,2.86,,1.4,,
+2022-s7,1661601600,North Melbourne W,Gold Coast Suns W,40,14,,1.06,,8.41,,
+2022-s7,1661515200,Adelaide Crows W,Melbourne Demons W,26,44,,1.97,,1.79,,
+2022-s7,1661428800,Carlton Blues W,Collingwood Magpies W,18,36,,2.74,,1.43,,
+2023,1696680000,Melbourne Demons W,Adelaide Crows W,46,56,,1.29,,3.46,,
+2023,1696680000,St Kilda W,Hawthorn Hawks W,45,36,,1.3,,3.38,,
+2023,1696680000,GWS Giants W,West Coast Eagles W,44,24,,1.5,,2.48,,
+2023,1696593600,Western Bulldogs W,Carlton Blues W,34,53,,2.34,,1.56,,
+2023,1696161600,Adelaide Crows W,Gold Coast Suns W,47,15,,1.06,,8.28,,
+2023,1696161600,Hawthorn Hawks W,Brisbane Lions W,32,59,,16.58,,1.02,,
+2023,1696161600,North Melbourne W,GWS Giants W,32,2,,1.01,,18.96,,
+2023,1696075200,Collingwood Magpies W,Essendon Bombers W,44,24,,1.71,,2.08,,
+2023,1695988800,West Coast Eagles W,Port Adelaide W,39,33,,3.87,,1.23,,
+2023,1695988800,Western Bulldogs W,St Kilda W,36,54,,1.83,,1.93,,
+2023,1695988800,Carlton Blues W,Sydney Swans W,44,39,,1.37,,2.96,,
+2023,1695988800,Richmond W,Fremantle Dockers W,30,37,,1.17,,4.68,,
+2023,1695902400,Geelong Cats W,Melbourne Demons W,25,74,,5.38,,1.14,,
+2023,1695556800,Gold Coast Suns W,Western Bulldogs W,48,44,,1.19,,4.49,,
+2023,1695556800,St Kilda W,Collingwood Magpies W,47,35,,3.22,,1.32,,
+2023,1695556800,Essendon Bombers W,Fremantle Dockers W,50,30,,1.67,,2.14,,
+2023,1695556800,North Melbourne W,Brisbane Lions W,33,35,,1.55,,2.4,,
+2023,1695556800,Sydney Swans W,West Coast Eagles W,34,21,,1.12,,6.07,,
+2023,1695470400,Carlton Blues W,Richmond W,40,47,,2.45,,1.52,,
+2023,1695470400,Port Adelaide W,Geelong Cats W,42,70,,5.92,,1.12,,
+2023,1695470400,GWS Giants W,Adelaide Crows W,37,106,,10.1,,1.04,,
+2023,1695384000,Hawthorn Hawks W,Melbourne Demons W,11,70,,19.94,,1.01,,
+2023,1694952000,Brisbane Lions W,Sydney Swans W,87,32,,1.02,,12.5,,
+2023,1694952000,West Coast Eagles W,Carlton Blues W,24,77,,2.73,,1.43,,
+2023,1694952000,Collingwood Magpies W,Gold Coast Suns W,21,33,,1.5,,2.51,,
+2023,1694952000,St Kilda W,Port Adelaide W,48,56,,1.35,,3.08,,
+2023,1694865600,Fremantle Dockers W,Hawthorn Hawks W,35,22,,1.37,,2.97,,
+2023,1694865600,Adelaide Crows W,Essendon Bombers W,81,34,,1.1,,6.34,,
+2023,1694865600,Melbourne Demons W,Western Bulldogs W,83,41,,1.01,,16.32,,
+2023,1694865600,GWS Giants W,Richmond W,34,53,,3.6,,1.26,,
+2023,1694779200,Geelong Cats W,North Melbourne W,22,31,,3.56,,1.27,,
+2023,1694347200,GWS Giants W,Melbourne Demons W,22,99,,13.33,,1.02,,
+2023,1694347200,North Melbourne W,Carlton Blues W,66,6,,1.06,,8.8,,
+2023,1694347200,Essendon Bombers W,St Kilda W,40,28,,1.28,,3.54,,
+2023,1694347200,Collingwood Magpies W,Fremantle Dockers W,46,25,,1.41,,2.83,,
+2023,1694347200,Western Bulldogs W,Hawthorn Hawks W,39,46,,1.39,,2.86,,
+2023,1694260800,Port Adelaide W,Brisbane Lions W,26,76,,5.49,,1.13,,
+2023,1694260800,Sydney Swans W,Geelong Cats W,41,68,,9.11,,1.05,,
+2023,1694260800,Gold Coast Suns W,West Coast Eagles W,99,26,,1.26,,3.66,,
+2023,1694174400,Richmond W,Adelaide Crows W,12,41,,2.49,,1.51,,
+2023,1693742400,Fremantle Dockers W,West Coast Eagles W,27,19,,1.15,,5.39,,
+2023,1693742400,Brisbane Lions W,Richmond W,34,40,,1.16,,5,,
+2023,1693742400,Sydney Swans W,GWS Giants W,51,46,,3.93,,1.25,,
+2023,1693742400,North Melbourne W,St Kilda W,56,16,,1.08,,7.5,,
+2023,1693656000,Hawthorn Hawks W,Essendon Bombers W,30,49,,3.06,,1.37,,
+2023,1693656000,Geelong Cats W,Western Bulldogs W,65,17,,1.29,,3.55,,
+2023,1693656000,Adelaide Crows W,Port Adelaide W,58,28,,1.11,,6.67,,
+2023,1693656000,Carlton Blues W,Gold Coast Suns W,34,32,,2.04,,1.76,,
+2023,1693569600,Melbourne Demons W,Collingwood Magpies W,73,31,,1.12,,5.87,,
+2024,1728129600,Carlton Blues W,Brisbane Lions W,13,68,,11.47,,1.01,,
+2024,1728129600,West Coast Eagles W,Port Adelaide W,36,49,,1.64,,2.14,,
+2024,1728129600,Richmond W,Collingwood Magpies W,46,10,,1.14,,5.02,,
+2024,1728129600,North Melbourne W,Western Bulldogs W,59,4,,1.01,,11.11,,
+2024,1728043200,Adelaide Crows W,St Kilda W,26,22,,1.05,,8.51,,
+2024,1727956800,Melbourne Demons W,GWS Giants W,41,25,,1.65,,2.13,,
+2024,1727870400,Essendon Bombers W,Sydney Swans W,27,24,,1.24,,3.72,,
+2024,1727870400,Hawthorn Hawks W,Gold Coast Suns W,35,22,,1.01,,11.32,,
+2024,1727784000,Geelong Cats W,Fremantle Dockers W,27,45,,1.44,,2.61,,
+2024,1727611200,Port Adelaide W,Carlton Blues W,58,23,,1.62,,2.18,,
+2024,1727611200,Brisbane Lions W,Adelaide Crows W,35,33,,1.63,,2.16,,
+2024,1727611200,GWS Giants W,West Coast Eagles W,40,64,,1.54,,2.35,,
+2024,1727611200,North Melbourne W,Richmond W,27,15,,1.06,,7.49,,
+2024,1727438400,Western Bulldogs W,Sydney Swans W,39,32,,3.58,,1.26,,
+2024,1727438400,St Kilda W,Fremantle Dockers W,14,25,,1.51,,2.44,,
+2024,1727438400,Essendon Bombers W,Melbourne Demons W,72,7,,2.5,,1.48,,
+2024,1727438400,Collingwood Magpies W,Gold Coast Suns W,27,24,,3.1,,1.33,,
+2024,1727352000,Geelong Cats W,Hawthorn Hawks W,61,79,,1.96,,1.78,,
+2024,1727265600,Carlton Blues W,North Melbourne W,10,79,,10.16,,1.03,,
+2024,1727179200,Richmond W,Port Adelaide W,48,27,,1.18,,4.32,,
+2024,1727006400,West Coast Eagles W,Brisbane Lions W,16,61,,7.13,,1.07,,
+2024,1727006400,Collingwood Magpies W,Western Bulldogs W,15,57,,1.48,,2.49,,
+2024,1727006400,Sydney Swans W,GWS Giants W,43,40,,1.6,,2.22,,
+2024,1727006400,Adelaide Crows W,Essendon Bombers W,62,29,,1.05,,8.24,,
+2024,1726920000,Fremantle Dockers W,Melbourne Demons W,47,41,,1.71,,2.03,,
+2024,1726920000,St Kilda W,Hawthorn Hawks W,17,74,,1.76,,1.98,,
+2024,1726920000,Gold Coast Suns W,Geelong Cats W,27,96,,3.43,,1.28,,
+2024,1726833600,North Melbourne W,Port Adelaide W,42,6,,1.01,,11.21,,
+2024,1726747200,Richmond W,Carlton Blues W,39,6,,1.38,,2.84,,
+2024,1726660800,Brisbane Lions W,Western Bulldogs W,81,34,,1.01,,14.82,,
+2024,1726574400,Collingwood Magpies W,West Coast Eagles W,19,36,,1.96,,1.77,,
+2024,1726401600,GWS Giants W,Gold Coast Suns W,36,36,,1.64,,2.15,,
+2024,1726401600,Essendon Bombers W,St Kilda W,15,23,,2.97,,1.37,,
+2024,1726401600,Adelaide Crows W,Hawthorn Hawks W,58,32,,1.25,,3.62,,
+2024,1726401600,Melbourne Demons W,North Melbourne W,21,71,,4.22,,1.2,,
+2024,1726315200,Port Adelaide W,Fremantle Dockers W,29,37,,2.05,,1.71,,
+2024,1726315200,Carlton Blues W,Geelong Cats W,29,5,,4.37,,1.18,,
+2024,1726315200,Sydney Swans W,Richmond W,22,68,,2.23,,1.6,,
+2024,1726228800,Brisbane Lions W,Collingwood Magpies W,72,20,,1.03,,9.65,,
+2024,1726142400,Western Bulldogs W,West Coast Eagles W,21,32,,3.81,,1.23,,
+2024,1725796800,Fremantle Dockers W,Adelaide Crows W,6,39,,2.74,,1.41,,
+2024,1725796800,North Melbourne W,Geelong Cats W,36,36,,1.23,,3.84,,
+2024,1725796800,St Kilda W,Sydney Swans W,42,26,,1.49,,2.48,,
+2024,1725796800,Gold Coast Suns W,Carlton Blues W,38,39,,1.41,,2.76,,
+2024,1725796800,Richmond W,GWS Giants W,38,27,,1.38,,2.87,,
+2024,1725710400,Collingwood Magpies W,Hawthorn Hawks W,26,73,,2.35,,1.54,,
+2024,1725710400,West Coast Eagles W,Essendon Bombers W,25,41,,2.42,,1.51,,
+2024,1725710400,Melbourne Demons W,Brisbane Lions W,15,33,,1.97,,1.76,,
+2024,1725624000,Western Bulldogs W,Port Adelaide W,6,46,,3.43,,1.27,,
+2024,1725192000,Brisbane Lions W,North Melbourne W,34,78,,1.56,,2.31,,
+2024,1725192000,Hawthorn Hawks W,Carlton Blues W,66,28,,1.47,,2.54,,
+2024,1725105600,Port Adelaide W,Adelaide Crows W,35,49,,6.04,,1.1,,
+2024,1725105600,Geelong Cats W,Melbourne Demons W,40,42,,1.75,,1.98,,
+2024,1725105600,Gold Coast Suns W,St Kilda W,20,74,,1.58,,2.25,,
+2024,1725105600,Essendon Bombers W,Fremantle Dockers W,21,64,,1.44,,2.63,,
+2024,1725105600,GWS Giants W,Western Bulldogs W,72,9,,1.64,,2.15,,
+2024,1725019200,West Coast Eagles W,Richmond W,40,39,,5.42,,1.12,,
+2024,1725019200,Sydney Swans W,Collingwood Magpies W,50,35,,1.44,,2.65,,
+2025,1756036800,Essendon Bombers W,West Coast Eagles W,31,26,,1.25,,3.68,,
+2025,1756036800,North Melbourne W,Port Adelaide W,87,15,,1.02,,10.92,,
+2025,1756036800,Richmond W,Western Bulldogs W,21,42,,1.18,,4.51,,
+2025,1755950400,Hawthorn Hawks W,Carlton Blues W,30,22,,1.18,,4.49,,
+2025,1755950400,Fremantle Dockers W,Brisbane Lions W,35,105,,2.47,,1.5,,
+2025,1755950400,Gold Coast Suns W,Sydney Swans W,21,103,,4.05,,1.22,,
+2025,1755950400,Melbourne Demons W,St Kilda W,89,15,,1.26,,3.6,,
+2025,1755950400,Collingwood Magpies W,GWS Giants W,33,25,,1.35,,3.03,,
+2025,1755432000,Port Adelaide W,Fremantle Dockers W,24,46,,1.93,,1.82,,
+2025,1755432000,St Kilda W,Adelaide Crows W,41,19,,5.09,,1.15,,
+2025,1755432000,Brisbane Lions W,Hawthorn Hawks W,29,33,,1.38,,2.92,,
+2025,1755345600,Western Bulldogs W,Melbourne Demons W,14,62,,5.46,,1.13,,
+2025,1755345600,GWS Giants W,Essendon Bombers W,29,85,,2.8,,1.42,,
+2025,1755345600,Geelong Cats W,North Melbourne W,21,51,,3.87,,1.24,,
+2025,1755259200,Sydney Swans W,Richmond W,58,38,,1.6,,2.28,,
+2025,1755172800,West Coast Eagles W,Gold Coast Suns W,35,20,,1.58,,2.34,,
+2025,1755172800,Carlton Blues W,Collingwood Magpies W,45,21,,1.6,,2.27,,
+2025,1759579200,North Melbourne W,Sydney Swans W,88,20,,1.01,,12.4,,
+2025,1759579200,GWS Giants W,St Kilda W,16,30,,3.41,,1.29,,
+2025,1759492800,Melbourne Demons W,Essendon Bombers W,36,22,,1.02,,11.5,,
+2025,1759406400,Hawthorn Hawks W,Fremantle Dockers W,33,18,,1.26,,3.57,,
+2025,1759060800,West Coast Eagles W,GWS Giants W,75,33,,1.42,,2.72,,
+2025,1759060800,Adelaide Crows W,Sydney Swans W,41,39,,1.3,,3.32,,
+2025,1759060800,Brisbane Lions W,Richmond W,54,20,,1.01,,12,,
+2025,1759060800,St Kilda W,Port Adelaide W,53,42,,2.16,,1.64,,
+2025,1758888000,Western Bulldogs W,Collingwood Magpies W,65,8,,2.71,,1.42,,
+2025,1758888000,Carlton Blues W,Fremantle Dockers W,32,23,,1.43,,2.69,,
+2025,1758888000,Essendon Bombers W,North Melbourne W,41,71,,16,,1.01,,
+2025,1758888000,Melbourne Demons W,Gold Coast Suns W,93,6,,1.01,,14.67,,
+2025,1758801600,Geelong Cats W,Hawthorn Hawks W,35,42,,1.48,,2.53,,
+2025,1758456000,Gold Coast Suns W,Adelaide Crows W,34,50,,11.56,,1.01,,
+2025,1758456000,Western Bulldogs W,Brisbane Lions W,22,47,,8.58,,1.05,,
+2025,1758456000,St Kilda W,Richmond W,43,36,,1.26,,3.64,,
+2025,1758456000,Sydney Swans W,GWS Giants W,42,49,,1.02,,11.5,,
+2025,1758456000,Melbourne Demons W,West Coast Eagles W,74,23,,1.1,,6.13,,
+2025,1758369600,Fremantle Dockers W,Essendon Bombers W,56,8,,1.42,,2.7,,
+2025,1758369600,North Melbourne W,Carlton Blues W,79,26,,1.01,,13,,
+2025,1758369600,Port Adelaide W,Geelong Cats W,40,45,,3.08,,1.34,,
+2025,1758369600,Collingwood Magpies W,Hawthorn Hawks W,30,39,,3.34,,1.3,,
+2025,1757851200,Fremantle Dockers W,West Coast Eagles W,23,16,,1.95,,1.8,,
+2025,1757851200,Hawthorn Hawks W,Adelaide Crows W,27,48,,1.96,,1.79,,
+2025,1757851200,Brisbane Lions W,North Melbourne W,36,65,,5.18,,1.14,,
+2025,1757851200,Essendon Bombers W,St Kilda W,8,60,,1.34,,3.1,,
+2025,1757851200,Richmond W,Geelong Cats W,29,59,,5.97,,1.11,,
+2025,1757764800,GWS Giants W,Western Bulldogs W,50,29,,3.49,,1.27,,
+2025,1757764800,Port Adelaide W,Melbourne Demons W,43,41,,4.29,,1.19,,
+2025,1757764800,Carlton Blues W,Gold Coast Suns W,71,25,,1.11,,5.99,,
+2025,1757764800,Collingwood Magpies W,Sydney Swans W,43,17,,5.94,,1.11,,
+2025,1757246400,West Coast Eagles W,Port Adelaide W,64,45,,2.05,,1.71,,
+2025,1757246400,North Melbourne W,Collingwood Magpies W,58,13,,1.01,,17,,
+2025,1757246400,Essendon Bombers W,Geelong Cats W,27,58,,2.58,,1.46,,
+2025,1757246400,Adelaide Crows W,Brisbane Lions W,38,41,,1.62,,2.19,,
+2025,1757246400,Sydney Swans W,Fremantle Dockers W,62,37,,1.1,,6.02,,
+2025,1757160000,Hawthorn Hawks W,St Kilda W,40,17,,1.23,,3.85,,
+2025,1757160000,Carlton Blues W,Western Bulldogs W,49,33,,1.17,,4.55,,
+2025,1757160000,Gold Coast Suns W,GWS Giants W,52,33,,2.49,,1.51,,
+2025,1757160000,Melbourne Demons W,Richmond W,57,20,,1.07,,7.16,,
+2025,1756641600,Brisbane Lions W,Carlton Blues W,44,58,,1.08,,6.56,,
+2025,1756641600,Fremantle Dockers W,North Melbourne W,14,114,,9.99,,1.02,,
+2025,1756641600,Collingwood Magpies W,Melbourne Demons W,33,37,,8.83,,1.03,,
+2025,1756555200,Western Bulldogs W,Hawthorn Hawks W,10,14,,7.85,,1.06,,
+2025,1756555200,Port Adelaide W,Gold Coast Suns W,108,40,,1.14,,4.92,,
+2025,1756555200,Geelong Cats W,Sydney Swans W,45,50,,2,,1.73,,
+2025,1756555200,St Kilda W,West Coast Eagles W,28,42,,1.38,,2.84,,
+2025,1756555200,GWS Giants W,Adelaide Crows W,22,54,,11.48,,1.01,,
+2025,1756468800,Richmond W,Essendon Bombers W,28,43,,2.59,,1.45,,
+2025,1756036800,Adelaide Crows W,Geelong Cats W,65,27,,1.32,,3.17,,

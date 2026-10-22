@@ -1,0 +1,80 @@
+{
+ "asOf": "2026 NAB AFLW Season Round 10",
+ "newSeason": false,
+ "hga": 2.243,
+ "ratings": {
+  "Blues": 10.847,
+  "Bombers": -18.449,
+  "Bulldogs": 9.674,
+  "Cats": 16.996,
+  "Crows": 2.687,
+  "Demons": 17.53,
+  "Dockers": 0.208,
+  "Eagles": -10.447,
+  "GIANTS": -23.367,
+  "Hawks": 5.393,
+  "Kangaroos": 35.741,
+  "Lions": 1.944,
+  "Magpies": -16.412,
+  "Power": -1.444,
+  "Richmond": -16.295,
+  "SUNS": 6.946,
+  "St Kilda": -22.195,
+  "Swans": 0.642
+ },
+ "params": {
+  "tau": 40,
+  "gamma": 0.2,
+  "lambda": 0.25,
+  "a": 0.75
+ },
+ "totals": {
+  "level": 42.4,
+  "home": 3.56,
+  "params": {
+   "tau": 80,
+   "gamma": 0.1,
+   "lambda": 16
+  },
+  "attack": {
+   "Blues": 1.436,
+   "Bombers": -4.491,
+   "Bulldogs": 0.419,
+   "Cats": 9.402,
+   "Crows": 1.157,
+   "Demons": 6.912,
+   "Dockers": -1.664,
+   "Eagles": -3.355,
+   "GIANTS": -2.079,
+   "Hawks": 0.743,
+   "Kangaroos": 8.449,
+   "Lions": -1.242,
+   "Magpies": -5.447,
+   "Power": -3.901,
+   "Richmond": -2.826,
+   "SUNS": 1.059,
+   "St Kilda": -6.212,
+   "Swans": 1.643
+  },
+  "defence": {
+   "Blues": 3.227,
+   "Bombers": -4.869,
+   "Bulldogs": 4.467,
+   "Cats": 0.26,
+   "Crows": -0.221,
+   "Demons": 3.1,
+   "Dockers": 1.502,
+   "Eagles": -1.16,
+   "GIANTS": -5.921,
+   "Hawks": 0.316,
+   "Kangaroos": 7.72,
+   "Lions": 0.85,
+   "Magpies": -3.82,
+   "Power": 1.328,
+   "Richmond": -4.412,
+   "SUNS": 2.092,
+   "St Kilda": -4.368,
+   "Swans": -0.092
+  }
+ }
+}
