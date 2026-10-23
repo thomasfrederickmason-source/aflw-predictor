@@ -1,21 +1,5 @@
 [
   {
-    "date": 1792743300,
-    "homeTeam": "Port Adelaide W",
-    "awayTeam": "Collingwood Magpies W",
-    "venue": "Alberton Oval",
-    "venueTown": "Adelaide",
-    "venueTimezone": "Australia/Adelaide",
-    "roundNumber": 11,
-    "roundName": "Round 11",
-    "homeAvgOdds": null,
-    "homeMaxOdds": null,
-    "awayAvgOdds": null,
-    "awayMaxOdds": null,
-    "bookmakerCount": 0,
-    "status": "UNCONFIRMED_TEAMS"
-  },
-  {
     "date": 1792807500,
     "homeTeam": "St Kilda W",
     "awayTeam": "Brisbane Lions W",

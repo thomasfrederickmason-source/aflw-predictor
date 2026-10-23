@@ -277628,5 +277628,417 @@
     }
    ]
   }
+ },
+ "CD_M20262641101": {
+  "matchId": "CD_M20262641101",
+  "roundNumber": 11,
+  "homeTeam": {
+   "teamId": "CD_T9409",
+   "ins": [
+    {
+     "playerId": "CD_I1023952",
+     "name": "Lucy Boyd",
+     "reason": null
+    },
+    {
+     "playerId": "CD_I1032555",
+     "name": "Grace Parsons",
+     "reason": null
+    },
+    {
+     "playerId": "CD_I1005955",
+     "name": "Justine Mules-Robinson",
+     "reason": null
+    }
+   ],
+   "outs": [
+    {
+     "playerId": "CD_I1022210",
+     "name": "Sachi Syme",
+     "reason": "Injured"
+    },
+    {
+     "playerId": "CD_I1026227",
+     "name": "Julia Teakle",
+     "reason": "Omitted"
+    },
+    {
+     "playerId": "CD_I1030962",
+     "name": "Sophie Eaton",
+     "reason": "Managed"
+    }
+   ],
+   "milestones": [],
+   "clubDebuts": [],
+   "positions": [
+    {
+     "position": "BPL",
+     "playerId": "CD_I1022726",
+     "name": "Teagan Germech",
+     "jumperNumber": 30,
+     "captain": false
+    },
+    {
+     "position": "FB",
+     "playerId": "CD_I1022299",
+     "name": "Amelie Borg",
+     "jumperNumber": 21,
+     "captain": false
+    },
+    {
+     "position": "HBFL",
+     "playerId": "CD_I1023952",
+     "name": "Lucy Boyd",
+     "jumperNumber": 13,
+     "captain": false
+    },
+    {
+     "position": "CHB",
+     "playerId": "CD_I1007360",
+     "name": "Ebony O'Dea",
+     "jumperNumber": 2,
+     "captain": false
+    },
+    {
+     "position": "HBFR",
+     "playerId": "CD_I1022745",
+     "name": "Ella Heads",
+     "jumperNumber": 12,
+     "captain": false
+    },
+    {
+     "position": "WL",
+     "playerId": "CD_I1025893",
+     "name": "Ella Boag",
+     "jumperNumber": 17,
+     "captain": false
+    },
+    {
+     "position": "C",
+     "playerId": "CD_I1012241",
+     "name": "Abbey Dowrick",
+     "jumperNumber": 5,
+     "captain": false
+    },
+    {
+     "position": "WR",
+     "playerId": "CD_I1022220",
+     "name": "Molly Brooksby",
+     "jumperNumber": 6,
+     "captain": false
+    },
+    {
+     "position": "HFFL",
+     "playerId": "CD_I1026143",
+     "name": "Emily Elkington",
+     "jumperNumber": 26,
+     "captain": false
+    },
+    {
+     "position": "CHF",
+     "playerId": "CD_I1032555",
+     "name": "Grace Parsons",
+     "jumperNumber": 25,
+     "captain": false
+    },
+    {
+     "position": "HFFR",
+     "playerId": "CD_I1019509",
+     "name": "Katelyn Pope",
+     "jumperNumber": 44,
+     "captain": false
+    },
+    {
+     "position": "FF",
+     "playerId": "CD_I1005264",
+     "name": "Ashleigh Woodland",
+     "jumperNumber": 8,
+     "captain": false
+    },
+    {
+     "position": "FPR",
+     "playerId": "CD_I1022248",
+     "name": "Lauren Young",
+     "jumperNumber": 22,
+     "captain": false
+    },
+    {
+     "position": "RK",
+     "playerId": "CD_I1023943",
+     "name": "Matilda Scholz",
+     "jumperNumber": 29,
+     "captain": false
+    },
+    {
+     "position": "RR",
+     "playerId": "CD_I1019059",
+     "name": "Maria Moloney",
+     "jumperNumber": 9,
+     "captain": false
+    },
+    {
+     "position": "R",
+     "playerId": "CD_I1022181",
+     "name": "Shineah Goody",
+     "jumperNumber": 16,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1011062",
+     "name": "Cheyenne Hammond",
+     "jumperNumber": 28,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1005955",
+     "name": "Justine Mules-Robinson",
+     "jumperNumber": 1,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1009843",
+     "name": "Ellie Hampson",
+     "jumperNumber": 7,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1022196",
+     "name": "Piper Window",
+     "jumperNumber": 4,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1007141",
+     "name": "Gemma Houghton",
+     "jumperNumber": 27,
+     "captain": false
+    },
+    {
+     "position": "EMERG",
+     "playerId": "CD_I1026227",
+     "name": "Julia Teakle",
+     "jumperNumber": 15,
+     "captain": false
+    },
+    {
+     "position": "EMERG",
+     "playerId": "CD_I997686",
+     "name": "Kirsty Lamb",
+     "jumperNumber": 35,
+     "captain": false
+    },
+    {
+     "position": "EMERG",
+     "playerId": "CD_I1026412",
+     "name": "Olivia Crane",
+     "jumperNumber": 19,
+     "captain": false
+    }
+   ]
+  },
+  "awayTeam": {
+   "teamId": "CD_T8097",
+   "ins": [
+    {
+     "playerId": "CD_I1025548",
+     "name": "Georgia Knight",
+     "reason": null
+    },
+    {
+     "playerId": "CD_I1013706",
+     "name": "Sarah Rowe",
+     "reason": null
+    }
+   ],
+   "outs": [
+    {
+     "playerId": "CD_I1003020",
+     "name": "Brianna Davey",
+     "reason": "Injured"
+    },
+    {
+     "playerId": "CD_I1025615",
+     "name": "Charlotte Brewer",
+     "reason": "Omitted"
+    }
+   ],
+   "milestones": [],
+   "clubDebuts": [],
+   "positions": [
+    {
+     "position": "BPL",
+     "playerId": "CD_I1025421",
+     "name": "Amber Schutte",
+     "jumperNumber": 21,
+     "captain": false
+    },
+    {
+     "position": "FB",
+     "playerId": "CD_I1026294",
+     "name": "Ariana Hetherington",
+     "jumperNumber": 11,
+     "captain": false
+    },
+    {
+     "position": "HBFL",
+     "playerId": "CD_I1009831",
+     "name": "Tarni White",
+     "jumperNumber": 29,
+     "captain": false
+    },
+    {
+     "position": "CHB",
+     "playerId": "CD_I1025895",
+     "name": "Violet Patterson",
+     "jumperNumber": 26,
+     "captain": false
+    },
+    {
+     "position": "HBFR",
+     "playerId": "CD_I1012662",
+     "name": "Airlie Runnalls",
+     "jumperNumber": 36,
+     "captain": false
+    },
+    {
+     "position": "WL",
+     "playerId": "CD_I1015070",
+     "name": "Eliza James",
+     "jumperNumber": 2,
+     "captain": false
+    },
+    {
+     "position": "C",
+     "playerId": "CD_I1025609",
+     "name": "Lucille Cronin",
+     "jumperNumber": 27,
+     "captain": false
+    },
+    {
+     "position": "WR",
+     "playerId": "CD_I1042246",
+     "name": "Kellyann Hogan",
+     "jumperNumber": 24,
+     "captain": false
+    },
+    {
+     "position": "HFFL",
+     "playerId": "CD_I1009845",
+     "name": "Kalinda Howarth",
+     "jumperNumber": 35,
+     "captain": false
+    },
+    {
+     "position": "CHF",
+     "playerId": "CD_I1025548",
+     "name": "Georgia Knight",
+     "jumperNumber": 12,
+     "captain": false
+    },
+    {
+     "position": "HFFR",
+     "playerId": "CD_I1035558",
+     "name": "Imogen Trengove",
+     "jumperNumber": 22,
+     "captain": false
+    },
+    {
+     "position": "FF",
+     "playerId": "CD_I1003019",
+     "name": "Sabrina Frederick",
+     "jumperNumber": 1,
+     "captain": false
+    },
+    {
+     "position": "FPR",
+     "playerId": "CD_I1009798",
+     "name": "Mattea Breed",
+     "jumperNumber": 14,
+     "captain": false
+    },
+    {
+     "position": "RK",
+     "playerId": "CD_I1022112",
+     "name": "Imogen Barnett",
+     "jumperNumber": 4,
+     "captain": false
+    },
+    {
+     "position": "RR",
+     "playerId": "CD_I997729",
+     "name": "Brittany Bonnici",
+     "jumperNumber": 8,
+     "captain": false
+    },
+    {
+     "position": "R",
+     "playerId": "CD_I1025419",
+     "name": "Ashley Centra",
+     "jumperNumber": 16,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1034054",
+     "name": "Zara Neuwirth",
+     "jumperNumber": 25,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1032594",
+     "name": "Josephine Bamford",
+     "jumperNumber": 37,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1019806",
+     "name": "Jemma Rigoni",
+     "jumperNumber": 43,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1019724",
+     "name": "Carly Remmos",
+     "jumperNumber": 30,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1013706",
+     "name": "Sarah Rowe",
+     "jumperNumber": 7,
+     "captain": false
+    },
+    {
+     "position": "EMERG",
+     "playerId": "CD_I1048151",
+     "name": "Olivia Lewis",
+     "jumperNumber": 33,
+     "captain": false
+    },
+    {
+     "position": "EMERG",
+     "playerId": "CD_I1033496",
+     "name": "Amy Smith",
+     "jumperNumber": 28,
+     "captain": false
+    },
+    {
+     "position": "EMERG",
+     "playerId": "CD_I1025615",
+     "name": "Charlotte Brewer",
+     "jumperNumber": 20,
+     "captain": false
+    }
+   ]
+  }
  }
 }

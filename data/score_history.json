@@ -10372,5 +10372,18 @@
     "actualAwayScore": 40,
     "predTotal": 74.78094729744699,
     "actualTotal": 91
+  },
+  {
+    "matchId": "CD_M20262641101",
+    "season": "2026 NAB AFLW Season",
+    "date": "2026-10-23T08:15:00.000+0000",
+    "homeTeam": "Power",
+    "awayTeam": "Magpies",
+    "predHomeScore": 52.48291943906282,
+    "predAwayScore": 30.163375077207807,
+    "actualHomeScore": 52,
+    "actualAwayScore": 4,
+    "predTotal": 82.64629451627063,
+    "actualTotal": 56
   }
 ]

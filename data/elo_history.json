@@ -12766,5 +12766,21 @@
     "margin": 11,
     "totalScore": 91,
     "homeWin": true
+  },
+  {
+    "matchId": "CD_M20262641101",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-23T08:15:00.000+0000",
+    "homeTeam": "Power",
+    "awayTeam": "Magpies",
+    "homeRatingPre": 1427.0915419629318,
+    "awayRatingPre": 1192.5318946457478,
+    "homeWinProbModel": 0.8079246116774399,
+    "homeScore": 52,
+    "awayScore": 4,
+    "margin": 48,
+    "totalScore": 56,
+    "homeWin": true
   }
 ]

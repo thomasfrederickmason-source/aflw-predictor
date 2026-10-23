@@ -27,7 +27,10 @@
       16
     ],
     "margin": -26,
-    "totalScore": 106
+    "totalScore": 106,
+    "venueName": "Marvel Stadium",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640102",
@@ -57,7 +60,10 @@
       19
     ],
     "margin": -19,
-    "totalScore": 101
+    "totalScore": 101,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640109",
@@ -87,7 +93,10 @@
       2
     ],
     "margin": 73,
-    "totalScore": 127
+    "totalScore": 127,
+    "venueName": "Marvel Stadium",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640104",
@@ -117,7 +126,10 @@
       15
     ],
     "margin": 18,
-    "totalScore": 74
+    "totalScore": 74,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640103",
@@ -147,7 +159,10 @@
       0
     ],
     "margin": -26,
-    "totalScore": 54
+    "totalScore": 54,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20262640105",
@@ -177,7 +192,10 @@
       16
     ],
     "margin": -48,
-    "totalScore": 122
+    "totalScore": 122,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640106",
@@ -207,7 +225,10 @@
       20
     ],
     "margin": -8,
-    "totalScore": 114
+    "totalScore": 114,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20262640107",
@@ -237,7 +258,10 @@
       7
     ],
     "margin": -21,
-    "totalScore": 61
+    "totalScore": 61,
+    "venueName": "Cockburn ARC Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20262640108",
@@ -267,7 +291,10 @@
       18
     ],
     "margin": 12,
-    "totalScore": 96
+    "totalScore": 96,
+    "venueName": "ENGIE Stadium",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20262640202",
@@ -297,7 +324,10 @@
       14
     ],
     "margin": 11,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640208",
@@ -327,7 +357,10 @@
       15
     ],
     "margin": -35,
-    "totalScore": 103
+    "totalScore": 103,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20262640201",
@@ -357,7 +390,10 @@
       1
     ],
     "margin": 85,
-    "totalScore": 115
+    "totalScore": 115,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640203",
@@ -387,7 +423,10 @@
       20
     ],
     "margin": -11,
-    "totalScore": 77
+    "totalScore": 77,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20262640209",
@@ -417,7 +456,10 @@
       6
     ],
     "margin": 24,
-    "totalScore": 108
+    "totalScore": 108,
+    "venueName": "SCG",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20262640204",
@@ -447,7 +489,10 @@
       6
     ],
     "margin": -20,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640206",
@@ -477,7 +522,10 @@
       2
     ],
     "margin": 48,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640205",
@@ -507,7 +555,10 @@
       0
     ],
     "margin": 27,
-    "totalScore": 73
+    "totalScore": 73,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640207",
@@ -537,7 +588,10 @@
       25
     ],
     "margin": -32,
-    "totalScore": 98
+    "totalScore": 98,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20262640301",
@@ -567,7 +621,10 @@
       8
     ],
     "margin": 47,
-    "totalScore": 93
+    "totalScore": 93,
+    "venueName": "UTAS Stadium",
+    "venueLocation": "Launceston",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M20262640302",
@@ -597,7 +654,10 @@
       9
     ],
     "margin": 17,
-    "totalScore": 103
+    "totalScore": 103,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20262640303",
@@ -627,7 +687,10 @@
       9
     ],
     "margin": 23,
-    "totalScore": 53
+    "totalScore": 53,
+    "venueName": "C.ex Coffs International Stadium",
+    "venueLocation": "Coffs Harbour",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20262640304",
@@ -657,7 +720,10 @@
       13
     ],
     "margin": -4,
-    "totalScore": 100
+    "totalScore": 100,
+    "venueName": "Corroboree Group Oval Manuka",
+    "venueLocation": "Canberra",
+    "venueState": "ACT"
   },
   {
     "matchId": "CD_M20262640305",
@@ -687,7 +753,10 @@
       19
     ],
     "margin": 56,
-    "totalScore": 122
+    "totalScore": 122,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640306",
@@ -717,7 +786,10 @@
       25
     ],
     "margin": -7,
-    "totalScore": 121
+    "totalScore": 121,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20262640307",
@@ -747,7 +819,10 @@
       6
     ],
     "margin": -28,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640308",
@@ -777,7 +852,10 @@
       14
     ],
     "margin": -6,
-    "totalScore": 90
+    "totalScore": 90,
+    "venueName": "Cockburn ARC Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20262640309",
@@ -807,7 +885,10 @@
       7
     ],
     "margin": -5,
-    "totalScore": 71
+    "totalScore": 71,
+    "venueName": "TIO Stadium",
+    "venueLocation": "Darwin",
+    "venueState": "NT"
   },
   {
     "matchId": "CD_M20262640401",
@@ -837,7 +918,10 @@
       1
     ],
     "margin": 27,
-    "totalScore": 93
+    "totalScore": 93,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640402",
@@ -867,7 +951,10 @@
       36
     ],
     "margin": -92,
-    "totalScore": 106
+    "totalScore": 106,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640403",
@@ -897,7 +984,10 @@
       1
     ],
     "margin": -3,
-    "totalScore": 31
+    "totalScore": 31,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20262640404",
@@ -927,7 +1017,10 @@
       7
     ],
     "margin": 31,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20262640405",
@@ -957,7 +1050,10 @@
       0
     ],
     "margin": -25,
-    "totalScore": 95
+    "totalScore": 95,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640406",
@@ -987,7 +1083,10 @@
       12
     ],
     "margin": -28,
-    "totalScore": 106
+    "totalScore": 106,
+    "venueName": "Kennedy Community Centre",
+    "venueLocation": "Dingley Village",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640407",
@@ -1017,7 +1116,10 @@
       15
     ],
     "margin": 32,
-    "totalScore": 134
+    "totalScore": 134,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640408",
@@ -1047,7 +1149,10 @@
       7
     ],
     "margin": 39,
-    "totalScore": 97
+    "totalScore": 97,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640409",
@@ -1077,7 +1182,10 @@
       22
     ],
     "margin": -37,
-    "totalScore": 125
+    "totalScore": 125,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20262640501",
@@ -1107,7 +1215,10 @@
       10
     ],
     "margin": 11,
-    "totalScore": 71
+    "totalScore": 71,
+    "venueName": "Kennedy Community Centre",
+    "venueLocation": "Dingley Village",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640502",
@@ -1137,7 +1248,10 @@
       4
     ],
     "margin": 30,
-    "totalScore": 94
+    "totalScore": 94,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20262640503",
@@ -1167,7 +1281,10 @@
       7
     ],
     "margin": -11,
-    "totalScore": 103
+    "totalScore": 103,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20262640504",
@@ -1197,7 +1314,10 @@
       13
     ],
     "margin": 5,
-    "totalScore": 87
+    "totalScore": 87,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20262640505",
@@ -1227,7 +1347,10 @@
       8
     ],
     "margin": 51,
-    "totalScore": 97
+    "totalScore": 97,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640506",
@@ -1257,7 +1380,10 @@
       8
     ],
     "margin": 15,
-    "totalScore": 101
+    "totalScore": 101,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640507",
@@ -1287,7 +1413,10 @@
       17
     ],
     "margin": 31,
-    "totalScore": 143
+    "totalScore": 143,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20262640508",
@@ -1317,7 +1446,10 @@
       0
     ],
     "margin": 10,
-    "totalScore": 56
+    "totalScore": 56,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640509",
@@ -1347,7 +1479,10 @@
       1
     ],
     "margin": 15,
-    "totalScore": 59
+    "totalScore": 59,
+    "venueName": "Cockburn ARC Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20262640601",
@@ -1377,7 +1512,10 @@
       6
     ],
     "margin": 7,
-    "totalScore": 57
+    "totalScore": 57,
+    "venueName": "Cazalys Stadium",
+    "venueLocation": "Cairns",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20262640602",
@@ -1407,7 +1545,10 @@
       13
     ],
     "margin": -41,
-    "totalScore": 139
+    "totalScore": 139,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640603",
@@ -1437,7 +1578,10 @@
       0
     ],
     "margin": 34,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640604",
@@ -1467,7 +1611,10 @@
       14
     ],
     "margin": -14,
-    "totalScore": 68
+    "totalScore": 68,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20262640605",
@@ -1497,7 +1644,10 @@
       13
     ],
     "margin": -10,
-    "totalScore": 70
+    "totalScore": 70,
+    "venueName": "Cockburn ARC Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20262640606",
@@ -1527,7 +1677,10 @@
       6
     ],
     "margin": -7,
-    "totalScore": 129
+    "totalScore": 129,
+    "venueName": "Corroboree Group Oval Manuka",
+    "venueLocation": "Canberra",
+    "venueState": "ACT"
   },
   {
     "matchId": "CD_M20262640607",
@@ -1557,7 +1710,10 @@
       15
     ],
     "margin": -41,
-    "totalScore": 61
+    "totalScore": 61,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640608",
@@ -1587,7 +1743,10 @@
       1
     ],
     "margin": -11,
-    "totalScore": 61
+    "totalScore": 61,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640609",
@@ -1617,7 +1776,10 @@
       10
     ],
     "margin": -9,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20262640701",
@@ -1647,7 +1809,10 @@
       26
     ],
     "margin": 36,
-    "totalScore": 128
+    "totalScore": 128,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640702",
@@ -1677,7 +1842,10 @@
       1
     ],
     "margin": -10,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640703",
@@ -1707,7 +1875,10 @@
       24
     ],
     "margin": 13,
-    "totalScore": 111
+    "totalScore": 111,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640704",
@@ -1737,7 +1908,10 @@
       0
     ],
     "margin": 55,
-    "totalScore": 97
+    "totalScore": 97,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640705",
@@ -1767,7 +1941,10 @@
       25
     ],
     "margin": -31,
-    "totalScore": 99
+    "totalScore": 99,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640706",
@@ -1797,7 +1974,10 @@
       0
     ],
     "margin": 9,
-    "totalScore": 59
+    "totalScore": 59,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640707",
@@ -1827,7 +2007,10 @@
       6
     ],
     "margin": -25,
-    "totalScore": 95
+    "totalScore": 95,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20262640708",
@@ -1857,7 +2040,10 @@
       1
     ],
     "margin": 14,
-    "totalScore": 60
+    "totalScore": 60,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20262640709",
@@ -1887,7 +2073,10 @@
       7
     ],
     "margin": 30,
-    "totalScore": 108
+    "totalScore": 108,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20262640801",
@@ -1917,7 +2106,10 @@
       4
     ],
     "margin": 12,
-    "totalScore": 60
+    "totalScore": 60,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640802",
@@ -1947,7 +2139,10 @@
       5
     ],
     "margin": -34,
-    "totalScore": 74
+    "totalScore": 74,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640803",
@@ -1977,7 +2172,10 @@
       12
     ],
     "margin": -8,
-    "totalScore": 78
+    "totalScore": 78,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20262640804",
@@ -2007,7 +2205,10 @@
       1
     ],
     "margin": 30,
-    "totalScore": 32
+    "totalScore": 32,
+    "venueName": "Mars Stadium",
+    "venueLocation": "Ballarat",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640805",
@@ -2037,7 +2238,10 @@
       22
     ],
     "margin": -20,
-    "totalScore": 60
+    "totalScore": 60,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20262640806",
@@ -2067,7 +2271,10 @@
       15
     ],
     "margin": 14,
-    "totalScore": 58
+    "totalScore": 58,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20262640807",
@@ -2097,7 +2304,10 @@
       7
     ],
     "margin": 55,
-    "totalScore": 87
+    "totalScore": 87,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640808",
@@ -2127,7 +2337,10 @@
       7
     ],
     "margin": -21,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640809",
@@ -2157,7 +2370,10 @@
       0
     ],
     "margin": 12,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "Sullivan Logistics Stadium",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20262640901",
@@ -2187,7 +2403,10 @@
       1
     ],
     "margin": 43,
-    "totalScore": 87
+    "totalScore": 87,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640902",
@@ -2217,7 +2436,10 @@
       14
     ],
     "margin": 2,
-    "totalScore": 76
+    "totalScore": 76,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640903",
@@ -2247,7 +2469,10 @@
       1
     ],
     "margin": 4,
-    "totalScore": 48
+    "totalScore": 48,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20262640904",
@@ -2277,7 +2502,10 @@
       15
     ],
     "margin": 63,
-    "totalScore": 129
+    "totalScore": 129,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640905",
@@ -2307,7 +2535,10 @@
       25
     ],
     "margin": -32,
-    "totalScore": 92
+    "totalScore": 92,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640906",
@@ -2337,7 +2568,10 @@
       8
     ],
     "margin": 22,
-    "totalScore": 100
+    "totalScore": 100,
+    "venueName": "Great Barrier Reef Arena",
+    "venueLocation": "Mackay",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20262640907",
@@ -2367,7 +2601,10 @@
       8
     ],
     "margin": 28,
-    "totalScore": 88
+    "totalScore": 88,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640908",
@@ -2397,7 +2634,10 @@
       0
     ],
     "margin": 25,
-    "totalScore": 105
+    "totalScore": 105,
+    "venueName": "Kennedy Community Centre",
+    "venueLocation": "Dingley Village",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262640909",
@@ -2427,7 +2667,10 @@
       13
     ],
     "margin": -27,
-    "totalScore": 91
+    "totalScore": 91,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20262641001",
@@ -2457,7 +2700,10 @@
       12
     ],
     "margin": 62,
-    "totalScore": 126
+    "totalScore": 126,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262641002",
@@ -2487,7 +2733,10 @@
       18
     ],
     "margin": 10,
-    "totalScore": 116
+    "totalScore": 116,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20262641003",
@@ -2517,7 +2766,10 @@
       0
     ],
     "margin": -30,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262641004",
@@ -2547,7 +2799,10 @@
       1
     ],
     "margin": 16,
-    "totalScore": 52
+    "totalScore": 52,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20262641005",
@@ -2577,7 +2832,10 @@
       24
     ],
     "margin": -53,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Sullivan Logistics Stadium",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20262641006",
@@ -2607,7 +2865,10 @@
       21
     ],
     "margin": -51,
-    "totalScore": 109
+    "totalScore": 109,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262641007",
@@ -2637,7 +2898,10 @@
       10
     ],
     "margin": 1,
-    "totalScore": 109
+    "totalScore": 109,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20262641008",
@@ -2667,7 +2931,10 @@
       27
     ],
     "margin": -52,
-    "totalScore": 118
+    "totalScore": 118,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20262641009",
@@ -2697,7 +2964,43 @@
       12
     ],
     "margin": 11,
-    "totalScore": 91
+    "totalScore": 91,
+    "venueName": "Cockburn ARC Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
+  },
+  {
+    "matchId": "CD_M20262641101",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-23T08:15:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V143",
+    "homeTeam": "Power",
+    "awayTeam": "Magpies",
+    "homeScore": 52,
+    "awayScore": 4,
+    "homeGoals": 8,
+    "homeBehinds": 4,
+    "awayGoals": 0,
+    "awayBehinds": 4,
+    "homeQtr": [
+      18,
+      14,
+      6,
+      14
+    ],
+    "awayQtr": [
+      0,
+      1,
+      2,
+      1
+    ],
+    "margin": 48,
+    "totalScore": 56,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20252640101",
@@ -2727,7 +3030,10 @@
       2
     ],
     "margin": 24,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640102",
@@ -2757,7 +3063,10 @@
       7
     ],
     "margin": 15,
-    "totalScore": 55
+    "totalScore": 55,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20252640103",
@@ -2787,7 +3096,10 @@
       14
     ],
     "margin": 20,
-    "totalScore": 96
+    "totalScore": 96,
+    "venueName": "North Sydney Oval",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20252640104",
@@ -2817,7 +3129,10 @@
       31
     ],
     "margin": -30,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640105",
@@ -2847,7 +3162,10 @@
       21
     ],
     "margin": -56,
-    "totalScore": 114
+    "totalScore": 114,
+    "venueName": "Corroboree Group Oval Manuka",
+    "venueLocation": "Canberra",
+    "venueState": "ACT"
   },
   {
     "matchId": "CD_M20252640106",
@@ -2877,7 +3195,10 @@
       13
     ],
     "margin": -48,
-    "totalScore": 76
+    "totalScore": 76,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640107",
@@ -2907,7 +3228,10 @@
       7
     ],
     "margin": -4,
-    "totalScore": 62
+    "totalScore": 62,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20252640108",
@@ -2937,7 +3261,10 @@
       4
     ],
     "margin": 22,
-    "totalScore": 60
+    "totalScore": 60,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640109",
@@ -2967,7 +3294,10 @@
       19
     ],
     "margin": -22,
-    "totalScore": 70
+    "totalScore": 70,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20252640201",
@@ -2997,7 +3327,10 @@
       0
     ],
     "margin": 8,
-    "totalScore": 58
+    "totalScore": 58,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640202",
@@ -3027,7 +3360,10 @@
       1
     ],
     "margin": 74,
-    "totalScore": 104
+    "totalScore": 104,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640203",
@@ -3057,7 +3393,10 @@
       21
     ],
     "margin": -82,
-    "totalScore": 124
+    "totalScore": 124,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20252640204",
@@ -3087,7 +3426,10 @@
       31
     ],
     "margin": -70,
-    "totalScore": 140
+    "totalScore": 140,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20252640205",
@@ -3117,7 +3459,10 @@
       8
     ],
     "margin": 8,
-    "totalScore": 52
+    "totalScore": 52,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640208",
@@ -3147,7 +3492,10 @@
       14
     ],
     "margin": -21,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640207",
@@ -3177,7 +3525,10 @@
       0
     ],
     "margin": 72,
-    "totalScore": 102
+    "totalScore": 102,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640206",
@@ -3207,7 +3558,10 @@
       12
     ],
     "margin": 5,
-    "totalScore": 57
+    "totalScore": 57,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640209",
@@ -3237,7 +3591,10 @@
       2
     ],
     "margin": 38,
-    "totalScore": 92
+    "totalScore": 92,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20252640301",
@@ -3267,7 +3624,10 @@
       13
     ],
     "margin": -15,
-    "totalScore": 71
+    "totalScore": 71,
+    "venueName": "TIO Stadium",
+    "venueLocation": "Darwin",
+    "venueState": "NT"
   },
   {
     "matchId": "CD_M20252640302",
@@ -3297,7 +3657,10 @@
       8
     ],
     "margin": -32,
-    "totalScore": 76
+    "totalScore": 76,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20252640303",
@@ -3327,7 +3690,10 @@
       32
     ],
     "margin": -14,
-    "totalScore": 70
+    "totalScore": 70,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640304",
@@ -3357,7 +3723,10 @@
       8
     ],
     "margin": -5,
-    "totalScore": 95
+    "totalScore": 95,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640305",
@@ -3387,7 +3756,10 @@
       19
     ],
     "margin": 68,
-    "totalScore": 148
+    "totalScore": 148,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20252640306",
@@ -3417,7 +3789,10 @@
       0
     ],
     "margin": -4,
-    "totalScore": 24
+    "totalScore": 24,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640307",
@@ -3447,7 +3822,10 @@
       6
     ],
     "margin": -4,
-    "totalScore": 70
+    "totalScore": 70,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640308",
@@ -3477,7 +3855,10 @@
       36
     ],
     "margin": -100,
-    "totalScore": 128
+    "totalScore": 128,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20252640309",
@@ -3507,7 +3888,10 @@
       12
     ],
     "margin": -14,
-    "totalScore": 102
+    "totalScore": 102,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20252640401",
@@ -3537,7 +3921,10 @@
       15
     ],
     "margin": 37,
-    "totalScore": 77
+    "totalScore": 77,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640402",
@@ -3567,7 +3954,10 @@
       15
     ],
     "margin": 19,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20252640403",
@@ -3597,7 +3987,10 @@
       13
     ],
     "margin": 16,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640404",
@@ -3627,7 +4020,10 @@
       14
     ],
     "margin": 23,
-    "totalScore": 57
+    "totalScore": 57,
+    "venueName": "Cazalys Stadium",
+    "venueLocation": "Cairns",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20252640405",
@@ -3657,7 +4053,10 @@
       8
     ],
     "margin": 25,
-    "totalScore": 99
+    "totalScore": 99,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20252640406",
@@ -3687,7 +4086,10 @@
       20
     ],
     "margin": -3,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20252640407",
@@ -3717,7 +4119,10 @@
       7
     ],
     "margin": 45,
-    "totalScore": 71
+    "totalScore": 71,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640408",
@@ -3747,7 +4152,10 @@
       14
     ],
     "margin": -31,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640409",
@@ -3777,7 +4185,10 @@
       7
     ],
     "margin": 19,
-    "totalScore": 109
+    "totalScore": 109,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20252640501",
@@ -3807,7 +4218,10 @@
       14
     ],
     "margin": 26,
-    "totalScore": 60
+    "totalScore": 60,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640502",
@@ -3837,7 +4251,10 @@
       1
     ],
     "margin": 46,
-    "totalScore": 96
+    "totalScore": 96,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640503",
@@ -3867,7 +4284,10 @@
       21
     ],
     "margin": 2,
-    "totalScore": 84
+    "totalScore": 84,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20252640504",
@@ -3897,7 +4317,10 @@
       2
     ],
     "margin": 21,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Corroboree Group Oval Manuka",
+    "venueLocation": "Canberra",
+    "venueState": "ACT"
   },
   {
     "matchId": "CD_M20252640505",
@@ -3927,7 +4350,10 @@
       15
     ],
     "margin": -52,
-    "totalScore": 68
+    "totalScore": 68,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640506",
@@ -3957,7 +4383,10 @@
       7
     ],
     "margin": -30,
-    "totalScore": 88
+    "totalScore": 88,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640507",
@@ -3987,7 +4416,10 @@
       18
     ],
     "margin": -21,
-    "totalScore": 75
+    "totalScore": 75,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640508",
@@ -4017,7 +4449,10 @@
       2
     ],
     "margin": -29,
-    "totalScore": 101
+    "totalScore": 101,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20252640509",
@@ -4047,7 +4482,10 @@
       0
     ],
     "margin": 7,
-    "totalScore": 39
+    "totalScore": 39,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20252640601",
@@ -4077,7 +4515,10 @@
       14
     ],
     "margin": -9,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640604",
@@ -4107,7 +4548,10 @@
       13
     ],
     "margin": -5,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20252640602",
@@ -4137,7 +4581,10 @@
       12
     ],
     "margin": 53,
-    "totalScore": 105
+    "totalScore": 105,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640603",
@@ -4167,7 +4614,10 @@
       7
     ],
     "margin": 48,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20252640605",
@@ -4197,7 +4647,10 @@
       8
     ],
     "margin": -7,
-    "totalScore": 91
+    "totalScore": 91,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20252640606",
@@ -4227,7 +4680,10 @@
       19
     ],
     "margin": 51,
-    "totalScore": 97
+    "totalScore": 97,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640607",
@@ -4257,7 +4713,10 @@
       14
     ],
     "margin": -25,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640608",
@@ -4287,7 +4746,10 @@
       7
     ],
     "margin": 7,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640609",
@@ -4317,7 +4779,10 @@
       37
     ],
     "margin": -16,
-    "totalScore": 84
+    "totalScore": 84,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20252640701",
@@ -4347,7 +4812,10 @@
       14
     ],
     "margin": -7,
-    "totalScore": 77
+    "totalScore": 77,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640702",
@@ -4377,7 +4845,10 @@
       0
     ],
     "margin": 87,
-    "totalScore": 99
+    "totalScore": 99,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640703",
@@ -4407,7 +4878,10 @@
       27
     ],
     "margin": -30,
-    "totalScore": 112
+    "totalScore": 112,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640704",
@@ -4437,7 +4911,10 @@
       3
     ],
     "margin": 9,
-    "totalScore": 55
+    "totalScore": 55,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640705",
@@ -4467,7 +4944,10 @@
       0
     ],
     "margin": 57,
-    "totalScore": 73
+    "totalScore": 73,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640706",
@@ -4497,7 +4977,10 @@
       0
     ],
     "margin": 11,
-    "totalScore": 95
+    "totalScore": 95,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640707",
@@ -4527,7 +5010,10 @@
       6
     ],
     "margin": 2,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20252640708",
@@ -4557,7 +5043,10 @@
       0
     ],
     "margin": 34,
-    "totalScore": 74
+    "totalScore": 74,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20252640709",
@@ -4587,7 +5076,10 @@
       6
     ],
     "margin": 42,
-    "totalScore": 108
+    "totalScore": 108,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20252640801",
@@ -4617,7 +5109,10 @@
       1
     ],
     "margin": 15,
-    "totalScore": 51
+    "totalScore": 51,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640802",
@@ -4647,7 +5142,10 @@
       13
     ],
     "margin": 14,
-    "totalScore": 58
+    "totalScore": 58,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640803",
@@ -4677,7 +5175,10 @@
       2
     ],
     "margin": -14,
-    "totalScore": 46
+    "totalScore": 46,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20252640804",
@@ -4707,7 +5208,10 @@
       7
     ],
     "margin": 68,
-    "totalScore": 108
+    "totalScore": 108,
+    "venueName": "UTAS Stadium",
+    "venueLocation": "Launceston",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M20252640805",
@@ -4737,7 +5241,10 @@
       23
     ],
     "margin": -68,
-    "totalScore": 98
+    "totalScore": 98,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20252640806",
@@ -4767,7 +5274,10 @@
       7
     ],
     "margin": 19,
-    "totalScore": 89
+    "totalScore": 89,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20252640807",
@@ -4797,7 +5307,10 @@
       11
     ],
     "margin": 11,
-    "totalScore": 105
+    "totalScore": 105,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640808",
@@ -4827,7 +5340,10 @@
       15
     ],
     "margin": -18,
-    "totalScore": 92
+    "totalScore": 92,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640809",
@@ -4857,7 +5373,10 @@
       2
     ],
     "margin": 45,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20252640901",
@@ -4887,7 +5406,10 @@
       8
     ],
     "margin": 57,
-    "totalScore": 77
+    "totalScore": 77,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640902",
@@ -4917,7 +5439,10 @@
       20
     ],
     "margin": 17,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20252640903",
@@ -4947,7 +5472,10 @@
       9
     ],
     "margin": 27,
-    "totalScore": 117
+    "totalScore": 117,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640904",
@@ -4977,7 +5505,10 @@
       19
     ],
     "margin": 23,
-    "totalScore": 97
+    "totalScore": 97,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640905",
@@ -5007,7 +5538,10 @@
       10
     ],
     "margin": 29,
-    "totalScore": 95
+    "totalScore": 95,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20252640906",
@@ -5037,7 +5571,10 @@
       19
     ],
     "margin": -36,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640907",
@@ -5067,7 +5604,10 @@
       2
     ],
     "margin": 39,
-    "totalScore": 113
+    "totalScore": 113,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20252640908",
@@ -5097,7 +5637,10 @@
       3
     ],
     "margin": 23,
-    "totalScore": 47
+    "totalScore": 47,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252640909",
@@ -5127,7 +5670,10 @@
       7
     ],
     "margin": 5,
-    "totalScore": 75
+    "totalScore": 75,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20252641001",
@@ -5157,7 +5703,10 @@
       10
     ],
     "margin": 35,
-    "totalScore": 153
+    "totalScore": 153,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20252641002",
@@ -5187,7 +5736,10 @@
       7
     ],
     "margin": 31,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "Sullivan Logistics Stadium",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20252641003",
@@ -5217,7 +5769,10 @@
       0
     ],
     "margin": 44,
-    "totalScore": 86
+    "totalScore": 86,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641004",
@@ -5247,7 +5802,10 @@
       24
     ],
     "margin": 40,
-    "totalScore": 102
+    "totalScore": 102,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641005",
@@ -5277,7 +5835,10 @@
       19
     ],
     "margin": -7,
-    "totalScore": 87
+    "totalScore": 87,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20252641006",
@@ -5307,7 +5868,10 @@
       12
     ],
     "margin": -13,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641007",
@@ -5337,7 +5901,10 @@
       20
     ],
     "margin": -38,
-    "totalScore": 70
+    "totalScore": 70,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641008",
@@ -5367,7 +5934,10 @@
       12
     ],
     "margin": -13,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641009",
@@ -5397,7 +5967,10 @@
       16
     ],
     "margin": -66,
-    "totalScore": 78
+    "totalScore": 78,
+    "venueName": "Great Barrier Reef Arena",
+    "venueLocation": "Mackay",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20252641101",
@@ -5427,7 +6000,10 @@
       4
     ],
     "margin": -7,
-    "totalScore": 97
+    "totalScore": 97,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20252641102",
@@ -5457,7 +6033,10 @@
       7
     ],
     "margin": 17,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20252641103",
@@ -5487,7 +6066,10 @@
       13
     ],
     "margin": -30,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641104",
@@ -5517,7 +6099,10 @@
       0
     ],
     "margin": 44,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20252641105",
@@ -5547,7 +6132,10 @@
       2
     ],
     "margin": 9,
-    "totalScore": 81
+    "totalScore": 81,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20252641106",
@@ -5577,7 +6165,10 @@
       6
     ],
     "margin": -11,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "Mars Stadium",
+    "venueLocation": "Ballarat",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641107",
@@ -5607,7 +6198,10 @@
       6
     ],
     "margin": 46,
-    "totalScore": 88
+    "totalScore": 88,
+    "venueName": "North Hobart Oval",
+    "venueLocation": "Hobart",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M20252641108",
@@ -5637,7 +6231,10 @@
       20
     ],
     "margin": 46,
-    "totalScore": 116
+    "totalScore": 116,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641109",
@@ -5667,7 +6264,10 @@
       16
     ],
     "margin": -15,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "Bond University",
+    "venueLocation": "Queensland",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20252641205",
@@ -5697,7 +6297,10 @@
       6
     ],
     "margin": -49,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641209",
@@ -5727,7 +6330,10 @@
       26
     ],
     "margin": -20,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "Sullivan Logistics Stadium",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20252641204",
@@ -5757,7 +6363,10 @@
       17
     ],
     "margin": -57,
-    "totalScore": 105
+    "totalScore": 105,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20252641206",
@@ -5787,7 +6396,10 @@
       21
     ],
     "margin": -14,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641208",
@@ -5817,7 +6429,10 @@
       6
     ],
     "margin": -3,
-    "totalScore": 25
+    "totalScore": 25,
+    "venueName": "C.ex Coffs International Stadium",
+    "venueLocation": "Coffs Harbour",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20252641203",
@@ -5847,7 +6462,10 @@
       6
     ],
     "margin": -14,
-    "totalScore": 104
+    "totalScore": 104,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641202",
@@ -5877,7 +6495,10 @@
       8
     ],
     "margin": -20,
-    "totalScore": 84
+    "totalScore": 84,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641207",
@@ -5907,7 +6528,10 @@
       28
     ],
     "margin": -45,
-    "totalScore": 99
+    "totalScore": 99,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641201",
@@ -5937,7 +6561,10 @@
       0
     ],
     "margin": 12,
-    "totalScore": 46
+    "totalScore": 46,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20252641301",
@@ -5967,7 +6594,10 @@
       1
     ],
     "margin": 39,
-    "totalScore": 45
+    "totalScore": 45,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641302",
@@ -5997,7 +6627,10 @@
       10
     ],
     "margin": 41,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641303",
@@ -6027,7 +6660,10 @@
       18
     ],
     "margin": -13,
-    "totalScore": 99
+    "totalScore": 99,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641304",
@@ -6057,7 +6693,10 @@
       0
     ],
     "margin": 44,
-    "totalScore": 76
+    "totalScore": 76,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20252641401",
@@ -6087,7 +6726,10 @@
       8
     ],
     "margin": 11,
-    "totalScore": 109
+    "totalScore": 109,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641402",
@@ -6117,7 +6759,10 @@
       9
     ],
     "margin": -46,
-    "totalScore": 112
+    "totalScore": 112,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641501",
@@ -6147,7 +6792,10 @@
       0
     ],
     "margin": 10,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20252641502",
@@ -6177,7 +6825,10 @@
       8
     ],
     "margin": 35,
-    "totalScore": 99
+    "totalScore": 99,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20252641601",
@@ -6207,7 +6858,10 @@
       2
     ],
     "margin": 40,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640101",
@@ -6237,7 +6891,10 @@
       16
     ],
     "margin": 15,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "North Sydney Oval",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20242640102",
@@ -6267,7 +6924,10 @@
       22
     ],
     "margin": 1,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20242640103",
@@ -6297,7 +6957,10 @@
       1
     ],
     "margin": 63,
-    "totalScore": 81
+    "totalScore": 81,
+    "venueName": "Corroboree Group Oval Manuka",
+    "venueLocation": "Canberra",
+    "venueState": "ACT"
   },
   {
     "matchId": "CD_M20242640104",
@@ -6327,7 +6990,10 @@
       31
     ],
     "margin": -43,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640105",
@@ -6357,7 +7023,10 @@
       27
     ],
     "margin": -54,
-    "totalScore": 94
+    "totalScore": 94,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20242640106",
@@ -6387,7 +7056,10 @@
       8
     ],
     "margin": -2,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640107",
@@ -6417,7 +7089,10 @@
       12
     ],
     "margin": -14,
-    "totalScore": 84
+    "totalScore": 84,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20242640108",
@@ -6447,7 +7122,10 @@
       7
     ],
     "margin": 38,
-    "totalScore": 94
+    "totalScore": 94,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640109",
@@ -6477,7 +7155,10 @@
       14
     ],
     "margin": -44,
-    "totalScore": 112
+    "totalScore": 112,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20242640201",
@@ -6507,7 +7188,10 @@
       1
     ],
     "margin": -40,
-    "totalScore": 52
+    "totalScore": 52,
+    "venueName": "MCG",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640202",
@@ -6537,7 +7221,10 @@
       12
     ],
     "margin": -18,
-    "totalScore": 48
+    "totalScore": 48,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640203",
@@ -6567,7 +7254,10 @@
       2
     ],
     "margin": -16,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20242640204",
@@ -6597,7 +7287,10 @@
       3
     ],
     "margin": -47,
-    "totalScore": 99
+    "totalScore": 99,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640205",
@@ -6627,7 +7320,10 @@
       7
     ],
     "margin": 11,
-    "totalScore": 65
+    "totalScore": 65,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640206",
@@ -6657,7 +7353,10 @@
       8
     ],
     "margin": -1,
-    "totalScore": 77
+    "totalScore": 77,
+    "venueName": "Great Barrier Reef Arena",
+    "venueLocation": "Mackay",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20242640207",
@@ -6687,7 +7386,10 @@
       12
     ],
     "margin": 0,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640208",
@@ -6717,7 +7419,10 @@
       18
     ],
     "margin": 16,
-    "totalScore": 68
+    "totalScore": 68,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640209",
@@ -6747,7 +7452,10 @@
       13
     ],
     "margin": -33,
-    "totalScore": 45
+    "totalScore": 45,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20242640301",
@@ -6777,7 +7485,10 @@
       7
     ],
     "margin": -11,
-    "totalScore": 53
+    "totalScore": 53,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640302",
@@ -6807,7 +7518,10 @@
       12
     ],
     "margin": 52,
-    "totalScore": 92
+    "totalScore": 92,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20242640303",
@@ -6837,7 +7551,10 @@
       17
     ],
     "margin": -46,
-    "totalScore": 90
+    "totalScore": 90,
+    "venueName": "C.ex Coffs International Stadium",
+    "venueLocation": "Coffs Harbour",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20242640304",
@@ -6867,7 +7584,10 @@
       2
     ],
     "margin": 24,
-    "totalScore": 34
+    "totalScore": 34,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640305",
@@ -6897,7 +7617,10 @@
       15
     ],
     "margin": -8,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20242640306",
@@ -6927,7 +7650,10 @@
       15
     ],
     "margin": 26,
-    "totalScore": 90
+    "totalScore": 90,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20242640307",
@@ -6957,7 +7683,10 @@
       21
     ],
     "margin": -50,
-    "totalScore": 92
+    "totalScore": 92,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640308",
@@ -6987,7 +7716,10 @@
       8
     ],
     "margin": -8,
-    "totalScore": 38
+    "totalScore": 38,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640309",
@@ -7017,7 +7749,10 @@
       15
     ],
     "margin": 0,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Corroboree Group Oval Manuka",
+    "venueLocation": "Canberra",
+    "venueState": "ACT"
   },
   {
     "matchId": "CD_M20242640401",
@@ -7047,7 +7782,10 @@
       2
     ],
     "margin": -17,
-    "totalScore": 55
+    "totalScore": 55,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640402",
@@ -7077,7 +7815,10 @@
       13
     ],
     "margin": 47,
-    "totalScore": 115
+    "totalScore": 115,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20242640403",
@@ -7107,7 +7848,10 @@
       1
     ],
     "margin": 33,
-    "totalScore": 45
+    "totalScore": 45,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640404",
@@ -7137,7 +7881,10 @@
       0
     ],
     "margin": 36,
-    "totalScore": 48
+    "totalScore": 48,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640405",
@@ -7167,7 +7914,10 @@
       25
     ],
     "margin": -69,
-    "totalScore": 123
+    "totalScore": 123,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20242640406",
@@ -7197,7 +7947,10 @@
       37
     ],
     "margin": -57,
-    "totalScore": 91
+    "totalScore": 91,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640407",
@@ -7227,7 +7980,10 @@
       0
     ],
     "margin": 6,
-    "totalScore": 88
+    "totalScore": 88,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20242640408",
@@ -7257,7 +8013,10 @@
       7
     ],
     "margin": 33,
-    "totalScore": 91
+    "totalScore": 91,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20242640409",
@@ -7287,7 +8046,10 @@
       20
     ],
     "margin": -42,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640410",
@@ -7317,7 +8079,10 @@
       18
     ],
     "margin": 3,
-    "totalScore": 83
+    "totalScore": 83,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20242640411",
@@ -7347,7 +8112,10 @@
       14
     ],
     "margin": -45,
-    "totalScore": 77
+    "totalScore": 77,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20242640501",
@@ -7377,7 +8145,10 @@
       9
     ],
     "margin": 21,
-    "totalScore": 75
+    "totalScore": 75,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640502",
@@ -7407,7 +8178,10 @@
       13
     ],
     "margin": -69,
-    "totalScore": 89
+    "totalScore": 89,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640503",
@@ -7437,7 +8211,10 @@
       25
     ],
     "margin": -18,
-    "totalScore": 140
+    "totalScore": 140,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640504",
@@ -7467,7 +8244,10 @@
       2
     ],
     "margin": 3,
-    "totalScore": 51
+    "totalScore": 51,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640505",
@@ -7497,7 +8277,10 @@
       0
     ],
     "margin": 65,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640506",
@@ -7527,7 +8310,10 @@
       7
     ],
     "margin": -11,
-    "totalScore": 39
+    "totalScore": 39,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640507",
@@ -7557,7 +8343,10 @@
       0
     ],
     "margin": 7,
-    "totalScore": 71
+    "totalScore": 71,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640508",
@@ -7587,7 +8376,10 @@
       6
     ],
     "margin": 12,
-    "totalScore": 42
+    "totalScore": 42,
+    "venueName": "UTAS Stadium",
+    "venueLocation": "Launceston",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M20242640509",
@@ -7617,7 +8409,10 @@
       9
     ],
     "margin": -24,
-    "totalScore": 104
+    "totalScore": 104,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20242640510",
@@ -7647,7 +8442,10 @@
       13
     ],
     "margin": 2,
-    "totalScore": 68
+    "totalScore": 68,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20242640511",
@@ -7677,7 +8475,10 @@
       6
     ],
     "margin": 35,
-    "totalScore": 81
+    "totalScore": 81,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20242640601",
@@ -7707,7 +8508,10 @@
       9
     ],
     "margin": -18,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640602",
@@ -7737,7 +8541,10 @@
       1
     ],
     "margin": 13,
-    "totalScore": 57
+    "totalScore": 57,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640603",
@@ -7767,7 +8574,10 @@
       15
     ],
     "margin": 3,
-    "totalScore": 51
+    "totalScore": 51,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640604",
@@ -7797,7 +8607,10 @@
       8
     ],
     "margin": 16,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640605",
@@ -7827,7 +8640,10 @@
       6
     ],
     "margin": 4,
-    "totalScore": 48
+    "totalScore": 48,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20242640606",
@@ -7857,7 +8673,10 @@
       0
     ],
     "margin": 55,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640607",
@@ -7887,7 +8706,10 @@
       0
     ],
     "margin": 36,
-    "totalScore": 56
+    "totalScore": 56,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640608",
@@ -7917,7 +8739,10 @@
       14
     ],
     "margin": -13,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20242640609",
@@ -7947,7 +8772,10 @@
       21
     ],
     "margin": -55,
-    "totalScore": 81
+    "totalScore": 81,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640610",
@@ -7977,7 +8805,10 @@
       2
     ],
     "margin": -9,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20242640611",
@@ -8007,7 +8838,10 @@
       8
     ],
     "margin": -3,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20242640612",
@@ -8037,7 +8871,10 @@
       6
     ],
     "margin": -9,
-    "totalScore": 59
+    "totalScore": 59,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20242640701",
@@ -8067,7 +8904,10 @@
       1
     ],
     "margin": 34,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640702",
@@ -8097,7 +8937,10 @@
       1
     ],
     "margin": -2,
-    "totalScore": 30
+    "totalScore": 30,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20242640703",
@@ -8127,7 +8970,10 @@
       7
     ],
     "margin": 8,
-    "totalScore": 58
+    "totalScore": 58,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20242640704",
@@ -8157,7 +9003,10 @@
       14
     ],
     "margin": -23,
-    "totalScore": 29
+    "totalScore": 29,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640705",
@@ -8187,7 +9036,10 @@
       0
     ],
     "margin": 66,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640706",
@@ -8217,7 +9069,10 @@
       13
     ],
     "margin": 7,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640707",
@@ -8247,7 +9102,10 @@
       7
     ],
     "margin": 16,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20242640708",
@@ -8277,7 +9135,10 @@
       14
     ],
     "margin": -4,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20242640709",
@@ -8307,7 +9168,10 @@
       6
     ],
     "margin": 60,
-    "totalScore": 114
+    "totalScore": 114,
+    "venueName": "North Hobart Oval",
+    "venueLocation": "Hobart",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M20242640710",
@@ -8337,7 +9201,10 @@
       10
     ],
     "margin": -14,
-    "totalScore": 74
+    "totalScore": 74,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640711",
@@ -8367,7 +9234,10 @@
       32
     ],
     "margin": -64,
-    "totalScore": 120
+    "totalScore": 120,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20242640801",
@@ -8397,7 +9267,10 @@
       25
     ],
     "margin": -33,
-    "totalScore": 89
+    "totalScore": 89,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640802",
@@ -8427,7 +9300,10 @@
       14
     ],
     "margin": 15,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20242640803",
@@ -8457,7 +9333,10 @@
       8
     ],
     "margin": 37,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640804",
@@ -8487,7 +9366,10 @@
       17
     ],
     "margin": -4,
-    "totalScore": 96
+    "totalScore": 96,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20242640805",
@@ -8517,7 +9399,10 @@
       21
     ],
     "margin": 13,
-    "totalScore": 89
+    "totalScore": 89,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640806",
@@ -8547,7 +9432,10 @@
       8
     ],
     "margin": -23,
-    "totalScore": 47
+    "totalScore": 47,
+    "venueName": "Sullivan Logistics Stadium",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20242640807",
@@ -8577,7 +9465,10 @@
       14
     ],
     "margin": 10,
-    "totalScore": 84
+    "totalScore": 84,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640808",
@@ -8607,7 +9498,10 @@
       15
     ],
     "margin": -51,
-    "totalScore": 65
+    "totalScore": 65,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640809",
@@ -8637,7 +9531,10 @@
       25
     ],
     "margin": -43,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640901",
@@ -8667,7 +9564,10 @@
       3
     ],
     "margin": 6,
-    "totalScore": 40
+    "totalScore": 40,
+    "venueName": "Cazalys Stadium",
+    "venueLocation": "Cairns",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20242640902",
@@ -8697,7 +9597,10 @@
       1
     ],
     "margin": -8,
-    "totalScore": 74
+    "totalScore": 74,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20242640903",
@@ -8727,7 +9630,10 @@
       11
     ],
     "margin": -30,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20242640904",
@@ -8757,7 +9663,10 @@
       20
     ],
     "margin": -34,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20242640905",
@@ -8787,7 +9696,10 @@
       19
     ],
     "margin": -33,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20242640906",
@@ -8817,7 +9729,10 @@
       8
     ],
     "margin": 0,
-    "totalScore": 84
+    "totalScore": 84,
+    "venueName": "TIO Stadium",
+    "venueLocation": "Darwin",
+    "venueState": "NT"
   },
   {
     "matchId": "CD_M20242640907",
@@ -8847,7 +9762,10 @@
       6
     ],
     "margin": 1,
-    "totalScore": 71
+    "totalScore": 71,
+    "venueName": "Mars Stadium",
+    "venueLocation": "Ballarat",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640908",
@@ -8877,7 +9795,10 @@
       7
     ],
     "margin": -4,
-    "totalScore": 60
+    "totalScore": 60,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242640909",
@@ -8907,7 +9828,10 @@
       3
     ],
     "margin": 68,
-    "totalScore": 88
+    "totalScore": 88,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20242641006",
@@ -8937,7 +9861,10 @@
       6
     ],
     "margin": -4,
-    "totalScore": 60
+    "totalScore": 60,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242641005",
@@ -8967,7 +9894,10 @@
       7
     ],
     "margin": 47,
-    "totalScore": 101
+    "totalScore": 101,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242641008",
@@ -8997,7 +9927,10 @@
       0
     ],
     "margin": 46,
-    "totalScore": 102
+    "totalScore": 102,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20242641004",
@@ -9027,7 +9960,10 @@
       2
     ],
     "margin": 63,
-    "totalScore": 93
+    "totalScore": 93,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242641002",
@@ -9057,7 +9993,10 @@
       16
     ],
     "margin": -36,
-    "totalScore": 84
+    "totalScore": 84,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242641007",
@@ -9087,7 +10026,10 @@
       0
     ],
     "margin": -27,
-    "totalScore": 109
+    "totalScore": 109,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242641003",
@@ -9117,7 +10059,10 @@
       28
     ],
     "margin": -23,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242641001",
@@ -9147,7 +10092,10 @@
       6
     ],
     "margin": 1,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20242641009",
@@ -9177,7 +10125,10 @@
       0
     ],
     "margin": 14,
-    "totalScore": 56
+    "totalScore": 56,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20242641101",
@@ -9207,7 +10158,10 @@
       7
     ],
     "margin": 7,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242641102",
@@ -9237,7 +10191,10 @@
       0
     ],
     "margin": 10,
-    "totalScore": 62
+    "totalScore": 62,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20242641103",
@@ -9267,7 +10224,10 @@
       7
     ],
     "margin": -6,
-    "totalScore": 70
+    "totalScore": 70,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242641104",
@@ -9297,7 +10257,10 @@
       13
     ],
     "margin": 24,
-    "totalScore": 120
+    "totalScore": 120,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20242641201",
@@ -9327,7 +10290,10 @@
       1
     ],
     "margin": 37,
-    "totalScore": 61
+    "totalScore": 61,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20242641202",
@@ -9357,7 +10323,10 @@
       30
     ],
     "margin": -1,
-    "totalScore": 99
+    "totalScore": 99,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242641301",
@@ -9387,7 +10356,10 @@
       15
     ],
     "margin": 57,
-    "totalScore": 99
+    "totalScore": 99,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20242641302",
@@ -9417,7 +10389,10 @@
       7
     ],
     "margin": 18,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20242641401",
@@ -9447,7 +10422,10 @@
       0
     ],
     "margin": 30,
-    "totalScore": 48
+    "totalScore": 48,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640101",
@@ -9477,7 +10455,10 @@
       3
     ],
     "margin": 42,
-    "totalScore": 104
+    "totalScore": 104,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640102",
@@ -9507,7 +10488,10 @@
       21
     ],
     "margin": 2,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640103",
@@ -9537,7 +10521,10 @@
       6
     ],
     "margin": 30,
-    "totalScore": 86
+    "totalScore": 86,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20232640104",
@@ -9567,7 +10554,10 @@
       0
     ],
     "margin": 48,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640105",
@@ -9597,7 +10587,10 @@
       15
     ],
     "margin": -19,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640106",
@@ -9627,7 +10620,10 @@
       6
     ],
     "margin": 40,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Ninja Stadium",
+    "venueLocation": "Hobart",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M20232640107",
@@ -9657,7 +10653,10 @@
       13
     ],
     "margin": -6,
-    "totalScore": 74
+    "totalScore": 74,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20232640108",
@@ -9687,7 +10686,10 @@
       0
     ],
     "margin": 5,
-    "totalScore": 97
+    "totalScore": 97,
+    "venueName": "North Sydney Oval",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20232640109",
@@ -9717,7 +10719,10 @@
       0
     ],
     "margin": 8,
-    "totalScore": 46
+    "totalScore": 46,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20232640201",
@@ -9747,7 +10752,10 @@
       9
     ],
     "margin": -29,
-    "totalScore": 53
+    "totalScore": 53,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640202",
@@ -9777,7 +10785,10 @@
       18
     ],
     "margin": 73,
-    "totalScore": 125
+    "totalScore": 125,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20232640203",
@@ -9807,7 +10818,10 @@
       22
     ],
     "margin": -50,
-    "totalScore": 102
+    "totalScore": 102,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20232640204",
@@ -9837,7 +10851,10 @@
       14
     ],
     "margin": -27,
-    "totalScore": 109
+    "totalScore": 109,
+    "venueName": "North Sydney Oval",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20232640205",
@@ -9867,7 +10884,10 @@
       13
     ],
     "margin": -7,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "Mars Stadium",
+    "venueLocation": "Ballarat",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640206",
@@ -9897,7 +10917,10 @@
       16
     ],
     "margin": 21,
-    "totalScore": 71
+    "totalScore": 71,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640207",
@@ -9927,7 +10950,10 @@
       6
     ],
     "margin": 60,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640208",
@@ -9957,7 +10983,10 @@
       0
     ],
     "margin": 12,
-    "totalScore": 68
+    "totalScore": 68,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640209",
@@ -9987,7 +11016,10 @@
       44
     ],
     "margin": -77,
-    "totalScore": 121
+    "totalScore": 121,
+    "venueName": "Corroboree Group Oval Manuka",
+    "venueLocation": "Canberra",
+    "venueState": "ACT"
   },
   {
     "matchId": "CD_M20232640301",
@@ -10017,7 +11049,10 @@
       7
     ],
     "margin": -9,
-    "totalScore": 53
+    "totalScore": 53,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640302",
@@ -10047,7 +11082,10 @@
       16
     ],
     "margin": -19,
-    "totalScore": 87
+    "totalScore": 87,
+    "venueName": "Blacktown ISP",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20232640303",
@@ -10077,7 +11115,10 @@
       14
     ],
     "margin": 47,
-    "totalScore": 115
+    "totalScore": 115,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20232640304",
@@ -10107,7 +11148,10 @@
       0
     ],
     "margin": 42,
-    "totalScore": 124
+    "totalScore": 124,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640305",
@@ -10137,7 +11181,10 @@
       2
     ],
     "margin": 13,
-    "totalScore": 57
+    "totalScore": 57,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20232640306",
@@ -10167,7 +11214,10 @@
       20
     ],
     "margin": -8,
-    "totalScore": 104
+    "totalScore": 104,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640307",
@@ -10197,7 +11247,10 @@
       24
     ],
     "margin": -53,
-    "totalScore": 101
+    "totalScore": 101,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20232640308",
@@ -10227,7 +11280,10 @@
       13
     ],
     "margin": -12,
-    "totalScore": 54
+    "totalScore": 54,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640309",
@@ -10257,7 +11313,10 @@
       1
     ],
     "margin": 55,
-    "totalScore": 119
+    "totalScore": 119,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20232640401",
@@ -10287,7 +11346,10 @@
       15
     ],
     "margin": -59,
-    "totalScore": 81
+    "totalScore": 81,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640402",
@@ -10317,7 +11379,10 @@
       39
     ],
     "margin": -69,
-    "totalScore": 143
+    "totalScore": 143,
+    "venueName": "Corroboree Group Oval Manuka",
+    "venueLocation": "Canberra",
+    "venueState": "ACT"
   },
   {
     "matchId": "CD_M20232640403",
@@ -10347,7 +11412,10 @@
       18
     ],
     "margin": -7,
-    "totalScore": 87
+    "totalScore": 87,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640404",
@@ -10377,7 +11445,10 @@
       12
     ],
     "margin": -28,
-    "totalScore": 112
+    "totalScore": 112,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20232640405",
@@ -10407,7 +11478,10 @@
       2
     ],
     "margin": 13,
-    "totalScore": 55
+    "totalScore": 55,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20232640406",
@@ -10437,7 +11511,10 @@
       9
     ],
     "margin": -2,
-    "totalScore": 68
+    "totalScore": 68,
+    "venueName": "UTAS Stadium",
+    "venueLocation": "Launceston",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M20232640407",
@@ -10467,7 +11544,10 @@
       7
     ],
     "margin": 20,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640408",
@@ -10497,7 +11577,10 @@
       0
     ],
     "margin": 12,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640409",
@@ -10527,7 +11610,10 @@
       12
     ],
     "margin": 4,
-    "totalScore": 92
+    "totalScore": 92,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20232640501",
@@ -10557,7 +11643,10 @@
       27
     ],
     "margin": -49,
-    "totalScore": 99
+    "totalScore": 99,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640502",
@@ -10587,7 +11676,10 @@
       1
     ],
     "margin": -7,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640503",
@@ -10617,7 +11709,10 @@
       8
     ],
     "margin": 5,
-    "totalScore": 83
+    "totalScore": 83,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640504",
@@ -10647,7 +11742,10 @@
       0
     ],
     "margin": -18,
-    "totalScore": 90
+    "totalScore": 90,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640505",
@@ -10677,7 +11775,10 @@
       7
     ],
     "margin": 6,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20232640506",
@@ -10707,7 +11808,10 @@
       10
     ],
     "margin": 20,
-    "totalScore": 68
+    "totalScore": 68,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640507",
@@ -10737,7 +11841,10 @@
       0
     ],
     "margin": 30,
-    "totalScore": 34
+    "totalScore": 34,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640508",
@@ -10767,7 +11874,10 @@
       26
     ],
     "margin": -27,
-    "totalScore": 91
+    "totalScore": 91,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640509",
@@ -10797,7 +11907,10 @@
       7
     ],
     "margin": 32,
-    "totalScore": 62
+    "totalScore": 62,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20232640601",
@@ -10827,7 +11940,10 @@
       6
     ],
     "margin": -19,
-    "totalScore": 87
+    "totalScore": 87,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640602",
@@ -10857,7 +11973,10 @@
       7
     ],
     "margin": 20,
-    "totalScore": 68
+    "totalScore": 68,
+    "venueName": "Blacktown ISP",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20232640603",
@@ -10887,7 +12006,10 @@
       15
     ],
     "margin": -10,
-    "totalScore": 102
+    "totalScore": 102,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640604",
@@ -10917,7 +12039,10 @@
       19
     ],
     "margin": 9,
-    "totalScore": 81
+    "totalScore": 81,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640605",
@@ -10947,7 +12072,10 @@
       14
     ],
     "margin": -15,
-    "totalScore": 75
+    "totalScore": 75,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20232640606",
@@ -10977,7 +12105,10 @@
       13
     ],
     "margin": -5,
-    "totalScore": 61
+    "totalScore": 61,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20232640607",
@@ -11007,7 +12138,10 @@
       2
     ],
     "margin": 10,
-    "totalScore": 48
+    "totalScore": 48,
+    "venueName": "Reid Oval Warrnambool",
+    "venueLocation": "Warrnambool",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640608",
@@ -11037,7 +12171,10 @@
       3
     ],
     "margin": -1,
-    "totalScore": 71
+    "totalScore": 71,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640609",
@@ -11067,7 +12204,10 @@
       25
     ],
     "margin": -45,
-    "totalScore": 87
+    "totalScore": 87,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20232640701",
@@ -11097,7 +12237,10 @@
       7
     ],
     "margin": 42,
-    "totalScore": 76
+    "totalScore": 76,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20232640702",
@@ -11127,7 +12270,10 @@
       14
     ],
     "margin": 13,
-    "totalScore": 83
+    "totalScore": 83,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640703",
@@ -11157,7 +12303,10 @@
       9
     ],
     "margin": 24,
-    "totalScore": 70
+    "totalScore": 70,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640704",
@@ -11187,7 +12336,10 @@
       8
     ],
     "margin": -14,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20232640705",
@@ -11217,7 +12369,10 @@
       14
     ],
     "margin": -36,
-    "totalScore": 78
+    "totalScore": 78,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20232640706",
@@ -11247,7 +12402,10 @@
       7
     ],
     "margin": -17,
-    "totalScore": 89
+    "totalScore": 89,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640707",
@@ -11277,7 +12435,10 @@
       6
     ],
     "margin": 63,
-    "totalScore": 111
+    "totalScore": 111,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640708",
@@ -11307,7 +12468,10 @@
       0
     ],
     "margin": -17,
-    "totalScore": 37
+    "totalScore": 37,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640709",
@@ -11337,7 +12501,10 @@
       24
     ],
     "margin": -70,
-    "totalScore": 94
+    "totalScore": 94,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20232640801",
@@ -11367,7 +12534,10 @@
       21
     ],
     "margin": -11,
-    "totalScore": 71
+    "totalScore": 71,
+    "venueName": "Cazalys Stadium",
+    "venueLocation": "Cairns",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20232640802",
@@ -11397,7 +12567,10 @@
       16
     ],
     "margin": -57,
-    "totalScore": 135
+    "totalScore": 135,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640803",
@@ -11427,7 +12600,10 @@
       1
     ],
     "margin": 3,
-    "totalScore": 81
+    "totalScore": 81,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20232640804",
@@ -11457,7 +12633,10 @@
       20
     ],
     "margin": 2,
-    "totalScore": 96
+    "totalScore": 96,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20232640805",
@@ -11487,7 +12666,10 @@
       13
     ],
     "margin": 0,
-    "totalScore": 90
+    "totalScore": 90,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20232640806",
@@ -11517,7 +12699,10 @@
       1
     ],
     "margin": 23,
-    "totalScore": 51
+    "totalScore": 51,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640807",
@@ -11547,7 +12732,10 @@
       15
     ],
     "margin": 6,
-    "totalScore": 54
+    "totalScore": 54,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640808",
@@ -11577,7 +12765,10 @@
       6
     ],
     "margin": 24,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20232640809",
@@ -11607,7 +12798,10 @@
       1
     ],
     "margin": -4,
-    "totalScore": 42
+    "totalScore": 42,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640901",
@@ -11637,7 +12831,10 @@
       2
     ],
     "margin": 31,
-    "totalScore": 65
+    "totalScore": 65,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20232640902",
@@ -11667,7 +12864,10 @@
       6
     ],
     "margin": 33,
-    "totalScore": 89
+    "totalScore": 89,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640903",
@@ -11697,7 +12897,10 @@
       24
     ],
     "margin": 21,
-    "totalScore": 89
+    "totalScore": 89,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640904",
@@ -11727,7 +12930,10 @@
       15
     ],
     "margin": 32,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640905",
@@ -11757,7 +12963,10 @@
       1
     ],
     "margin": -8,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20232640906",
@@ -11787,7 +12996,10 @@
       26
     ],
     "margin": -38,
-    "totalScore": 60
+    "totalScore": 60,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232640907",
@@ -11817,7 +13029,10 @@
       2
     ],
     "margin": 19,
-    "totalScore": 97
+    "totalScore": 97,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20232640908",
@@ -11847,7 +13062,10 @@
       4
     ],
     "margin": 3,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20232640909",
@@ -11877,7 +13095,10 @@
       1
     ],
     "margin": 8,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232641001",
@@ -11907,7 +13128,10 @@
       0
     ],
     "margin": 14,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "Great Barrier Reef Arena",
+    "venueLocation": "Mackay",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20232641007",
@@ -11937,7 +13161,10 @@
       14
     ],
     "margin": -46,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232641003",
@@ -11967,7 +13194,10 @@
       7
     ],
     "margin": 58,
-    "totalScore": 118
+    "totalScore": 118,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20232641005",
@@ -11997,7 +13227,10 @@
       12
     ],
     "margin": 40,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232641006",
@@ -12027,7 +13260,10 @@
       13
     ],
     "margin": -26,
-    "totalScore": 116
+    "totalScore": 116,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20232641004",
@@ -12057,7 +13293,10 @@
       3
     ],
     "margin": 25,
-    "totalScore": 81
+    "totalScore": 81,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20232641002",
@@ -12087,7 +13326,10 @@
       8
     ],
     "margin": -20,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232641009",
@@ -12117,7 +13359,10 @@
       44
     ],
     "margin": -52,
-    "totalScore": 102
+    "totalScore": 102,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232641008",
@@ -12147,7 +13392,10 @@
       21
     ],
     "margin": -22,
-    "totalScore": 58
+    "totalScore": 58,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20232641101",
@@ -12177,7 +13425,10 @@
       6
     ],
     "margin": -2,
-    "totalScore": 76
+    "totalScore": 76,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20232641102",
@@ -12207,7 +13458,10 @@
       1
     ],
     "margin": -17,
-    "totalScore": 99
+    "totalScore": 99,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20232641103",
@@ -12237,7 +13491,10 @@
       20
     ],
     "margin": 18,
-    "totalScore": 84
+    "totalScore": 84,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232641104",
@@ -12267,7 +13524,10 @@
       14
     ],
     "margin": -41,
-    "totalScore": 59
+    "totalScore": 59,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232641201",
@@ -12297,7 +13557,10 @@
       0
     ],
     "margin": 67,
-    "totalScore": 97
+    "totalScore": 97,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20232641202",
@@ -12327,7 +13590,10 @@
       7
     ],
     "margin": -5,
-    "totalScore": 95
+    "totalScore": 95,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232641301",
@@ -12357,7 +13623,10 @@
       6
     ],
     "margin": 4,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20232641302",
@@ -12387,7 +13656,10 @@
       6
     ],
     "margin": 1,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20232641401",
@@ -12417,7 +13689,10 @@
       24
     ],
     "margin": -17,
-    "totalScore": 71
+    "totalScore": 71,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640101",
@@ -12447,7 +13722,10 @@
       19
     ],
     "margin": -38,
-    "totalScore": 84
+    "totalScore": 84,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640102",
@@ -12477,7 +13755,10 @@
       2
     ],
     "margin": 8,
-    "totalScore": 44
+    "totalScore": 44,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640103",
@@ -12507,7 +13788,10 @@
       8
     ],
     "margin": -24,
-    "totalScore": 68
+    "totalScore": 68,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640104",
@@ -12537,7 +13821,10 @@
       0
     ],
     "margin": 28,
-    "totalScore": 58
+    "totalScore": 58,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20222640107",
@@ -12567,7 +13854,10 @@
       6
     ],
     "margin": 30,
-    "totalScore": 48
+    "totalScore": 48,
+    "venueName": "Magain Stadium",
+    "venueLocation": "Noarlunga Downs",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20222640105",
@@ -12597,7 +13887,10 @@
       13
     ],
     "margin": -19,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640106",
@@ -12627,7 +13920,10 @@
       9
     ],
     "margin": -15,
-    "totalScore": 57
+    "totalScore": 57,
+    "venueName": "Great Barrier Reef Arena",
+    "venueLocation": "Mackay",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20222640201",
@@ -12657,7 +13953,10 @@
       6
     ],
     "margin": -16,
-    "totalScore": 92
+    "totalScore": 92,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640202",
@@ -12687,7 +13986,10 @@
       12
     ],
     "margin": 27,
-    "totalScore": 55
+    "totalScore": 55,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640204",
@@ -12717,7 +14019,10 @@
       9
     ],
     "margin": -14,
-    "totalScore": 48
+    "totalScore": 48,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640205",
@@ -12747,7 +14052,10 @@
       30
     ],
     "margin": -13,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640206",
@@ -12777,7 +14085,10 @@
       7
     ],
     "margin": 13,
-    "totalScore": 61
+    "totalScore": 61,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20222640207",
@@ -12807,7 +14118,10 @@
       2
     ],
     "margin": 32,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640203",
@@ -12837,7 +14151,10 @@
       13
     ],
     "margin": -32,
-    "totalScore": 100
+    "totalScore": 100,
+    "venueName": "Mars Stadium",
+    "venueLocation": "Ballarat",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640301",
@@ -12867,7 +14184,10 @@
       8
     ],
     "margin": -11,
-    "totalScore": 59
+    "totalScore": 59,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640307",
@@ -12897,7 +14217,10 @@
       8
     ],
     "margin": -33,
-    "totalScore": 51
+    "totalScore": 51,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640302",
@@ -12927,7 +14250,10 @@
       0
     ],
     "margin": 41,
-    "totalScore": 87
+    "totalScore": 87,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640303",
@@ -12957,7 +14283,10 @@
       33
     ],
     "margin": -30,
-    "totalScore": 124
+    "totalScore": 124,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640305",
@@ -12987,7 +14316,10 @@
       20
     ],
     "margin": 27,
-    "totalScore": 81
+    "totalScore": 81,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640306",
@@ -13017,7 +14349,10 @@
       12
     ],
     "margin": 35,
-    "totalScore": 91
+    "totalScore": 91,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20222640304",
@@ -13047,7 +14382,10 @@
       25
     ],
     "margin": 0,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20222640406",
@@ -13077,7 +14415,10 @@
       19
     ],
     "margin": -31,
-    "totalScore": 45
+    "totalScore": 45,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640407",
@@ -13107,7 +14448,10 @@
       2
     ],
     "margin": 21,
-    "totalScore": 65
+    "totalScore": 65,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20222640402",
@@ -13137,7 +14481,10 @@
       19
     ],
     "margin": 14,
-    "totalScore": 56
+    "totalScore": 56,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20222640404",
@@ -13167,7 +14514,10 @@
       13
     ],
     "margin": 2,
-    "totalScore": 52
+    "totalScore": 52,
+    "venueName": "Maroochydore",
+    "venueLocation": "Maroochydore",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20222640405",
@@ -13197,7 +14547,10 @@
       21
     ],
     "margin": -30,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640401",
@@ -13227,7 +14580,10 @@
       1
     ],
     "margin": 5,
-    "totalScore": 73
+    "totalScore": 73,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20222640403",
@@ -13257,7 +14613,10 @@
       1
     ],
     "margin": -2,
-    "totalScore": 42
+    "totalScore": 42,
+    "venueName": "Wilson Storage Trevor Barker Beach Oval",
+    "venueLocation": "Sandringham",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640501",
@@ -13287,7 +14646,10 @@
       7
     ],
     "margin": 3,
-    "totalScore": 51
+    "totalScore": 51,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640503",
@@ -13317,7 +14679,10 @@
       1
     ],
     "margin": 24,
-    "totalScore": 46
+    "totalScore": 46,
+    "venueName": "Maroochydore",
+    "venueLocation": "Maroochydore",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20222640507",
@@ -13347,7 +14712,10 @@
       14
     ],
     "margin": 12,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640504",
@@ -13377,7 +14745,10 @@
       2
     ],
     "margin": 17,
-    "totalScore": 43
+    "totalScore": 43,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640506",
@@ -13407,7 +14778,10 @@
       24
     ],
     "margin": -39,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640505",
@@ -13437,7 +14811,10 @@
       2
     ],
     "margin": 10,
-    "totalScore": 42
+    "totalScore": 42,
+    "venueName": "North Hobart Oval",
+    "venueLocation": "Hobart",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M20222640502",
@@ -13467,7 +14844,10 @@
       14
     ],
     "margin": 2,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "Blacktown ISP",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20222640607",
@@ -13497,7 +14877,10 @@
       20
     ],
     "margin": 11,
-    "totalScore": 87
+    "totalScore": 87,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20222640602",
@@ -13527,7 +14910,10 @@
       2
     ],
     "margin": -19,
-    "totalScore": 55
+    "totalScore": 55,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640605",
@@ -13557,7 +14943,10 @@
       7
     ],
     "margin": 37,
-    "totalScore": 51
+    "totalScore": 51,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640604",
@@ -13587,7 +14976,10 @@
       1
     ],
     "margin": 42,
-    "totalScore": 60
+    "totalScore": 60,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20222640601",
@@ -13617,7 +15009,10 @@
       2
     ],
     "margin": -5,
-    "totalScore": 57
+    "totalScore": 57,
+    "venueName": "Wilson Storage Trevor Barker Beach Oval",
+    "venueLocation": "Sandringham",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640603",
@@ -13647,7 +15042,10 @@
       7
     ],
     "margin": -24,
-    "totalScore": 68
+    "totalScore": 68,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20222640606",
@@ -13677,7 +15075,10 @@
       6
     ],
     "margin": -1,
-    "totalScore": 97
+    "totalScore": 97,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20222640707",
@@ -13707,7 +15108,10 @@
       14
     ],
     "margin": 12,
-    "totalScore": 44
+    "totalScore": 44,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640702",
@@ -13737,7 +15141,10 @@
       16
     ],
     "margin": -40,
-    "totalScore": 50
+    "totalScore": 50,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20222640703",
@@ -13767,7 +15174,10 @@
       0
     ],
     "margin": 46,
-    "totalScore": 50
+    "totalScore": 50,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640704",
@@ -13797,7 +15207,10 @@
       13
     ],
     "margin": -23,
-    "totalScore": 113
+    "totalScore": 113,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20222640701",
@@ -13827,7 +15240,10 @@
       7
     ],
     "margin": 23,
-    "totalScore": 53
+    "totalScore": 53,
+    "venueName": "North Hobart Oval",
+    "venueLocation": "Hobart",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M20222640706",
@@ -13857,7 +15273,10 @@
       7
     ],
     "margin": -3,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20222640804",
@@ -13887,7 +15306,10 @@
       12
     ],
     "margin": -9,
-    "totalScore": 41
+    "totalScore": 41,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20222640802",
@@ -13917,7 +15339,10 @@
       1
     ],
     "margin": -23,
-    "totalScore": 43
+    "totalScore": 43,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640803",
@@ -13947,7 +15372,10 @@
       7
     ],
     "margin": 10,
-    "totalScore": 44
+    "totalScore": 44,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640807",
@@ -13977,7 +15405,10 @@
       15
     ],
     "margin": 3,
-    "totalScore": 65
+    "totalScore": 65,
+    "venueName": "Wilson Storage Trevor Barker Beach Oval",
+    "venueLocation": "Sandringham",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640805",
@@ -14007,7 +15438,10 @@
       13
     ],
     "margin": 25,
-    "totalScore": 107
+    "totalScore": 107,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640806",
@@ -14037,7 +15471,10 @@
       28
     ],
     "margin": -74,
-    "totalScore": 122
+    "totalScore": 122,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20222640801",
@@ -14067,7 +15504,10 @@
       13
     ],
     "margin": -18,
-    "totalScore": 84
+    "totalScore": 84,
+    "venueName": "Corroboree Group Oval Manuka",
+    "venueLocation": "Canberra",
+    "venueState": "ACT"
   },
   {
     "matchId": "CD_M20222640906",
@@ -14097,7 +15537,10 @@
       3
     ],
     "margin": 9,
-    "totalScore": 27
+    "totalScore": 27,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640905",
@@ -14127,7 +15570,10 @@
       1
     ],
     "margin": -8,
-    "totalScore": 84
+    "totalScore": 84,
+    "venueName": "ENGIE Stadium",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20222640904",
@@ -14157,7 +15603,10 @@
       23
     ],
     "margin": -88,
-    "totalScore": 126
+    "totalScore": 126,
+    "venueName": "Optus Stadium",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20222640907",
@@ -14187,7 +15636,10 @@
       25
     ],
     "margin": -60,
-    "totalScore": 76
+    "totalScore": 76,
+    "venueName": "Optus Stadium",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20222640902",
@@ -14217,7 +15669,10 @@
       1
     ],
     "margin": 36,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222640901",
@@ -14247,7 +15702,10 @@
       7
     ],
     "margin": 2,
-    "totalScore": 58
+    "totalScore": 58,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20222640903",
@@ -14277,7 +15735,10 @@
       0
     ],
     "margin": 30,
-    "totalScore": 62
+    "totalScore": 62,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222641007",
@@ -14307,7 +15768,10 @@
       6
     ],
     "margin": -6,
-    "totalScore": 44
+    "totalScore": 44,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222641002",
@@ -14337,7 +15801,10 @@
       13
     ],
     "margin": -18,
-    "totalScore": 88
+    "totalScore": 88,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222641001",
@@ -14367,7 +15834,10 @@
       0
     ],
     "margin": 38,
-    "totalScore": 56
+    "totalScore": 56,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222641004",
@@ -14397,7 +15867,10 @@
       8
     ],
     "margin": 39,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222641003",
@@ -14427,7 +15900,10 @@
       8
     ],
     "margin": 1,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222641006",
@@ -14457,7 +15933,10 @@
       14
     ],
     "margin": -39,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222641101",
@@ -14487,7 +15966,10 @@
       24
     ],
     "margin": -69,
-    "totalScore": 101
+    "totalScore": 101,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20222641201",
@@ -14517,7 +15999,10 @@
       1
     ],
     "margin": 37,
-    "totalScore": 55
+    "totalScore": 55,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20222641301",
@@ -14547,7 +16032,10 @@
       19
     ],
     "margin": -38,
-    "totalScore": 100
+    "totalScore": 100,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222641302",
@@ -14577,7 +16065,10 @@
       7
     ],
     "margin": 50,
-    "totalScore": 90
+    "totalScore": 90,
+    "venueName": "Gabba",
+    "venueLocation": "Brisbane",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20222641401",
@@ -14607,7 +16098,10 @@
       14
     ],
     "margin": 4,
-    "totalScore": 62
+    "totalScore": 62,
+    "venueName": "MCG",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20222641402",
@@ -14637,7 +16131,10 @@
       8
     ],
     "margin": 14,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "Adelaide Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20222641501",
@@ -14667,7 +16164,10 @@
       2
     ],
     "margin": 13,
-    "totalScore": 45
+    "totalScore": 45,
+    "venueName": "Adelaide Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M21012640101",
@@ -14697,7 +16197,10 @@
       2
     ],
     "margin": -18,
-    "totalScore": 54
+    "totalScore": 54,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640102",
@@ -14727,7 +16230,10 @@
       14
     ],
     "margin": -18,
-    "totalScore": 70
+    "totalScore": 70,
+    "venueName": "Stratarama Stadium",
+    "venueLocation": "Glenelg",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M21012640103",
@@ -14757,7 +16263,10 @@
       13
     ],
     "margin": 26,
-    "totalScore": 54
+    "totalScore": 54,
+    "venueName": "Ninja Stadium",
+    "venueLocation": "Hobart",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M21012640104",
@@ -14787,7 +16296,10 @@
       1
     ],
     "margin": 12,
-    "totalScore": 68
+    "totalScore": 68,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M21012640105",
@@ -14817,7 +16329,10 @@
       15
     ],
     "margin": -29,
-    "totalScore": 83
+    "totalScore": 83,
+    "venueName": "North Sydney Oval",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M21012640106",
@@ -14847,7 +16362,10 @@
       0
     ],
     "margin": 26,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "Marvel Stadium",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640107",
@@ -14877,7 +16395,10 @@
       12
     ],
     "margin": 7,
-    "totalScore": 75
+    "totalScore": 75,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640108",
@@ -14907,7 +16428,10 @@
       1
     ],
     "margin": 49,
-    "totalScore": 103
+    "totalScore": 103,
+    "venueName": "Gabba",
+    "venueLocation": "Brisbane",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M21012640109",
@@ -14937,7 +16461,10 @@
       1
     ],
     "margin": 4,
-    "totalScore": 26
+    "totalScore": 26,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640201",
@@ -14967,7 +16494,10 @@
       12
     ],
     "margin": 2,
-    "totalScore": 50
+    "totalScore": 50,
+    "venueName": "MCG",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640202",
@@ -14997,7 +16527,10 @@
       17
     ],
     "margin": -9,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640203",
@@ -15027,7 +16560,10 @@
       9
     ],
     "margin": -19,
-    "totalScore": 37
+    "totalScore": 37,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M21012640204",
@@ -15057,7 +16593,10 @@
       13
     ],
     "margin": -26,
-    "totalScore": 28
+    "totalScore": 28,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M21012640205",
@@ -15087,7 +16626,10 @@
       0
     ],
     "margin": -1,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "ETU Stadium",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640206",
@@ -15117,7 +16659,10 @@
       1
     ],
     "margin": 31,
-    "totalScore": 59
+    "totalScore": 59,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640207",
@@ -15147,7 +16692,10 @@
       12
     ],
     "margin": -47,
-    "totalScore": 87
+    "totalScore": 87,
+    "venueName": "Corroboree Group Oval Manuka",
+    "venueLocation": "Canberra",
+    "venueState": "ACT"
   },
   {
     "matchId": "CD_M21012640208",
@@ -15177,7 +16725,10 @@
       14
     ],
     "margin": -53,
-    "totalScore": 73
+    "totalScore": 73,
+    "venueName": "Box Hill City Oval",
+    "venueLocation": "Box Hill",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640209",
@@ -15207,7 +16758,10 @@
       12
     ],
     "margin": 33,
-    "totalScore": 61
+    "totalScore": 61,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M21012640301",
@@ -15237,7 +16791,10 @@
       0
     ],
     "margin": 3,
-    "totalScore": 43
+    "totalScore": 43,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640303",
@@ -15267,7 +16824,10 @@
       0
     ],
     "margin": 14,
-    "totalScore": 46
+    "totalScore": 46,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M21012640305",
@@ -15297,7 +16857,10 @@
       11
     ],
     "margin": -47,
-    "totalScore": 83
+    "totalScore": 83,
+    "venueName": "SCG",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M21012640304",
@@ -15327,7 +16890,10 @@
       6
     ],
     "margin": -4,
-    "totalScore": 26
+    "totalScore": 26,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640302",
@@ -15357,7 +16923,10 @@
       2
     ],
     "margin": 73,
-    "totalScore": 91
+    "totalScore": 91,
+    "venueName": "Gabba",
+    "venueLocation": "Brisbane",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M21012640306",
@@ -15387,7 +16956,10 @@
       0
     ],
     "margin": 0,
-    "totalScore": 54
+    "totalScore": 54,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640307",
@@ -15417,7 +16989,10 @@
       3
     ],
     "margin": -26,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640308",
@@ -15447,7 +17022,10 @@
       2
     ],
     "margin": 35,
-    "totalScore": 53
+    "totalScore": 53,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640309",
@@ -15477,7 +17055,10 @@
       20
     ],
     "margin": -52,
-    "totalScore": 116
+    "totalScore": 116,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M21012640401",
@@ -15507,7 +17088,10 @@
       7
     ],
     "margin": 12,
-    "totalScore": 44
+    "totalScore": 44,
+    "venueName": "UTAS Stadium",
+    "venueLocation": "Launceston",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M21012640404",
@@ -15537,7 +17121,10 @@
       1
     ],
     "margin": -7,
-    "totalScore": 25
+    "totalScore": 25,
+    "venueName": "ENGIE Stadium",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M21012640402",
@@ -15567,7 +17154,10 @@
       20
     ],
     "margin": 14,
-    "totalScore": 70
+    "totalScore": 70,
+    "venueName": "Great Barrier Reef Arena",
+    "venueLocation": "Mackay",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M21012640403",
@@ -15597,7 +17187,10 @@
       0
     ],
     "margin": 66,
-    "totalScore": 70
+    "totalScore": 70,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M21012640405",
@@ -15627,7 +17220,10 @@
       20
     ],
     "margin": 0,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M21012640406",
@@ -15657,7 +17253,10 @@
       6
     ],
     "margin": -30,
-    "totalScore": 44
+    "totalScore": 44,
+    "venueName": "Box Hill City Oval",
+    "venueLocation": "Box Hill",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640407",
@@ -15687,7 +17286,10 @@
       2
     ],
     "margin": -5,
-    "totalScore": 37
+    "totalScore": 37,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640408",
@@ -15717,7 +17319,10 @@
       2
     ],
     "margin": -2,
-    "totalScore": 50
+    "totalScore": 50,
+    "venueName": "ETU Stadium",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640409",
@@ -15747,7 +17352,10 @@
       20
     ],
     "margin": -15,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640502",
@@ -15777,7 +17385,10 @@
       4
     ],
     "margin": -3,
-    "totalScore": 49
+    "totalScore": 49,
+    "venueName": "Optus Stadium",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M21012640501",
@@ -15807,7 +17418,10 @@
       2
     ],
     "margin": 50,
-    "totalScore": 92
+    "totalScore": 92,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640503",
@@ -15837,7 +17451,10 @@
       15
     ],
     "margin": -15,
-    "totalScore": 71
+    "totalScore": 71,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640504",
@@ -15867,7 +17484,10 @@
       1
     ],
     "margin": 11,
-    "totalScore": 45
+    "totalScore": 45,
+    "venueName": "KGM Centre",
+    "venueLocation": "Swan St",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640505",
@@ -15897,7 +17517,10 @@
       2
     ],
     "margin": -4,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640506",
@@ -15927,7 +17550,10 @@
       7
     ],
     "margin": -42,
-    "totalScore": 58
+    "totalScore": 58,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640507",
@@ -15957,7 +17583,10 @@
       3
     ],
     "margin": 4,
-    "totalScore": 32
+    "totalScore": 32,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640508",
@@ -15987,7 +17616,10 @@
       25
     ],
     "margin": 14,
-    "totalScore": 78
+    "totalScore": 78,
+    "venueName": "Bond University",
+    "venueLocation": "Queensland",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M21012640509",
@@ -16017,7 +17649,10 @@
       0
     ],
     "margin": 96,
-    "totalScore": 98
+    "totalScore": 98,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M21012640601",
@@ -16047,7 +17682,10 @@
       6
     ],
     "margin": 3,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640602",
@@ -16077,7 +17715,10 @@
       10
     ],
     "margin": -60,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "Adelaide Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M21012640603",
@@ -16107,7 +17748,10 @@
       1
     ],
     "margin": 17,
-    "totalScore": 41
+    "totalScore": 41,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M21012640604",
@@ -16137,7 +17781,10 @@
       7
     ],
     "margin": -1,
-    "totalScore": 73
+    "totalScore": 73,
+    "venueName": "Mars Stadium",
+    "venueLocation": "Ballarat",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640605",
@@ -16167,7 +17814,10 @@
       10
     ],
     "margin": -2,
-    "totalScore": 70
+    "totalScore": 70,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640606",
@@ -16197,7 +17847,10 @@
       0
     ],
     "margin": 4,
-    "totalScore": 42
+    "totalScore": 42,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640607",
@@ -16227,7 +17880,10 @@
       6
     ],
     "margin": 44,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "Moreton Bay Central Sports Complex",
+    "venueLocation": "Burpengary",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M21012640608",
@@ -16257,7 +17913,10 @@
       27
     ],
     "margin": -30,
-    "totalScore": 102
+    "totalScore": 102,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M21012640609",
@@ -16287,7 +17946,10 @@
       0
     ],
     "margin": 66,
-    "totalScore": 68
+    "totalScore": 68,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640701",
@@ -16317,7 +17979,10 @@
       7
     ],
     "margin": -27,
-    "totalScore": 61
+    "totalScore": 61,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640702",
@@ -16347,7 +18012,10 @@
       14
     ],
     "margin": -19,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M21012640703",
@@ -16377,7 +18045,10 @@
       7
     ],
     "margin": -34,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M21012640704",
@@ -16407,7 +18078,10 @@
       0
     ],
     "margin": 18,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M21012640705",
@@ -16437,7 +18111,10 @@
       0
     ],
     "margin": -7,
-    "totalScore": 59
+    "totalScore": 59,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640706",
@@ -16467,7 +18144,10 @@
       3
     ],
     "margin": 13,
-    "totalScore": 45
+    "totalScore": 45,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640707",
@@ -16497,7 +18177,10 @@
       16
     ],
     "margin": -15,
-    "totalScore": 71
+    "totalScore": 71,
+    "venueName": "Reid Oval Warrnambool",
+    "venueLocation": "Warrnambool",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640708",
@@ -16527,7 +18210,10 @@
       2
     ],
     "margin": 64,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640709",
@@ -16557,7 +18243,10 @@
       13
     ],
     "margin": 32,
-    "totalScore": 60
+    "totalScore": 60,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640801",
@@ -16587,7 +18276,10 @@
       14
     ],
     "margin": -10,
-    "totalScore": 78
+    "totalScore": 78,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640802",
@@ -16617,7 +18309,10 @@
       13
     ],
     "margin": 22,
-    "totalScore": 84
+    "totalScore": 84,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M21012640803",
@@ -16647,7 +18342,10 @@
       16
     ],
     "margin": -25,
-    "totalScore": 83
+    "totalScore": 83,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M21012640804",
@@ -16677,7 +18375,10 @@
       12
     ],
     "margin": 4,
-    "totalScore": 92
+    "totalScore": 92,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640805",
@@ -16707,7 +18408,10 @@
       6
     ],
     "margin": 9,
-    "totalScore": 59
+    "totalScore": 59,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640806",
@@ -16737,7 +18441,10 @@
       14
     ],
     "margin": -49,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M21012640807",
@@ -16767,7 +18474,10 @@
       0
     ],
     "margin": 15,
-    "totalScore": 55
+    "totalScore": 55,
+    "venueName": "Mars Stadium",
+    "venueLocation": "Ballarat",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640808",
@@ -16797,7 +18507,10 @@
       7
     ],
     "margin": 1,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M21012640809",
@@ -16827,7 +18540,10 @@
       8
     ],
     "margin": -29,
-    "totalScore": 35
+    "totalScore": 35,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M21012640901",
@@ -16857,7 +18573,10 @@
       0
     ],
     "margin": 2,
-    "totalScore": 58
+    "totalScore": 58,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M21012640902",
@@ -16887,7 +18606,10 @@
       6
     ],
     "margin": 27,
-    "totalScore": 57
+    "totalScore": 57,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M21012640903",
@@ -16917,7 +18639,10 @@
       13
     ],
     "margin": -32,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640904",
@@ -16947,7 +18672,10 @@
       8
     ],
     "margin": -14,
-    "totalScore": 70
+    "totalScore": 70,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M21012640905",
@@ -16977,7 +18705,10 @@
       15
     ],
     "margin": -32,
-    "totalScore": 78
+    "totalScore": 78,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M21012640906",
@@ -17007,7 +18738,10 @@
       15
     ],
     "margin": -54,
-    "totalScore": 68
+    "totalScore": 68,
+    "venueName": "Kinetic Stadium",
+    "venueLocation": "Frankston",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640907",
@@ -17037,7 +18771,10 @@
       2
     ],
     "margin": 2,
-    "totalScore": 68
+    "totalScore": 68,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640908",
@@ -17067,7 +18804,10 @@
       7
     ],
     "margin": 43,
-    "totalScore": 73
+    "totalScore": 73,
+    "venueName": "Mildura Sporting Precinct",
+    "venueLocation": "Mildura",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012640909",
@@ -17097,7 +18837,10 @@
       0
     ],
     "margin": 41,
-    "totalScore": 59
+    "totalScore": 59,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012641002",
@@ -17127,7 +18870,10 @@
       13
     ],
     "margin": -3,
-    "totalScore": 65
+    "totalScore": 65,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012641001",
@@ -17157,7 +18903,10 @@
       7
     ],
     "margin": 45,
-    "totalScore": 65
+    "totalScore": 65,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M21012641006",
@@ -17187,7 +18936,10 @@
       0
     ],
     "margin": 78,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012641009",
@@ -17217,7 +18969,10 @@
       14
     ],
     "margin": -16,
-    "totalScore": 42
+    "totalScore": 42,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012641004",
@@ -17247,7 +19002,10 @@
       12
     ],
     "margin": 75,
-    "totalScore": 129
+    "totalScore": 129,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012641003",
@@ -17277,7 +19035,10 @@
       6
     ],
     "margin": 5,
-    "totalScore": 93
+    "totalScore": 93,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M21012641008",
@@ -17307,7 +19068,10 @@
       13
     ],
     "margin": -27,
-    "totalScore": 47
+    "totalScore": 47,
+    "venueName": "Alberton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M21012641007",
@@ -17337,7 +19101,10 @@
       2
     ],
     "margin": 0,
-    "totalScore": 54
+    "totalScore": 54,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012641005",
@@ -17367,7 +19134,10 @@
       14
     ],
     "margin": 12,
-    "totalScore": 76
+    "totalScore": 76,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M21012641101",
@@ -17397,7 +19167,10 @@
       1
     ],
     "margin": 21,
-    "totalScore": 75
+    "totalScore": 75,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012641102",
@@ -17427,7 +19200,10 @@
       13
     ],
     "margin": 17,
-    "totalScore": 61
+    "totalScore": 61,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M21012641103",
@@ -17457,7 +19233,10 @@
       1
     ],
     "margin": -2,
-    "totalScore": 30
+    "totalScore": 30,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012641104",
@@ -17487,7 +19266,10 @@
       13
     ],
     "margin": 5,
-    "totalScore": 75
+    "totalScore": 75,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012641201",
@@ -17517,7 +19299,10 @@
       8
     ],
     "margin": -36,
-    "totalScore": 112
+    "totalScore": 112,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012641202",
@@ -17547,7 +19332,10 @@
       0
     ],
     "margin": 12,
-    "totalScore": 34
+    "totalScore": 34,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M21012641301",
@@ -17577,7 +19365,10 @@
       9
     ],
     "margin": 23,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M21012641302",
@@ -17607,7 +19398,10 @@
       0
     ],
     "margin": 17,
-    "totalScore": 49
+    "totalScore": 49,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M21012641401",
@@ -17637,7 +19431,10 @@
       2
     ],
     "margin": -4,
-    "totalScore": 34
+    "totalScore": 34,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20212640101",
@@ -17667,7 +19464,10 @@
       1
     ],
     "margin": -6,
-    "totalScore": 60
+    "totalScore": 60,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640102",
@@ -17697,7 +19497,10 @@
       12
     ],
     "margin": 9,
-    "totalScore": 93
+    "totalScore": 93,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640104",
@@ -17727,7 +19530,10 @@
       1
     ],
     "margin": -21,
-    "totalScore": 91
+    "totalScore": 91,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20212640103",
@@ -17757,7 +19563,10 @@
       9
     ],
     "margin": -38,
-    "totalScore": 74
+    "totalScore": 74,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20212640106",
@@ -17787,7 +19596,10 @@
       19
     ],
     "margin": -62,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640105",
@@ -17817,7 +19629,10 @@
       9
     ],
     "margin": -29,
-    "totalScore": 53
+    "totalScore": 53,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640107",
@@ -17847,7 +19662,10 @@
       12
     ],
     "margin": 30,
-    "totalScore": 86
+    "totalScore": 86,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20212640201",
@@ -17877,7 +19695,10 @@
       2
     ],
     "margin": 6,
-    "totalScore": 78
+    "totalScore": 78,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640205",
@@ -17907,7 +19728,10 @@
       1
     ],
     "margin": 29,
-    "totalScore": 61
+    "totalScore": 61,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640207",
@@ -17937,7 +19761,10 @@
       7
     ],
     "margin": 28,
-    "totalScore": 60
+    "totalScore": 60,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640202",
@@ -17967,7 +19794,10 @@
       0
     ],
     "margin": 26,
-    "totalScore": 46
+    "totalScore": 46,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640206",
@@ -17997,7 +19827,10 @@
       1
     ],
     "margin": 63,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "Hickey Park",
+    "venueLocation": "Stafford",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20212640203",
@@ -18027,7 +19860,10 @@
       28
     ],
     "margin": -47,
-    "totalScore": 77
+    "totalScore": 77,
+    "venueName": "Blacktown ISP",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20212640204",
@@ -18057,7 +19893,10 @@
       6
     ],
     "margin": 9,
-    "totalScore": 37
+    "totalScore": 37,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20212640301",
@@ -18087,7 +19926,10 @@
       15
     ],
     "margin": -15,
-    "totalScore": 33
+    "totalScore": 33,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640302",
@@ -18117,7 +19959,10 @@
       7
     ],
     "margin": 10,
-    "totalScore": 26
+    "totalScore": 26,
+    "venueName": "Blacktown ISP",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20212640303",
@@ -18147,7 +19992,10 @@
       9
     ],
     "margin": -24,
-    "totalScore": 56
+    "totalScore": 56,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640304",
@@ -18177,7 +20025,10 @@
       6
     ],
     "margin": 9,
-    "totalScore": 111
+    "totalScore": 111,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640305",
@@ -18207,7 +20058,10 @@
       12
     ],
     "margin": -30,
-    "totalScore": 56
+    "totalScore": 56,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20212640307",
@@ -18237,7 +20091,10 @@
       0
     ],
     "margin": -17,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640306",
@@ -18267,7 +20124,10 @@
       2
     ],
     "margin": 45,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "Hickey Park",
+    "venueLocation": "Stafford",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20212640401",
@@ -18297,7 +20157,10 @@
       14
     ],
     "margin": 29,
-    "totalScore": 73
+    "totalScore": 73,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640402",
@@ -18327,7 +20190,10 @@
       15
     ],
     "margin": 5,
-    "totalScore": 97
+    "totalScore": 97,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640403",
@@ -18357,7 +20223,10 @@
       0
     ],
     "margin": 49,
-    "totalScore": 61
+    "totalScore": 61,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20212640404",
@@ -18387,7 +20256,10 @@
       6
     ],
     "margin": -20,
-    "totalScore": 36
+    "totalScore": 36,
+    "venueName": "Marvel Stadium",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640405",
@@ -18417,7 +20289,10 @@
       7
     ],
     "margin": -12,
-    "totalScore": 78
+    "totalScore": 78,
+    "venueName": "Hickey Park",
+    "venueLocation": "Stafford",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20212640406",
@@ -18447,7 +20322,10 @@
       4
     ],
     "margin": 13,
-    "totalScore": 61
+    "totalScore": 61,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640407",
@@ -18477,7 +20355,10 @@
       1
     ],
     "margin": 20,
-    "totalScore": 76
+    "totalScore": 76,
+    "venueName": "Blacktown ISP",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20212640501",
@@ -18507,7 +20388,10 @@
       14
     ],
     "margin": -47,
-    "totalScore": 73
+    "totalScore": 73,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640502",
@@ -18537,7 +20421,10 @@
       1
     ],
     "margin": 25,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640503",
@@ -18567,7 +20454,10 @@
       6
     ],
     "margin": -11,
-    "totalScore": 39
+    "totalScore": 39,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20212640504",
@@ -18597,7 +20487,10 @@
       19
     ],
     "margin": 22,
-    "totalScore": 96
+    "totalScore": 96,
+    "venueName": "UTAS Stadium",
+    "venueLocation": "Launceston",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M20212640505",
@@ -18627,7 +20520,10 @@
       2
     ],
     "margin": 53,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20212640506",
@@ -18657,7 +20553,10 @@
       2
     ],
     "margin": 35,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640507",
@@ -18687,7 +20586,10 @@
       8
     ],
     "margin": 1,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20212640601",
@@ -18717,7 +20619,10 @@
       26
     ],
     "margin": -35,
-    "totalScore": 99
+    "totalScore": 99,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640602",
@@ -18747,7 +20652,10 @@
       2
     ],
     "margin": -38,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Corroboree Group Oval Manuka",
+    "venueLocation": "Canberra",
+    "venueState": "ACT"
   },
   {
     "matchId": "CD_M20212640603",
@@ -18777,7 +20685,10 @@
       1
     ],
     "margin": 70,
-    "totalScore": 100
+    "totalScore": 100,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20212640604",
@@ -18807,7 +20718,10 @@
       13
     ],
     "margin": 44,
-    "totalScore": 88
+    "totalScore": 88,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640605",
@@ -18837,7 +20751,10 @@
       3
     ],
     "margin": 33,
-    "totalScore": 95
+    "totalScore": 95,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640606",
@@ -18867,7 +20784,10 @@
       6
     ],
     "margin": 36,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640607",
@@ -18897,7 +20817,10 @@
       9
     ],
     "margin": -67,
-    "totalScore": 83
+    "totalScore": 83,
+    "venueName": "Optus Stadium",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20212640701",
@@ -18927,7 +20850,10 @@
       12
     ],
     "margin": -15,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20212640702",
@@ -18957,7 +20883,10 @@
       6
     ],
     "margin": -20,
-    "totalScore": 70
+    "totalScore": 70,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640703",
@@ -18987,7 +20916,10 @@
       10
     ],
     "margin": 11,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "North Hobart Oval",
+    "venueLocation": "Hobart",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M20212640704",
@@ -19017,7 +20949,10 @@
       6
     ],
     "margin": 28,
-    "totalScore": 58
+    "totalScore": 58,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640705",
@@ -19047,7 +20982,10 @@
       20
     ],
     "margin": -4,
-    "totalScore": 86
+    "totalScore": 86,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640706",
@@ -19077,7 +21015,10 @@
       16
     ],
     "margin": 3,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640707",
@@ -19107,7 +21048,10 @@
       7
     ],
     "margin": 39,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20212640801",
@@ -19137,7 +21081,10 @@
       28
     ],
     "margin": -60,
-    "totalScore": 114
+    "totalScore": 114,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20212640802",
@@ -19167,7 +21114,10 @@
       0
     ],
     "margin": -7,
-    "totalScore": 25
+    "totalScore": 25,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640803",
@@ -19197,7 +21147,10 @@
       6
     ],
     "margin": 46,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640804",
@@ -19227,7 +21180,10 @@
       3
     ],
     "margin": 15,
-    "totalScore": 55
+    "totalScore": 55,
+    "venueName": "Gabba",
+    "venueLocation": "Brisbane",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20212640805",
@@ -19257,7 +21213,10 @@
       13
     ],
     "margin": 8,
-    "totalScore": 76
+    "totalScore": 76,
+    "venueName": "Swinburne Centre",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640806",
@@ -19287,7 +21246,10 @@
       8
     ],
     "margin": 56,
-    "totalScore": 100
+    "totalScore": 100,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20212640807",
@@ -19317,7 +21279,10 @@
       6
     ],
     "margin": -5,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20212640901",
@@ -19347,7 +21312,10 @@
       6
     ],
     "margin": 13,
-    "totalScore": 77
+    "totalScore": 77,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640902",
@@ -19377,7 +21345,10 @@
       3
     ],
     "margin": 1,
-    "totalScore": 59
+    "totalScore": 59,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640903",
@@ -19407,7 +21378,10 @@
       0
     ],
     "margin": 2,
-    "totalScore": 74
+    "totalScore": 74,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212640904",
@@ -19437,7 +21411,10 @@
       8
     ],
     "margin": -17,
-    "totalScore": 65
+    "totalScore": 65,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20212640905",
@@ -19467,7 +21444,10 @@
       9
     ],
     "margin": 14,
-    "totalScore": 48
+    "totalScore": 48,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20212640906",
@@ -19497,7 +21477,10 @@
       0
     ],
     "margin": -1,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "Blacktown ISP",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20212640907",
@@ -19527,7 +21510,10 @@
       31
     ],
     "margin": -56,
-    "totalScore": 96
+    "totalScore": 96,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20212641001",
@@ -19557,7 +21543,10 @@
       0
     ],
     "margin": 17,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212641002",
@@ -19587,7 +21576,10 @@
       0
     ],
     "margin": 6,
-    "totalScore": 94
+    "totalScore": 94,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20212641101",
@@ -19617,7 +21609,10 @@
       10
     ],
     "margin": 18,
-    "totalScore": 48
+    "totalScore": 48,
+    "venueName": "Adelaide Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20212641102",
@@ -19647,7 +21642,10 @@
       7
     ],
     "margin": 4,
-    "totalScore": 86
+    "totalScore": 86,
+    "venueName": "Gabba",
+    "venueLocation": "Brisbane",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20212641201",
@@ -19677,7 +21675,10 @@
       2
     ],
     "margin": -18,
-    "totalScore": 58
+    "totalScore": 58,
+    "venueName": "Adelaide Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20202640101",
@@ -19707,7 +21708,10 @@
       9
     ],
     "margin": -34,
-    "totalScore": 62
+    "totalScore": 62,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640102",
@@ -19737,7 +21741,10 @@
       0
     ],
     "margin": 1,
-    "totalScore": 17
+    "totalScore": 17,
+    "venueName": "Blacktown ISP",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20202640103",
@@ -19767,7 +21774,10 @@
       0
     ],
     "margin": 2,
-    "totalScore": 42
+    "totalScore": 42,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640104",
@@ -19797,7 +21807,10 @@
       13
     ],
     "margin": 13,
-    "totalScore": 55
+    "totalScore": 55,
+    "venueName": "Hickey Park",
+    "venueLocation": "Stafford",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20202640105",
@@ -19827,7 +21840,10 @@
       1
     ],
     "margin": 27,
-    "totalScore": 49
+    "totalScore": 49,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640106",
@@ -19857,7 +21873,10 @@
       7
     ],
     "margin": -25,
-    "totalScore": 53
+    "totalScore": 53,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640107",
@@ -19887,7 +21906,10 @@
       0
     ],
     "margin": 16,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20202640201",
@@ -19917,7 +21939,10 @@
       0
     ],
     "margin": -20,
-    "totalScore": 44
+    "totalScore": 44,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640202",
@@ -19947,7 +21972,10 @@
       3
     ],
     "margin": 18,
-    "totalScore": 56
+    "totalScore": 56,
+    "venueName": "UTAS Stadium",
+    "venueLocation": "Launceston",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M20202640203",
@@ -19977,7 +22005,10 @@
       5
     ],
     "margin": 11,
-    "totalScore": 55
+    "totalScore": 55,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20202640204",
@@ -20007,7 +22038,10 @@
       12
     ],
     "margin": -45,
-    "totalScore": 75
+    "totalScore": 75,
+    "venueName": "Optus Stadium",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20202640205",
@@ -20037,7 +22071,10 @@
       12
     ],
     "margin": -19,
-    "totalScore": 59
+    "totalScore": 59,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640206",
@@ -20067,7 +22104,10 @@
       12
     ],
     "margin": -15,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640207",
@@ -20097,7 +22137,10 @@
       1
     ],
     "margin": 13,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "Richmond Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20202640301",
@@ -20127,7 +22170,10 @@
       0
     ],
     "margin": 5,
-    "totalScore": 33
+    "totalScore": 33,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640302",
@@ -20157,7 +22203,10 @@
       18
     ],
     "margin": -21,
-    "totalScore": 81
+    "totalScore": 81,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640303",
@@ -20187,7 +22236,10 @@
       0
     ],
     "margin": 0,
-    "totalScore": 56
+    "totalScore": 56,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20202640304",
@@ -20217,7 +22269,10 @@
       1
     ],
     "margin": 3,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20202640305",
@@ -20247,7 +22302,10 @@
       14
     ],
     "margin": 28,
-    "totalScore": 56
+    "totalScore": 56,
+    "venueName": "Blacktown ISP",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20202640306",
@@ -20277,7 +22335,10 @@
       19
     ],
     "margin": -56,
-    "totalScore": 96
+    "totalScore": 96,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640307",
@@ -20307,7 +22368,10 @@
       12
     ],
     "margin": -11,
-    "totalScore": 87
+    "totalScore": 87,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640401",
@@ -20337,7 +22401,10 @@
       7
     ],
     "margin": -20,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Marvel Stadium",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640402",
@@ -20367,7 +22434,10 @@
       6
     ],
     "margin": -22,
-    "totalScore": 112
+    "totalScore": 112,
+    "venueName": "Queen Elizabeth Oval",
+    "venueLocation": "Bendigo",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640403",
@@ -20397,7 +22467,10 @@
       7
     ],
     "margin": 13,
-    "totalScore": 81
+    "totalScore": 81,
+    "venueName": "Arden Street Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640404",
@@ -20427,7 +22500,10 @@
       9
     ],
     "margin": 4,
-    "totalScore": 56
+    "totalScore": 56,
+    "venueName": "Sullivan Logistics Stadium",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20202640405",
@@ -20457,7 +22533,10 @@
       7
     ],
     "margin": -8,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "Richmond Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20202640406",
@@ -20487,7 +22566,10 @@
       15
     ],
     "margin": -1,
-    "totalScore": 47
+    "totalScore": 47,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640407",
@@ -20517,7 +22599,10 @@
       6
     ],
     "margin": 28,
-    "totalScore": 74
+    "totalScore": 74,
+    "venueName": "Hickey Park",
+    "venueLocation": "Stafford",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20202640501",
@@ -20547,7 +22632,10 @@
       8
     ],
     "margin": -20,
-    "totalScore": 56
+    "totalScore": 56,
+    "venueName": "Great Barrier Reef Arena",
+    "venueLocation": "Mackay",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20202640502",
@@ -20577,7 +22665,10 @@
       13
     ],
     "margin": 42,
-    "totalScore": 84
+    "totalScore": 84,
+    "venueName": "North Hobart Oval",
+    "venueLocation": "Hobart",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M20202640503",
@@ -20607,7 +22698,10 @@
       2
     ],
     "margin": 45,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "Robertson Oval",
+    "venueLocation": "Wagga Wagga",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20202640504",
@@ -20637,7 +22731,10 @@
       9
     ],
     "margin": 21,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640505",
@@ -20667,7 +22764,10 @@
       6
     ],
     "margin": 32,
-    "totalScore": 74
+    "totalScore": 74,
+    "venueName": "Morwell Recreation Reserve",
+    "venueLocation": "Morwell",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640506",
@@ -20697,7 +22797,10 @@
       0
     ],
     "margin": 59,
-    "totalScore": 73
+    "totalScore": 73,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640507",
@@ -20727,7 +22830,10 @@
       2
     ],
     "margin": 18,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20202640601",
@@ -20757,7 +22863,10 @@
       26
     ],
     "margin": -46,
-    "totalScore": 86
+    "totalScore": 86,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640602",
@@ -20787,7 +22896,10 @@
       15
     ],
     "margin": -29,
-    "totalScore": 57
+    "totalScore": 57,
+    "venueName": "Hickey Park",
+    "venueLocation": "Stafford",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20202640603",
@@ -20817,7 +22929,10 @@
       1
     ],
     "margin": 39,
-    "totalScore": 45
+    "totalScore": 45,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640604",
@@ -20847,7 +22962,10 @@
       15
     ],
     "margin": -16,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "TIO Traeger Park",
+    "venueLocation": "Alice Springs",
+    "venueState": "NT"
   },
   {
     "matchId": "CD_M20202640605",
@@ -20877,7 +22995,10 @@
       25
     ],
     "margin": -15,
-    "totalScore": 117
+    "totalScore": 117,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640606",
@@ -20907,7 +23028,10 @@
       6
     ],
     "margin": -5,
-    "totalScore": 47
+    "totalScore": 47,
+    "venueName": "Richmond Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20202640607",
@@ -20937,7 +23061,10 @@
       6
     ],
     "margin": -25,
-    "totalScore": 41
+    "totalScore": 41,
+    "venueName": "Mineral Resources Park",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20202640701",
@@ -20967,7 +23094,10 @@
       7
     ],
     "margin": 2,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20202640702",
@@ -20997,7 +23127,10 @@
       18
     ],
     "margin": -3,
-    "totalScore": 55
+    "totalScore": 55,
+    "venueName": "ENGIE Stadium",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20202640704",
@@ -21027,7 +23160,10 @@
       1
     ],
     "margin": 70,
-    "totalScore": 90
+    "totalScore": 90,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20202640703",
@@ -21057,7 +23193,10 @@
       0
     ],
     "margin": 29,
-    "totalScore": 59
+    "totalScore": 59,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640101",
@@ -21087,7 +23226,10 @@
       0
     ],
     "margin": 1,
-    "totalScore": 47
+    "totalScore": 47,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640102",
@@ -21117,7 +23259,10 @@
       2
     ],
     "margin": -1,
-    "totalScore": 35
+    "totalScore": 35,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20192640103",
@@ -21147,7 +23292,10 @@
       2
     ],
     "margin": 36,
-    "totalScore": 68
+    "totalScore": 68,
+    "venueName": "North Hobart Oval",
+    "venueLocation": "Hobart",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M20192640104",
@@ -21177,7 +23325,10 @@
       19
     ],
     "margin": -4,
-    "totalScore": 114
+    "totalScore": 114,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640105",
@@ -21207,7 +23358,10 @@
       6
     ],
     "margin": 2,
-    "totalScore": 56
+    "totalScore": 56,
+    "venueName": "Moreton Bay Central Sports Complex",
+    "venueLocation": "Burpengary",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20192640201",
@@ -21237,7 +23391,10 @@
       20
     ],
     "margin": -25,
-    "totalScore": 71
+    "totalScore": 71,
+    "venueName": "Drummoyne Oval",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20192640202",
@@ -21267,7 +23424,10 @@
       9
     ],
     "margin": -17,
-    "totalScore": 35
+    "totalScore": 35,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640203",
@@ -21297,7 +23457,10 @@
       0
     ],
     "margin": 18,
-    "totalScore": 50
+    "totalScore": 50,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640204",
@@ -21327,7 +23490,10 @@
       19
     ],
     "margin": -13,
-    "totalScore": 101
+    "totalScore": 101,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640205",
@@ -21357,7 +23523,10 @@
       13
     ],
     "margin": 27,
-    "totalScore": 107
+    "totalScore": 107,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20192640301",
@@ -21387,7 +23556,10 @@
       12
     ],
     "margin": 31,
-    "totalScore": 75
+    "totalScore": 75,
+    "venueName": "UTAS Stadium",
+    "venueLocation": "Launceston",
+    "venueState": "TAS"
   },
   {
     "matchId": "CD_M20192640302",
@@ -21417,7 +23589,10 @@
       13
     ],
     "margin": -29,
-    "totalScore": 101
+    "totalScore": 101,
+    "venueName": "Blacktown ISP",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20192640303",
@@ -21447,7 +23622,10 @@
       8
     ],
     "margin": 33,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20192640304",
@@ -21477,7 +23655,10 @@
       13
     ],
     "margin": 29,
-    "totalScore": 103
+    "totalScore": 103,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20192640305",
@@ -21507,7 +23688,10 @@
       7
     ],
     "margin": -39,
-    "totalScore": 81
+    "totalScore": 81,
+    "venueName": "Hickey Park",
+    "venueLocation": "Stafford",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20192640401",
@@ -21537,7 +23721,10 @@
       2
     ],
     "margin": 5,
-    "totalScore": 33
+    "totalScore": 33,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640402",
@@ -21567,7 +23754,10 @@
       18
     ],
     "margin": -32,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640403",
@@ -21597,7 +23787,10 @@
       3
     ],
     "margin": 42,
-    "totalScore": 88
+    "totalScore": 88,
+    "venueName": "TIO Stadium",
+    "venueLocation": "Darwin",
+    "venueState": "NT"
   },
   {
     "matchId": "CD_M20192640404",
@@ -21627,7 +23820,10 @@
       0
     ],
     "margin": -9,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "Morwell Recreation Reserve",
+    "venueLocation": "Morwell",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640405",
@@ -21657,7 +23853,10 @@
       7
     ],
     "margin": -4,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640501",
@@ -21687,7 +23886,10 @@
       8
     ],
     "margin": -27,
-    "totalScore": 43
+    "totalScore": 43,
+    "venueName": "Moreton Bay Central Sports Complex",
+    "venueLocation": "Burpengary",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20192640502",
@@ -21717,7 +23919,10 @@
       0
     ],
     "margin": 5,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640503",
@@ -21747,7 +23952,10 @@
       24
     ],
     "margin": -39,
-    "totalScore": 75
+    "totalScore": 75,
+    "venueName": "Blacktown ISP",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20192640504",
@@ -21777,7 +23985,10 @@
       25
     ],
     "margin": -35,
-    "totalScore": 93
+    "totalScore": 93,
+    "venueName": "Melbourne Avalon Airport Oval",
+    "venueLocation": "Werribee",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640505",
@@ -21807,7 +24018,10 @@
       8
     ],
     "margin": 18,
-    "totalScore": 86
+    "totalScore": 86,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20192640601",
@@ -21837,7 +24051,10 @@
       26
     ],
     "margin": -36,
-    "totalScore": 62
+    "totalScore": 62,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640602",
@@ -21867,7 +24084,10 @@
       3
     ],
     "margin": -22,
-    "totalScore": 84
+    "totalScore": 84,
+    "venueName": "Marvel Stadium",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640603",
@@ -21897,7 +24117,10 @@
       8
     ],
     "margin": -1,
-    "totalScore": 77
+    "totalScore": 77,
+    "venueName": "Marvel Stadium",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640604",
@@ -21927,7 +24150,10 @@
       1
     ],
     "margin": 32,
-    "totalScore": 86
+    "totalScore": 86,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20192640605",
@@ -21957,7 +24183,10 @@
       7
     ],
     "margin": 16,
-    "totalScore": 70
+    "totalScore": 70,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640701",
@@ -21987,7 +24216,10 @@
       0
     ],
     "margin": 31,
-    "totalScore": 51
+    "totalScore": 51,
+    "venueName": "Corroboree Group Oval Manuka",
+    "venueLocation": "Canberra",
+    "venueState": "ACT"
   },
   {
     "matchId": "CD_M20192640702",
@@ -22017,7 +24249,10 @@
       14
     ],
     "margin": -60,
-    "totalScore": 76
+    "totalScore": 76,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640703",
@@ -22047,7 +24282,10 @@
       6
     ],
     "margin": 27,
-    "totalScore": 77
+    "totalScore": 77,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20192640704",
@@ -22077,7 +24315,10 @@
       3
     ],
     "margin": 6,
-    "totalScore": 44
+    "totalScore": 44,
+    "venueName": "Victoria Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640705",
@@ -22107,7 +24348,10 @@
       6
     ],
     "margin": -3,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640801",
@@ -22137,7 +24381,10 @@
       14
     ],
     "margin": 36,
-    "totalScore": 92
+    "totalScore": 92,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20192640802",
@@ -22167,7 +24414,10 @@
       7
     ],
     "margin": 66,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "Adelaide Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20192640901",
@@ -22197,7 +24447,10 @@
       1
     ],
     "margin": 45,
-    "totalScore": 81
+    "totalScore": 81,
+    "venueName": "Adelaide Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20182640101",
@@ -22227,7 +24480,10 @@
       1
     ],
     "margin": 8,
-    "totalScore": 36
+    "totalScore": 36,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20182640102",
@@ -22257,7 +24513,10 @@
       7
     ],
     "margin": 6,
-    "totalScore": 84
+    "totalScore": 84,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20182640103",
@@ -22287,7 +24546,10 @@
       7
     ],
     "margin": -12,
-    "totalScore": 50
+    "totalScore": 50,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20182640104",
@@ -22317,7 +24579,10 @@
       2
     ],
     "margin": 26,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20182640201",
@@ -22347,7 +24612,10 @@
       5
     ],
     "margin": -21,
-    "totalScore": 39
+    "totalScore": 39,
+    "venueName": "Drummoyne Oval",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20182640202",
@@ -22377,7 +24645,10 @@
       6
     ],
     "margin": 32,
-    "totalScore": 80
+    "totalScore": 80,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20182640203",
@@ -22407,7 +24678,10 @@
       8
     ],
     "margin": 13,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "Optus Stadium",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20182640204",
@@ -22437,7 +24711,10 @@
       7
     ],
     "margin": -9,
-    "totalScore": 57
+    "totalScore": 57,
+    "venueName": "South Pine Sports Complex",
+    "venueLocation": "Brendale",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20182640301",
@@ -22467,7 +24744,10 @@
       1
     ],
     "margin": 7,
-    "totalScore": 75
+    "totalScore": 75,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20182640302",
@@ -22497,7 +24777,10 @@
       20
     ],
     "margin": -22,
-    "totalScore": 58
+    "totalScore": 58,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20182640303",
@@ -22527,7 +24810,10 @@
       24
     ],
     "margin": -13,
-    "totalScore": 83
+    "totalScore": 83,
+    "venueName": "Olympic Park Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20182640304",
@@ -22557,7 +24843,10 @@
       1
     ],
     "margin": 5,
-    "totalScore": 67
+    "totalScore": 67,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20182640401",
@@ -22587,7 +24876,10 @@
       0
     ],
     "margin": 73,
-    "totalScore": 99
+    "totalScore": 99,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20182640402",
@@ -22617,7 +24909,10 @@
       6
     ],
     "margin": 7,
-    "totalScore": 37
+    "totalScore": 37,
+    "venueName": "South Pine Sports Complex",
+    "venueLocation": "Brendale",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20182640403",
@@ -22647,7 +24942,10 @@
       18
     ],
     "margin": -34,
-    "totalScore": 82
+    "totalScore": 82,
+    "venueName": "TIO Traeger Park",
+    "venueLocation": "Alice Springs",
+    "venueState": "NT"
   },
   {
     "matchId": "CD_M20182640404",
@@ -22677,7 +24975,10 @@
       10
     ],
     "margin": 0,
-    "totalScore": 38
+    "totalScore": 38,
+    "venueName": "Blacktown ISP",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20182640501",
@@ -22707,7 +25008,10 @@
       14
     ],
     "margin": 6,
-    "totalScore": 62
+    "totalScore": 62,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20182640502",
@@ -22737,7 +25041,10 @@
       1
     ],
     "margin": -18,
-    "totalScore": 60
+    "totalScore": 60,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20182640503",
@@ -22767,7 +25074,10 @@
       1
     ],
     "margin": 35,
-    "totalScore": 75
+    "totalScore": 75,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20182640504",
@@ -22797,7 +25107,10 @@
       6
     ],
     "margin": -8,
-    "totalScore": 90
+    "totalScore": 90,
+    "venueName": "Ted Summerton Recreational Reserve",
+    "venueLocation": "Moe",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20182640601",
@@ -22827,7 +25140,10 @@
       6
     ],
     "margin": 4,
-    "totalScore": 76
+    "totalScore": 76,
+    "venueName": "TIO Stadium",
+    "venueLocation": "Darwin",
+    "venueState": "NT"
   },
   {
     "matchId": "CD_M20182640602",
@@ -22857,7 +25173,10 @@
       12
     ],
     "margin": -14,
-    "totalScore": 92
+    "totalScore": 92,
+    "venueName": "Moreton Bay Central Sports Complex",
+    "venueLocation": "Burpengary",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20182640603",
@@ -22887,7 +25206,10 @@
       1
     ],
     "margin": 18,
-    "totalScore": 74
+    "totalScore": 74,
+    "venueName": "Corroboree Group Oval Manuka",
+    "venueLocation": "Canberra",
+    "venueState": "ACT"
   },
   {
     "matchId": "CD_M20182640604",
@@ -22917,7 +25239,10 @@
       7
     ],
     "margin": -35,
-    "totalScore": 79
+    "totalScore": 79,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20182640701",
@@ -22947,7 +25272,10 @@
       12
     ],
     "margin": -40,
-    "totalScore": 88
+    "totalScore": 88,
+    "venueName": "Blacktown ISP",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20182640702",
@@ -22977,7 +25305,10 @@
       11
     ],
     "margin": 11,
-    "totalScore": 107
+    "totalScore": 107,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20182640703",
@@ -23007,7 +25338,10 @@
       6
     ],
     "margin": 2,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20182640704",
@@ -23037,7 +25371,10 @@
       0
     ],
     "margin": 21,
-    "totalScore": 85
+    "totalScore": 85,
+    "venueName": "Olympic Park Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20182640801",
@@ -23067,7 +25404,10 @@
       14
     ],
     "margin": 6,
-    "totalScore": 48
+    "totalScore": 48,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20172640101",
@@ -23097,7 +25437,10 @@
       0
     ],
     "margin": 35,
-    "totalScore": 57
+    "totalScore": 57,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20172640102",
@@ -23127,7 +25470,10 @@
       9
     ],
     "margin": 36,
-    "totalScore": 60
+    "totalScore": 60,
+    "venueName": "Thebarton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20172640103",
@@ -23157,7 +25503,10 @@
       1
     ],
     "margin": 32,
-    "totalScore": 56
+    "totalScore": 56,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20172640104",
@@ -23187,7 +25536,10 @@
       12
     ],
     "margin": -15,
-    "totalScore": 35
+    "totalScore": 35,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20172640201",
@@ -23217,7 +25569,10 @@
       7
     ],
     "margin": -25,
-    "totalScore": 71
+    "totalScore": 71,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20172640202",
@@ -23247,7 +25602,10 @@
       6
     ],
     "margin": 13,
-    "totalScore": 81
+    "totalScore": 81,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20172640203",
@@ -23277,7 +25635,10 @@
       13
     ],
     "margin": -19,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20172640204",
@@ -23307,7 +25668,10 @@
       7
     ],
     "margin": -13,
-    "totalScore": 59
+    "totalScore": 59,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20172640301",
@@ -23337,7 +25701,10 @@
       8
     ],
     "margin": 0,
-    "totalScore": 86
+    "totalScore": 86,
+    "venueName": "Blacktown ISP",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20172640302",
@@ -23367,7 +25734,10 @@
       7
     ],
     "margin": 4,
-    "totalScore": 50
+    "totalScore": 50,
+    "venueName": "South Pine Sports Complex",
+    "venueLocation": "Brendale",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20172640303",
@@ -23397,7 +25767,10 @@
       6
     ],
     "margin": -14,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20172640304",
@@ -23427,7 +25800,10 @@
       0
     ],
     "margin": 3,
-    "totalScore": 31
+    "totalScore": 31,
+    "venueName": "Thebarton Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20172640401",
@@ -23457,7 +25833,10 @@
       19
     ],
     "margin": 6,
-    "totalScore": 78
+    "totalScore": 78,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20172640402",
@@ -23487,7 +25866,10 @@
       6
     ],
     "margin": 34,
-    "totalScore": 52
+    "totalScore": 52,
+    "venueName": "South Pine Sports Complex",
+    "venueLocation": "Brendale",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20172640403",
@@ -23517,7 +25899,10 @@
       0
     ],
     "margin": -7,
-    "totalScore": 57
+    "totalScore": 57,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20172640404",
@@ -23547,7 +25932,10 @@
       15
     ],
     "margin": -23,
-    "totalScore": 69
+    "totalScore": 69,
+    "venueName": "Fremantle Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20172640501",
@@ -23577,7 +25965,10 @@
       5
     ],
     "margin": 5,
-    "totalScore": 35
+    "totalScore": 35,
+    "venueName": "Blacktown ISP",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
   },
   {
     "matchId": "CD_M20172640502",
@@ -23607,7 +25998,10 @@
       19
     ],
     "margin": 6,
-    "totalScore": 102
+    "totalScore": 102,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20172640503",
@@ -23637,7 +26031,10 @@
       1
     ],
     "margin": -1,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "Rushton Park",
+    "venueLocation": "Mandurah",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20172640504",
@@ -23667,7 +26064,10 @@
       7
     ],
     "margin": -3,
-    "totalScore": 63
+    "totalScore": 63,
+    "venueName": "Norwood Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
   },
   {
     "matchId": "CD_M20172640601",
@@ -23697,7 +26097,10 @@
       0
     ],
     "margin": 16,
-    "totalScore": 70
+    "totalScore": 70,
+    "venueName": "Domain Stadium",
+    "venueLocation": "Perth",
+    "venueState": "WA"
   },
   {
     "matchId": "CD_M20172640602",
@@ -23727,7 +26130,10 @@
       0
     ],
     "margin": 7,
-    "totalScore": 39
+    "totalScore": 39,
+    "venueName": "South Pine Sports Complex",
+    "venueLocation": "Brendale",
+    "venueState": "QLD"
   },
   {
     "matchId": "CD_M20172640603",
@@ -23757,7 +26163,10 @@
       7
     ],
     "margin": -2,
-    "totalScore": 66
+    "totalScore": 66,
+    "venueName": "TIO Stadium",
+    "venueLocation": "Darwin",
+    "venueState": "NT"
   },
   {
     "matchId": "CD_M20172640604",
@@ -23787,7 +26196,10 @@
       6
     ],
     "margin": 36,
-    "totalScore": 74
+    "totalScore": 74,
+    "venueName": "Olympic Park Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20172640701",
@@ -23817,7 +26229,10 @@
       0
     ],
     "margin": 54,
-    "totalScore": 86
+    "totalScore": 86,
+    "venueName": "Casey Fields",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20172640702",
@@ -23847,7 +26262,10 @@
       22
     ],
     "margin": -32,
-    "totalScore": 72
+    "totalScore": 72,
+    "venueName": "Corroboree Group Oval Manuka",
+    "venueLocation": "Canberra",
+    "venueState": "ACT"
   },
   {
     "matchId": "CD_M20172640703",
@@ -23877,7 +26295,10 @@
       32
     ],
     "margin": -24,
-    "totalScore": 116
+    "totalScore": 116,
+    "venueName": "Olympic Park Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20172640704",
@@ -23907,7 +26328,10 @@
       16
     ],
     "margin": 0,
-    "totalScore": 74
+    "totalScore": 74,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
   },
   {
     "matchId": "CD_M20172640801",
@@ -23937,6 +26361,9 @@
       2
     ],
     "margin": -6,
-    "totalScore": 64
+    "totalScore": 64,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
   }
 ]

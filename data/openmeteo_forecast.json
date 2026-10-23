@@ -1,25 +1,14 @@
 [
  {
-  "homeTeam": "Port Adelaide W",
-  "awayTeam": "Collingwood Magpies W",
-  "venue": "Alberton Oval",
-  "venueTown": "Adelaide",
-  "kickoffLocal": "2026-10-23T19:15",
-  "preMatchRainMm": 0,
-  "duringMatchRainMm": 0,
-  "duringMatchWindKmh": 14.1,
-  "duringMatchMaxRainProbPct": 5
- },
- {
   "homeTeam": "St Kilda W",
   "awayTeam": "Brisbane Lions W",
   "venue": "RSEA Park",
   "venueTown": "Melbourne",
   "kickoffLocal": "2026-10-24T13:05",
-  "preMatchRainMm": 0,
-  "duringMatchRainMm": 0,
-  "duringMatchWindKmh": 9.2,
-  "duringMatchMaxRainProbPct": 81
+  "preMatchRainMm": 5.7,
+  "duringMatchRainMm": 3.1,
+  "duringMatchWindKmh": 7.8,
+  "duringMatchMaxRainProbPct": 87
  },
  {
   "homeTeam": "Geelong Cats W",
@@ -27,10 +16,10 @@
   "venue": "GMHBA Stadium",
   "venueTown": "Geelong",
   "kickoffLocal": "2026-10-24T15:05",
-  "preMatchRainMm": 0.1,
-  "duringMatchRainMm": 0,
-  "duringMatchWindKmh": 11.2,
-  "duringMatchMaxRainProbPct": 71
+  "preMatchRainMm": 1.1,
+  "duringMatchRainMm": 1.4,
+  "duringMatchWindKmh": 8.3,
+  "duringMatchMaxRainProbPct": 56
  },
  {
   "homeTeam": "Gold Coast Suns W",
@@ -38,10 +27,10 @@
   "venue": "People First Stadium",
   "venueTown": "Gold Coast",
   "kickoffLocal": "2026-10-24T16:05",
-  "preMatchRainMm": 3.9,
-  "duringMatchRainMm": 4,
-  "duringMatchWindKmh": 11.2,
-  "duringMatchMaxRainProbPct": 84
+  "preMatchRainMm": 1,
+  "duringMatchRainMm": 0.6,
+  "duringMatchWindKmh": 16.4,
+  "duringMatchMaxRainProbPct": 95
  },
  {
   "homeTeam": "Western Bulldogs W",
@@ -49,10 +38,10 @@
   "venue": "Mission Whitten Oval",
   "venueTown": "Melbourne",
   "kickoffLocal": "2026-10-24T19:15",
-  "preMatchRainMm": 0.1,
-  "duringMatchRainMm": 0,
-  "duringMatchWindKmh": 2,
-  "duringMatchMaxRainProbPct": 86
+  "preMatchRainMm": 1.5,
+  "duringMatchRainMm": 1.1,
+  "duringMatchWindKmh": 5,
+  "duringMatchMaxRainProbPct": 69
  },
  {
   "homeTeam": "Sydney Swans W",
@@ -61,9 +50,9 @@
   "venueTown": "Sydney",
   "kickoffLocal": "2026-10-25T12:35",
   "preMatchRainMm": 0,
-  "duringMatchRainMm": 0.2,
-  "duringMatchWindKmh": 14.4,
-  "duringMatchMaxRainProbPct": 29
+  "duringMatchRainMm": 0.1,
+  "duringMatchWindKmh": 17.8,
+  "duringMatchMaxRainProbPct": 27
  },
  {
   "homeTeam": "North Melbourne W",
@@ -71,10 +60,10 @@
   "venue": "North Hobart Oval",
   "venueTown": "Hobart",
   "kickoffLocal": "2026-10-25T13:05",
-  "preMatchRainMm": 0.5,
-  "duringMatchRainMm": 0,
-  "duringMatchWindKmh": 9.9,
-  "duringMatchMaxRainProbPct": 93
+  "preMatchRainMm": 2.4,
+  "duringMatchRainMm": 2.4,
+  "duringMatchWindKmh": 6.1,
+  "duringMatchMaxRainProbPct": 96
  },
  {
   "homeTeam": "Hawthorn Hawks W",
@@ -82,9 +71,9 @@
   "venue": "Kennedy Community Centre",
   "venueTown": "Dingley Village",
   "kickoffLocal": "2026-10-25T15:05",
-  "preMatchRainMm": 2,
-  "duringMatchRainMm": 2,
-  "duringMatchWindKmh": 18.9,
+  "preMatchRainMm": 3.7,
+  "duringMatchRainMm": 0.9,
+  "duringMatchWindKmh": 18.3,
   "duringMatchMaxRainProbPct": 99
  },
  {
@@ -93,9 +82,9 @@
   "venue": "IKON Park",
   "venueTown": "Melbourne",
   "kickoffLocal": "2026-10-25T17:05",
-  "preMatchRainMm": 2.3,
-  "duringMatchRainMm": 2.2,
-  "duringMatchWindKmh": 21.6,
-  "duringMatchMaxRainProbPct": 98
+  "preMatchRainMm": 1.2,
+  "duringMatchRainMm": 1.3,
+  "duringMatchWindKmh": 17.9,
+  "duringMatchMaxRainProbPct": 95
  }
 ]
