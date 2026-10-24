@@ -28,16 +28,17 @@
   "fittedAt": "2026-10-24T05:03:44.964Z"
  },
  "conditions": {
-  "windPerKmh": -0.5558,
+  "windPerKmh": -0.5696,
   "windMean": 15.34,
   "forecastWindShrink": 0.8,
-  "rain": -11.954,
-  "rainShare": 0.066,
-  "perHour": -1.1862,
+  "rainLog": -20.677,
+  "rainLogMean": 0.0339,
+  "rainMinMm": 0.5,
+  "perHour": -1.1545,
   "hourMean": 15.586,
   "fittedOn": 742,
   "fromSeason": 2019,
-  "fittedAt": "2026-10-24T05:03:45.770Z"
+  "fittedAt": "2026-10-24T05:38:39.507Z"
  },
  "halves": {
   "h1TotalSD": 13.4,

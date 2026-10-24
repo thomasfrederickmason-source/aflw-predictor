@@ -26,6 +26,13 @@
 // shrunk 20% toward the training mean, because forecast wind regresses that
 // much onto the archived value (2026 rounds 3-10: slope 0.80, corr 0.85).
 //
+// Rain AMOUNT (2026-10-24): the on/off rain flag became log(1 + mm of rain in
+// the match window). Wet games' residuals grow with the amount (0.1-1mm -8.3,
+// 1-3mm -18.5, 3mm+ -27.7, n=40/12/2), and walk-forward 2022-26 the amount
+// beats the flag: all games MAE 16.86 vs 16.98, wet games 18.00 vs 19.30.
+// Live, the term is the forecast chance of rain times log(1 + forecast mm),
+// with at least 0.5mm (a typical wet game) assumed when it does rain.
+//
 // Writes the coefficients to data/model_params.json (.conditions).
 // Usage: node conditions-model.js [--write]
 
@@ -43,7 +50,7 @@ const { localHour } = require('./weather-adjustment');
 
 const FROM = 2019;          // first season with dependable match-window weather and ratings
 const RAIN_MM = 0.1;        // "it rained during the match"
-const FEATS = ['wind', 'rain', 'hour'];
+const FEATS = ['wind', 'rainLog', 'hour'];
 
 const mean = a => a.reduce((s, v) => s + v, 0) / a.length;
 function solve(M, b) {
@@ -63,7 +70,7 @@ for (const m of matches) {
   const tz = tzByVenue[m.venue] || STATE_TZ[m.venueState] || 'Australia/Melbourne';
   rows.push({
     y: year(m), base: (s.predHomeScore + s.predAwayScore + rt) / 2, act: m.homeScore + m.awayScore,
-    wind: w.duringMatchWindKmh, rain: w.duringMatchRainMm > RAIN_MM ? 1 : 0, hour: localHour(new Date(m.date).getTime(), tz),
+    wind: w.duringMatchWindKmh, rain: w.duringMatchRainMm > RAIN_MM ? 1 : 0, rainLog: Math.log1p(w.duringMatchRainMm > RAIN_MM ? w.duringMatchRainMm : 0), hour: localHour(new Date(m.date).getTime(), tz),
   });
 }
 
@@ -100,7 +107,7 @@ for (const TEST of [[2024, 2025, 2026], [2022, 2023, 2024, 2025, 2026]]) {
 const F = fit(rows.filter(r => r.y >= FROM));
 console.log(`\nConditions fit on ${F.n} matches ${FROM}+ (each centred on its mean):`);
 console.log(`  wind  ${F.coef.wind.toFixed(3)} pts per km/h (SE ${F.se.wind.toFixed(3)}), mean ${F.means.wind.toFixed(1)} km/h`);
-console.log(`  rain  ${F.coef.rain.toFixed(2)} pts when it rains during the match (SE ${F.se.rain.toFixed(2)}), ${(100 * F.means.rain).toFixed(1)}% of matches`);
+console.log(`  rain  ${F.coef.rainLog.toFixed(2)} pts per log(1 + mm) of rain during the match (SE ${F.se.rainLog.toFixed(2)}): 1mm ${(F.coef.rainLog * Math.log(2)).toFixed(1)}, 3mm ${(F.coef.rainLog * Math.log(4)).toFixed(1)}`);
 console.log(`  time  ${(3 * F.coef.hour).toFixed(2)} pts per 3 hours later kickoff (SE ${(3 * F.se.hour).toFixed(2)}), mean kickoff ${Math.floor(F.means.hour)}:${String(Math.round((F.means.hour % 1) * 60)).padStart(2, '0')}`);
 
 if (process.argv.includes('--write')) {
@@ -108,7 +115,7 @@ if (process.argv.includes('--write')) {
   const params = fs.existsSync(path) ? JSON.parse(fs.readFileSync(path, 'utf8')) : {};
   params.conditions = {
     windPerKmh: +F.coef.wind.toFixed(4), windMean: +F.means.wind.toFixed(2), forecastWindShrink: 0.8,
-    rain: +F.coef.rain.toFixed(3), rainShare: +F.means.rain.toFixed(4),
+    rainLog: +F.coef.rainLog.toFixed(3), rainLogMean: +F.means.rainLog.toFixed(4), rainMinMm: 0.5,
     perHour: +F.coef.hour.toFixed(4), hourMean: +F.means.hour.toFixed(3),
     fittedOn: F.n, fromSeason: FROM, fittedAt: new Date().toISOString(),
   };

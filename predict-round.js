@@ -203,7 +203,7 @@ async function main() {
     // rain need a forecast (within ~15 days), otherwise they count as typical.
     const wx = weatherByTeamPair.get(`${o.homeTeam}|${o.awayTeam}`);
     const rainProb = wx ? (wx.duringMatchMaxRainProbPct != null ? wx.duringMatchMaxRainProbPct / 100 : (wx.duringMatchRainMm > 0.1 ? 1 : 0)) : null;
-    const cond = getConditionsAdjustment({ windKmh: wx ? wx.duringMatchWindKmh : null, rainProb, kickoffMs: o.date * 1000, timeZone: o.venueTimezone || TOWN_TZ[o.venueTown] || 'Australia/Melbourne' });
+    const cond = getConditionsAdjustment({ windKmh: wx ? wx.duringMatchWindKmh : null, rainProb, rainMm: wx ? wx.duringMatchRainMm : null, kickoffMs: o.date * 1000, timeZone: o.venueTimezone || TOWN_TZ[o.venueTown] || 'Australia/Melbourne' });
     const weatherTotalAdj = cond.totalScoreAdjustment;
     smHome += weatherTotalAdj / 2;
     smAway += weatherTotalAdj / 2;

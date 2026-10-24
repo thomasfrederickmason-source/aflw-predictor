@@ -42,11 +42,12 @@ function localHour(ms, timeZone) {
 // training mean, so it moves a total only away from typical conditions.
 //   windKmh   forecast mean wind during the match (null = unknown -> no wind term)
 //   rainProb  forecast chance of rain during the match, 0-1 (null = unknown)
+//   rainMm    forecast mm of rain in the match window (scales the rain term; null = 0)
 //   kickoffMs, timeZone  the bounce, for the kickoff-time term
 // Returns { totalScoreAdjustment, note, parts }.
 let CONDITIONS = null;
 try { CONDITIONS = JSON.parse(require('fs').readFileSync(require('path').join(__dirname, 'data/model_params.json'), 'utf8')).conditions || null; } catch (e) { /* run conditions-model.js --write */ }
-function getConditionsAdjustment({ windKmh = null, rainProb = null, kickoffMs = null, timeZone = 'Australia/Melbourne' } = {}) {
+function getConditionsAdjustment({ windKmh = null, rainProb = null, rainMm = null, kickoffMs = null, timeZone = 'Australia/Melbourne' } = {}) {
   const C = CONDITIONS;
   if (!C) { const old = getWeatherAdjustment(rainProb != null && rainProb >= 0.5 ? 1 : 0, windKmh); return { ...old, parts: [] }; }
   const parts = [];
@@ -56,7 +57,12 @@ function getConditionsAdjustment({ windKmh = null, rainProb = null, kickoffMs = 
     const a = C.windPerKmh * (eff - C.windMean);
     adj += a; parts.push({ k: 'wind', pts: a, text: `wind ${Math.round(windKmh)}km/h` });
   }
-  if (rainProb != null) {
+  if (rainProb != null && C.rainLog != null) {
+    // expected log(1 + mm): chance of rain x how heavy, at least a typical wet game's amount
+    const mm = Math.max(rainMm || 0, C.rainMinMm);
+    const a = C.rainLog * (rainProb * Math.log1p(mm) - C.rainLogMean);
+    adj += a; parts.push({ k: 'rain', pts: a, text: `${Math.round(rainProb * 100)}% chance of rain, ${(+mm.toFixed(1))}mm` });
+  } else if (rainProb != null) {
     const a = C.rain * (rainProb - C.rainShare);
     adj += a; parts.push({ k: 'rain', pts: a, text: `${Math.round(rainProb * 100)}% chance of rain` });
   }
