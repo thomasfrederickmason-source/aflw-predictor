@@ -80,6 +80,9 @@ if (refit) {
   catch (e) { console.log('  skipped: ' + ((e.stderr || e.message || '').trim().split('\n').pop())); }
   r = step('    Refit match conditions: wind, rain, kickoff time (conditions-model.js)', 'conditions-model.js', ['--write']);
   console.log(tail(r.out.split('\nWritten')[0], 6));
+  // live rain term on archived forecasts for the games just played (soft step: keeps the last fit if Open-Meteo fails)
+  try { console.log('\n==>     Refit live rain term on archived forecasts (forecast-rain-fit.js)\n' + tail(execFileSync(process.execPath, ['forecast-rain-fit.js', '--write'], { cwd: __dirname, encoding: 'utf8', timeout: 240000 }).split('\nWritten')[0], 2)); }
+  catch (e) { console.log('  skipped: ' + ((e.stderr || e.message || '').trim().split('\n').pop())); }
 }
 r = step('7/10 Fixtures still to be played', 'fetch-upcoming-round.js', roundArg ? [roundArg] : []);
 console.log(tail(r.out, 14));

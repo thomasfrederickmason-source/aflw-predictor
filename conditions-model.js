@@ -33,6 +33,12 @@
 // Live, the term is the forecast chance of rain times log(1 + forecast mm),
 // with at least 0.5mm (a typical wet game) assumed when it does rain.
 //
+// SUPERSEDED for live use 2026-10-25: that walk-forward fed in the rain that
+// actually fell, which the board never knows. On archived FORECASTS the same
+// slope over-cut wet games (worse than no rain term at all), so the live rain
+// term is now fitted on forecasts by forecast-rain-fit.js (capped at 1mm) and
+// stored as conditions.forecastRain. This fit still sets wind and kickoff time.
+//
 // Writes the coefficients to data/model_params.json (.conditions).
 // Usage: node conditions-model.js [--write]
 
@@ -118,6 +124,8 @@ if (process.argv.includes('--write')) {
     rainLog: +F.coef.rainLog.toFixed(3), rainLogMean: +F.means.rainLog.toFixed(4), rainMinMm: 0.5,
     perHour: +F.coef.hour.toFixed(4), hourMean: +F.means.hour.toFixed(3),
     fittedOn: F.n, fromSeason: FROM, fittedAt: new Date().toISOString(),
+    // the live rain term comes from forecast-rain-fit.js; keep it across this refit
+    ...(params.conditions && params.conditions.forecastRain ? { forecastRain: params.conditions.forecastRain } : {}),
   };
   fs.writeFileSync(path, JSON.stringify(params, null, 1));
   console.log(`\nWritten: conditions settings to ${path}`);

@@ -57,7 +57,14 @@ function getConditionsAdjustment({ windKmh = null, rainProb = null, rainMm = nul
     const a = C.windPerKmh * (eff - C.windMean);
     adj += a; parts.push({ k: 'wind', pts: a, text: `wind ${Math.round(windKmh)}km/h` });
   }
-  if (rainProb != null && C.rainLog != null) {
+  if (rainProb != null && C.forecastRain) {
+    // fitted on archived FORECASTS (forecast-rain-fit.js): the forecast amount only counts up to maxMm,
+    // because heavier forecasts didn't score any lower (the archive slope below over-cut wet forecasts)
+    const R = C.forecastRain;
+    const mm = Math.min(Math.max(rainMm || 0, R.minMm), R.maxMm);
+    const a = R.coef * (rainProb * Math.log1p(mm) - R.mean);
+    adj += a; parts.push({ k: 'rain', pts: a, text: `${Math.round(rainProb * 100)}% chance of rain, ${(+(rainMm || 0).toFixed(1))}mm forecast` });
+  } else if (rainProb != null && C.rainLog != null) {
     // expected log(1 + mm): chance of rain x how heavy, at least a typical wet game's amount
     const mm = Math.max(rainMm || 0, C.rainMinMm);
     const a = C.rainLog * (rainProb * Math.log1p(mm) - C.rainLogMean);

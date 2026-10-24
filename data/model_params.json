@@ -38,7 +38,16 @@
   "hourMean": 15.591,
   "fittedOn": 745,
   "fromSeason": 2019,
-  "fittedAt": "2026-10-24T14:08:42.171Z"
+  "fittedAt": "2026-10-24T20:55:31.320Z",
+  "forecastRain": {
+   "coef": -18.408,
+   "mean": 0.1082,
+   "minMm": 0.5,
+   "maxMm": 1,
+   "fittedOn": 640,
+   "fromSeason": 2024,
+   "fittedAt": "2026-10-24T20:55:30.955Z"
+  }
  },
  "halves": {
   "h1TotalSD": 13.4,

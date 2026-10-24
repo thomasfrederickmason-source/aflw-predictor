@@ -7,8 +7,8 @@
   "kickoffLocal": "2026-10-25T12:35",
   "preMatchRainMm": 0,
   "duringMatchRainMm": 0,
-  "duringMatchWindKmh": 19.1,
-  "duringMatchMaxRainProbPct": 10
+  "duringMatchWindKmh": 19.3,
+  "duringMatchMaxRainProbPct": 12
  },
  {
   "homeTeam": "North Melbourne W",
@@ -16,10 +16,10 @@
   "venue": "North Hobart Oval",
   "venueTown": "Hobart",
   "kickoffLocal": "2026-10-25T13:05",
-  "preMatchRainMm": 0.8,
-  "duringMatchRainMm": 0.5,
-  "duringMatchWindKmh": 6.9,
-  "duringMatchMaxRainProbPct": 100
+  "preMatchRainMm": 0.7,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.4,
+  "duringMatchMaxRainProbPct": 99
  },
  {
   "homeTeam": "Hawthorn Hawks W",
@@ -27,9 +27,9 @@
   "venue": "Kennedy Community Centre",
   "venueTown": "Dingley Village",
   "kickoffLocal": "2026-10-25T15:05",
-  "preMatchRainMm": 1.6,
-  "duringMatchRainMm": 2.4,
-  "duringMatchWindKmh": 22.8,
+  "preMatchRainMm": 3.5,
+  "duringMatchRainMm": 4.3,
+  "duringMatchWindKmh": 22.1,
   "duringMatchMaxRainProbPct": 100
  },
  {
@@ -38,9 +38,9 @@
   "venue": "IKON Park",
   "venueTown": "Melbourne",
   "kickoffLocal": "2026-10-25T17:05",
-  "preMatchRainMm": 3.2,
-  "duringMatchRainMm": 0.5,
-  "duringMatchWindKmh": 19.3,
+  "preMatchRainMm": 5.2,
+  "duringMatchRainMm": 1.6,
+  "duringMatchWindKmh": 19.6,
   "duringMatchMaxRainProbPct": 100
  }
 ]
