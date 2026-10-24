@@ -83,10 +83,12 @@ for (const [k, list] of Object.entries(groups)) {
       return v;
     };
     const sum = (a, b) => a + b;
-    cache[m.matchId] = {
+    const f = {
       d0: win(h0, 'precipitation', sum), p0: win(h0, 'precipitation_probability', Math.max),
       d1: win(h1, 'precipitation_previous_day1', sum), p1: win(h1, 'precipitation_probability_previous_day1', Math.max),
     };
+    if (f.d0 == null && f.d1 == null) continue; // not archived yet: try again next refit rather than caching a gap
+    cache[m.matchId] = f;
     fetched++;
   }
   fs.writeFileSync(CACHE, JSON.stringify(cache));
