@@ -3036,6 +3036,72 @@
     "venueState": "VIC"
   },
   {
+    "matchId": "CD_M20262641103",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-24T04:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V30",
+    "homeTeam": "Cats",
+    "awayTeam": "Dockers",
+    "homeScore": 64,
+    "awayScore": 34,
+    "homeGoals": 9,
+    "homeBehinds": 10,
+    "awayGoals": 5,
+    "awayBehinds": 4,
+    "homeQtr": [
+      26,
+      8,
+      22,
+      8
+    ],
+    "awayQtr": [
+      13,
+      1,
+      0,
+      20
+    ],
+    "margin": 30,
+    "totalScore": 98,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
+  },
+  {
+    "matchId": "CD_M20262641104",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-24T06:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V81",
+    "homeTeam": "SUNS",
+    "awayTeam": "Richmond",
+    "homeScore": 54,
+    "awayScore": 50,
+    "homeGoals": 8,
+    "homeBehinds": 6,
+    "awayGoals": 7,
+    "awayBehinds": 8,
+    "homeQtr": [
+      1,
+      15,
+      26,
+      12
+    ],
+    "awayQtr": [
+      3,
+      24,
+      7,
+      16
+    ],
+    "margin": 4,
+    "totalScore": 104,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
+  },
+  {
     "matchId": "CD_M20252640101",
     "season": "2025 NAB AFLW Season",
     "round": "Round 1",

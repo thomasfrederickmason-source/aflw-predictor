@@ -12798,5 +12798,37 @@
     "margin": -52,
     "totalScore": 98,
     "homeWin": false
+  },
+  {
+    "matchId": "CD_M20262641103",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-24T04:05:00.000+0000",
+    "homeTeam": "Cats",
+    "awayTeam": "Dockers",
+    "homeRatingPre": 1761.8533363595675,
+    "awayRatingPre": 1512.314360185162,
+    "homeWinProbModel": 0.8209517121200529,
+    "homeScore": 64,
+    "awayScore": 34,
+    "margin": 30,
+    "totalScore": 98,
+    "homeWin": true
+  },
+  {
+    "matchId": "CD_M20262641104",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-24T06:05:00.000+0000",
+    "homeTeam": "SUNS",
+    "awayTeam": "Richmond",
+    "homeRatingPre": 1584.8350114404386,
+    "awayRatingPre": 1301.1237161300373,
+    "homeWinProbModel": 0.8480670555750738,
+    "homeScore": 54,
+    "awayScore": 50,
+    "margin": 4,
+    "totalScore": 104,
+    "homeWin": true
   }
 ]

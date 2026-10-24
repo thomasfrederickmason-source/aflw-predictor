@@ -10398,5 +10398,31 @@
     "actualAwayScore": 75,
     "predTotal": 85.17451302416566,
     "actualTotal": 98
+  },
+  {
+    "matchId": "CD_M20262641103",
+    "season": "2026 NAB AFLW Season",
+    "date": "2026-10-24T04:05:00.000+0000",
+    "homeTeam": "Cats",
+    "awayTeam": "Dockers",
+    "predHomeScore": 53.71433280955795,
+    "predAwayScore": 41.79937925594736,
+    "actualHomeScore": 64,
+    "actualAwayScore": 34,
+    "predTotal": 95.5137120655053,
+    "actualTotal": 98
+  },
+  {
+    "matchId": "CD_M20262641104",
+    "season": "2026 NAB AFLW Season",
+    "date": "2026-10-24T06:05:00.000+0000",
+    "homeTeam": "SUNS",
+    "awayTeam": "Richmond",
+    "predHomeScore": 53.51707441471971,
+    "predAwayScore": 40.4474335708819,
+    "actualHomeScore": 54,
+    "actualAwayScore": 50,
+    "predTotal": 93.96450798560161,
+    "actualTotal": 104
   }
 ]

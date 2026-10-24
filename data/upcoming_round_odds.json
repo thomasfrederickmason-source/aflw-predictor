@@ -1,37 +1,5 @@
 [
   {
-    "date": 1792821900,
-    "homeTeam": "Gold Coast Suns W",
-    "awayTeam": "Richmond W",
-    "venue": "People First Stadium",
-    "venueTown": "Gold Coast",
-    "venueTimezone": "Australia/Brisbane",
-    "roundNumber": 11,
-    "roundName": "Round 11",
-    "homeAvgOdds": null,
-    "homeMaxOdds": null,
-    "awayAvgOdds": null,
-    "awayMaxOdds": null,
-    "bookmakerCount": 0,
-    "status": "UNCONFIRMED_TEAMS"
-  },
-  {
-    "date": 1792829700,
-    "homeTeam": "Western Bulldogs W",
-    "awayTeam": "Melbourne Demons W",
-    "venue": "Mission Whitten Oval",
-    "venueTown": "Melbourne",
-    "venueTimezone": "Australia/Melbourne",
-    "roundNumber": 11,
-    "roundName": "Round 11",
-    "homeAvgOdds": null,
-    "homeMaxOdds": null,
-    "awayAvgOdds": null,
-    "awayMaxOdds": null,
-    "bookmakerCount": 0,
-    "status": "UNCONFIRMED_TEAMS"
-  },
-  {
     "date": 1792892100,
     "homeTeam": "Sydney Swans W",
     "awayTeam": "West Coast Eagles W",
