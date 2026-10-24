@@ -3102,6 +3102,39 @@
     "venueState": "QLD"
   },
   {
+    "matchId": "CD_M20262641105",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-24T08:15:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V110",
+    "homeTeam": "Bulldogs",
+    "awayTeam": "Demons",
+    "homeScore": 20,
+    "awayScore": 37,
+    "homeGoals": 2,
+    "homeBehinds": 8,
+    "awayGoals": 5,
+    "awayBehinds": 7,
+    "homeQtr": [
+      7,
+      1,
+      4,
+      8
+    ],
+    "awayQtr": [
+      9,
+      3,
+      13,
+      12
+    ],
+    "margin": -17,
+    "totalScore": 57,
+    "venueName": "Mission Whitten Oval",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
+  },
+  {
     "matchId": "CD_M20252640101",
     "season": "2025 NAB AFLW Season",
     "round": "Round 1",

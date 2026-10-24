@@ -12830,5 +12830,21 @@
     "margin": 4,
     "totalScore": 104,
     "homeWin": true
+  },
+  {
+    "matchId": "CD_M20262641105",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-24T08:15:00.000+0000",
+    "homeTeam": "Bulldogs",
+    "awayTeam": "Demons",
+    "homeRatingPre": 1749.9954667577108,
+    "awayRatingPre": 1681.9986251981352,
+    "homeWinProbModel": 0.6172207353787427,
+    "homeScore": 20,
+    "awayScore": 37,
+    "margin": -17,
+    "totalScore": 57,
+    "homeWin": false
   }
 ]
