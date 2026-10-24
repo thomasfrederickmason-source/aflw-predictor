@@ -3003,6 +3003,39 @@
     "venueState": "SA"
   },
   {
+    "matchId": "CD_M20262641102",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-24T02:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V347",
+    "homeTeam": "St Kilda",
+    "awayTeam": "Lions",
+    "homeScore": 23,
+    "awayScore": 75,
+    "homeGoals": 3,
+    "homeBehinds": 5,
+    "awayGoals": 11,
+    "awayBehinds": 9,
+    "homeQtr": [
+      14,
+      7,
+      1,
+      1
+    ],
+    "awayQtr": [
+      27,
+      7,
+      13,
+      28
+    ],
+    "margin": -52,
+    "totalScore": 98,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
+  },
+  {
     "matchId": "CD_M20252640101",
     "season": "2025 NAB AFLW Season",
     "round": "Round 1",

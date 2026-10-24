@@ -1,8 +1,47 @@
 {
- "fetchedAt": "2026-10-23T15:30:00.345Z",
+ "fetchedAt": "2026-10-24T05:03:42.917Z",
  "source": "https://www.oddsportal.com/aussie-rules/australia/afl-women/results/",
  "pageCount": 2,
  "rows": [
+  {
+   "date": 1792829700,
+   "homeTeam": "Western Bulldogs W",
+   "awayTeam": "Melbourne Demons W",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "Scheduled",
+   "homeAvgOdds": 3.25,
+   "homeMaxOdds": 3.25,
+   "awayAvgOdds": 1.33,
+   "awayMaxOdds": 1.33,
+   "bookmakerCount": 1
+  },
+  {
+   "date": 1792821900,
+   "homeTeam": "Gold Coast Suns W",
+   "awayTeam": "Richmond W",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "Scheduled",
+   "homeAvgOdds": 1.05,
+   "homeMaxOdds": 1.05,
+   "awayAvgOdds": 8.5,
+   "awayMaxOdds": 8.5,
+   "bookmakerCount": 1
+  },
+  {
+   "date": 1792814700,
+   "homeTeam": "Geelong Cats W",
+   "awayTeam": "Fremantle Dockers W",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "Scheduled",
+   "homeAvgOdds": 1.05,
+   "homeMaxOdds": 1.05,
+   "awayAvgOdds": 8.5,
+   "awayMaxOdds": 8.5,
+   "bookmakerCount": 1
+  },
   {
    "date": 1792743300,
    "homeTeam": "Port Adelaide W",
@@ -599,58 +638,6 @@
    "homeMaxOdds": 10,
    "awayAvgOdds": 1.04,
    "awayMaxOdds": 1.04,
-   "bookmakerCount": 1
-  },
-  {
-   "date": 1789283100,
-   "homeTeam": "Fremantle Dockers W",
-   "awayTeam": "Essendon Bombers W",
-   "homeScore": 37,
-   "awayScore": 22,
-   "status": "Finished",
-   "homeAvgOdds": 1.14,
-   "homeMaxOdds": 1.14,
-   "awayAvgOdds": 5,
-   "awayMaxOdds": 5,
-   "bookmakerCount": 1
-  },
-  {
-   "date": 1789275900,
-   "homeTeam": "North Melbourne W",
-   "awayTeam": "Carlton Blues W",
-   "homeScore": 33,
-   "awayScore": 23,
-   "status": "Finished",
-   "homeAvgOdds": 1.05,
-   "homeMaxOdds": 1.05,
-   "awayAvgOdds": 8.5,
-   "awayMaxOdds": 8.5,
-   "bookmakerCount": 1
-  },
-  {
-   "date": 1789274100,
-   "homeTeam": "Sydney Swans W",
-   "awayTeam": "GWS Giants W",
-   "homeScore": 87,
-   "awayScore": 56,
-   "status": "Finished",
-   "homeAvgOdds": 1.12,
-   "homeMaxOdds": 1.12,
-   "awayAvgOdds": 5.5,
-   "awayMaxOdds": 5.5,
-   "bookmakerCount": 1
-  },
-  {
-   "date": 1789268700,
-   "homeTeam": "Richmond W",
-   "awayTeam": "St Kilda W",
-   "homeScore": 58,
-   "awayScore": 43,
-   "status": "Finished",
-   "homeAvgOdds": 1.58,
-   "homeMaxOdds": 1.58,
-   "awayAvgOdds": 2.25,
-   "awayMaxOdds": 2.25,
    "bookmakerCount": 1
   }
  ]

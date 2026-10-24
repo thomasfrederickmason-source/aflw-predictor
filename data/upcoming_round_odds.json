@@ -1,37 +1,5 @@
 [
   {
-    "date": 1792807500,
-    "homeTeam": "St Kilda W",
-    "awayTeam": "Brisbane Lions W",
-    "venue": "RSEA Park",
-    "venueTown": "Melbourne",
-    "venueTimezone": "Australia/Melbourne",
-    "roundNumber": 11,
-    "roundName": "Round 11",
-    "homeAvgOdds": null,
-    "homeMaxOdds": null,
-    "awayAvgOdds": null,
-    "awayMaxOdds": null,
-    "bookmakerCount": 0,
-    "status": "UNCONFIRMED_TEAMS"
-  },
-  {
-    "date": 1792814700,
-    "homeTeam": "Geelong Cats W",
-    "awayTeam": "Fremantle Dockers W",
-    "venue": "GMHBA Stadium",
-    "venueTown": "Geelong",
-    "venueTimezone": "Australia/Melbourne",
-    "roundNumber": 11,
-    "roundName": "Round 11",
-    "homeAvgOdds": null,
-    "homeMaxOdds": null,
-    "awayAvgOdds": null,
-    "awayMaxOdds": null,
-    "bookmakerCount": 0,
-    "status": "UNCONFIRMED_TEAMS"
-  },
-  {
     "date": 1792821900,
     "homeTeam": "Gold Coast Suns W",
     "awayTeam": "Richmond W",

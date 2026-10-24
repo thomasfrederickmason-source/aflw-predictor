@@ -12782,5 +12782,21 @@
     "margin": 48,
     "totalScore": 56,
     "homeWin": true
+  },
+  {
+    "matchId": "CD_M20262641102",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-24T02:05:00.000+0000",
+    "homeTeam": "St Kilda",
+    "awayTeam": "Lions",
+    "homeRatingPre": 1205.1667654173798,
+    "awayRatingPre": 1452.7412405290434,
+    "homeWinProbModel": 0.2077064308725828,
+    "homeScore": 23,
+    "awayScore": 75,
+    "margin": -52,
+    "totalScore": 98,
+    "homeWin": false
   }
 ]

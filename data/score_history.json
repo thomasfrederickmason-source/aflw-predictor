@@ -10385,5 +10385,18 @@
     "actualAwayScore": 4,
     "predTotal": 82.64629451627063,
     "actualTotal": 56
+  },
+  {
+    "matchId": "CD_M20262641102",
+    "season": "2026 NAB AFLW Season",
+    "date": "2026-10-24T02:05:00.000+0000",
+    "homeTeam": "St Kilda",
+    "awayTeam": "Lions",
+    "predHomeScore": 28.160577242449158,
+    "predAwayScore": 57.0139357817165,
+    "actualHomeScore": 23,
+    "actualAwayScore": 75,
+    "predTotal": 85.17451302416566,
+    "actualTotal": 98
   }
 ]

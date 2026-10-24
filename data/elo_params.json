@@ -2,9 +2,9 @@
  "k": 40,
  "hga": 15,
  "seasonRegression": 0.3333333333333333,
- "marginSlope": 0.08426144288904529,
- "marginIntercept": 0.5083215650245001,
- "fittedOn": 799,
+ "marginSlope": 0.08446594155369096,
+ "marginIntercept": 0.4628223020261182,
+ "fittedOn": 800,
  "lastMatch": "2026 NAB AFLW Season Round 11",
- "fittedAt": "2026-10-23T15:30:01.381Z"
+ "fittedAt": "2026-10-24T05:03:44.080Z"
 }
