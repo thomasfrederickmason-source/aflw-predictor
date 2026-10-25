@@ -3201,6 +3201,72 @@
     "venueState": "TAS"
   },
   {
+    "matchId": "CD_M20262641108",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-25T04:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V4295",
+    "homeTeam": "Hawks",
+    "awayTeam": "Bombers",
+    "homeScore": 25,
+    "awayScore": 20,
+    "homeGoals": 3,
+    "homeBehinds": 7,
+    "awayGoals": 3,
+    "awayBehinds": 2,
+    "homeQtr": [
+      16,
+      2,
+      7,
+      0
+    ],
+    "awayQtr": [
+      6,
+      12,
+      0,
+      2
+    ],
+    "margin": 5,
+    "totalScore": 45,
+    "venueName": "Kennedy Community Centre",
+    "venueLocation": "Dingley Village",
+    "venueState": "VIC"
+  },
+  {
+    "matchId": "CD_M20262641109",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-25T06:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V50",
+    "homeTeam": "Blues",
+    "awayTeam": "GIANTS",
+    "homeScore": 38,
+    "awayScore": 23,
+    "homeGoals": 5,
+    "homeBehinds": 8,
+    "awayGoals": 3,
+    "awayBehinds": 5,
+    "homeQtr": [
+      13,
+      7,
+      3,
+      15
+    ],
+    "awayQtr": [
+      15,
+      1,
+      7,
+      0
+    ],
+    "margin": 15,
+    "totalScore": 61,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
+  },
+  {
     "matchId": "CD_M20252640101",
     "season": "2025 NAB AFLW Season",
     "round": "Round 1",

@@ -12878,5 +12878,37 @@
     "margin": 9,
     "totalScore": 67,
     "homeWin": true
+  },
+  {
+    "matchId": "CD_M20262641108",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-25T04:05:00.000+0000",
+    "homeTeam": "Hawks",
+    "awayTeam": "Bombers",
+    "homeRatingPre": 1554.9980118526885,
+    "awayRatingPre": 1217.7758264048364,
+    "homeWinProbModel": 0.883659840579987,
+    "homeScore": 25,
+    "awayScore": 20,
+    "margin": 5,
+    "totalScore": 45,
+    "homeWin": true
+  },
+  {
+    "matchId": "CD_M20262641109",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-25T06:05:00.000+0000",
+    "homeTeam": "Blues",
+    "awayTeam": "GIANTS",
+    "homeRatingPre": 1659.981319171268,
+    "awayRatingPre": 1180.0063827539998,
+    "homeWinProbModel": 0.9452827345923599,
+    "homeScore": 38,
+    "awayScore": 23,
+    "margin": 15,
+    "totalScore": 61,
+    "homeWin": true
   }
 ]
