@@ -1,46 +1,13 @@
 [
  {
-  "homeTeam": "Sydney Swans W",
-  "awayTeam": "West Coast Eagles W",
-  "venue": "Henson Park",
-  "venueTown": "Sydney",
-  "kickoffLocal": "2026-10-25T12:35",
-  "preMatchRainMm": 0,
-  "duringMatchRainMm": 0,
-  "duringMatchWindKmh": 19.3,
-  "duringMatchMaxRainProbPct": 12
- },
- {
-  "homeTeam": "North Melbourne W",
-  "awayTeam": "Adelaide Crows W",
-  "venue": "North Hobart Oval",
-  "venueTown": "Hobart",
-  "kickoffLocal": "2026-10-25T13:05",
-  "preMatchRainMm": 0.7,
-  "duringMatchRainMm": 0,
-  "duringMatchWindKmh": 8.4,
-  "duringMatchMaxRainProbPct": 99
- },
- {
-  "homeTeam": "Hawthorn Hawks W",
-  "awayTeam": "Essendon Bombers W",
-  "venue": "Kennedy Community Centre",
-  "venueTown": "Dingley Village",
-  "kickoffLocal": "2026-10-25T15:05",
-  "preMatchRainMm": 3.5,
-  "duringMatchRainMm": 4.3,
-  "duringMatchWindKmh": 22.1,
-  "duringMatchMaxRainProbPct": 100
- },
- {
   "homeTeam": "Carlton Blues W",
   "awayTeam": "GWS Giants W",
   "venue": "IKON Park",
   "venueTown": "Melbourne",
   "kickoffLocal": "2026-10-25T17:05",
-  "preMatchRainMm": 5.2,
-  "duringMatchRainMm": 1.6,
-  "duringMatchWindKmh": 19.6,
+  "preMatchRainMm": 5.7,
+  "duringMatchRainMm": 3,
+  "duringMatchWindKmh": 20,
   "duringMatchMaxRainProbPct": 100
  }
 ]

@@ -1,7621 +1,5 @@
 [
  {
-  "homeTeam": "Swans",
-  "awayTeam": "Eagles",
-  "venue": "Henson Park",
-  "date": 1792892100,
-  "marketHomeOdds": null,
-  "marketAwayOdds": null,
-  "levels": {
-   "full": {
-    "label": "Full Game",
-    "predHome": 52.7,
-    "predAway": 37.1,
-    "predMargin": 15.6,
-    "predTotal": 89.8,
-    "h2hIsCalibrated": true,
-    "h2h": {
-     "homeOdds": 1.36,
-     "awayOdds": 3.76,
-     "deadHeat": true
-    },
-    "result3": {
-     "homeOdds": 1.38,
-     "drawOdds": 76.14,
-     "awayOdds": 3.85,
-     "pDraw": 0.0131
-    },
-    "line": {
-     "value": 15.5,
-     "homeOdds": 1.99,
-     "awayOdds": 2.01
-    },
-    "total": {
-     "value": 88.5,
-     "overOdds": 1.98,
-     "underOdds": 2.02
-    },
-    "marginBands24": [
-     {
-      "range": "1-24",
-      "homeOdds": 2.73,
-      "awayOdds": 4.87
-     },
-     {
-      "range": "25+",
-      "homeOdds": 2.77,
-      "awayOdds": 18.4
-     }
-    ],
-    "marginBands39": [
-     {
-      "range": "1-39",
-      "homeOdds": 1.79,
-      "awayOdds": 4.06
-     },
-     {
-      "range": "40+",
-      "homeOdds": 5.9,
-      "awayOdds": 72.67
-     }
-    ],
-    "altLines": [
-     {
-      "line": -20.5,
-      "homeOdds": 1.08,
-      "awayOdds": 13.45
-     },
-     {
-      "line": -19.5,
-      "homeOdds": 1.09,
-      "awayOdds": 12.48
-     },
-     {
-      "line": -18.5,
-      "homeOdds": 1.09,
-      "awayOdds": 11.59
-     },
-     {
-      "line": -17.5,
-      "homeOdds": 1.1,
-      "awayOdds": 10.78
-     },
-     {
-      "line": -16.5,
-      "homeOdds": 1.11,
-      "awayOdds": 10.04
-     },
-     {
-      "line": -15.5,
-      "homeOdds": 1.12,
-      "awayOdds": 9.37
-     },
-     {
-      "line": -14.5,
-      "homeOdds": 1.13,
-      "awayOdds": 8.75
-     },
-     {
-      "line": -13.5,
-      "homeOdds": 1.14,
-      "awayOdds": 8.18
-     },
-     {
-      "line": -12.5,
-      "homeOdds": 1.15,
-      "awayOdds": 7.66
-     },
-     {
-      "line": -11.5,
-      "homeOdds": 1.16,
-      "awayOdds": 7.19
-     },
-     {
-      "line": -10.5,
-      "homeOdds": 1.17,
-      "awayOdds": 6.75
-     },
-     {
-      "line": -9.5,
-      "homeOdds": 1.19,
-      "awayOdds": 6.34
-     },
-     {
-      "line": -8.5,
-      "homeOdds": 1.2,
-      "awayOdds": 5.97
-     },
-     {
-      "line": -7.5,
-      "homeOdds": 1.22,
-      "awayOdds": 5.63
-     },
-     {
-      "line": -6.5,
-      "homeOdds": 1.23,
-      "awayOdds": 5.31
-     },
-     {
-      "line": -5.5,
-      "homeOdds": 1.25,
-      "awayOdds": 5.02
-     },
-     {
-      "line": -4.5,
-      "homeOdds": 1.27,
-      "awayOdds": 4.75
-     },
-     {
-      "line": -3.5,
-      "homeOdds": 1.29,
-      "awayOdds": 4.5
-     },
-     {
-      "line": -2.5,
-      "homeOdds": 1.31,
-      "awayOdds": 4.26
-     },
-     {
-      "line": -1.5,
-      "homeOdds": 1.33,
-      "awayOdds": 4.05
-     },
-     {
-      "line": -0.5,
-      "homeOdds": 1.35,
-      "awayOdds": 3.85
-     },
-     {
-      "line": 0.5,
-      "homeOdds": 1.38,
-      "awayOdds": 3.66
-     },
-     {
-      "line": 1.5,
-      "homeOdds": 1.4,
-      "awayOdds": 3.49
-     },
-     {
-      "line": 2.5,
-      "homeOdds": 1.43,
-      "awayOdds": 3.33
-     },
-     {
-      "line": 3.5,
-      "homeOdds": 1.46,
-      "awayOdds": 3.18
-     },
-     {
-      "line": 4.5,
-      "homeOdds": 1.49,
-      "awayOdds": 3.04
-     },
-     {
-      "line": 5.5,
-      "homeOdds": 1.52,
-      "awayOdds": 2.91
-     },
-     {
-      "line": 6.5,
-      "homeOdds": 1.56,
-      "awayOdds": 2.79
-     },
-     {
-      "line": 7.5,
-      "homeOdds": 1.59,
-      "awayOdds": 2.68
-     },
-     {
-      "line": 8.5,
-      "homeOdds": 1.63,
-      "awayOdds": 2.58
-     },
-     {
-      "line": 9.5,
-      "homeOdds": 1.68,
-      "awayOdds": 2.48
-     },
-     {
-      "line": 10.5,
-      "homeOdds": 1.72,
-      "awayOdds": 2.39
-     },
-     {
-      "line": 11.5,
-      "homeOdds": 1.77,
-      "awayOdds": 2.3
-     },
-     {
-      "line": 12.5,
-      "homeOdds": 1.82,
-      "awayOdds": 2.22
-     },
-     {
-      "line": 13.5,
-      "homeOdds": 1.87,
-      "awayOdds": 2.14
-     },
-     {
-      "line": 14.5,
-      "homeOdds": 1.93,
-      "awayOdds": 2.07
-     },
-     {
-      "line": 15.5,
-      "homeOdds": 1.99,
-      "awayOdds": 2.01
-     },
-     {
-      "line": 16.5,
-      "homeOdds": 2.06,
-      "awayOdds": 1.94
-     },
-     {
-      "line": 17.5,
-      "homeOdds": 2.13,
-      "awayOdds": 1.89
-     },
-     {
-      "line": 18.5,
-      "homeOdds": 2.2,
-      "awayOdds": 1.83
-     },
-     {
-      "line": 19.5,
-      "homeOdds": 2.28,
-      "awayOdds": 1.78
-     },
-     {
-      "line": 20.5,
-      "homeOdds": 2.37,
-      "awayOdds": 1.73
-     },
-     {
-      "line": 21.5,
-      "homeOdds": 2.46,
-      "awayOdds": 1.69
-     },
-     {
-      "line": 22.5,
-      "homeOdds": 2.56,
-      "awayOdds": 1.64
-     },
-     {
-      "line": 23.5,
-      "homeOdds": 2.66,
-      "awayOdds": 1.6
-     },
-     {
-      "line": 24.5,
-      "homeOdds": 2.77,
-      "awayOdds": 1.56
-     },
-     {
-      "line": 25.5,
-      "homeOdds": 2.89,
-      "awayOdds": 1.53
-     },
-     {
-      "line": 26.5,
-      "homeOdds": 3.02,
-      "awayOdds": 1.5
-     },
-     {
-      "line": 27.5,
-      "homeOdds": 3.15,
-      "awayOdds": 1.46
-     },
-     {
-      "line": 28.5,
-      "homeOdds": 3.3,
-      "awayOdds": 1.43
-     },
-     {
-      "line": 29.5,
-      "homeOdds": 3.46,
-      "awayOdds": 1.41
-     },
-     {
-      "line": 30.5,
-      "homeOdds": 3.63,
-      "awayOdds": 1.38
-     },
-     {
-      "line": 31.5,
-      "homeOdds": 3.81,
-      "awayOdds": 1.36
-     },
-     {
-      "line": 32.5,
-      "homeOdds": 4.01,
-      "awayOdds": 1.33
-     },
-     {
-      "line": 33.5,
-      "homeOdds": 4.22,
-      "awayOdds": 1.31
-     },
-     {
-      "line": 34.5,
-      "homeOdds": 4.45,
-      "awayOdds": 1.29
-     },
-     {
-      "line": 35.5,
-      "homeOdds": 4.69,
-      "awayOdds": 1.27
-     },
-     {
-      "line": 36.5,
-      "homeOdds": 4.96,
-      "awayOdds": 1.25
-     },
-     {
-      "line": 37.5,
-      "homeOdds": 5.25,
-      "awayOdds": 1.24
-     },
-     {
-      "line": 38.5,
-      "homeOdds": 5.56,
-      "awayOdds": 1.22
-     },
-     {
-      "line": 39.5,
-      "homeOdds": 5.9,
-      "awayOdds": 1.2
-     },
-     {
-      "line": 40.5,
-      "homeOdds": 6.26,
-      "awayOdds": 1.19
-     },
-     {
-      "line": 41.5,
-      "homeOdds": 6.66,
-      "awayOdds": 1.18
-     },
-     {
-      "line": 42.5,
-      "homeOdds": 7.09,
-      "awayOdds": 1.16
-     },
-     {
-      "line": 43.5,
-      "homeOdds": 7.56,
-      "awayOdds": 1.15
-     },
-     {
-      "line": 44.5,
-      "homeOdds": 8.07,
-      "awayOdds": 1.14
-     },
-     {
-      "line": 45.5,
-      "homeOdds": 8.63,
-      "awayOdds": 1.13
-     },
-     {
-      "line": 46.5,
-      "homeOdds": 9.24,
-      "awayOdds": 1.12
-     },
-     {
-      "line": 47.5,
-      "homeOdds": 9.9,
-      "awayOdds": 1.11
-     },
-     {
-      "line": 48.5,
-      "homeOdds": 10.63,
-      "awayOdds": 1.1
-     },
-     {
-      "line": 49.5,
-      "homeOdds": 11.42,
-      "awayOdds": 1.1
-     },
-     {
-      "line": 50.5,
-      "homeOdds": 12.29,
-      "awayOdds": 1.09
-     },
-     {
-      "line": 51.5,
-      "homeOdds": 13.24,
-      "awayOdds": 1.08
-     }
-    ],
-    "altTotals": [
-     {
-      "line": 58.5,
-      "overOdds": 1.08,
-      "underOdds": 13.46
-     },
-     {
-      "line": 59.5,
-      "overOdds": 1.09,
-      "underOdds": 12.26
-     },
-     {
-      "line": 60.5,
-      "overOdds": 1.1,
-      "underOdds": 11.2
-     },
-     {
-      "line": 61.5,
-      "overOdds": 1.11,
-      "underOdds": 10.25
-     },
-     {
-      "line": 62.5,
-      "overOdds": 1.12,
-      "underOdds": 9.4
-     },
-     {
-      "line": 63.5,
-      "overOdds": 1.13,
-      "underOdds": 8.64
-     },
-     {
-      "line": 64.5,
-      "overOdds": 1.14,
-      "underOdds": 7.96
-     },
-     {
-      "line": 65.5,
-      "overOdds": 1.16,
-      "underOdds": 7.35
-     },
-     {
-      "line": 66.5,
-      "overOdds": 1.17,
-      "underOdds": 6.8
-     },
-     {
-      "line": 67.5,
-      "overOdds": 1.19,
-      "underOdds": 6.31
-     },
-     {
-      "line": 68.5,
-      "overOdds": 1.21,
-      "underOdds": 5.87
-     },
-     {
-      "line": 69.5,
-      "overOdds": 1.22,
-      "underOdds": 5.46
-     },
-     {
-      "line": 70.5,
-      "overOdds": 1.24,
-      "underOdds": 5.1
-     },
-     {
-      "line": 71.5,
-      "overOdds": 1.27,
-      "underOdds": 4.77
-     },
-     {
-      "line": 72.5,
-      "overOdds": 1.29,
-      "underOdds": 4.47
-     },
-     {
-      "line": 73.5,
-      "overOdds": 1.31,
-      "underOdds": 4.19
-     },
-     {
-      "line": 74.5,
-      "overOdds": 1.34,
-      "underOdds": 3.95
-     },
-     {
-      "line": 75.5,
-      "overOdds": 1.37,
-      "underOdds": 3.72
-     },
-     {
-      "line": 76.5,
-      "overOdds": 1.4,
-      "underOdds": 3.51
-     },
-     {
-      "line": 77.5,
-      "overOdds": 1.43,
-      "underOdds": 3.32
-     },
-     {
-      "line": 78.5,
-      "overOdds": 1.47,
-      "underOdds": 3.15
-     },
-     {
-      "line": 79.5,
-      "overOdds": 1.5,
-      "underOdds": 2.99
-     },
-     {
-      "line": 80.5,
-      "overOdds": 1.54,
-      "underOdds": 2.85
-     },
-     {
-      "line": 81.5,
-      "overOdds": 1.58,
-      "underOdds": 2.71
-     },
-     {
-      "line": 82.5,
-      "overOdds": 1.63,
-      "underOdds": 2.59
-     },
-     {
-      "line": 83.5,
-      "overOdds": 1.68,
-      "underOdds": 2.47
-     },
-     {
-      "line": 84.5,
-      "overOdds": 1.73,
-      "underOdds": 2.37
-     },
-     {
-      "line": 85.5,
-      "overOdds": 1.79,
-      "underOdds": 2.27
-     },
-     {
-      "line": 86.5,
-      "overOdds": 1.85,
-      "underOdds": 2.18
-     },
-     {
-      "line": 87.5,
-      "overOdds": 1.91,
-      "underOdds": 2.1
-     },
-     {
-      "line": 88.5,
-      "overOdds": 1.98,
-      "underOdds": 2.02
-     },
-     {
-      "line": 89.5,
-      "overOdds": 2.05,
-      "underOdds": 1.95
-     },
-     {
-      "line": 90.5,
-      "overOdds": 2.13,
-      "underOdds": 1.89
-     },
-     {
-      "line": 91.5,
-      "overOdds": 2.21,
-      "underOdds": 1.83
-     },
-     {
-      "line": 92.5,
-      "overOdds": 2.3,
-      "underOdds": 1.77
-     },
-     {
-      "line": 93.5,
-      "overOdds": 2.4,
-      "underOdds": 1.72
-     },
-     {
-      "line": 94.5,
-      "overOdds": 2.5,
-      "underOdds": 1.67
-     },
-     {
-      "line": 95.5,
-      "overOdds": 2.61,
-      "underOdds": 1.62
-     },
-     {
-      "line": 96.5,
-      "overOdds": 2.72,
-      "underOdds": 1.58
-     },
-     {
-      "line": 97.5,
-      "overOdds": 2.85,
-      "underOdds": 1.54
-     },
-     {
-      "line": 98.5,
-      "overOdds": 2.99,
-      "underOdds": 1.5
-     },
-     {
-      "line": 99.5,
-      "overOdds": 3.13,
-      "underOdds": 1.47
-     },
-     {
-      "line": 100.5,
-      "overOdds": 3.29,
-      "underOdds": 1.44
-     },
-     {
-      "line": 101.5,
-      "overOdds": 3.46,
-      "underOdds": 1.41
-     },
-     {
-      "line": 102.5,
-      "overOdds": 3.64,
-      "underOdds": 1.38
-     },
-     {
-      "line": 103.5,
-      "overOdds": 3.83,
-      "underOdds": 1.35
-     },
-     {
-      "line": 104.5,
-      "overOdds": 4.04,
-      "underOdds": 1.33
-     },
-     {
-      "line": 105.5,
-      "overOdds": 4.27,
-      "underOdds": 1.31
-     },
-     {
-      "line": 106.5,
-      "overOdds": 4.51,
-      "underOdds": 1.28
-     },
-     {
-      "line": 107.5,
-      "overOdds": 4.77,
-      "underOdds": 1.27
-     },
-     {
-      "line": 108.5,
-      "overOdds": 5.06,
-      "underOdds": 1.25
-     },
-     {
-      "line": 109.5,
-      "overOdds": 5.36,
-      "underOdds": 1.23
-     },
-     {
-      "line": 110.5,
-      "overOdds": 5.69,
-      "underOdds": 1.21
-     },
-     {
-      "line": 111.5,
-      "overOdds": 6.05,
-      "underOdds": 1.2
-     },
-     {
-      "line": 112.5,
-      "overOdds": 6.44,
-      "underOdds": 1.18
-     },
-     {
-      "line": 113.5,
-      "overOdds": 6.86,
-      "underOdds": 1.17
-     },
-     {
-      "line": 114.5,
-      "overOdds": 7.31,
-      "underOdds": 1.16
-     },
-     {
-      "line": 115.5,
-      "overOdds": 7.81,
-      "underOdds": 1.15
-     },
-     {
-      "line": 116.5,
-      "overOdds": 8.34,
-      "underOdds": 1.14
-     },
-     {
-      "line": 117.5,
-      "overOdds": 8.92,
-      "underOdds": 1.13
-     },
-     {
-      "line": 118.5,
-      "overOdds": 9.56,
-      "underOdds": 1.12
-     }
-    ],
-    "_effectiveMargin": 15.6,
-    "_pHome": 0.7337002279646487,
-    "homeTeamTotal": {
-     "predScore": 52.7,
-     "value": 50.5,
-     "overOdds": 1.96,
-     "underOdds": 2.04,
-     "altTotals": [
-      {
-       "line": 20.5,
-       "overOdds": 1.01,
-       "underOdds": 98.16
-      },
-      {
-       "line": 21.5,
-       "overOdds": 1.01,
-       "underOdds": 77.75
-      },
-      {
-       "line": 22.5,
-       "overOdds": 1.02,
-       "underOdds": 62.12
-      },
-      {
-       "line": 23.5,
-       "overOdds": 1.02,
-       "underOdds": 50.06
-      },
-      {
-       "line": 24.5,
-       "overOdds": 1.03,
-       "underOdds": 40.68
-      },
-      {
-       "line": 25.5,
-       "overOdds": 1.03,
-       "underOdds": 33.33
-      },
-      {
-       "line": 26.5,
-       "overOdds": 1.04,
-       "underOdds": 27.54
-      },
-      {
-       "line": 27.5,
-       "overOdds": 1.05,
-       "underOdds": 22.94
-      },
-      {
-       "line": 28.5,
-       "overOdds": 1.05,
-       "underOdds": 19.25
-      },
-      {
-       "line": 29.5,
-       "overOdds": 1.07,
-       "underOdds": 16.28
-      },
-      {
-       "line": 30.5,
-       "overOdds": 1.08,
-       "underOdds": 13.88
-      },
-      {
-       "line": 31.5,
-       "overOdds": 1.09,
-       "underOdds": 11.92
-      },
-      {
-       "line": 32.5,
-       "overOdds": 1.11,
-       "underOdds": 10.3
-      },
-      {
-       "line": 33.5,
-       "overOdds": 1.13,
-       "underOdds": 8.97
-      },
-      {
-       "line": 34.5,
-       "overOdds": 1.15,
-       "underOdds": 7.87
-      },
-      {
-       "line": 35.5,
-       "overOdds": 1.17,
-       "underOdds": 6.94
-      },
-      {
-       "line": 36.5,
-       "overOdds": 1.19,
-       "underOdds": 6.17
-      },
-      {
-       "line": 37.5,
-       "overOdds": 1.22,
-       "underOdds": 5.51
-      },
-      {
-       "line": 38.5,
-       "overOdds": 1.25,
-       "underOdds": 4.96
-      },
-      {
-       "line": 39.5,
-       "overOdds": 1.29,
-       "underOdds": 4.48
-      },
-      {
-       "line": 40.5,
-       "overOdds": 1.32,
-       "underOdds": 4.08
-      },
-      {
-       "line": 41.5,
-       "overOdds": 1.37,
-       "underOdds": 3.73
-      },
-      {
-       "line": 42.5,
-       "overOdds": 1.41,
-       "underOdds": 3.43
-      },
-      {
-       "line": 43.5,
-       "overOdds": 1.46,
-       "underOdds": 3.16
-      },
-      {
-       "line": 44.5,
-       "overOdds": 1.52,
-       "underOdds": 2.94
-      },
-      {
-       "line": 45.5,
-       "overOdds": 1.58,
-       "underOdds": 2.74
-      },
-      {
-       "line": 46.5,
-       "overOdds": 1.64,
-       "underOdds": 2.56
-      },
-      {
-       "line": 47.5,
-       "overOdds": 1.71,
-       "underOdds": 2.41
-      },
-      {
-       "line": 48.5,
-       "overOdds": 1.79,
-       "underOdds": 2.27
-      },
-      {
-       "line": 49.5,
-       "overOdds": 1.87,
-       "underOdds": 2.15
-      },
-      {
-       "line": 50.5,
-       "overOdds": 1.96,
-       "underOdds": 2.04
-      },
-      {
-       "line": 51.5,
-       "overOdds": 2.06,
-       "underOdds": 1.94
-      },
-      {
-       "line": 52.5,
-       "overOdds": 2.17,
-       "underOdds": 1.86
-      },
-      {
-       "line": 53.5,
-       "overOdds": 2.28,
-       "underOdds": 1.78
-      },
-      {
-       "line": 54.5,
-       "overOdds": 2.41,
-       "underOdds": 1.71
-      },
-      {
-       "line": 55.5,
-       "overOdds": 2.54,
-       "underOdds": 1.65
-      },
-      {
-       "line": 56.5,
-       "overOdds": 2.69,
-       "underOdds": 1.59
-      },
-      {
-       "line": 57.5,
-       "overOdds": 2.85,
-       "underOdds": 1.54
-      },
-      {
-       "line": 58.5,
-       "overOdds": 3.02,
-       "underOdds": 1.49
-      },
-      {
-       "line": 59.5,
-       "overOdds": 3.21,
-       "underOdds": 1.45
-      },
-      {
-       "line": 60.5,
-       "overOdds": 3.41,
-       "underOdds": 1.41
-      },
-      {
-       "line": 61.5,
-       "overOdds": 3.64,
-       "underOdds": 1.38
-      },
-      {
-       "line": 62.5,
-       "overOdds": 3.88,
-       "underOdds": 1.35
-      },
-      {
-       "line": 63.5,
-       "overOdds": 4.14,
-       "underOdds": 1.32
-      },
-      {
-       "line": 64.5,
-       "overOdds": 4.43,
-       "underOdds": 1.29
-      },
-      {
-       "line": 65.5,
-       "overOdds": 4.75,
-       "underOdds": 1.27
-      },
-      {
-       "line": 66.5,
-       "overOdds": 5.09,
-       "underOdds": 1.24
-      },
-      {
-       "line": 67.5,
-       "overOdds": 5.47,
-       "underOdds": 1.22
-      },
-      {
-       "line": 68.5,
-       "overOdds": 5.88,
-       "underOdds": 1.2
-      },
-      {
-       "line": 69.5,
-       "overOdds": 6.33,
-       "underOdds": 1.19
-      },
-      {
-       "line": 70.5,
-       "overOdds": 6.83,
-       "underOdds": 1.17
-      },
-      {
-       "line": 71.5,
-       "overOdds": 7.37,
-       "underOdds": 1.16
-      },
-      {
-       "line": 72.5,
-       "overOdds": 7.97,
-       "underOdds": 1.14
-      },
-      {
-       "line": 73.5,
-       "overOdds": 8.63,
-       "underOdds": 1.13
-      },
-      {
-       "line": 74.5,
-       "overOdds": 9.35,
-       "underOdds": 1.12
-      },
-      {
-       "line": 75.5,
-       "overOdds": 10.15,
-       "underOdds": 1.11
-      },
-      {
-       "line": 76.5,
-       "overOdds": 11.04,
-       "underOdds": 1.1
-      },
-      {
-       "line": 77.5,
-       "overOdds": 12.02,
-       "underOdds": 1.09
-      },
-      {
-       "line": 78.5,
-       "overOdds": 13.1,
-       "underOdds": 1.08
-      },
-      {
-       "line": 79.5,
-       "overOdds": 14.3,
-       "underOdds": 1.08
-      },
-      {
-       "line": 80.5,
-       "overOdds": 15.64,
-       "underOdds": 1.07
-      }
-     ]
-    },
-    "awayTeamTotal": {
-     "predScore": 37.1,
-     "value": 35.5,
-     "overOdds": 2.02,
-     "underOdds": 1.98,
-     "altTotals": [
-      {
-       "line": 5.5,
-       "overOdds": 1.01,
-       "underOdds": 85.23
-      },
-      {
-       "line": 6.5,
-       "overOdds": 1.01,
-       "underOdds": 67.86
-      },
-      {
-       "line": 7.5,
-       "overOdds": 1.02,
-       "underOdds": 54.5
-      },
-      {
-       "line": 8.5,
-       "overOdds": 1.02,
-       "underOdds": 44.14
-      },
-      {
-       "line": 9.5,
-       "overOdds": 1.03,
-       "underOdds": 36.05
-      },
-      {
-       "line": 10.5,
-       "overOdds": 1.03,
-       "underOdds": 29.69
-      },
-      {
-       "line": 11.5,
-       "overOdds": 1.04,
-       "underOdds": 24.65
-      },
-      {
-       "line": 12.5,
-       "overOdds": 1.05,
-       "underOdds": 20.63
-      },
-      {
-       "line": 13.5,
-       "overOdds": 1.06,
-       "underOdds": 17.39
-      },
-      {
-       "line": 14.5,
-       "overOdds": 1.07,
-       "underOdds": 14.78
-      },
-      {
-       "line": 15.5,
-       "overOdds": 1.09,
-       "underOdds": 12.65
-      },
-      {
-       "line": 16.5,
-       "overOdds": 1.1,
-       "underOdds": 10.91
-      },
-      {
-       "line": 17.5,
-       "overOdds": 1.12,
-       "underOdds": 9.47
-      },
-      {
-       "line": 18.5,
-       "overOdds": 1.14,
-       "underOdds": 8.29
-      },
-      {
-       "line": 19.5,
-       "overOdds": 1.16,
-       "underOdds": 7.29
-      },
-      {
-       "line": 20.5,
-       "overOdds": 1.18,
-       "underOdds": 6.46
-      },
-      {
-       "line": 21.5,
-       "overOdds": 1.21,
-       "underOdds": 5.76
-      },
-      {
-       "line": 22.5,
-       "overOdds": 1.24,
-       "underOdds": 5.17
-      },
-      {
-       "line": 23.5,
-       "overOdds": 1.27,
-       "underOdds": 4.66
-      },
-      {
-       "line": 24.5,
-       "overOdds": 1.31,
-       "underOdds": 4.23
-      },
-      {
-       "line": 25.5,
-       "overOdds": 1.35,
-       "underOdds": 3.86
-      },
-      {
-       "line": 26.5,
-       "overOdds": 1.39,
-       "underOdds": 3.54
-      },
-      {
-       "line": 27.5,
-       "overOdds": 1.44,
-       "underOdds": 3.26
-      },
-      {
-       "line": 28.5,
-       "overOdds": 1.49,
-       "underOdds": 3.02
-      },
-      {
-       "line": 29.5,
-       "overOdds": 1.55,
-       "underOdds": 2.81
-      },
-      {
-       "line": 30.5,
-       "overOdds": 1.61,
-       "underOdds": 2.63
-      },
-      {
-       "line": 31.5,
-       "overOdds": 1.68,
-       "underOdds": 2.46
-      },
-      {
-       "line": 32.5,
-       "overOdds": 1.76,
-       "underOdds": 2.32
-      },
-      {
-       "line": 33.5,
-       "overOdds": 1.84,
-       "underOdds": 2.19
-      },
-      {
-       "line": 34.5,
-       "overOdds": 1.92,
-       "underOdds": 2.08
-      },
-      {
-       "line": 35.5,
-       "overOdds": 2.02,
-       "underOdds": 1.98
-      },
-      {
-       "line": 36.5,
-       "overOdds": 2.12,
-       "underOdds": 1.89
-      },
-      {
-       "line": 37.5,
-       "overOdds": 2.23,
-       "underOdds": 1.81
-      },
-      {
-       "line": 38.5,
-       "overOdds": 2.36,
-       "underOdds": 1.74
-      },
-      {
-       "line": 39.5,
-       "overOdds": 2.49,
-       "underOdds": 1.67
-      },
-      {
-       "line": 40.5,
-       "overOdds": 2.63,
-       "underOdds": 1.61
-      },
-      {
-       "line": 41.5,
-       "overOdds": 2.78,
-       "underOdds": 1.56
-      },
-      {
-       "line": 42.5,
-       "overOdds": 2.95,
-       "underOdds": 1.51
-      },
-      {
-       "line": 43.5,
-       "overOdds": 3.13,
-       "underOdds": 1.47
-      },
-      {
-       "line": 44.5,
-       "overOdds": 3.33,
-       "underOdds": 1.43
-      },
-      {
-       "line": 45.5,
-       "overOdds": 3.55,
-       "underOdds": 1.39
-      },
-      {
-       "line": 46.5,
-       "overOdds": 3.78,
-       "underOdds": 1.36
-      },
-      {
-       "line": 47.5,
-       "overOdds": 4.04,
-       "underOdds": 1.33
-      },
-      {
-       "line": 48.5,
-       "overOdds": 4.31,
-       "underOdds": 1.3
-      },
-      {
-       "line": 49.5,
-       "overOdds": 4.62,
-       "underOdds": 1.28
-      },
-      {
-       "line": 50.5,
-       "overOdds": 4.95,
-       "underOdds": 1.25
-      },
-      {
-       "line": 51.5,
-       "overOdds": 5.31,
-       "underOdds": 1.23
-      },
-      {
-       "line": 52.5,
-       "overOdds": 5.71,
-       "underOdds": 1.21
-      },
-      {
-       "line": 53.5,
-       "overOdds": 6.14,
-       "underOdds": 1.19
-      },
-      {
-       "line": 54.5,
-       "overOdds": 6.62,
-       "underOdds": 1.18
-      },
-      {
-       "line": 55.5,
-       "overOdds": 7.15,
-       "underOdds": 1.16
-      },
-      {
-       "line": 56.5,
-       "overOdds": 7.72,
-       "underOdds": 1.15
-      },
-      {
-       "line": 57.5,
-       "overOdds": 8.36,
-       "underOdds": 1.14
-      },
-      {
-       "line": 58.5,
-       "overOdds": 9.05,
-       "underOdds": 1.12
-      },
-      {
-       "line": 59.5,
-       "overOdds": 9.82,
-       "underOdds": 1.11
-      },
-      {
-       "line": 60.5,
-       "overOdds": 10.67,
-       "underOdds": 1.1
-      },
-      {
-       "line": 61.5,
-       "overOdds": 11.62,
-       "underOdds": 1.09
-      },
-      {
-       "line": 62.5,
-       "overOdds": 12.66,
-       "underOdds": 1.09
-      },
-      {
-       "line": 63.5,
-       "overOdds": 13.81,
-       "underOdds": 1.08
-      },
-      {
-       "line": 64.5,
-       "overOdds": 15.09,
-       "underOdds": 1.07
-      },
-      {
-       "line": 65.5,
-       "overOdds": 16.51,
-       "underOdds": 1.06
-      }
-     ]
-    },
-    "firstScore": {
-     "homeOdds": 1.84,
-     "awayOdds": 2.19
-    },
-    "firstGoal": {
-     "homeOdds": 1.64,
-     "awayOdds": 2.56
-    },
-    "firstScoringPlay": {
-     "homeGoal": 3.68,
-     "homeBehind": 3.68,
-     "awayGoal": 4.39,
-     "awayBehind": 4.39
-    }
-   },
-   "h1": {
-    "label": "1st Half",
-    "predHome": 26.8,
-    "predAway": 18.8,
-    "predMargin": 8,
-    "predTotal": 45.6,
-    "h2hIsCalibrated": true,
-    "h2h": {
-     "homeOdds": 1.49,
-     "awayOdds": 3.25,
-     "drawOdds": 47.36
-    },
-    "result3": {
-     "homeOdds": 1.49,
-     "drawOdds": 47.36,
-     "awayOdds": 3.25,
-     "pDraw": 0.0211
-    },
-    "line": {
-     "value": 7.5,
-     "homeOdds": 1.95,
-     "awayOdds": 2.05
-    },
-    "total": {
-     "value": 45.5,
-     "overOdds": 1.99,
-     "underOdds": 2.01
-    },
-    "marginBands24": [
-     {
-      "range": "1-24",
-      "homeOdds": 1.97,
-      "awayOdds": 3.57
-     },
-     {
-      "range": "25+",
-      "homeOdds": 6.09,
-      "awayOdds": 36.8
-     }
-    ],
-    "marginBands39": [
-     {
-      "range": "1-39",
-      "homeOdds": 1.56,
-      "awayOdds": 3.28
-     },
-     {
-      "range": "40+",
-      "homeOdds": 32.18,
-      "awayOdds": 406.33
-     }
-    ],
-    "altLines": [
-     {
-      "line": -16.5,
-      "homeOdds": 1.08,
-      "awayOdds": 13.61
-     },
-     {
-      "line": -15.5,
-      "homeOdds": 1.09,
-      "awayOdds": 12.18
-     },
-     {
-      "line": -14.5,
-      "homeOdds": 1.1,
-      "awayOdds": 10.94
-     },
-     {
-      "line": -13.5,
-      "homeOdds": 1.11,
-      "awayOdds": 9.85
-     },
-     {
-      "line": -12.5,
-      "homeOdds": 1.13,
-      "awayOdds": 8.89
-     },
-     {
-      "line": -11.5,
-      "homeOdds": 1.14,
-      "awayOdds": 8.05
-     },
-     {
-      "line": -10.5,
-      "homeOdds": 1.16,
-      "awayOdds": 7.31
-     },
-     {
-      "line": -9.5,
-      "homeOdds": 1.18,
-      "awayOdds": 6.66
-     },
-     {
-      "line": -8.5,
-      "homeOdds": 1.2,
-      "awayOdds": 6.08
-     },
-     {
-      "line": -7.5,
-      "homeOdds": 1.22,
-      "awayOdds": 5.57
-     },
-     {
-      "line": -6.5,
-      "homeOdds": 1.24,
-      "awayOdds": 5.12
-     },
-     {
-      "line": -5.5,
-      "homeOdds": 1.27,
-      "awayOdds": 4.71
-     },
-     {
-      "line": -4.5,
-      "homeOdds": 1.3,
-      "awayOdds": 4.35
-     },
-     {
-      "line": -3.5,
-      "homeOdds": 1.33,
-      "awayOdds": 4.03
-     },
-     {
-      "line": -2.5,
-      "homeOdds": 1.36,
-      "awayOdds": 3.74
-     },
-     {
-      "line": -1.5,
-      "homeOdds": 1.4,
-      "awayOdds": 3.48
-     },
-     {
-      "line": -0.5,
-      "homeOdds": 1.44,
-      "awayOdds": 3.25
-     },
-     {
-      "line": 0.5,
-      "homeOdds": 1.49,
-      "awayOdds": 3.04
-     },
-     {
-      "line": 1.5,
-      "homeOdds": 1.54,
-      "awayOdds": 2.86
-     },
-     {
-      "line": 2.5,
-      "homeOdds": 1.59,
-      "awayOdds": 2.69
-     },
-     {
-      "line": 3.5,
-      "homeOdds": 1.65,
-      "awayOdds": 2.53
-     },
-     {
-      "line": 4.5,
-      "homeOdds": 1.72,
-      "awayOdds": 2.39
-     },
-     {
-      "line": 5.5,
-      "homeOdds": 1.79,
-      "awayOdds": 2.27
-     },
-     {
-      "line": 6.5,
-      "homeOdds": 1.87,
-      "awayOdds": 2.15
-     },
-     {
-      "line": 7.5,
-      "homeOdds": 1.95,
-      "awayOdds": 2.05
-     },
-     {
-      "line": 8.5,
-      "homeOdds": 2.05,
-      "awayOdds": 1.95
-     },
-     {
-      "line": 9.5,
-      "homeOdds": 2.15,
-      "awayOdds": 1.87
-     },
-     {
-      "line": 10.5,
-      "homeOdds": 2.27,
-      "awayOdds": 1.79
-     },
-     {
-      "line": 11.5,
-      "homeOdds": 2.39,
-      "awayOdds": 1.72
-     },
-     {
-      "line": 12.5,
-      "homeOdds": 2.53,
-      "awayOdds": 1.65
-     },
-     {
-      "line": 13.5,
-      "homeOdds": 2.69,
-      "awayOdds": 1.59
-     },
-     {
-      "line": 14.5,
-      "homeOdds": 2.86,
-      "awayOdds": 1.54
-     },
-     {
-      "line": 15.5,
-      "homeOdds": 3.04,
-      "awayOdds": 1.49
-     },
-     {
-      "line": 16.5,
-      "homeOdds": 3.25,
-      "awayOdds": 1.44
-     },
-     {
-      "line": 17.5,
-      "homeOdds": 3.49,
-      "awayOdds": 1.4
-     },
-     {
-      "line": 18.5,
-      "homeOdds": 3.75,
-      "awayOdds": 1.36
-     },
-     {
-      "line": 19.5,
-      "homeOdds": 4.03,
-      "awayOdds": 1.33
-     },
-     {
-      "line": 20.5,
-      "homeOdds": 4.36,
-      "awayOdds": 1.3
-     },
-     {
-      "line": 21.5,
-      "homeOdds": 4.72,
-      "awayOdds": 1.27
-     },
-     {
-      "line": 22.5,
-      "homeOdds": 5.12,
-      "awayOdds": 1.24
-     },
-     {
-      "line": 23.5,
-      "homeOdds": 5.58,
-      "awayOdds": 1.22
-     },
-     {
-      "line": 24.5,
-      "homeOdds": 6.09,
-      "awayOdds": 1.2
-     },
-     {
-      "line": 25.5,
-      "homeOdds": 6.67,
-      "awayOdds": 1.18
-     },
-     {
-      "line": 26.5,
-      "homeOdds": 7.32,
-      "awayOdds": 1.16
-     },
-     {
-      "line": 27.5,
-      "homeOdds": 8.06,
-      "awayOdds": 1.14
-     },
-     {
-      "line": 28.5,
-      "homeOdds": 8.9,
-      "awayOdds": 1.13
-     },
-     {
-      "line": 29.5,
-      "homeOdds": 9.85,
-      "awayOdds": 1.11
-     },
-     {
-      "line": 30.5,
-      "homeOdds": 10.94,
-      "awayOdds": 1.1
-     },
-     {
-      "line": 31.5,
-      "homeOdds": 12.19,
-      "awayOdds": 1.09
-     }
-    ],
-    "altTotals": [
-     {
-      "line": 25.5,
-      "overOdds": 1.07,
-      "underOdds": 15.01
-     },
-     {
-      "line": 26.5,
-      "overOdds": 1.08,
-      "underOdds": 13.02
-     },
-     {
-      "line": 27.5,
-      "overOdds": 1.1,
-      "underOdds": 11.34
-     },
-     {
-      "line": 28.5,
-      "overOdds": 1.11,
-      "underOdds": 9.93
-     },
-     {
-      "line": 29.5,
-      "overOdds": 1.13,
-      "underOdds": 8.73
-     },
-     {
-      "line": 30.5,
-      "overOdds": 1.15,
-      "underOdds": 7.72
-     },
-     {
-      "line": 31.5,
-      "overOdds": 1.17,
-      "underOdds": 6.85
-     },
-     {
-      "line": 32.5,
-      "overOdds": 1.2,
-      "underOdds": 6.11
-     },
-     {
-      "line": 33.5,
-      "overOdds": 1.22,
-      "underOdds": 5.47
-     },
-     {
-      "line": 34.5,
-      "overOdds": 1.26,
-      "underOdds": 4.92
-     },
-     {
-      "line": 35.5,
-      "overOdds": 1.29,
-      "underOdds": 4.44
-     },
-     {
-      "line": 36.5,
-      "overOdds": 1.33,
-      "underOdds": 4.03
-     },
-     {
-      "line": 37.5,
-      "overOdds": 1.37,
-      "underOdds": 3.67
-     },
-     {
-      "line": 38.5,
-      "overOdds": 1.42,
-      "underOdds": 3.36
-     },
-     {
-      "line": 39.5,
-      "overOdds": 1.48,
-      "underOdds": 3.09
-     },
-     {
-      "line": 40.5,
-      "overOdds": 1.54,
-      "underOdds": 2.85
-     },
-     {
-      "line": 41.5,
-      "overOdds": 1.61,
-      "underOdds": 2.64
-     },
-     {
-      "line": 42.5,
-      "overOdds": 1.69,
-      "underOdds": 2.45
-     },
-     {
-      "line": 43.5,
-      "overOdds": 1.78,
-      "underOdds": 2.29
-     },
-     {
-      "line": 44.5,
-      "overOdds": 1.88,
-      "underOdds": 2.14
-     },
-     {
-      "line": 45.5,
-      "overOdds": 1.99,
-      "underOdds": 2.01
-     },
-     {
-      "line": 46.5,
-      "overOdds": 2.11,
-      "underOdds": 1.9
-     },
-     {
-      "line": 47.5,
-      "overOdds": 2.25,
-      "underOdds": 1.8
-     },
-     {
-      "line": 48.5,
-      "overOdds": 2.41,
-      "underOdds": 1.71
-     },
-     {
-      "line": 49.5,
-      "overOdds": 2.59,
-      "underOdds": 1.63
-     },
-     {
-      "line": 50.5,
-      "overOdds": 2.79,
-      "underOdds": 1.56
-     },
-     {
-      "line": 51.5,
-      "overOdds": 3.03,
-      "underOdds": 1.49
-     },
-     {
-      "line": 52.5,
-      "overOdds": 3.29,
-      "underOdds": 1.44
-     },
-     {
-      "line": 53.5,
-      "overOdds": 3.59,
-      "underOdds": 1.39
-     },
-     {
-      "line": 54.5,
-      "overOdds": 3.94,
-      "underOdds": 1.34
-     },
-     {
-      "line": 55.5,
-      "overOdds": 4.34,
-      "underOdds": 1.3
-     },
-     {
-      "line": 56.5,
-      "overOdds": 4.8,
-      "underOdds": 1.26
-     },
-     {
-      "line": 57.5,
-      "overOdds": 5.33,
-      "underOdds": 1.23
-     },
-     {
-      "line": 58.5,
-      "overOdds": 5.94,
-      "underOdds": 1.2
-     },
-     {
-      "line": 59.5,
-      "overOdds": 6.66,
-      "underOdds": 1.18
-     },
-     {
-      "line": 60.5,
-      "overOdds": 7.5,
-      "underOdds": 1.15
-     },
-     {
-      "line": 61.5,
-      "overOdds": 8.48,
-      "underOdds": 1.13
-     },
-     {
-      "line": 62.5,
-      "overOdds": 9.63,
-      "underOdds": 1.12
-     },
-     {
-      "line": 63.5,
-      "overOdds": 10.98,
-      "underOdds": 1.1
-     },
-     {
-      "line": 64.5,
-      "overOdds": 12.59,
-      "underOdds": 1.09
-     },
-     {
-      "line": 65.5,
-      "overOdds": 14.5,
-      "underOdds": 1.07
-     }
-    ],
-    "_effectiveMargin": 8,
-    "_pHome": 0.6820490965075501
-   },
-   "q1": {
-    "label": "1st Quarter",
-    "predHome": 13.4,
-    "predAway": 9.7,
-    "predMargin": 3.7,
-    "predTotal": 23.1,
-    "h2hIsCalibrated": true,
-    "h2h": {
-     "homeOdds": 1.64,
-     "awayOdds": 2.92,
-     "drawOdds": 21.1
-    },
-    "line": {
-     "value": 3.5,
-     "homeOdds": 2.01,
-     "awayOdds": 1.99
-    },
-    "total": {
-     "value": 23.5,
-     "overOdds": 1.94,
-     "underOdds": 2.06
-    },
-    "marginBands6": [
-     {
-      "range": "1-6",
-      "homeOdds": 4.52,
-      "awayOdds": 5.67
-     },
-     {
-      "range": "7+",
-      "homeOdds": 2.57,
-      "awayOdds": 6.04
-     }
-    ],
-    "marginBands11": [
-     {
-      "range": "1-11",
-      "homeOdds": 2.68,
-      "awayOdds": 3.83
-     },
-     {
-      "range": "12+",
-      "homeOdds": 4.22,
-      "awayOdds": 12.33
-     }
-    ],
-    "altLines": [
-     {
-      "line": -11.5,
-      "homeOdds": 1.09,
-      "awayOdds": 12.33
-     },
-     {
-      "line": -10.5,
-      "homeOdds": 1.11,
-      "awayOdds": 10.21
-     },
-     {
-      "line": -9.5,
-      "homeOdds": 1.13,
-      "awayOdds": 8.93
-     },
-     {
-      "line": -8.5,
-      "homeOdds": 1.14,
-      "awayOdds": 8.03
-     },
-     {
-      "line": -7.5,
-      "homeOdds": 1.16,
-      "awayOdds": 7.11
-     },
-     {
-      "line": -6.5,
-      "homeOdds": 1.2,
-      "awayOdds": 6.04
-     },
-     {
-      "line": -5.5,
-      "homeOdds": 1.25,
-      "awayOdds": 5.03
-     },
-     {
-      "line": -4.5,
-      "homeOdds": 1.3,
-      "awayOdds": 4.31
-     },
-     {
-      "line": -3.5,
-      "homeOdds": 1.35,
-      "awayOdds": 3.86
-     },
-     {
-      "line": -2.5,
-      "homeOdds": 1.39,
-      "awayOdds": 3.56
-     },
-     {
-      "line": -1.5,
-      "homeOdds": 1.44,
-      "awayOdds": 3.27
-     },
-     {
-      "line": -0.5,
-      "homeOdds": 1.52,
-      "awayOdds": 2.92
-     },
-     {
-      "line": 0.5,
-      "homeOdds": 1.64,
-      "awayOdds": 2.57
-     },
-     {
-      "line": 1.5,
-      "homeOdds": 1.78,
-      "awayOdds": 2.29
-     },
-     {
-      "line": 2.5,
-      "homeOdds": 1.9,
-      "awayOdds": 2.11
-     },
-     {
-      "line": 3.5,
-      "homeOdds": 2.01,
-      "awayOdds": 1.99
-     },
-     {
-      "line": 4.5,
-      "homeOdds": 2.12,
-      "awayOdds": 1.89
-     },
-     {
-      "line": 5.5,
-      "homeOdds": 2.3,
-      "awayOdds": 1.77
-     },
-     {
-      "line": 6.5,
-      "homeOdds": 2.57,
-      "awayOdds": 1.64
-     },
-     {
-      "line": 7.5,
-      "homeOdds": 2.91,
-      "awayOdds": 1.52
-     },
-     {
-      "line": 8.5,
-      "homeOdds": 3.24,
-      "awayOdds": 1.45
-     },
-     {
-      "line": 9.5,
-      "homeOdds": 3.52,
-      "awayOdds": 1.4
-     },
-     {
-      "line": 10.5,
-      "homeOdds": 3.81,
-      "awayOdds": 1.36
-     },
-     {
-      "line": 11.5,
-      "homeOdds": 4.22,
-      "awayOdds": 1.31
-     },
-     {
-      "line": 12.5,
-      "homeOdds": 4.89,
-      "awayOdds": 1.26
-     },
-     {
-      "line": 13.5,
-      "homeOdds": 5.77,
-      "awayOdds": 1.21
-     },
-     {
-      "line": 14.5,
-      "homeOdds": 6.7,
-      "awayOdds": 1.18
-     },
-     {
-      "line": 15.5,
-      "homeOdds": 7.51,
-      "awayOdds": 1.15
-     },
-     {
-      "line": 16.5,
-      "homeOdds": 8.29,
-      "awayOdds": 1.14
-     },
-     {
-      "line": 17.5,
-      "homeOdds": 9.4,
-      "awayOdds": 1.12
-     },
-     {
-      "line": 18.5,
-      "homeOdds": 11.19,
-      "awayOdds": 1.1
-     }
-    ],
-    "altTotals": [
-     {
-      "line": 9.5,
-      "overOdds": 1.09,
-      "underOdds": 11.63
-     },
-     {
-      "line": 10.5,
-      "overOdds": 1.1,
-      "underOdds": 10.61
-     },
-     {
-      "line": 11.5,
-      "overOdds": 1.11,
-      "underOdds": 10.17
-     },
-     {
-      "line": 12.5,
-      "overOdds": 1.14,
-      "underOdds": 8.04
-     },
-     {
-      "line": 13.5,
-      "overOdds": 1.2,
-      "underOdds": 6.12
-     },
-     {
-      "line": 14.5,
-      "overOdds": 1.25,
-      "underOdds": 4.96
-     },
-     {
-      "line": 15.5,
-      "overOdds": 1.3,
-      "underOdds": 4.38
-     },
-     {
-      "line": 16.5,
-      "overOdds": 1.32,
-      "underOdds": 4.09
-     },
-     {
-      "line": 17.5,
-      "overOdds": 1.34,
-      "underOdds": 3.96
-     },
-     {
-      "line": 18.5,
-      "overOdds": 1.42,
-      "underOdds": 3.37
-     },
-     {
-      "line": 19.5,
-      "overOdds": 1.56,
-      "underOdds": 2.78
-     },
-     {
-      "line": 20.5,
-      "overOdds": 1.71,
-      "underOdds": 2.4
-     },
-     {
-      "line": 21.5,
-      "overOdds": 1.83,
-      "underOdds": 2.2
-     },
-     {
-      "line": 22.5,
-      "overOdds": 1.91,
-      "underOdds": 2.1
-     },
-     {
-      "line": 23.5,
-      "overOdds": 1.94,
-      "underOdds": 2.06
-     },
-     {
-      "line": 24.5,
-      "overOdds": 2.16,
-      "underOdds": 1.87
-     },
-     {
-      "line": 25.5,
-      "overOdds": 2.52,
-      "underOdds": 1.66
-     },
-     {
-      "line": 26.5,
-      "overOdds": 2.95,
-      "underOdds": 1.51
-     },
-     {
-      "line": 27.5,
-      "overOdds": 3.3,
-      "underOdds": 1.43
-     },
-     {
-      "line": 28.5,
-      "overOdds": 3.52,
-      "underOdds": 1.4
-     },
-     {
-      "line": 29.5,
-      "overOdds": 3.62,
-      "underOdds": 1.38
-     },
-     {
-      "line": 30.5,
-      "overOdds": 4.22,
-      "underOdds": 1.31
-     },
-     {
-      "line": 31.5,
-      "overOdds": 5.32,
-      "underOdds": 1.23
-     },
-     {
-      "line": 32.5,
-      "overOdds": 6.74,
-      "underOdds": 1.17
-     },
-     {
-      "line": 33.5,
-      "overOdds": 7.95,
-      "underOdds": 1.14
-     },
-     {
-      "line": 34.5,
-      "overOdds": 8.73,
-      "underOdds": 1.13
-     },
-     {
-      "line": 35.5,
-      "overOdds": 9.07,
-      "underOdds": 1.12
-     },
-     {
-      "line": 36.5,
-      "overOdds": 11.18,
-      "underOdds": 1.1
-     },
-     {
-      "line": 37.5,
-      "overOdds": 15.26,
-      "underOdds": 1.07
-     }
-    ],
-    "marginPmf": [
-     [
-      -31,
-      0.0004
-     ],
-     [
-      -30,
-      0.0005
-     ],
-     [
-      -29,
-      0.0005
-     ],
-     [
-      -28,
-      0.0005
-     ],
-     [
-      -27,
-      0.0005
-     ],
-     [
-      -26,
-      0.0008
-     ],
-     [
-      -25,
-      0.0014
-     ],
-     [
-      -24,
-      0.0019
-     ],
-     [
-      -23,
-      0.002
-     ],
-     [
-      -22,
-      0.0018
-     ],
-     [
-      -21,
-      0.0019
-     ],
-     [
-      -20,
-      0.0028
-     ],
-     [
-      -19,
-      0.0047
-     ],
-     [
-      -18,
-      0.0063
-     ],
-     [
-      -17,
-      0.0065
-     ],
-     [
-      -16,
-      0.0056
-     ],
-     [
-      -15,
-      0.0054
-     ],
-     [
-      -14,
-      0.0077
-     ],
-     [
-      -13,
-      0.0124
-     ],
-     [
-      -12,
-      0.0166
-     ],
-     [
-      -11,
-      0.0169
-     ],
-     [
-      -10,
-      0.014
-     ],
-     [
-      -9,
-      0.0125
-     ],
-     [
-      -8,
-      0.0162
-     ],
-     [
-      -7,
-      0.025
-     ],
-     [
-      -6,
-      0.0332
-     ],
-     [
-      -5,
-      0.0334
-     ],
-     [
-      -4,
-      0.0269
-     ],
-     [
-      -3,
-      0.0218
-     ],
-     [
-      -2,
-      0.0249
-     ],
-     [
-      -1,
-      0.0363
-     ],
-     [
-      0,
-      0.0474
-     ],
-     [
-      1,
-      0.0473
-     ],
-     [
-      2,
-      0.0371
-     ],
-     [
-      3,
-      0.0275
-     ],
-     [
-      4,
-      0.0271
-     ],
-     [
-      5,
-      0.0362
-     ],
-     [
-      6,
-      0.0461
-     ],
-     [
-      7,
-      0.0455
-     ],
-     [
-      8,
-      0.0351
-     ],
-     [
-      9,
-      0.0245
-     ],
-     [
-      10,
-      0.0213
-     ],
-     [
-      11,
-      0.026
-     ],
-     [
-      12,
-      0.0321
-     ],
-     [
-      13,
-      0.0314
-     ],
-     [
-      14,
-      0.024
-     ],
-     [
-      15,
-      0.0161
-     ],
-     [
-      16,
-      0.0127
-     ],
-     [
-      17,
-      0.0142
-     ],
-     [
-      18,
-      0.017
-     ],
-     [
-      19,
-      0.0165
-     ],
-     [
-      20,
-      0.0125
-     ],
-     [
-      21,
-      0.0081
-     ],
-     [
-      22,
-      0.006
-     ],
-     [
-      23,
-      0.0062
-     ],
-     [
-      24,
-      0.0072
-     ],
-     [
-      25,
-      0.0069
-     ],
-     [
-      26,
-      0.0052
-     ],
-     [
-      27,
-      0.0033
-     ],
-     [
-      28,
-      0.0023
-     ],
-     [
-      29,
-      0.0022
-     ],
-     [
-      30,
-      0.0025
-     ],
-     [
-      31,
-      0.0024
-     ],
-     [
-      32,
-      0.0018
-     ],
-     [
-      33,
-      0.0011
-     ],
-     [
-      34,
-      0.0007
-     ],
-     [
-      35,
-      0.0007
-     ],
-     [
-      36,
-      0.0008
-     ],
-     [
-      37,
-      0.0007
-     ],
-     [
-      38,
-      0.0005
-     ],
-     [
-      39,
-      0.0003
-     ]
-    ],
-    "_effectiveMargin": 3.7
-   }
-  },
-  "htft": [
-   {
-    "key": "Away/Away",
-    "prob": 0.2081256366509809,
-    "odds": 4.8
-   },
-   {
-    "key": "Away/Draw",
-    "prob": 0.006879145177256907,
-    "odds": 145.37
-   },
-   {
-    "key": "Away/Home",
-    "prob": 0.09238729040399682,
-    "odds": 10.82
-   },
-   {
-    "key": "Draw/Away",
-    "prob": 0.006802601067674746,
-    "odds": 147
-   },
-   {
-    "key": "Draw/Draw",
-    "prob": 0.0005955694993572402,
-    "odds": 1000
-   },
-   {
-    "key": "Draw/Home",
-    "prob": 0.013713118639669092,
-    "odds": 72.92
-   },
-   {
-    "key": "Home/Away",
-    "prob": 0.044859483871819594,
-    "odds": 22.29
-   },
-   {
-    "key": "Home/Draw",
-    "prob": 0.0056593890654526025,
-    "odds": 176.7
-   },
-   {
-    "key": "Home/Home",
-    "prob": 0.6209777656237919,
-    "odds": 1.61
-   }
-  ],
-  "notes": {
-   "lineups": "Sydney -20 / West Coast -4 fantasy pts vs their usual lineup → -2.2 pts to Sydney",
-   "teamNews": "+1.7 pts to Sydney | West Coast out: Jessica Rentsch (Injured, 25 gms)",
-   "conditions": "+2.8 pts to the total (wind 19km/h -1.8; 12% chance of rain, 0mm forecast +1.1; 12:35pm local kickoff +3.5)",
-   "travel": null
-  }
- },
- {
-  "homeTeam": "Kangaroos",
-  "awayTeam": "Crows",
-  "venue": "North Hobart Oval",
-  "date": 1792893900,
-  "marketHomeOdds": null,
-  "marketAwayOdds": null,
-  "levels": {
-   "full": {
-    "label": "Full Game",
-    "predHome": 69.8,
-    "predAway": 22.8,
-    "predMargin": 47,
-    "predTotal": 92.5,
-    "h2hIsCalibrated": true,
-    "h2h": {
-     "homeOdds": 1.03,
-     "awayOdds": 33.38,
-     "deadHeat": true
-    },
-    "result3": {
-     "homeOdds": 1.03,
-     "drawOdds": 367.82,
-     "awayOdds": 34.94,
-     "pDraw": 0.0027
-    },
-    "line": {
-     "value": 47.5,
-     "homeOdds": 2.03,
-     "awayOdds": 1.97
-    },
-    "total": {
-     "value": 91.5,
-     "overOdds": 2,
-     "underOdds": 2
-    },
-    "marginBands24": [
-     {
-      "range": "1-24",
-      "homeOdds": 6.56,
-      "awayOdds": 37.72
-     },
-     {
-      "range": "25+",
-      "homeOdds": 1.22,
-      "awayOdds": 474.28
-     }
-    ],
-    "marginBands39": [
-     {
-      "range": "1-39",
-      "homeOdds": 2.86,
-      "awayOdds": 35.27
-     },
-     {
-      "range": "40+",
-      "homeOdds": 1.62,
-      "awayOdds": 1000
-     }
-    ],
-    "altLines": [
-     {
-      "line": 11.5,
-      "homeOdds": 1.08,
-      "awayOdds": 12.89
-     },
-     {
-      "line": 12.5,
-      "homeOdds": 1.09,
-      "awayOdds": 11.97
-     },
-     {
-      "line": 13.5,
-      "homeOdds": 1.1,
-      "awayOdds": 11.13
-     },
-     {
-      "line": 14.5,
-      "homeOdds": 1.11,
-      "awayOdds": 10.36
-     },
-     {
-      "line": 15.5,
-      "homeOdds": 1.12,
-      "awayOdds": 9.66
-     },
-     {
-      "line": 16.5,
-      "homeOdds": 1.12,
-      "awayOdds": 9.01
-     },
-     {
-      "line": 17.5,
-      "homeOdds": 1.13,
-      "awayOdds": 8.42
-     },
-     {
-      "line": 18.5,
-      "homeOdds": 1.15,
-      "awayOdds": 7.88
-     },
-     {
-      "line": 19.5,
-      "homeOdds": 1.16,
-      "awayOdds": 7.39
-     },
-     {
-      "line": 20.5,
-      "homeOdds": 1.17,
-      "awayOdds": 6.93
-     },
-     {
-      "line": 21.5,
-      "homeOdds": 1.18,
-      "awayOdds": 6.51
-     },
-     {
-      "line": 22.5,
-      "homeOdds": 1.2,
-      "awayOdds": 6.13
-     },
-     {
-      "line": 23.5,
-      "homeOdds": 1.21,
-      "awayOdds": 5.77
-     },
-     {
-      "line": 24.5,
-      "homeOdds": 1.22,
-      "awayOdds": 5.44
-     },
-     {
-      "line": 25.5,
-      "homeOdds": 1.24,
-      "awayOdds": 5.14
-     },
-     {
-      "line": 26.5,
-      "homeOdds": 1.26,
-      "awayOdds": 4.86
-     },
-     {
-      "line": 27.5,
-      "homeOdds": 1.28,
-      "awayOdds": 4.6
-     },
-     {
-      "line": 28.5,
-      "homeOdds": 1.3,
-      "awayOdds": 4.36
-     },
-     {
-      "line": 29.5,
-      "homeOdds": 1.32,
-      "awayOdds": 4.14
-     },
-     {
-      "line": 30.5,
-      "homeOdds": 1.34,
-      "awayOdds": 3.93
-     },
-     {
-      "line": 31.5,
-      "homeOdds": 1.36,
-      "awayOdds": 3.74
-     },
-     {
-      "line": 32.5,
-      "homeOdds": 1.39,
-      "awayOdds": 3.57
-     },
-     {
-      "line": 33.5,
-      "homeOdds": 1.42,
-      "awayOdds": 3.4
-     },
-     {
-      "line": 34.5,
-      "homeOdds": 1.45,
-      "awayOdds": 3.25
-     },
-     {
-      "line": 35.5,
-      "homeOdds": 1.48,
-      "awayOdds": 3.1
-     },
-     {
-      "line": 36.5,
-      "homeOdds": 1.51,
-      "awayOdds": 2.97
-     },
-     {
-      "line": 37.5,
-      "homeOdds": 1.54,
-      "awayOdds": 2.85
-     },
-     {
-      "line": 38.5,
-      "homeOdds": 1.58,
-      "awayOdds": 2.73
-     },
-     {
-      "line": 39.5,
-      "homeOdds": 1.62,
-      "awayOdds": 2.62
-     },
-     {
-      "line": 40.5,
-      "homeOdds": 1.66,
-      "awayOdds": 2.52
-     },
-     {
-      "line": 41.5,
-      "homeOdds": 1.7,
-      "awayOdds": 2.43
-     },
-     {
-      "line": 42.5,
-      "homeOdds": 1.75,
-      "awayOdds": 2.34
-     },
-     {
-      "line": 43.5,
-      "homeOdds": 1.8,
-      "awayOdds": 2.25
-     },
-     {
-      "line": 44.5,
-      "homeOdds": 1.85,
-      "awayOdds": 2.18
-     },
-     {
-      "line": 45.5,
-      "homeOdds": 1.91,
-      "awayOdds": 2.1
-     },
-     {
-      "line": 46.5,
-      "homeOdds": 1.97,
-      "awayOdds": 2.03
-     },
-     {
-      "line": 47.5,
-      "homeOdds": 2.03,
-      "awayOdds": 1.97
-     },
-     {
-      "line": 48.5,
-      "homeOdds": 2.1,
-      "awayOdds": 1.91
-     },
-     {
-      "line": 49.5,
-      "homeOdds": 2.17,
-      "awayOdds": 1.85
-     },
-     {
-      "line": 50.5,
-      "homeOdds": 2.25,
-      "awayOdds": 1.8
-     },
-     {
-      "line": 51.5,
-      "homeOdds": 2.33,
-      "awayOdds": 1.75
-     },
-     {
-      "line": 52.5,
-      "homeOdds": 2.42,
-      "awayOdds": 1.71
-     },
-     {
-      "line": 53.5,
-      "homeOdds": 2.51,
-      "awayOdds": 1.66
-     },
-     {
-      "line": 54.5,
-      "homeOdds": 2.61,
-      "awayOdds": 1.62
-     },
-     {
-      "line": 55.5,
-      "homeOdds": 2.72,
-      "awayOdds": 1.58
-     },
-     {
-      "line": 56.5,
-      "homeOdds": 2.84,
-      "awayOdds": 1.54
-     },
-     {
-      "line": 57.5,
-      "homeOdds": 2.96,
-      "awayOdds": 1.51
-     },
-     {
-      "line": 58.5,
-      "homeOdds": 3.09,
-      "awayOdds": 1.48
-     },
-     {
-      "line": 59.5,
-      "homeOdds": 3.24,
-      "awayOdds": 1.45
-     },
-     {
-      "line": 60.5,
-      "homeOdds": 3.39,
-      "awayOdds": 1.42
-     },
-     {
-      "line": 61.5,
-      "homeOdds": 3.55,
-      "awayOdds": 1.39
-     },
-     {
-      "line": 62.5,
-      "homeOdds": 3.73,
-      "awayOdds": 1.37
-     },
-     {
-      "line": 63.5,
-      "homeOdds": 3.92,
-      "awayOdds": 1.34
-     },
-     {
-      "line": 64.5,
-      "homeOdds": 4.13,
-      "awayOdds": 1.32
-     },
-     {
-      "line": 65.5,
-      "homeOdds": 4.35,
-      "awayOdds": 1.3
-     },
-     {
-      "line": 66.5,
-      "homeOdds": 4.58,
-      "awayOdds": 1.28
-     },
-     {
-      "line": 67.5,
-      "homeOdds": 4.84,
-      "awayOdds": 1.26
-     },
-     {
-      "line": 68.5,
-      "homeOdds": 5.12,
-      "awayOdds": 1.24
-     },
-     {
-      "line": 69.5,
-      "homeOdds": 5.42,
-      "awayOdds": 1.23
-     },
-     {
-      "line": 70.5,
-      "homeOdds": 5.75,
-      "awayOdds": 1.21
-     },
-     {
-      "line": 71.5,
-      "homeOdds": 6.1,
-      "awayOdds": 1.2
-     },
-     {
-      "line": 72.5,
-      "homeOdds": 6.48,
-      "awayOdds": 1.18
-     },
-     {
-      "line": 73.5,
-      "homeOdds": 6.9,
-      "awayOdds": 1.17
-     },
-     {
-      "line": 74.5,
-      "homeOdds": 7.35,
-      "awayOdds": 1.16
-     },
-     {
-      "line": 75.5,
-      "homeOdds": 7.85,
-      "awayOdds": 1.15
-     },
-     {
-      "line": 76.5,
-      "homeOdds": 8.38,
-      "awayOdds": 1.14
-     },
-     {
-      "line": 77.5,
-      "homeOdds": 8.97,
-      "awayOdds": 1.13
-     },
-     {
-      "line": 78.5,
-      "homeOdds": 9.61,
-      "awayOdds": 1.12
-     },
-     {
-      "line": 79.5,
-      "homeOdds": 10.3,
-      "awayOdds": 1.11
-     },
-     {
-      "line": 80.5,
-      "homeOdds": 11.07,
-      "awayOdds": 1.1
-     },
-     {
-      "line": 81.5,
-      "homeOdds": 11.9,
-      "awayOdds": 1.09
-     },
-     {
-      "line": 82.5,
-      "homeOdds": 12.82,
-      "awayOdds": 1.08
-     },
-     {
-      "line": 83.5,
-      "homeOdds": 13.82,
-      "awayOdds": 1.08
-     }
-    ],
-    "altTotals": [
-     {
-      "line": 61.5,
-      "overOdds": 1.08,
-      "underOdds": 13.06
-     },
-     {
-      "line": 62.5,
-      "overOdds": 1.09,
-      "underOdds": 11.91
-     },
-     {
-      "line": 63.5,
-      "overOdds": 1.1,
-      "underOdds": 10.88
-     },
-     {
-      "line": 64.5,
-      "overOdds": 1.11,
-      "underOdds": 9.96
-     },
-     {
-      "line": 65.5,
-      "overOdds": 1.12,
-      "underOdds": 9.15
-     },
-     {
-      "line": 66.5,
-      "overOdds": 1.13,
-      "underOdds": 8.41
-     },
-     {
-      "line": 67.5,
-      "overOdds": 1.15,
-      "underOdds": 7.76
-     },
-     {
-      "line": 68.5,
-      "overOdds": 1.16,
-      "underOdds": 7.17
-     },
-     {
-      "line": 69.5,
-      "overOdds": 1.18,
-      "underOdds": 6.64
-     },
-     {
-      "line": 70.5,
-      "overOdds": 1.19,
-      "underOdds": 6.16
-     },
-     {
-      "line": 71.5,
-      "overOdds": 1.21,
-      "underOdds": 5.73
-     },
-     {
-      "line": 72.5,
-      "overOdds": 1.23,
-      "underOdds": 5.34
-     },
-     {
-      "line": 73.5,
-      "overOdds": 1.25,
-      "underOdds": 4.99
-     },
-     {
-      "line": 74.5,
-      "overOdds": 1.27,
-      "underOdds": 4.67
-     },
-     {
-      "line": 75.5,
-      "overOdds": 1.3,
-      "underOdds": 4.38
-     },
-     {
-      "line": 76.5,
-      "overOdds": 1.32,
-      "underOdds": 4.11
-     },
-     {
-      "line": 77.5,
-      "overOdds": 1.35,
-      "underOdds": 3.87
-     },
-     {
-      "line": 78.5,
-      "overOdds": 1.38,
-      "underOdds": 3.65
-     },
-     {
-      "line": 79.5,
-      "overOdds": 1.41,
-      "underOdds": 3.45
-     },
-     {
-      "line": 80.5,
-      "overOdds": 1.44,
-      "underOdds": 3.27
-     },
-     {
-      "line": 81.5,
-      "overOdds": 1.48,
-      "underOdds": 3.1
-     },
-     {
-      "line": 82.5,
-      "overOdds": 1.51,
-      "underOdds": 2.94
-     },
-     {
-      "line": 83.5,
-      "overOdds": 1.56,
-      "underOdds": 2.8
-     },
-     {
-      "line": 84.5,
-      "overOdds": 1.6,
-      "underOdds": 2.67
-     },
-     {
-      "line": 85.5,
-      "overOdds": 1.65,
-      "underOdds": 2.55
-     },
-     {
-      "line": 86.5,
-      "overOdds": 1.69,
-      "underOdds": 2.44
-     },
-     {
-      "line": 87.5,
-      "overOdds": 1.75,
-      "underOdds": 2.34
-     },
-     {
-      "line": 88.5,
-      "overOdds": 1.8,
-      "underOdds": 2.24
-     },
-     {
-      "line": 89.5,
-      "overOdds": 1.87,
-      "underOdds": 2.16
-     },
-     {
-      "line": 90.5,
-      "overOdds": 1.93,
-      "underOdds": 2.08
-     },
-     {
-      "line": 91.5,
-      "overOdds": 2,
-      "underOdds": 2
-     },
-     {
-      "line": 92.5,
-      "overOdds": 2.07,
-      "underOdds": 1.93
-     },
-     {
-      "line": 93.5,
-      "overOdds": 2.15,
-      "underOdds": 1.87
-     },
-     {
-      "line": 94.5,
-      "overOdds": 2.24,
-      "underOdds": 1.81
-     },
-     {
-      "line": 95.5,
-      "overOdds": 2.33,
-      "underOdds": 1.75
-     },
-     {
-      "line": 96.5,
-      "overOdds": 2.43,
-      "underOdds": 1.7
-     },
-     {
-      "line": 97.5,
-      "overOdds": 2.53,
-      "underOdds": 1.65
-     },
-     {
-      "line": 98.5,
-      "overOdds": 2.64,
-      "underOdds": 1.61
-     },
-     {
-      "line": 99.5,
-      "overOdds": 2.76,
-      "underOdds": 1.57
-     },
-     {
-      "line": 100.5,
-      "overOdds": 2.89,
-      "underOdds": 1.53
-     },
-     {
-      "line": 101.5,
-      "overOdds": 3.03,
-      "underOdds": 1.49
-     },
-     {
-      "line": 102.5,
-      "overOdds": 3.18,
-      "underOdds": 1.46
-     },
-     {
-      "line": 103.5,
-      "overOdds": 3.34,
-      "underOdds": 1.43
-     },
-     {
-      "line": 104.5,
-      "overOdds": 3.51,
-      "underOdds": 1.4
-     },
-     {
-      "line": 105.5,
-      "overOdds": 3.7,
-      "underOdds": 1.37
-     },
-     {
-      "line": 106.5,
-      "overOdds": 3.9,
-      "underOdds": 1.35
-     },
-     {
-      "line": 107.5,
-      "overOdds": 4.11,
-      "underOdds": 1.32
-     },
-     {
-      "line": 108.5,
-      "overOdds": 4.34,
-      "underOdds": 1.3
-     },
-     {
-      "line": 109.5,
-      "overOdds": 4.59,
-      "underOdds": 1.28
-     },
-     {
-      "line": 110.5,
-      "overOdds": 4.86,
-      "underOdds": 1.26
-     },
-     {
-      "line": 111.5,
-      "overOdds": 5.15,
-      "underOdds": 1.24
-     },
-     {
-      "line": 112.5,
-      "overOdds": 5.47,
-      "underOdds": 1.22
-     },
-     {
-      "line": 113.5,
-      "overOdds": 5.8,
-      "underOdds": 1.21
-     },
-     {
-      "line": 114.5,
-      "overOdds": 6.17,
-      "underOdds": 1.19
-     },
-     {
-      "line": 115.5,
-      "overOdds": 6.57,
-      "underOdds": 1.18
-     },
-     {
-      "line": 116.5,
-      "overOdds": 7,
-      "underOdds": 1.17
-     },
-     {
-      "line": 117.5,
-      "overOdds": 7.47,
-      "underOdds": 1.15
-     },
-     {
-      "line": 118.5,
-      "overOdds": 7.97,
-      "underOdds": 1.14
-     },
-     {
-      "line": 119.5,
-      "overOdds": 8.52,
-      "underOdds": 1.13
-     },
-     {
-      "line": 120.5,
-      "overOdds": 9.12,
-      "underOdds": 1.12
-     },
-     {
-      "line": 121.5,
-      "overOdds": 9.77,
-      "underOdds": 1.11
-     }
-    ],
-    "_effectiveMargin": 47,
-    "_pHome": 0.9700459920269493,
-    "homeTeamTotal": {
-     "predScore": 69.8,
-     "value": 67.5,
-     "overOdds": 1.96,
-     "underOdds": 2.05,
-     "altTotals": [
-      {
-       "line": 37.5,
-       "overOdds": 1.01,
-       "underOdds": 99.49
-      },
-      {
-       "line": 38.5,
-       "overOdds": 1.01,
-       "underOdds": 78.76
-      },
-      {
-       "line": 39.5,
-       "overOdds": 1.02,
-       "underOdds": 62.9
-      },
-      {
-       "line": 40.5,
-       "overOdds": 1.02,
-       "underOdds": 50.66
-      },
-      {
-       "line": 41.5,
-       "overOdds": 1.02,
-       "underOdds": 41.15
-      },
-      {
-       "line": 42.5,
-       "overOdds": 1.03,
-       "underOdds": 33.71
-      },
-      {
-       "line": 43.5,
-       "overOdds": 1.04,
-       "underOdds": 27.83
-      },
-      {
-       "line": 44.5,
-       "overOdds": 1.05,
-       "underOdds": 23.17
-      },
-      {
-       "line": 45.5,
-       "overOdds": 1.05,
-       "underOdds": 19.44
-      },
-      {
-       "line": 46.5,
-       "overOdds": 1.06,
-       "underOdds": 16.44
-      },
-      {
-       "line": 47.5,
-       "overOdds": 1.08,
-       "underOdds": 14
-      },
-      {
-       "line": 48.5,
-       "overOdds": 1.09,
-       "underOdds": 12.02
-      },
-      {
-       "line": 49.5,
-       "overOdds": 1.11,
-       "underOdds": 10.39
-      },
-      {
-       "line": 50.5,
-       "overOdds": 1.12,
-       "underOdds": 9.04
-      },
-      {
-       "line": 51.5,
-       "overOdds": 1.14,
-       "underOdds": 7.93
-      },
-      {
-       "line": 52.5,
-       "overOdds": 1.17,
-       "underOdds": 6.99
-      },
-      {
-       "line": 53.5,
-       "overOdds": 1.19,
-       "underOdds": 6.21
-      },
-      {
-       "line": 54.5,
-       "overOdds": 1.22,
-       "underOdds": 5.55
-      },
-      {
-       "line": 55.5,
-       "overOdds": 1.25,
-       "underOdds": 4.99
-      },
-      {
-       "line": 56.5,
-       "overOdds": 1.29,
-       "underOdds": 4.51
-      },
-      {
-       "line": 57.5,
-       "overOdds": 1.32,
-       "underOdds": 4.1
-      },
-      {
-       "line": 58.5,
-       "overOdds": 1.36,
-       "underOdds": 3.75
-      },
-      {
-       "line": 59.5,
-       "overOdds": 1.41,
-       "underOdds": 3.44
-      },
-      {
-       "line": 60.5,
-       "overOdds": 1.46,
-       "underOdds": 3.18
-      },
-      {
-       "line": 61.5,
-       "overOdds": 1.51,
-       "underOdds": 2.95
-      },
-      {
-       "line": 62.5,
-       "overOdds": 1.57,
-       "underOdds": 2.75
-      },
-      {
-       "line": 63.5,
-       "overOdds": 1.64,
-       "underOdds": 2.57
-      },
-      {
-       "line": 64.5,
-       "overOdds": 1.71,
-       "underOdds": 2.41
-      },
-      {
-       "line": 65.5,
-       "overOdds": 1.78,
-       "underOdds": 2.28
-      },
-      {
-       "line": 66.5,
-       "overOdds": 1.87,
-       "underOdds": 2.15
-      },
-      {
-       "line": 67.5,
-       "overOdds": 1.96,
-       "underOdds": 2.05
-      },
-      {
-       "line": 68.5,
-       "overOdds": 2.05,
-       "underOdds": 1.95
-      },
-      {
-       "line": 69.5,
-       "overOdds": 2.16,
-       "underOdds": 1.86
-      },
-      {
-       "line": 70.5,
-       "overOdds": 2.27,
-       "underOdds": 1.78
-      },
-      {
-       "line": 71.5,
-       "overOdds": 2.4,
-       "underOdds": 1.71
-      },
-      {
-       "line": 72.5,
-       "overOdds": 2.53,
-       "underOdds": 1.65
-      },
-      {
-       "line": 73.5,
-       "overOdds": 2.68,
-       "underOdds": 1.6
-      },
-      {
-       "line": 74.5,
-       "overOdds": 2.84,
-       "underOdds": 1.54
-      },
-      {
-       "line": 75.5,
-       "overOdds": 3.01,
-       "underOdds": 1.5
-      },
-      {
-       "line": 76.5,
-       "overOdds": 3.2,
-       "underOdds": 1.45
-      },
-      {
-       "line": 77.5,
-       "overOdds": 3.4,
-       "underOdds": 1.42
-      },
-      {
-       "line": 78.5,
-       "overOdds": 3.62,
-       "underOdds": 1.38
-      },
-      {
-       "line": 79.5,
-       "overOdds": 3.87,
-       "underOdds": 1.35
-      },
-      {
-       "line": 80.5,
-       "overOdds": 4.13,
-       "underOdds": 1.32
-      },
-      {
-       "line": 81.5,
-       "overOdds": 4.42,
-       "underOdds": 1.29
-      },
-      {
-       "line": 82.5,
-       "overOdds": 4.73,
-       "underOdds": 1.27
-      },
-      {
-       "line": 83.5,
-       "overOdds": 5.07,
-       "underOdds": 1.25
-      },
-      {
-       "line": 84.5,
-       "overOdds": 5.44,
-       "underOdds": 1.23
-      },
-      {
-       "line": 85.5,
-       "overOdds": 5.85,
-       "underOdds": 1.21
-      },
-      {
-       "line": 86.5,
-       "overOdds": 6.3,
-       "underOdds": 1.19
-      },
-      {
-       "line": 87.5,
-       "overOdds": 6.8,
-       "underOdds": 1.17
-      },
-      {
-       "line": 88.5,
-       "overOdds": 7.34,
-       "underOdds": 1.16
-      },
-      {
-       "line": 89.5,
-       "overOdds": 7.93,
-       "underOdds": 1.14
-      },
-      {
-       "line": 90.5,
-       "overOdds": 8.59,
-       "underOdds": 1.13
-      },
-      {
-       "line": 91.5,
-       "overOdds": 9.31,
-       "underOdds": 1.12
-      },
-      {
-       "line": 92.5,
-       "overOdds": 10.11,
-       "underOdds": 1.11
-      },
-      {
-       "line": 93.5,
-       "overOdds": 10.99,
-       "underOdds": 1.1
-      },
-      {
-       "line": 94.5,
-       "overOdds": 11.96,
-       "underOdds": 1.09
-      },
-      {
-       "line": 95.5,
-       "overOdds": 13.04,
-       "underOdds": 1.08
-      },
-      {
-       "line": 96.5,
-       "overOdds": 14.23,
-       "underOdds": 1.08
-      },
-      {
-       "line": 97.5,
-       "overOdds": 15.56,
-       "underOdds": 1.07
-      }
-     ]
-    },
-    "awayTeamTotal": {
-     "predScore": 22.7,
-     "value": 20.5,
-     "overOdds": 1.96,
-     "underOdds": 2.04,
-     "altTotals": [
-      {
-       "line": 0.5,
-       "overOdds": 1.08,
-       "underOdds": 13.92
-      },
-      {
-       "line": 1.5,
-       "overOdds": 1.09,
-       "underOdds": 11.95
-      },
-      {
-       "line": 2.5,
-       "overOdds": 1.11,
-       "underOdds": 10.33
-      },
-      {
-       "line": 3.5,
-       "overOdds": 1.13,
-       "underOdds": 9
-      },
-      {
-       "line": 4.5,
-       "overOdds": 1.15,
-       "underOdds": 7.89
-      },
-      {
-       "line": 5.5,
-       "overOdds": 1.17,
-       "underOdds": 6.96
-      },
-      {
-       "line": 6.5,
-       "overOdds": 1.19,
-       "underOdds": 6.18
-      },
-      {
-       "line": 7.5,
-       "overOdds": 1.22,
-       "underOdds": 5.53
-      },
-      {
-       "line": 8.5,
-       "overOdds": 1.25,
-       "underOdds": 4.97
-      },
-      {
-       "line": 9.5,
-       "overOdds": 1.29,
-       "underOdds": 4.49
-      },
-      {
-       "line": 10.5,
-       "overOdds": 1.32,
-       "underOdds": 4.09
-      },
-      {
-       "line": 11.5,
-       "overOdds": 1.37,
-       "underOdds": 3.73
-      },
-      {
-       "line": 12.5,
-       "overOdds": 1.41,
-       "underOdds": 3.43
-      },
-      {
-       "line": 13.5,
-       "overOdds": 1.46,
-       "underOdds": 3.17
-      },
-      {
-       "line": 14.5,
-       "overOdds": 1.52,
-       "underOdds": 2.94
-      },
-      {
-       "line": 15.5,
-       "overOdds": 1.58,
-       "underOdds": 2.74
-      },
-      {
-       "line": 16.5,
-       "overOdds": 1.64,
-       "underOdds": 2.56
-      },
-      {
-       "line": 17.5,
-       "overOdds": 1.71,
-       "underOdds": 2.41
-      },
-      {
-       "line": 18.5,
-       "overOdds": 1.79,
-       "underOdds": 2.27
-      },
-      {
-       "line": 19.5,
-       "overOdds": 1.87,
-       "underOdds": 2.15
-      },
-      {
-       "line": 20.5,
-       "overOdds": 1.96,
-       "underOdds": 2.04
-      },
-      {
-       "line": 21.5,
-       "overOdds": 2.06,
-       "underOdds": 1.95
-      },
-      {
-       "line": 22.5,
-       "overOdds": 2.16,
-       "underOdds": 1.86
-      },
-      {
-       "line": 23.5,
-       "overOdds": 2.28,
-       "underOdds": 1.78
-      },
-      {
-       "line": 24.5,
-       "overOdds": 2.4,
-       "underOdds": 1.71
-      },
-      {
-       "line": 25.5,
-       "overOdds": 2.54,
-       "underOdds": 1.65
-      },
-      {
-       "line": 26.5,
-       "overOdds": 2.69,
-       "underOdds": 1.59
-      },
-      {
-       "line": 27.5,
-       "overOdds": 2.85,
-       "underOdds": 1.54
-      },
-      {
-       "line": 28.5,
-       "overOdds": 3.02,
-       "underOdds": 1.5
-      },
-      {
-       "line": 29.5,
-       "overOdds": 3.21,
-       "underOdds": 1.45
-      },
-      {
-       "line": 30.5,
-       "overOdds": 3.41,
-       "underOdds": 1.41
-      },
-      {
-       "line": 31.5,
-       "overOdds": 3.63,
-       "underOdds": 1.38
-      },
-      {
-       "line": 32.5,
-       "overOdds": 3.87,
-       "underOdds": 1.35
-      },
-      {
-       "line": 33.5,
-       "overOdds": 4.14,
-       "underOdds": 1.32
-      },
-      {
-       "line": 34.5,
-       "overOdds": 4.43,
-       "underOdds": 1.29
-      },
-      {
-       "line": 35.5,
-       "overOdds": 4.74,
-       "underOdds": 1.27
-      },
-      {
-       "line": 36.5,
-       "overOdds": 5.08,
-       "underOdds": 1.24
-      },
-      {
-       "line": 37.5,
-       "overOdds": 5.46,
-       "underOdds": 1.22
-      },
-      {
-       "line": 38.5,
-       "overOdds": 5.87,
-       "underOdds": 1.21
-      },
-      {
-       "line": 39.5,
-       "overOdds": 6.32,
-       "underOdds": 1.19
-      },
-      {
-       "line": 40.5,
-       "overOdds": 6.81,
-       "underOdds": 1.17
-      },
-      {
-       "line": 41.5,
-       "overOdds": 7.36,
-       "underOdds": 1.16
-      },
-      {
-       "line": 42.5,
-       "overOdds": 7.95,
-       "underOdds": 1.14
-      },
-      {
-       "line": 43.5,
-       "overOdds": 8.61,
-       "underOdds": 1.13
-      },
-      {
-       "line": 44.5,
-       "overOdds": 9.34,
-       "underOdds": 1.12
-      },
-      {
-       "line": 45.5,
-       "overOdds": 10.14,
-       "underOdds": 1.11
-      },
-      {
-       "line": 46.5,
-       "overOdds": 11.02,
-       "underOdds": 1.1
-      },
-      {
-       "line": 47.5,
-       "overOdds": 12,
-       "underOdds": 1.09
-      },
-      {
-       "line": 48.5,
-       "overOdds": 13.08,
-       "underOdds": 1.08
-      },
-      {
-       "line": 49.5,
-       "overOdds": 14.28,
-       "underOdds": 1.08
-      },
-      {
-       "line": 50.5,
-       "overOdds": 15.61,
-       "underOdds": 1.07
-      }
-     ]
-    },
-    "firstScore": {
-     "homeOdds": 1.47,
-     "awayOdds": 3.12
-    },
-    "firstGoal": {
-     "homeOdds": 1.26,
-     "awayOdds": 4.78
-    },
-    "firstScoringPlay": {
-     "homeGoal": 2.94,
-     "homeBehind": 2.94,
-     "awayGoal": 6.24,
-     "awayBehind": 6.24
-    }
-   },
-   "h1": {
-    "label": "1st Half",
-    "predHome": 34.9,
-    "predAway": 10.5,
-    "predMargin": 24.3,
-    "predTotal": 45.4,
-    "h2hIsCalibrated": true,
-    "h2h": {
-     "homeOdds": 1.09,
-     "awayOdds": 14.06,
-     "drawOdds": 118.99
-    },
-    "result3": {
-     "homeOdds": 1.09,
-     "drawOdds": 118.99,
-     "awayOdds": 14.06,
-     "pDraw": 0.0084
-    },
-    "line": {
-     "value": 24.5,
-     "homeOdds": 2.02,
-     "awayOdds": 1.98
-    },
-    "total": {
-     "value": 45.5,
-     "overOdds": 2.01,
-     "underOdds": 1.99
-    },
-    "marginBands24": [
-     {
-      "range": "1-24",
-      "homeOdds": 2.35,
-      "awayOdds": 14.45
-     },
-     {
-      "range": "25+",
-      "homeOdds": 2.02,
-      "awayOdds": 516.32
-     }
-    ],
-    "marginBands39": [
-     {
-      "range": "1-39",
-      "homeOdds": 1.36,
-      "awayOdds": 14.07
-     },
-     {
-      "range": "40+",
-      "homeOdds": 5.44,
-      "awayOdds": 1000
-     }
-    ],
-    "altLines": [
-     {
-      "line": 0.5,
-      "homeOdds": 1.09,
-      "awayOdds": 12.57
-     },
-     {
-      "line": 1.5,
-      "homeOdds": 1.1,
-      "awayOdds": 11.28
-     },
-     {
-      "line": 2.5,
-      "homeOdds": 1.11,
-      "awayOdds": 10.14
-     },
-     {
-      "line": 3.5,
-      "homeOdds": 1.12,
-      "awayOdds": 9.15
-     },
-     {
-      "line": 4.5,
-      "homeOdds": 1.14,
-      "awayOdds": 8.28
-     },
-     {
-      "line": 5.5,
-      "homeOdds": 1.15,
-      "awayOdds": 7.52
-     },
-     {
-      "line": 6.5,
-      "homeOdds": 1.17,
-      "awayOdds": 6.84
-     },
-     {
-      "line": 7.5,
-      "homeOdds": 1.19,
-      "awayOdds": 6.24
-     },
-     {
-      "line": 8.5,
-      "homeOdds": 1.21,
-      "awayOdds": 5.71
-     },
-     {
-      "line": 9.5,
-      "homeOdds": 1.24,
-      "awayOdds": 5.24
-     },
-     {
-      "line": 10.5,
-      "homeOdds": 1.26,
-      "awayOdds": 4.83
-     },
-     {
-      "line": 11.5,
-      "homeOdds": 1.29,
-      "awayOdds": 4.45
-     },
-     {
-      "line": 12.5,
-      "homeOdds": 1.32,
-      "awayOdds": 4.12
-     },
-     {
-      "line": 13.5,
-      "homeOdds": 1.35,
-      "awayOdds": 3.82
-     },
-     {
-      "line": 14.5,
-      "homeOdds": 1.39,
-      "awayOdds": 3.56
-     },
-     {
-      "line": 15.5,
-      "homeOdds": 1.43,
-      "awayOdds": 3.32
-     },
-     {
-      "line": 16.5,
-      "homeOdds": 1.48,
-      "awayOdds": 3.1
-     },
-     {
-      "line": 17.5,
-      "homeOdds": 1.52,
-      "awayOdds": 2.91
-     },
-     {
-      "line": 18.5,
-      "homeOdds": 1.58,
-      "awayOdds": 2.73
-     },
-     {
-      "line": 19.5,
-      "homeOdds": 1.64,
-      "awayOdds": 2.57
-     },
-     {
-      "line": 20.5,
-      "homeOdds": 1.7,
-      "awayOdds": 2.43
-     },
-     {
-      "line": 21.5,
-      "homeOdds": 1.77,
-      "awayOdds": 2.3
-     },
-     {
-      "line": 22.5,
-      "homeOdds": 1.84,
-      "awayOdds": 2.18
-     },
-     {
-      "line": 23.5,
-      "homeOdds": 1.93,
-      "awayOdds": 2.08
-     },
-     {
-      "line": 24.5,
-      "homeOdds": 2.02,
-      "awayOdds": 1.98
-     },
-     {
-      "line": 25.5,
-      "homeOdds": 2.12,
-      "awayOdds": 1.89
-     },
-     {
-      "line": 26.5,
-      "homeOdds": 2.23,
-      "awayOdds": 1.81
-     },
-     {
-      "line": 27.5,
-      "homeOdds": 2.36,
-      "awayOdds": 1.74
-     },
-     {
-      "line": 28.5,
-      "homeOdds": 2.49,
-      "awayOdds": 1.67
-     },
-     {
-      "line": 29.5,
-      "homeOdds": 2.64,
-      "awayOdds": 1.61
-     },
-     {
-      "line": 30.5,
-      "homeOdds": 2.81,
-      "awayOdds": 1.55
-     },
-     {
-      "line": 31.5,
-      "homeOdds": 2.99,
-      "awayOdds": 1.5
-     },
-     {
-      "line": 32.5,
-      "homeOdds": 3.19,
-      "awayOdds": 1.46
-     },
-     {
-      "line": 33.5,
-      "homeOdds": 3.42,
-      "awayOdds": 1.41
-     },
-     {
-      "line": 34.5,
-      "homeOdds": 3.67,
-      "awayOdds": 1.37
-     },
-     {
-      "line": 35.5,
-      "homeOdds": 3.95,
-      "awayOdds": 1.34
-     },
-     {
-      "line": 36.5,
-      "homeOdds": 4.26,
-      "awayOdds": 1.31
-     },
-     {
-      "line": 37.5,
-      "homeOdds": 4.61,
-      "awayOdds": 1.28
-     },
-     {
-      "line": 38.5,
-      "homeOdds": 5,
-      "awayOdds": 1.25
-     },
-     {
-      "line": 39.5,
-      "homeOdds": 5.44,
-      "awayOdds": 1.23
-     },
-     {
-      "line": 40.5,
-      "homeOdds": 5.93,
-      "awayOdds": 1.2
-     },
-     {
-      "line": 41.5,
-      "homeOdds": 6.49,
-      "awayOdds": 1.18
-     },
-     {
-      "line": 42.5,
-      "homeOdds": 7.12,
-      "awayOdds": 1.16
-     },
-     {
-      "line": 43.5,
-      "homeOdds": 7.84,
-      "awayOdds": 1.15
-     },
-     {
-      "line": 44.5,
-      "homeOdds": 8.65,
-      "awayOdds": 1.13
-     },
-     {
-      "line": 45.5,
-      "homeOdds": 9.57,
-      "awayOdds": 1.12
-     },
-     {
-      "line": 46.5,
-      "homeOdds": 10.62,
-      "awayOdds": 1.1
-     },
-     {
-      "line": 47.5,
-      "homeOdds": 11.82,
-      "awayOdds": 1.09
-     },
-     {
-      "line": 48.5,
-      "homeOdds": 13.19,
-      "awayOdds": 1.08
-     }
-    ],
-    "altTotals": [
-     {
-      "line": 25.5,
-      "overOdds": 1.07,
-      "underOdds": 14.6
-     },
-     {
-      "line": 26.5,
-      "overOdds": 1.09,
-      "underOdds": 12.67
-     },
-     {
-      "line": 27.5,
-      "overOdds": 1.1,
-      "underOdds": 11.05
-     },
-     {
-      "line": 28.5,
-      "overOdds": 1.12,
-      "underOdds": 9.68
-     },
-     {
-      "line": 29.5,
-      "overOdds": 1.13,
-      "underOdds": 8.52
-     },
-     {
-      "line": 30.5,
-      "overOdds": 1.15,
-      "underOdds": 7.54
-     },
-     {
-      "line": 31.5,
-      "overOdds": 1.18,
-      "underOdds": 6.7
-     },
-     {
-      "line": 32.5,
-      "overOdds": 1.2,
-      "underOdds": 5.97
-     },
-     {
-      "line": 33.5,
-      "overOdds": 1.23,
-      "underOdds": 5.35
-     },
-     {
-      "line": 34.5,
-      "overOdds": 1.26,
-      "underOdds": 4.82
-     },
-     {
-      "line": 35.5,
-      "overOdds": 1.3,
-      "underOdds": 4.36
-     },
-     {
-      "line": 36.5,
-      "overOdds": 1.34,
-      "underOdds": 3.96
-     },
-     {
-      "line": 37.5,
-      "overOdds": 1.38,
-      "underOdds": 3.61
-     },
-     {
-      "line": 38.5,
-      "overOdds": 1.43,
-      "underOdds": 3.3
-     },
-     {
-      "line": 39.5,
-      "overOdds": 1.49,
-      "underOdds": 3.04
-     },
-     {
-      "line": 40.5,
-      "overOdds": 1.55,
-      "underOdds": 2.8
-     },
-     {
-      "line": 41.5,
-      "overOdds": 1.63,
-      "underOdds": 2.6
-     },
-     {
-      "line": 42.5,
-      "overOdds": 1.71,
-      "underOdds": 2.42
-     },
-     {
-      "line": 43.5,
-      "overOdds": 1.79,
-      "underOdds": 2.26
-     },
-     {
-      "line": 44.5,
-      "overOdds": 1.9,
-      "underOdds": 2.12
-     },
-     {
-      "line": 45.5,
-      "overOdds": 2.01,
-      "underOdds": 1.99
-     },
-     {
-      "line": 46.5,
-      "overOdds": 2.14,
-      "underOdds": 1.88
-     },
-     {
-      "line": 47.5,
-      "overOdds": 2.28,
-      "underOdds": 1.78
-     },
-     {
-      "line": 48.5,
-      "overOdds": 2.44,
-      "underOdds": 1.69
-     },
-     {
-      "line": 49.5,
-      "overOdds": 2.63,
-      "underOdds": 1.61
-     },
-     {
-      "line": 50.5,
-      "overOdds": 2.84,
-      "underOdds": 1.54
-     },
-     {
-      "line": 51.5,
-      "overOdds": 3.08,
-      "underOdds": 1.48
-     },
-     {
-      "line": 52.5,
-      "overOdds": 3.35,
-      "underOdds": 1.43
-     },
-     {
-      "line": 53.5,
-      "overOdds": 3.66,
-      "underOdds": 1.38
-     },
-     {
-      "line": 54.5,
-      "overOdds": 4.01,
-      "underOdds": 1.33
-     },
-     {
-      "line": 55.5,
-      "overOdds": 4.42,
-      "underOdds": 1.29
-     },
-     {
-      "line": 56.5,
-      "overOdds": 4.9,
-      "underOdds": 1.26
-     },
-     {
-      "line": 57.5,
-      "overOdds": 5.44,
-      "underOdds": 1.23
-     },
-     {
-      "line": 58.5,
-      "overOdds": 6.08,
-      "underOdds": 1.2
-     },
-     {
-      "line": 59.5,
-      "overOdds": 6.81,
-      "underOdds": 1.17
-     },
-     {
-      "line": 60.5,
-      "overOdds": 7.67,
-      "underOdds": 1.15
-     },
-     {
-      "line": 61.5,
-      "overOdds": 8.68,
-      "underOdds": 1.13
-     },
-     {
-      "line": 62.5,
-      "overOdds": 9.87,
-      "underOdds": 1.11
-     },
-     {
-      "line": 63.5,
-      "overOdds": 11.28,
-      "underOdds": 1.1
-     },
-     {
-      "line": 64.5,
-      "overOdds": 12.94,
-      "underOdds": 1.08
-     },
-     {
-      "line": 65.5,
-      "overOdds": 14.91,
-      "underOdds": 1.07
-     }
-    ],
-    "_effectiveMargin": 24.3,
-    "_pHome": 0.9247442489966875
-   },
-   "q1": {
-    "label": "1st Quarter",
-    "predHome": 17.3,
-    "predAway": 6.1,
-    "predMargin": 11.2,
-    "predTotal": 23.3,
-    "h2hIsCalibrated": true,
-    "h2h": {
-     "homeOdds": 1.18,
-     "awayOdds": 7.84,
-     "drawOdds": 38.52
-    },
-    "line": {
-     "value": 10.5,
-     "homeOdds": 1.98,
-     "awayOdds": 2.02
-    },
-    "total": {
-     "value": 23.5,
-     "overOdds": 1.92,
-     "underOdds": 2.08
-    },
-    "marginBands6": [
-     {
-      "range": "1-6",
-      "homeOdds": 5.52,
-      "awayOdds": 11.55
-     },
-     {
-      "range": "7+",
-      "homeOdds": 1.5,
-      "awayOdds": 24.46
-     }
-    ],
-    "marginBands11": [
-     {
-      "range": "1-11",
-      "homeOdds": 2.72,
-      "awayOdds": 8.81
-     },
-     {
-      "range": "12+",
-      "homeOdds": 2.09,
-      "awayOdds": 71.24
-     }
-    ],
-    "altLines": [
-     {
-      "line": -4.5,
-      "homeOdds": 1.07,
-      "awayOdds": 14.45
-     },
-     {
-      "line": -3.5,
-      "homeOdds": 1.09,
-      "awayOdds": 11.66
-     },
-     {
-      "line": -2.5,
-      "homeOdds": 1.11,
-      "awayOdds": 10.04
-     },
-     {
-      "line": -1.5,
-      "homeOdds": 1.13,
-      "awayOdds": 8.96
-     },
-     {
-      "line": -0.5,
-      "homeOdds": 1.15,
-      "awayOdds": 7.84
-     },
-     {
-      "line": 0.5,
-      "homeOdds": 1.18,
-      "awayOdds": 6.51
-     },
-     {
-      "line": 1.5,
-      "homeOdds": 1.23,
-      "awayOdds": 5.31
-     },
-     {
-      "line": 2.5,
-      "homeOdds": 1.29,
-      "awayOdds": 4.48
-     },
-     {
-      "line": 3.5,
-      "homeOdds": 1.34,
-      "awayOdds": 3.98
-     },
-     {
-      "line": 4.5,
-      "homeOdds": 1.38,
-      "awayOdds": 3.65
-     },
-     {
-      "line": 5.5,
-      "homeOdds": 1.43,
-      "awayOdds": 3.35
-     },
-     {
-      "line": 6.5,
-      "homeOdds": 1.5,
-      "awayOdds": 2.99
-     },
-     {
-      "line": 7.5,
-      "homeOdds": 1.62,
-      "awayOdds": 2.62
-     },
-     {
-      "line": 8.5,
-      "homeOdds": 1.75,
-      "awayOdds": 2.33
-     },
-     {
-      "line": 9.5,
-      "homeOdds": 1.88,
-      "awayOdds": 2.14
-     },
-     {
-      "line": 10.5,
-      "homeOdds": 1.98,
-      "awayOdds": 2.02
-     },
-     {
-      "line": 11.5,
-      "homeOdds": 2.09,
-      "awayOdds": 1.92
-     },
-     {
-      "line": 12.5,
-      "homeOdds": 2.25,
-      "awayOdds": 1.8
-     },
-     {
-      "line": 13.5,
-      "homeOdds": 2.51,
-      "awayOdds": 1.66
-     },
-     {
-      "line": 14.5,
-      "homeOdds": 2.82,
-      "awayOdds": 1.55
-     },
-     {
-      "line": 15.5,
-      "homeOdds": 3.12,
-      "awayOdds": 1.47
-     },
-     {
-      "line": 16.5,
-      "homeOdds": 3.38,
-      "awayOdds": 1.42
-     },
-     {
-      "line": 17.5,
-      "homeOdds": 3.64,
-      "awayOdds": 1.38
-     },
-     {
-      "line": 18.5,
-      "homeOdds": 4.02,
-      "awayOdds": 1.33
-     },
-     {
-      "line": 19.5,
-      "homeOdds": 4.59,
-      "awayOdds": 1.28
-     },
-     {
-      "line": 20.5,
-      "homeOdds": 5.35,
-      "awayOdds": 1.23
-     },
-     {
-      "line": 21.5,
-      "homeOdds": 6.13,
-      "awayOdds": 1.19
-     },
-     {
-      "line": 22.5,
-      "homeOdds": 6.83,
-      "awayOdds": 1.17
-     },
-     {
-      "line": 23.5,
-      "homeOdds": 7.5,
-      "awayOdds": 1.15
-     },
-     {
-      "line": 24.5,
-      "homeOdds": 8.44,
-      "awayOdds": 1.13
-     },
-     {
-      "line": 25.5,
-      "homeOdds": 9.9,
-      "awayOdds": 1.11
-     }
-    ],
-    "altTotals": [
-     {
-      "line": 9.5,
-      "overOdds": 1.09,
-      "underOdds": 11.87
-     },
-     {
-      "line": 10.5,
-      "overOdds": 1.1,
-      "underOdds": 10.82
-     },
-     {
-      "line": 11.5,
-      "overOdds": 1.11,
-      "underOdds": 10.37
-     },
-     {
-      "line": 12.5,
-      "overOdds": 1.14,
-      "underOdds": 8.19
-     },
-     {
-      "line": 13.5,
-      "overOdds": 1.19,
-      "underOdds": 6.22
-     },
-     {
-      "line": 14.5,
-      "overOdds": 1.25,
-      "underOdds": 5.04
-     },
-     {
-      "line": 15.5,
-      "overOdds": 1.29,
-      "underOdds": 4.44
-     },
-     {
-      "line": 16.5,
-      "overOdds": 1.32,
-      "underOdds": 4.15
-     },
-     {
-      "line": 17.5,
-      "overOdds": 1.33,
-      "underOdds": 4.02
-     },
-     {
-      "line": 18.5,
-      "overOdds": 1.41,
-      "underOdds": 3.41
-     },
-     {
-      "line": 19.5,
-      "overOdds": 1.55,
-      "underOdds": 2.82
-     },
-     {
-      "line": 20.5,
-      "overOdds": 1.7,
-      "underOdds": 2.43
-     },
-     {
-      "line": 21.5,
-      "overOdds": 1.82,
-      "underOdds": 2.22
-     },
-     {
-      "line": 22.5,
-      "overOdds": 1.89,
-      "underOdds": 2.12
-     },
-     {
-      "line": 23.5,
-      "overOdds": 1.92,
-      "underOdds": 2.08
-     },
-     {
-      "line": 24.5,
-      "overOdds": 2.14,
-      "underOdds": 1.88
-     },
-     {
-      "line": 25.5,
-      "overOdds": 2.49,
-      "underOdds": 1.67
-     },
-     {
-      "line": 26.5,
-      "overOdds": 2.92,
-      "underOdds": 1.52
-     },
-     {
-      "line": 27.5,
-      "overOdds": 3.26,
-      "underOdds": 1.44
-     },
-     {
-      "line": 28.5,
-      "overOdds": 3.47,
-      "underOdds": 1.4
-     },
-     {
-      "line": 29.5,
-      "overOdds": 3.57,
-      "underOdds": 1.39
-     },
-     {
-      "line": 30.5,
-      "overOdds": 4.16,
-      "underOdds": 1.32
-     },
-     {
-      "line": 31.5,
-      "overOdds": 5.24,
-      "underOdds": 1.24
-     },
-     {
-      "line": 32.5,
-      "overOdds": 6.62,
-      "underOdds": 1.18
-     },
-     {
-      "line": 33.5,
-      "overOdds": 7.81,
-      "underOdds": 1.15
-     },
-     {
-      "line": 34.5,
-      "overOdds": 8.57,
-      "underOdds": 1.13
-     },
-     {
-      "line": 35.5,
-      "overOdds": 8.9,
-      "underOdds": 1.13
-     },
-     {
-      "line": 36.5,
-      "overOdds": 10.96,
-      "underOdds": 1.1
-     },
-     {
-      "line": 37.5,
-      "overOdds": 14.94,
-      "underOdds": 1.07
-     }
-    ],
-    "marginPmf": [
-     [
-      -22,
-      0.0003
-     ],
-     [
-      -20,
-      0.0003
-     ],
-     [
-      -19,
-      0.0005
-     ],
-     [
-      -18,
-      0.0009
-     ],
-     [
-      -17,
-      0.0013
-     ],
-     [
-      -16,
-      0.0013
-     ],
-     [
-      -15,
-      0.0012
-     ],
-     [
-      -14,
-      0.0013
-     ],
-     [
-      -13,
-      0.0021
-     ],
-     [
-      -12,
-      0.0039
-     ],
-     [
-      -11,
-      0.0053
-     ],
-     [
-      -10,
-      0.0054
-     ],
-     [
-      -9,
-      0.0047
-     ],
-     [
-      -8,
-      0.0045
-     ],
-     [
-      -7,
-      0.0069
-     ],
-     [
-      -6,
-      0.012
-     ],
-     [
-      -5,
-      0.0163
-     ],
-     [
-      -4,
-      0.0166
-     ],
-     [
-      -3,
-      0.0138
-     ],
-     [
-      -2,
-      0.0121
-     ],
-     [
-      -1,
-      0.0159
-     ],
-     [
-      0,
-      0.026
-     ],
-     [
-      1,
-      0.0347
-     ],
-     [
-      2,
-      0.035
-     ],
-     [
-      3,
-      0.0283
-     ],
-     [
-      4,
-      0.0223
-     ],
-     [
-      5,
-      0.0246
-     ],
-     [
-      6,
-      0.0364
-     ],
-     [
-      7,
-      0.0473
-     ],
-     [
-      8,
-      0.0472
-     ],
-     [
-      9,
-      0.0376
-     ],
-     [
-      10,
-      0.0277
-     ],
-     [
-      11,
-      0.0264
-     ],
-     [
-      12,
-      0.0354
-     ],
-     [
-      13,
-      0.0445
-     ],
-     [
-      14,
-      0.044
-     ],
-     [
-      15,
-      0.0347
-     ],
-     [
-      16,
-      0.0245
-     ],
-     [
-      17,
-      0.0211
-     ],
-     [
-      18,
-      0.0258
-     ],
-     [
-      19,
-      0.0314
-     ],
-     [
-      20,
-      0.0307
-     ],
-     [
-      21,
-      0.024
-     ],
-     [
-      22,
-      0.0165
-     ],
-     [
-      23,
-      0.0131
-     ],
-     [
-      24,
-      0.0148
-     ],
-     [
-      25,
-      0.0175
-     ],
-     [
-      26,
-      0.0169
-     ],
-     [
-      27,
-      0.0131
-     ],
-     [
-      28,
-      0.0089
-     ],
-     [
-      29,
-      0.0067
-     ],
-     [
-      30,
-      0.007
-     ],
-     [
-      31,
-      0.008
-     ],
-     [
-      32,
-      0.0077
-     ],
-     [
-      33,
-      0.0059
-     ],
-     [
-      34,
-      0.0039
-     ],
-     [
-      35,
-      0.0028
-     ],
-     [
-      36,
-      0.0028
-     ],
-     [
-      37,
-      0.0031
-     ],
-     [
-      38,
-      0.003
-     ],
-     [
-      39,
-      0.0023
-     ],
-     [
-      40,
-      0.0015
-     ],
-     [
-      41,
-      0.001
-     ],
-     [
-      42,
-      0.001
-     ],
-     [
-      43,
-      0.001
-     ],
-     [
-      44,
-      0.001
-     ],
-     [
-      45,
-      0.0008
-     ],
-     [
-      46,
-      0.0005
-     ],
-     [
-      47,
-      0.0003
-     ],
-     [
-      48,
-      0.0003
-     ],
-     [
-      49,
-      0.0003
-     ],
-     [
-      50,
-      0.0003
-     ]
-    ],
-    "_effectiveMargin": 11.2
-   }
-  },
-  "htft": [
-   {
-    "key": "Away/Away",
-    "prob": 0.022784219230853293,
-    "odds": 43.89
-   },
-   {
-    "key": "Away/Draw",
-    "prob": 0.0016555182799633458,
-    "odds": 604.04
-   },
-   {
-    "key": "Away/Home",
-    "prob": 0.04656836274433779,
-    "odds": 21.47
-   },
-   {
-    "key": "Draw/Away",
-    "prob": 0.0008222010854989255,
-    "odds": 1000
-   },
-   {
-    "key": "Draw/Draw",
-    "prob": 0.00011789893269864918,
-    "odds": 1000
-   },
-   {
-    "key": "Draw/Home",
-    "prob": 0.00745201288616789,
-    "odds": 134.19
-   },
-   {
-    "key": "Home/Away",
-    "prob": 0.0051101525882029444,
-    "odds": 195.69
-   },
-   {
-    "key": "Home/Draw",
-    "prob": 0.0009527859900082779,
-    "odds": 1000
-   },
-   {
-    "key": "Home/Home",
-    "prob": 0.9145368482622688,
-    "odds": 1.09
-   }
-  ],
-  "notes": {
-   "lineups": "North Melbourne -25 / Adelaide -26 fantasy pts vs their usual lineup → +0.2 pts to North Melbourne",
-   "teamNews": "+10.7 pts to North Melbourne | Adelaide out: Madison Newman (Injured, 77 gms), Niamh Kelly (Injured, 80 gms)",
-   "conditions": "+0.7 pts to the total (wind 8km/h +3.2; 99% chance of rain, 0mm forecast -5.4; 1:05pm local kickoff +2.9)",
-   "travel": null
-  }
- },
- {
-  "homeTeam": "Hawks",
-  "awayTeam": "Bombers",
-  "venue": "Kennedy Community Centre",
-  "date": 1792901100,
-  "marketHomeOdds": null,
-  "marketAwayOdds": null,
-  "levels": {
-   "full": {
-    "label": "Full Game",
-    "predHome": 47.9,
-    "predAway": 25.7,
-    "predMargin": 22.2,
-    "predTotal": 73.6,
-    "h2hIsCalibrated": true,
-    "h2h": {
-     "homeOdds": 1.23,
-     "awayOdds": 5.34,
-     "deadHeat": true
-    },
-    "result3": {
-     "homeOdds": 1.24,
-     "drawOdds": 92.94,
-     "awayOdds": 5.49,
-     "pDraw": 0.0108
-    },
-    "line": {
-     "value": 22.5,
-     "homeOdds": 2.02,
-     "awayOdds": 1.98
-    },
-    "total": {
-     "value": 72.5,
-     "overOdds": 1.99,
-     "underOdds": 2.01
-    },
-    "marginBands24": [
-     {
-      "range": "1-24",
-      "homeOdds": 2.91,
-      "awayOdds": 6.62
-     },
-     {
-      "range": "25+",
-      "homeOdds": 2.16,
-      "awayOdds": 32.37
-     }
-    ],
-    "marginBands39": [
-     {
-      "range": "1-39",
-      "homeOdds": 1.78,
-      "awayOdds": 5.71
-     },
-     {
-      "range": "40+",
-      "homeOdds": 4.09,
-      "awayOdds": 147.12
-     }
-    ],
-    "altLines": [
-     {
-      "line": -13.5,
-      "homeOdds": 1.08,
-      "awayOdds": 13.04
-     },
-     {
-      "line": -12.5,
-      "homeOdds": 1.09,
-      "awayOdds": 12.11
-     },
-     {
-      "line": -11.5,
-      "homeOdds": 1.1,
-      "awayOdds": 11.25
-     },
-     {
-      "line": -10.5,
-      "homeOdds": 1.11,
-      "awayOdds": 10.47
-     },
-     {
-      "line": -9.5,
-      "homeOdds": 1.11,
-      "awayOdds": 9.76
-     },
-     {
-      "line": -8.5,
-      "homeOdds": 1.12,
-      "awayOdds": 9.11
-     },
-     {
-      "line": -7.5,
-      "homeOdds": 1.13,
-      "awayOdds": 8.51
-     },
-     {
-      "line": -6.5,
-      "homeOdds": 1.14,
-      "awayOdds": 7.97
-     },
-     {
-      "line": -5.5,
-      "homeOdds": 1.15,
-      "awayOdds": 7.46
-     },
-     {
-      "line": -4.5,
-      "homeOdds": 1.17,
-      "awayOdds": 7
-     },
-     {
-      "line": -3.5,
-      "homeOdds": 1.18,
-      "awayOdds": 6.58
-     },
-     {
-      "line": -2.5,
-      "homeOdds": 1.19,
-      "awayOdds": 6.19
-     },
-     {
-      "line": -1.5,
-      "homeOdds": 1.21,
-      "awayOdds": 5.83
-     },
-     {
-      "line": -0.5,
-      "homeOdds": 1.22,
-      "awayOdds": 5.49
-     },
-     {
-      "line": 0.5,
-      "homeOdds": 1.24,
-      "awayOdds": 5.19
-     },
-     {
-      "line": 1.5,
-      "homeOdds": 1.26,
-      "awayOdds": 4.9
-     },
-     {
-      "line": 2.5,
-      "homeOdds": 1.27,
-      "awayOdds": 4.64
-     },
-     {
-      "line": 3.5,
-      "homeOdds": 1.29,
-      "awayOdds": 4.4
-     },
-     {
-      "line": 4.5,
-      "homeOdds": 1.31,
-      "awayOdds": 4.17
-     },
-     {
-      "line": 5.5,
-      "homeOdds": 1.34,
-      "awayOdds": 3.97
-     },
-     {
-      "line": 6.5,
-      "homeOdds": 1.36,
-      "awayOdds": 3.77
-     },
-     {
-      "line": 7.5,
-      "homeOdds": 1.39,
-      "awayOdds": 3.59
-     },
-     {
-      "line": 8.5,
-      "homeOdds": 1.41,
-      "awayOdds": 3.43
-     },
-     {
-      "line": 9.5,
-      "homeOdds": 1.44,
-      "awayOdds": 3.27
-     },
-     {
-      "line": 10.5,
-      "homeOdds": 1.47,
-      "awayOdds": 3.13
-     },
-     {
-      "line": 11.5,
-      "homeOdds": 1.5,
-      "awayOdds": 2.99
-     },
-     {
-      "line": 12.5,
-      "homeOdds": 1.54,
-      "awayOdds": 2.86
-     },
-     {
-      "line": 13.5,
-      "homeOdds": 1.57,
-      "awayOdds": 2.75
-     },
-     {
-      "line": 14.5,
-      "homeOdds": 1.61,
-      "awayOdds": 2.64
-     },
-     {
-      "line": 15.5,
-      "homeOdds": 1.65,
-      "awayOdds": 2.54
-     },
-     {
-      "line": 16.5,
-      "homeOdds": 1.69,
-      "awayOdds": 2.44
-     },
-     {
-      "line": 17.5,
-      "homeOdds": 1.74,
-      "awayOdds": 2.35
-     },
-     {
-      "line": 18.5,
-      "homeOdds": 1.79,
-      "awayOdds": 2.27
-     },
-     {
-      "line": 19.5,
-      "homeOdds": 1.84,
-      "awayOdds": 2.19
-     },
-     {
-      "line": 20.5,
-      "homeOdds": 1.9,
-      "awayOdds": 2.11
-     },
-     {
-      "line": 21.5,
-      "homeOdds": 1.96,
-      "awayOdds": 2.05
-     },
-     {
-      "line": 22.5,
-      "homeOdds": 2.02,
-      "awayOdds": 1.98
-     },
-     {
-      "line": 23.5,
-      "homeOdds": 2.09,
-      "awayOdds": 1.92
-     },
-     {
-      "line": 24.5,
-      "homeOdds": 2.16,
-      "awayOdds": 1.86
-     },
-     {
-      "line": 25.5,
-      "homeOdds": 2.24,
-      "awayOdds": 1.81
-     },
-     {
-      "line": 26.5,
-      "homeOdds": 2.32,
-      "awayOdds": 1.76
-     },
-     {
-      "line": 27.5,
-      "homeOdds": 2.4,
-      "awayOdds": 1.71
-     },
-     {
-      "line": 28.5,
-      "homeOdds": 2.5,
-      "awayOdds": 1.67
-     },
-     {
-      "line": 29.5,
-      "homeOdds": 2.6,
-      "awayOdds": 1.63
-     },
-     {
-      "line": 30.5,
-      "homeOdds": 2.7,
-      "awayOdds": 1.59
-     },
-     {
-      "line": 31.5,
-      "homeOdds": 2.82,
-      "awayOdds": 1.55
-     },
-     {
-      "line": 32.5,
-      "homeOdds": 2.94,
-      "awayOdds": 1.52
-     },
-     {
-      "line": 33.5,
-      "homeOdds": 3.07,
-      "awayOdds": 1.48
-     },
-     {
-      "line": 34.5,
-      "homeOdds": 3.21,
-      "awayOdds": 1.45
-     },
-     {
-      "line": 35.5,
-      "homeOdds": 3.36,
-      "awayOdds": 1.42
-     },
-     {
-      "line": 36.5,
-      "homeOdds": 3.53,
-      "awayOdds": 1.4
-     },
-     {
-      "line": 37.5,
-      "homeOdds": 3.7,
-      "awayOdds": 1.37
-     },
-     {
-      "line": 38.5,
-      "homeOdds": 3.89,
-      "awayOdds": 1.35
-     },
-     {
-      "line": 39.5,
-      "homeOdds": 4.09,
-      "awayOdds": 1.32
-     },
-     {
-      "line": 40.5,
-      "homeOdds": 4.31,
-      "awayOdds": 1.3
-     },
-     {
-      "line": 41.5,
-      "homeOdds": 4.55,
-      "awayOdds": 1.28
-     },
-     {
-      "line": 42.5,
-      "homeOdds": 4.8,
-      "awayOdds": 1.26
-     },
-     {
-      "line": 43.5,
-      "homeOdds": 5.07,
-      "awayOdds": 1.25
-     },
-     {
-      "line": 44.5,
-      "homeOdds": 5.37,
-      "awayOdds": 1.23
-     },
-     {
-      "line": 45.5,
-      "homeOdds": 5.69,
-      "awayOdds": 1.21
-     },
-     {
-      "line": 46.5,
-      "homeOdds": 6.04,
-      "awayOdds": 1.2
-     },
-     {
-      "line": 47.5,
-      "homeOdds": 6.42,
-      "awayOdds": 1.18
-     },
-     {
-      "line": 48.5,
-      "homeOdds": 6.83,
-      "awayOdds": 1.17
-     },
-     {
-      "line": 49.5,
-      "homeOdds": 7.28,
-      "awayOdds": 1.16
-     },
-     {
-      "line": 50.5,
-      "homeOdds": 7.77,
-      "awayOdds": 1.15
-     },
-     {
-      "line": 51.5,
-      "homeOdds": 8.29,
-      "awayOdds": 1.14
-     },
-     {
-      "line": 52.5,
-      "homeOdds": 8.87,
-      "awayOdds": 1.13
-     },
-     {
-      "line": 53.5,
-      "homeOdds": 9.5,
-      "awayOdds": 1.12
-     },
-     {
-      "line": 54.5,
-      "homeOdds": 10.19,
-      "awayOdds": 1.11
-     },
-     {
-      "line": 55.5,
-      "homeOdds": 10.94,
-      "awayOdds": 1.1
-     },
-     {
-      "line": 56.5,
-      "homeOdds": 11.76,
-      "awayOdds": 1.09
-     },
-     {
-      "line": 57.5,
-      "homeOdds": 12.67,
-      "awayOdds": 1.09
-     },
-     {
-      "line": 58.5,
-      "homeOdds": 13.66,
-      "awayOdds": 1.08
-     }
-    ],
-    "altTotals": [
-     {
-      "line": 42.5,
-      "overOdds": 1.08,
-      "underOdds": 13.22
-     },
-     {
-      "line": 43.5,
-      "overOdds": 1.09,
-      "underOdds": 12.05
-     },
-     {
-      "line": 44.5,
-      "overOdds": 1.1,
-      "underOdds": 11.01
-     },
-     {
-      "line": 45.5,
-      "overOdds": 1.11,
-      "underOdds": 10.08
-     },
-     {
-      "line": 46.5,
-      "overOdds": 1.12,
-      "underOdds": 9.25
-     },
-     {
-      "line": 47.5,
-      "overOdds": 1.13,
-      "underOdds": 8.51
-     },
-     {
-      "line": 48.5,
-      "overOdds": 1.15,
-      "underOdds": 7.84
-     },
-     {
-      "line": 49.5,
-      "overOdds": 1.16,
-      "underOdds": 7.24
-     },
-     {
-      "line": 50.5,
-      "overOdds": 1.18,
-      "underOdds": 6.71
-     },
-     {
-      "line": 51.5,
-      "overOdds": 1.19,
-      "underOdds": 6.22
-     },
-     {
-      "line": 52.5,
-      "overOdds": 1.21,
-      "underOdds": 5.78
-     },
-     {
-      "line": 53.5,
-      "overOdds": 1.23,
-      "underOdds": 5.39
-     },
-     {
-      "line": 54.5,
-      "overOdds": 1.25,
-      "underOdds": 5.03
-     },
-     {
-      "line": 55.5,
-      "overOdds": 1.27,
-      "underOdds": 4.71
-     },
-     {
-      "line": 56.5,
-      "overOdds": 1.29,
-      "underOdds": 4.41
-     },
-     {
-      "line": 57.5,
-      "overOdds": 1.32,
-      "underOdds": 4.15
-     },
-     {
-      "line": 58.5,
-      "overOdds": 1.34,
-      "underOdds": 3.9
-     },
-     {
-      "line": 59.5,
-      "overOdds": 1.37,
-      "underOdds": 3.68
-     },
-     {
-      "line": 60.5,
-      "overOdds": 1.4,
-      "underOdds": 3.48
-     },
-     {
-      "line": 61.5,
-      "overOdds": 1.44,
-      "underOdds": 3.29
-     },
-     {
-      "line": 62.5,
-      "overOdds": 1.47,
-      "underOdds": 3.12
-     },
-     {
-      "line": 63.5,
-      "overOdds": 1.51,
-      "underOdds": 2.96
-     },
-     {
-      "line": 64.5,
-      "overOdds": 1.55,
-      "underOdds": 2.82
-     },
-     {
-      "line": 65.5,
-      "overOdds": 1.59,
-      "underOdds": 2.69
-     },
-     {
-      "line": 66.5,
-      "overOdds": 1.64,
-      "underOdds": 2.57
-     },
-     {
-      "line": 67.5,
-      "overOdds": 1.69,
-      "underOdds": 2.45
-     },
-     {
-      "line": 68.5,
-      "overOdds": 1.74,
-      "underOdds": 2.35
-     },
-     {
-      "line": 69.5,
-      "overOdds": 1.8,
-      "underOdds": 2.25
-     },
-     {
-      "line": 70.5,
-      "overOdds": 1.86,
-      "underOdds": 2.17
-     },
-     {
-      "line": 71.5,
-      "overOdds": 1.92,
-      "underOdds": 2.09
-     },
-     {
-      "line": 72.5,
-      "overOdds": 1.99,
-      "underOdds": 2.01
-     },
-     {
-      "line": 73.5,
-      "overOdds": 2.06,
-      "underOdds": 1.94
-     },
-     {
-      "line": 74.5,
-      "overOdds": 2.14,
-      "underOdds": 1.88
-     },
-     {
-      "line": 75.5,
-      "overOdds": 2.23,
-      "underOdds": 1.81
-     },
-     {
-      "line": 76.5,
-      "overOdds": 2.32,
-      "underOdds": 1.76
-     },
-     {
-      "line": 77.5,
-      "overOdds": 2.41,
-      "underOdds": 1.71
-     },
-     {
-      "line": 78.5,
-      "overOdds": 2.52,
-      "underOdds": 1.66
-     },
-     {
-      "line": 79.5,
-      "overOdds": 2.63,
-      "underOdds": 1.61
-     },
-     {
-      "line": 80.5,
-      "overOdds": 2.75,
-      "underOdds": 1.57
-     },
-     {
-      "line": 81.5,
-      "overOdds": 2.88,
-      "underOdds": 1.53
-     },
-     {
-      "line": 82.5,
-      "overOdds": 3.01,
-      "underOdds": 1.5
-     },
-     {
-      "line": 83.5,
-      "overOdds": 3.16,
-      "underOdds": 1.46
-     },
-     {
-      "line": 84.5,
-      "overOdds": 3.32,
-      "underOdds": 1.43
-     },
-     {
-      "line": 85.5,
-      "overOdds": 3.49,
-      "underOdds": 1.4
-     },
-     {
-      "line": 86.5,
-      "overOdds": 3.67,
-      "underOdds": 1.37
-     },
-     {
-      "line": 87.5,
-      "overOdds": 3.87,
-      "underOdds": 1.35
-     },
-     {
-      "line": 88.5,
-      "overOdds": 4.08,
-      "underOdds": 1.32
-     },
-     {
-      "line": 89.5,
-      "overOdds": 4.31,
-      "underOdds": 1.3
-     },
-     {
-      "line": 90.5,
-      "overOdds": 4.56,
-      "underOdds": 1.28
-     },
-     {
-      "line": 91.5,
-      "overOdds": 4.83,
-      "underOdds": 1.26
-     },
-     {
-      "line": 92.5,
-      "overOdds": 5.11,
-      "underOdds": 1.24
-     },
-     {
-      "line": 93.5,
-      "overOdds": 5.42,
-      "underOdds": 1.23
-     },
-     {
-      "line": 94.5,
-      "overOdds": 5.76,
-      "underOdds": 1.21
-     },
-     {
-      "line": 95.5,
-      "overOdds": 6.12,
-      "underOdds": 1.2
-     },
-     {
-      "line": 96.5,
-      "overOdds": 6.52,
-      "underOdds": 1.18
-     },
-     {
-      "line": 97.5,
-      "overOdds": 6.94,
-      "underOdds": 1.17
-     },
-     {
-      "line": 98.5,
-      "overOdds": 7.4,
-      "underOdds": 1.16
-     },
-     {
-      "line": 99.5,
-      "overOdds": 7.91,
-      "underOdds": 1.14
-     },
-     {
-      "line": 100.5,
-      "overOdds": 8.45,
-      "underOdds": 1.13
-     },
-     {
-      "line": 101.5,
-      "overOdds": 9.04,
-      "underOdds": 1.12
-     },
-     {
-      "line": 102.5,
-      "overOdds": 9.68,
-      "underOdds": 1.12
-     }
-    ],
-    "_effectiveMargin": 22.2,
-    "_pHome": 0.812679023008354,
-    "homeTeamTotal": {
-     "predScore": 47.9,
-     "value": 46.5,
-     "overOdds": 2.04,
-     "underOdds": 1.96,
-     "altTotals": [
-      {
-       "line": 16.5,
-       "overOdds": 1.01,
-       "underOdds": 81.42
-      },
-      {
-       "line": 17.5,
-       "overOdds": 1.02,
-       "underOdds": 64.94
-      },
-      {
-       "line": 18.5,
-       "overOdds": 1.02,
-       "underOdds": 52.24
-      },
-      {
-       "line": 19.5,
-       "overOdds": 1.02,
-       "underOdds": 42.38
-      },
-      {
-       "line": 20.5,
-       "overOdds": 1.03,
-       "underOdds": 34.67
-      },
-      {
-       "line": 21.5,
-       "overOdds": 1.04,
-       "underOdds": 28.6
-      },
-      {
-       "line": 22.5,
-       "overOdds": 1.04,
-       "underOdds": 23.78
-      },
-      {
-       "line": 23.5,
-       "overOdds": 1.05,
-       "underOdds": 19.93
-      },
-      {
-       "line": 24.5,
-       "overOdds": 1.06,
-       "underOdds": 16.83
-      },
-      {
-       "line": 25.5,
-       "overOdds": 1.08,
-       "underOdds": 14.32
-      },
-      {
-       "line": 26.5,
-       "overOdds": 1.09,
-       "underOdds": 12.28
-      },
-      {
-       "line": 27.5,
-       "overOdds": 1.1,
-       "underOdds": 10.6
-      },
-      {
-       "line": 28.5,
-       "overOdds": 1.12,
-       "underOdds": 9.22
-      },
-      {
-       "line": 29.5,
-       "overOdds": 1.14,
-       "underOdds": 8.07
-      },
-      {
-       "line": 30.5,
-       "overOdds": 1.16,
-       "underOdds": 7.12
-      },
-      {
-       "line": 31.5,
-       "overOdds": 1.19,
-       "underOdds": 6.31
-      },
-      {
-       "line": 32.5,
-       "overOdds": 1.22,
-       "underOdds": 5.64
-      },
-      {
-       "line": 33.5,
-       "overOdds": 1.25,
-       "underOdds": 5.06
-      },
-      {
-       "line": 34.5,
-       "overOdds": 1.28,
-       "underOdds": 4.57
-      },
-      {
-       "line": 35.5,
-       "overOdds": 1.32,
-       "underOdds": 4.15
-      },
-      {
-       "line": 36.5,
-       "overOdds": 1.36,
-       "underOdds": 3.79
-      },
-      {
-       "line": 37.5,
-       "overOdds": 1.4,
-       "underOdds": 3.48
-      },
-      {
-       "line": 38.5,
-       "overOdds": 1.45,
-       "underOdds": 3.21
-      },
-      {
-       "line": 39.5,
-       "overOdds": 1.51,
-       "underOdds": 2.98
-      },
-      {
-       "line": 40.5,
-       "overOdds": 1.56,
-       "underOdds": 2.77
-      },
-      {
-       "line": 41.5,
-       "overOdds": 1.63,
-       "underOdds": 2.59
-      },
-      {
-       "line": 42.5,
-       "overOdds": 1.7,
-       "underOdds": 2.43
-      },
-      {
-       "line": 43.5,
-       "overOdds": 1.77,
-       "underOdds": 2.29
-      },
-      {
-       "line": 44.5,
-       "overOdds": 1.85,
-       "underOdds": 2.17
-      },
-      {
-       "line": 45.5,
-       "overOdds": 1.94,
-       "underOdds": 2.06
-      },
-      {
-       "line": 46.5,
-       "overOdds": 2.04,
-       "underOdds": 1.96
-      },
-      {
-       "line": 47.5,
-       "overOdds": 2.14,
-       "underOdds": 1.87
-      },
-      {
-       "line": 48.5,
-       "overOdds": 2.26,
-       "underOdds": 1.8
-      },
-      {
-       "line": 49.5,
-       "overOdds": 2.38,
-       "underOdds": 1.72
-      },
-      {
-       "line": 50.5,
-       "overOdds": 2.51,
-       "underOdds": 1.66
-      },
-      {
-       "line": 51.5,
-       "overOdds": 2.66,
-       "underOdds": 1.6
-      },
-      {
-       "line": 52.5,
-       "overOdds": 2.82,
-       "underOdds": 1.55
-      },
-      {
-       "line": 53.5,
-       "overOdds": 2.99,
-       "underOdds": 1.5
-      },
-      {
-       "line": 54.5,
-       "overOdds": 3.17,
-       "underOdds": 1.46
-      },
-      {
-       "line": 55.5,
-       "overOdds": 3.37,
-       "underOdds": 1.42
-      },
-      {
-       "line": 56.5,
-       "overOdds": 3.59,
-       "underOdds": 1.39
-      },
-      {
-       "line": 57.5,
-       "overOdds": 3.83,
-       "underOdds": 1.35
-      },
-      {
-       "line": 58.5,
-       "overOdds": 4.09,
-       "underOdds": 1.32
-      },
-      {
-       "line": 59.5,
-       "overOdds": 4.37,
-       "underOdds": 1.3
-      },
-      {
-       "line": 60.5,
-       "overOdds": 4.68,
-       "underOdds": 1.27
-      },
-      {
-       "line": 61.5,
-       "overOdds": 5.02,
-       "underOdds": 1.25
-      },
-      {
-       "line": 62.5,
-       "overOdds": 5.39,
-       "underOdds": 1.23
-      },
-      {
-       "line": 63.5,
-       "overOdds": 5.79,
-       "underOdds": 1.21
-      },
-      {
-       "line": 64.5,
-       "overOdds": 6.24,
-       "underOdds": 1.19
-      },
-      {
-       "line": 65.5,
-       "overOdds": 6.72,
-       "underOdds": 1.17
-      },
-      {
-       "line": 66.5,
-       "overOdds": 7.26,
-       "underOdds": 1.16
-      },
-      {
-       "line": 67.5,
-       "overOdds": 7.84,
-       "underOdds": 1.15
-      },
-      {
-       "line": 68.5,
-       "overOdds": 8.49,
-       "underOdds": 1.13
-      },
-      {
-       "line": 69.5,
-       "overOdds": 9.2,
-       "underOdds": 1.12
-      },
-      {
-       "line": 70.5,
-       "overOdds": 9.99,
-       "underOdds": 1.11
-      },
-      {
-       "line": 71.5,
-       "overOdds": 10.85,
-       "underOdds": 1.1
-      },
-      {
-       "line": 72.5,
-       "overOdds": 11.81,
-       "underOdds": 1.09
-      },
-      {
-       "line": 73.5,
-       "overOdds": 12.87,
-       "underOdds": 1.08
-      },
-      {
-       "line": 74.5,
-       "overOdds": 14.05,
-       "underOdds": 1.08
-      },
-      {
-       "line": 75.5,
-       "overOdds": 15.36,
-       "underOdds": 1.07
-      },
-      {
-       "line": 76.5,
-       "overOdds": 16.81,
-       "underOdds": 1.06
-      }
-     ]
-    },
-    "awayTeamTotal": {
-     "predScore": 25.7,
-     "value": 23.5,
-     "overOdds": 1.96,
-     "underOdds": 2.04,
-     "altTotals": [
-      {
-       "line": 0.5,
-       "overOdds": 1.05,
-       "underOdds": 22.96
-      },
-      {
-       "line": 1.5,
-       "overOdds": 1.05,
-       "underOdds": 19.27
-      },
-      {
-       "line": 2.5,
-       "overOdds": 1.07,
-       "underOdds": 16.3
-      },
-      {
-       "line": 3.5,
-       "overOdds": 1.08,
-       "underOdds": 13.89
-      },
-      {
-       "line": 4.5,
-       "overOdds": 1.09,
-       "underOdds": 11.93
-      },
-      {
-       "line": 5.5,
-       "overOdds": 1.11,
-       "underOdds": 10.31
-      },
-      {
-       "line": 6.5,
-       "overOdds": 1.13,
-       "underOdds": 8.98
-      },
-      {
-       "line": 7.5,
-       "overOdds": 1.15,
-       "underOdds": 7.87
-      },
-      {
-       "line": 8.5,
-       "overOdds": 1.17,
-       "underOdds": 6.95
-      },
-      {
-       "line": 9.5,
-       "overOdds": 1.19,
-       "underOdds": 6.17
-      },
-      {
-       "line": 10.5,
-       "overOdds": 1.22,
-       "underOdds": 5.52
-      },
-      {
-       "line": 11.5,
-       "overOdds": 1.25,
-       "underOdds": 4.96
-      },
-      {
-       "line": 12.5,
-       "overOdds": 1.29,
-       "underOdds": 4.49
-      },
-      {
-       "line": 13.5,
-       "overOdds": 1.32,
-       "underOdds": 4.08
-      },
-      {
-       "line": 14.5,
-       "overOdds": 1.37,
-       "underOdds": 3.73
-      },
-      {
-       "line": 15.5,
-       "overOdds": 1.41,
-       "underOdds": 3.43
-      },
-      {
-       "line": 16.5,
-       "overOdds": 1.46,
-       "underOdds": 3.16
-      },
-      {
-       "line": 17.5,
-       "overOdds": 1.52,
-       "underOdds": 2.94
-      },
-      {
-       "line": 18.5,
-       "overOdds": 1.58,
-       "underOdds": 2.74
-      },
-      {
-       "line": 19.5,
-       "overOdds": 1.64,
-       "underOdds": 2.56
-      },
-      {
-       "line": 20.5,
-       "overOdds": 1.71,
-       "underOdds": 2.41
-      },
-      {
-       "line": 21.5,
-       "overOdds": 1.79,
-       "underOdds": 2.27
-      },
-      {
-       "line": 22.5,
-       "overOdds": 1.87,
-       "underOdds": 2.15
-      },
-      {
-       "line": 23.5,
-       "overOdds": 1.96,
-       "underOdds": 2.04
-      },
-      {
-       "line": 24.5,
-       "overOdds": 2.06,
-       "underOdds": 1.94
-      },
-      {
-       "line": 25.5,
-       "overOdds": 2.17,
-       "underOdds": 1.86
-      },
-      {
-       "line": 26.5,
-       "overOdds": 2.28,
-       "underOdds": 1.78
-      },
-      {
-       "line": 27.5,
-       "overOdds": 2.41,
-       "underOdds": 1.71
-      },
-      {
-       "line": 28.5,
-       "overOdds": 2.54,
-       "underOdds": 1.65
-      },
-      {
-       "line": 29.5,
-       "overOdds": 2.69,
-       "underOdds": 1.59
-      },
-      {
-       "line": 30.5,
-       "overOdds": 2.85,
-       "underOdds": 1.54
-      },
-      {
-       "line": 31.5,
-       "overOdds": 3.02,
-       "underOdds": 1.49
-      },
-      {
-       "line": 32.5,
-       "overOdds": 3.21,
-       "underOdds": 1.45
-      },
-      {
-       "line": 33.5,
-       "overOdds": 3.41,
-       "underOdds": 1.41
-      },
-      {
-       "line": 34.5,
-       "overOdds": 3.64,
-       "underOdds": 1.38
-      },
-      {
-       "line": 35.5,
-       "overOdds": 3.88,
-       "underOdds": 1.35
-      },
-      {
-       "line": 36.5,
-       "overOdds": 4.14,
-       "underOdds": 1.32
-      },
-      {
-       "line": 37.5,
-       "overOdds": 4.43,
-       "underOdds": 1.29
-      },
-      {
-       "line": 38.5,
-       "overOdds": 4.75,
-       "underOdds": 1.27
-      },
-      {
-       "line": 39.5,
-       "overOdds": 5.09,
-       "underOdds": 1.24
-      },
-      {
-       "line": 40.5,
-       "overOdds": 5.46,
-       "underOdds": 1.22
-      },
-      {
-       "line": 41.5,
-       "overOdds": 5.88,
-       "underOdds": 1.21
-      },
-      {
-       "line": 42.5,
-       "overOdds": 6.33,
-       "underOdds": 1.19
-      },
-      {
-       "line": 43.5,
-       "overOdds": 6.82,
-       "underOdds": 1.17
-      },
-      {
-       "line": 44.5,
-       "overOdds": 7.37,
-       "underOdds": 1.16
-      },
-      {
-       "line": 45.5,
-       "overOdds": 7.96,
-       "underOdds": 1.14
-      },
-      {
-       "line": 46.5,
-       "overOdds": 8.62,
-       "underOdds": 1.13
-      },
-      {
-       "line": 47.5,
-       "overOdds": 9.35,
-       "underOdds": 1.12
-      },
-      {
-       "line": 48.5,
-       "overOdds": 10.15,
-       "underOdds": 1.11
-      },
-      {
-       "line": 49.5,
-       "overOdds": 11.03,
-       "underOdds": 1.1
-      },
-      {
-       "line": 50.5,
-       "overOdds": 12.01,
-       "underOdds": 1.09
-      },
-      {
-       "line": 51.5,
-       "overOdds": 13.1,
-       "underOdds": 1.08
-      },
-      {
-       "line": 52.5,
-       "overOdds": 14.3,
-       "underOdds": 1.08
-      },
-      {
-       "line": 53.5,
-       "overOdds": 15.63,
-       "underOdds": 1.07
-      }
-     ]
-    },
-    "firstScore": {
-     "homeOdds": 1.75,
-     "awayOdds": 2.33
-    },
-    "firstGoal": {
-     "homeOdds": 1.54,
-     "awayOdds": 2.84
-    },
-    "firstScoringPlay": {
-     "homeGoal": 3.51,
-     "homeBehind": 3.51,
-     "awayGoal": 4.65,
-     "awayBehind": 4.65
-    }
-   },
-   "h1": {
-    "label": "1st Half",
-    "predHome": 23.3,
-    "predAway": 13,
-    "predMargin": 10.3,
-    "predTotal": 36.2,
-    "h2hIsCalibrated": true,
-    "h2h": {
-     "homeOdds": 1.39,
-     "awayOdds": 3.83,
-     "drawOdds": 51.04
-    },
-    "result3": {
-     "homeOdds": 1.39,
-     "drawOdds": 51.04,
-     "awayOdds": 3.83,
-     "pDraw": 0.0196
-    },
-    "line": {
-     "value": 10.5,
-     "homeOdds": 2.02,
-     "awayOdds": 1.98
-    },
-    "total": {
-     "value": 36.5,
-     "overOdds": 2.03,
-     "underOdds": 1.97
-    },
-    "marginBands24": [
-     {
-      "range": "1-24",
-      "homeOdds": 1.93,
-      "awayOdds": 4.15
-     },
-     {
-      "range": "25+",
-      "homeOdds": 4.98,
-      "awayOdds": 51
-     }
-    ],
-    "marginBands39": [
-     {
-      "range": "1-39",
-      "homeOdds": 1.48,
-      "awayOdds": 3.86
-     },
-     {
-      "range": "40+",
-      "homeOdds": 23.78,
-      "awayOdds": 629.36
-     }
-    ],
-    "altLines": [
-     {
-      "line": -13.5,
-      "homeOdds": 1.09,
-      "awayOdds": 12.63
-     },
-     {
-      "line": -12.5,
-      "homeOdds": 1.1,
-      "awayOdds": 11.33
-     },
-     {
-      "line": -11.5,
-      "homeOdds": 1.11,
-      "awayOdds": 10.19
-     },
-     {
-      "line": -10.5,
-      "homeOdds": 1.12,
-      "awayOdds": 9.19
-     },
-     {
-      "line": -9.5,
-      "homeOdds": 1.14,
-      "awayOdds": 8.32
-     },
-     {
-      "line": -8.5,
-      "homeOdds": 1.15,
-      "awayOdds": 7.55
-     },
-     {
-      "line": -7.5,
-      "homeOdds": 1.17,
-      "awayOdds": 6.87
-     },
-     {
-      "line": -6.5,
-      "homeOdds": 1.19,
-      "awayOdds": 6.27
-     },
-     {
-      "line": -5.5,
-      "homeOdds": 1.21,
-      "awayOdds": 5.73
-     },
-     {
-      "line": -4.5,
-      "homeOdds": 1.23,
-      "awayOdds": 5.26
-     },
-     {
-      "line": -3.5,
-      "homeOdds": 1.26,
-      "awayOdds": 4.84
-     },
-     {
-      "line": -2.5,
-      "homeOdds": 1.29,
-      "awayOdds": 4.47
-     },
-     {
-      "line": -1.5,
-      "homeOdds": 1.32,
-      "awayOdds": 4.13
-     },
-     {
-      "line": -0.5,
-      "homeOdds": 1.35,
-      "awayOdds": 3.83
-     },
-     {
-      "line": 0.5,
-      "homeOdds": 1.39,
-      "awayOdds": 3.57
-     },
-     {
-      "line": 1.5,
-      "homeOdds": 1.43,
-      "awayOdds": 3.33
-     },
-     {
-      "line": 2.5,
-      "homeOdds": 1.47,
-      "awayOdds": 3.11
-     },
-     {
-      "line": 3.5,
-      "homeOdds": 1.52,
-      "awayOdds": 2.91
-     },
-     {
-      "line": 4.5,
-      "homeOdds": 1.57,
-      "awayOdds": 2.74
-     },
-     {
-      "line": 5.5,
-      "homeOdds": 1.63,
-      "awayOdds": 2.58
-     },
-     {
-      "line": 6.5,
-      "homeOdds": 1.7,
-      "awayOdds": 2.44
-     },
-     {
-      "line": 7.5,
-      "homeOdds": 1.77,
-      "awayOdds": 2.31
-     },
-     {
-      "line": 8.5,
-      "homeOdds": 1.84,
-      "awayOdds": 2.19
-     },
-     {
-      "line": 9.5,
-      "homeOdds": 1.92,
-      "awayOdds": 2.08
-     },
-     {
-      "line": 10.5,
-      "homeOdds": 2.02,
-      "awayOdds": 1.98
-     },
-     {
-      "line": 11.5,
-      "homeOdds": 2.12,
-      "awayOdds": 1.89
-     },
-     {
-      "line": 12.5,
-      "homeOdds": 2.23,
-      "awayOdds": 1.81
-     },
-     {
-      "line": 13.5,
-      "homeOdds": 2.35,
-      "awayOdds": 1.74
-     },
-     {
-      "line": 14.5,
-      "homeOdds": 2.49,
-      "awayOdds": 1.67
-     },
-     {
-      "line": 15.5,
-      "homeOdds": 2.63,
-      "awayOdds": 1.61
-     },
-     {
-      "line": 16.5,
-      "homeOdds": 2.8,
-      "awayOdds": 1.56
-     },
-     {
-      "line": 17.5,
-      "homeOdds": 2.98,
-      "awayOdds": 1.5
-     },
-     {
-      "line": 18.5,
-      "homeOdds": 3.18,
-      "awayOdds": 1.46
-     },
-     {
-      "line": 19.5,
-      "homeOdds": 3.41,
-      "awayOdds": 1.42
-     },
-     {
-      "line": 20.5,
-      "homeOdds": 3.66,
-      "awayOdds": 1.38
-     },
-     {
-      "line": 21.5,
-      "homeOdds": 3.94,
-      "awayOdds": 1.34
-     },
-     {
-      "line": 22.5,
-      "homeOdds": 4.25,
-      "awayOdds": 1.31
-     },
-     {
-      "line": 23.5,
-      "homeOdds": 4.59,
-      "awayOdds": 1.28
-     },
-     {
-      "line": 24.5,
-      "homeOdds": 4.98,
-      "awayOdds": 1.25
-     },
-     {
-      "line": 25.5,
-      "homeOdds": 5.42,
-      "awayOdds": 1.23
-     },
-     {
-      "line": 26.5,
-      "homeOdds": 5.91,
-      "awayOdds": 1.2
-     },
-     {
-      "line": 27.5,
-      "homeOdds": 6.47,
-      "awayOdds": 1.18
-     },
-     {
-      "line": 28.5,
-      "homeOdds": 7.09,
-      "awayOdds": 1.16
-     },
-     {
-      "line": 29.5,
-      "homeOdds": 7.8,
-      "awayOdds": 1.15
-     },
-     {
-      "line": 30.5,
-      "homeOdds": 8.61,
-      "awayOdds": 1.13
-     },
-     {
-      "line": 31.5,
-      "homeOdds": 9.53,
-      "awayOdds": 1.12
-     },
-     {
-      "line": 32.5,
-      "homeOdds": 10.57,
-      "awayOdds": 1.1
-     },
-     {
-      "line": 33.5,
-      "homeOdds": 11.76,
-      "awayOdds": 1.09
-     },
-     {
-      "line": 34.5,
-      "homeOdds": 13.13,
-      "awayOdds": 1.08
-     }
-    ],
-    "altTotals": [
-     {
-      "line": 16.5,
-      "overOdds": 1.08,
-      "underOdds": 14.19
-     },
-     {
-      "line": 17.5,
-      "overOdds": 1.09,
-      "underOdds": 12.33
-     },
-     {
-      "line": 18.5,
-      "overOdds": 1.1,
-      "underOdds": 10.76
-     },
-     {
-      "line": 19.5,
-      "overOdds": 1.12,
-      "underOdds": 9.44
-     },
-     {
-      "line": 20.5,
-      "overOdds": 1.14,
-      "underOdds": 8.32
-     },
-     {
-      "line": 21.5,
-      "overOdds": 1.16,
-      "underOdds": 7.36
-     },
-     {
-      "line": 22.5,
-      "overOdds": 1.18,
-      "underOdds": 6.54
-     },
-     {
-      "line": 23.5,
-      "overOdds": 1.21,
-      "underOdds": 5.84
-     },
-     {
-      "line": 24.5,
-      "overOdds": 1.24,
-      "underOdds": 5.24
-     },
-     {
-      "line": 25.5,
-      "overOdds": 1.27,
-      "underOdds": 4.72
-     },
-     {
-      "line": 26.5,
-      "overOdds": 1.31,
-      "underOdds": 4.27
-     },
-     {
-      "line": 27.5,
-      "overOdds": 1.35,
-      "underOdds": 3.88
-     },
-     {
-      "line": 28.5,
-      "overOdds": 1.39,
-      "underOdds": 3.55
-     },
-     {
-      "line": 29.5,
-      "overOdds": 1.44,
-      "underOdds": 3.25
-     },
-     {
-      "line": 30.5,
-      "overOdds": 1.5,
-      "underOdds": 2.99
-     },
-     {
-      "line": 31.5,
-      "overOdds": 1.57,
-      "underOdds": 2.76
-     },
-     {
-      "line": 32.5,
-      "overOdds": 1.64,
-      "underOdds": 2.56
-     },
-     {
-      "line": 33.5,
-      "overOdds": 1.72,
-      "underOdds": 2.38
-     },
-     {
-      "line": 34.5,
-      "overOdds": 1.81,
-      "underOdds": 2.23
-     },
-     {
-      "line": 35.5,
-      "overOdds": 1.92,
-      "underOdds": 2.09
-     },
-     {
-      "line": 36.5,
-      "overOdds": 2.03,
-      "underOdds": 1.97
-     },
-     {
-      "line": 37.5,
-      "overOdds": 2.16,
-      "underOdds": 1.86
-     },
-     {
-      "line": 38.5,
-      "overOdds": 2.31,
-      "underOdds": 1.76
-     },
-     {
-      "line": 39.5,
-      "overOdds": 2.48,
-      "underOdds": 1.68
-     },
-     {
-      "line": 40.5,
-      "overOdds": 2.67,
-      "underOdds": 1.6
-     },
-     {
-      "line": 41.5,
-      "overOdds": 2.88,
-      "underOdds": 1.53
-     },
-     {
-      "line": 42.5,
-      "overOdds": 3.13,
-      "underOdds": 1.47
-     },
-     {
-      "line": 43.5,
-      "overOdds": 3.41,
-      "underOdds": 1.42
-     },
-     {
-      "line": 44.5,
-      "overOdds": 3.72,
-      "underOdds": 1.37
-     },
-     {
-      "line": 45.5,
-      "overOdds": 4.09,
-      "underOdds": 1.32
-     },
-     {
-      "line": 46.5,
-      "overOdds": 4.51,
-      "underOdds": 1.28
-     },
-     {
-      "line": 47.5,
-      "overOdds": 5,
-      "underOdds": 1.25
-     },
-     {
-      "line": 48.5,
-      "overOdds": 5.56,
-      "underOdds": 1.22
-     },
-     {
-      "line": 49.5,
-      "overOdds": 6.21,
-      "underOdds": 1.19
-     },
-     {
-      "line": 50.5,
-      "overOdds": 6.97,
-      "underOdds": 1.17
-     },
-     {
-      "line": 51.5,
-      "overOdds": 7.86,
-      "underOdds": 1.15
-     },
-     {
-      "line": 52.5,
-      "overOdds": 8.9,
-      "underOdds": 1.13
-     },
-     {
-      "line": 53.5,
-      "overOdds": 10.13,
-      "underOdds": 1.11
-     },
-     {
-      "line": 54.5,
-      "overOdds": 11.58,
-      "underOdds": 1.09
-     },
-     {
-      "line": 55.5,
-      "overOdds": 13.3,
-      "underOdds": 1.08
-     },
-     {
-      "line": 56.5,
-      "overOdds": 15.35,
-      "underOdds": 1.07
-     }
-    ],
-    "_effectiveMargin": 10.3,
-    "_pHome": 0.7295143343202611
-   },
-   "q1": {
-    "label": "1st Quarter",
-    "predHome": 9.9,
-    "predAway": 7.2,
-    "predMargin": 2.7,
-    "predTotal": 17.1,
-    "h2hIsCalibrated": true,
-    "h2h": {
-     "homeOdds": 1.71,
-     "awayOdds": 2.87,
-     "drawOdds": 14.78
-    },
-    "line": {
-     "value": 2.5,
-     "homeOdds": 2.08,
-     "awayOdds": 1.93
-    },
-    "total": {
-     "value": 17.5,
-     "overOdds": 1.98,
-     "underOdds": 2.02
-    },
-    "marginBands6": [
-     {
-      "range": "1-6",
-      "homeOdds": 3.93,
-      "awayOdds": 4.99
-     },
-     {
-      "range": "7+",
-      "homeOdds": 3.03,
-      "awayOdds": 6.77
-     }
-    ],
-    "marginBands11": [
-     {
-      "range": "1-11",
-      "homeOdds": 2.47,
-      "awayOdds": 3.54
-     },
-     {
-      "range": "12+",
-      "homeOdds": 5.57,
-      "awayOdds": 15.23
-     }
-    ],
-    "altLines": [
-     {
-      "line": -12.5,
-      "homeOdds": 1.05,
-      "awayOdds": 20.92
-     },
-     {
-      "line": -11.5,
-      "homeOdds": 1.07,
-      "awayOdds": 15.23
-     },
-     {
-      "line": -10.5,
-      "homeOdds": 1.09,
-      "awayOdds": 12.14
-     },
-     {
-      "line": -9.5,
-      "homeOdds": 1.1,
-      "awayOdds": 10.64
-     },
-     {
-      "line": -8.5,
-      "homeOdds": 1.12,
-      "awayOdds": 9.68
-     },
-     {
-      "line": -7.5,
-      "homeOdds": 1.13,
-      "awayOdds": 8.45
-     },
-     {
-      "line": -6.5,
-      "homeOdds": 1.17,
-      "awayOdds": 6.77
-     },
-     {
-      "line": -5.5,
-      "homeOdds": 1.24,
-      "awayOdds": 5.24
-     },
-     {
-      "line": -4.5,
-      "homeOdds": 1.3,
-      "awayOdds": 4.33
-     },
-     {
-      "line": -3.5,
-      "homeOdds": 1.35,
-      "awayOdds": 3.88
-     },
-     {
-      "line": -2.5,
-      "homeOdds": 1.38,
-      "awayOdds": 3.62
-     },
-     {
-      "line": -1.5,
-      "homeOdds": 1.43,
-      "awayOdds": 3.32
-     },
-     {
-      "line": -0.5,
-      "homeOdds": 1.53,
-      "awayOdds": 2.87
-     },
-     {
-      "line": 0.5,
-      "homeOdds": 1.71,
-      "awayOdds": 2.41
-     },
-     {
-      "line": 1.5,
-      "homeOdds": 1.92,
-      "awayOdds": 2.09
-     },
-     {
-      "line": 2.5,
-      "homeOdds": 2.08,
-      "awayOdds": 1.93
-     },
-     {
-      "line": 3.5,
-      "homeOdds": 2.19,
-      "awayOdds": 1.84
-     },
-     {
-      "line": 4.5,
-      "homeOdds": 2.32,
-      "awayOdds": 1.76
-     },
-     {
-      "line": 5.5,
-      "homeOdds": 2.57,
-      "awayOdds": 1.64
-     },
-     {
-      "line": 6.5,
-      "homeOdds": 3.03,
-      "awayOdds": 1.49
-     },
-     {
-      "line": 7.5,
-      "homeOdds": 3.63,
-      "awayOdds": 1.38
-     },
-     {
-      "line": 8.5,
-      "homeOdds": 4.17,
-      "awayOdds": 1.32
-     },
-     {
-      "line": 9.5,
-      "homeOdds": 4.54,
-      "awayOdds": 1.28
-     },
-     {
-      "line": 10.5,
-      "homeOdds": 4.9,
-      "awayOdds": 1.26
-     },
-     {
-      "line": 11.5,
-      "homeOdds": 5.57,
-      "awayOdds": 1.22
-     },
-     {
-      "line": 12.5,
-      "homeOdds": 6.87,
-      "awayOdds": 1.17
-     },
-     {
-      "line": 13.5,
-      "homeOdds": 8.76,
-      "awayOdds": 1.13
-     },
-     {
-      "line": 14.5,
-      "homeOdds": 10.62,
-      "awayOdds": 1.1
-     },
-     {
-      "line": 15.5,
-      "homeOdds": 11.97,
-      "awayOdds": 1.09
-     },
-     {
-      "line": 16.5,
-      "homeOdds": 13.19,
-      "awayOdds": 1.08
-     },
-     {
-      "line": 17.5,
-      "homeOdds": 15.28,
-      "awayOdds": 1.07
-     }
-    ],
-    "altTotals": [
-     {
-      "line": 3.5,
-      "overOdds": 1.11,
-      "underOdds": 10.29
-     },
-     {
-      "line": 4.5,
-      "overOdds": 1.12,
-      "underOdds": 9.48
-     },
-     {
-      "line": 5.5,
-      "overOdds": 1.12,
-      "underOdds": 9.13
-     },
-     {
-      "line": 6.5,
-      "overOdds": 1.16,
-      "underOdds": 7.37
-     },
-     {
-      "line": 7.5,
-      "overOdds": 1.21,
-      "underOdds": 5.73
-     },
-     {
-      "line": 8.5,
-      "overOdds": 1.27,
-      "underOdds": 4.7
-     },
-     {
-      "line": 9.5,
-      "overOdds": 1.32,
-      "underOdds": 4.17
-     },
-     {
-      "line": 10.5,
-      "overOdds": 1.34,
-      "underOdds": 3.91
-     },
-     {
-      "line": 11.5,
-      "overOdds": 1.36,
-      "underOdds": 3.8
-     },
-     {
-      "line": 12.5,
-      "overOdds": 1.44,
-      "underOdds": 3.25
-     },
-     {
-      "line": 13.5,
-      "overOdds": 1.59,
-      "underOdds": 2.71
-     },
-     {
-      "line": 14.5,
-      "overOdds": 1.74,
-      "underOdds": 2.34
-     },
-     {
-      "line": 15.5,
-      "overOdds": 1.87,
-      "underOdds": 2.15
-     },
-     {
-      "line": 16.5,
-      "overOdds": 1.94,
-      "underOdds": 2.06
-     },
-     {
-      "line": 17.5,
-      "overOdds": 1.98,
-      "underOdds": 2.02
-     },
-     {
-      "line": 18.5,
-      "overOdds": 2.2,
-      "underOdds": 1.84
-     },
-     {
-      "line": 19.5,
-      "overOdds": 2.57,
-      "underOdds": 1.64
-     },
-     {
-      "line": 20.5,
-      "overOdds": 3.02,
-      "underOdds": 1.5
-     },
-     {
-      "line": 21.5,
-      "overOdds": 3.38,
-      "underOdds": 1.42
-     },
-     {
-      "line": 22.5,
-      "overOdds": 3.6,
-      "underOdds": 1.38
-     },
-     {
-      "line": 23.5,
-      "overOdds": 3.7,
-      "underOdds": 1.37
-     },
-     {
-      "line": 24.5,
-      "overOdds": 4.33,
-      "underOdds": 1.3
-     },
-     {
-      "line": 25.5,
-      "overOdds": 5.46,
-      "underOdds": 1.22
-     },
-     {
-      "line": 26.5,
-      "overOdds": 6.92,
-      "underOdds": 1.17
-     },
-     {
-      "line": 27.5,
-      "overOdds": 8.18,
-      "underOdds": 1.14
-     },
-     {
-      "line": 28.5,
-      "overOdds": 8.98,
-      "underOdds": 1.13
-     },
-     {
-      "line": 29.5,
-      "overOdds": 9.33,
-      "underOdds": 1.12
-     },
-     {
-      "line": 30.5,
-      "overOdds": 11.51,
-      "underOdds": 1.1
-     },
-     {
-      "line": 31.5,
-      "overOdds": 15.73,
-      "underOdds": 1.07
-     }
-    ],
-    "marginPmf": [
-     [
-      -26,
-      0.0004
-     ],
-     [
-      -25,
-      0.0009
-     ],
-     [
-      -24,
-      0.0013
-     ],
-     [
-      -23,
-      0.0012
-     ],
-     [
-      -22,
-      0.0009
-     ],
-     [
-      -21,
-      0.0009
-     ],
-     [
-      -20,
-      0.0018
-     ],
-     [
-      -19,
-      0.0036
-     ],
-     [
-      -18,
-      0.0054
-     ],
-     [
-      -17,
-      0.0051
-     ],
-     [
-      -16,
-      0.0036
-     ],
-     [
-      -15,
-      0.0033
-     ],
-     [
-      -14,
-      0.006
-     ],
-     [
-      -13,
-      0.0121
-     ],
-     [
-      -12,
-      0.0179
-     ],
-     [
-      -11,
-      0.0167
-     ],
-     [
-      -10,
-      0.0116
-     ],
-     [
-      -9,
-      0.0093
-     ],
-     [
-      -8,
-      0.015
-     ],
-     [
-      -7,
-      0.0294
-     ],
-     [
-      -6,
-      0.0431
-     ],
-     [
-      -5,
-      0.0401
-     ],
-     [
-      -4,
-      0.0269
-     ],
-     [
-      -3,
-      0.0187
-     ],
-     [
-      -2,
-      0.025
-     ],
-     [
-      -1,
-      0.0465
-     ],
-     [
-      0,
-      0.0677
-     ],
-     [
-      1,
-      0.0626
-     ],
-     [
-      2,
-      0.0409
-     ],
-     [
-      3,
-      0.0245
-     ],
-     [
-      4,
-      0.0249
-     ],
-     [
-      5,
-      0.0417
-     ],
-     [
-      6,
-      0.0595
-     ],
-     [
-      7,
-      0.0549
-     ],
-     [
-      8,
-      0.0353
-     ],
-     [
-      9,
-      0.0196
-     ],
-     [
-      10,
-      0.0163
-     ],
-     [
-      11,
-      0.0244
-     ],
-     [
-      12,
-      0.0341
-     ],
-     [
-      13,
-      0.0313
-     ],
-     [
-      14,
-      0.02
-     ],
-     [
-      15,
-      0.0106
-     ],
-     [
-      16,
-      0.0077
-     ],
-     [
-      17,
-      0.0104
-     ],
-     [
-      18,
-      0.0142
-     ],
-     [
-      19,
-      0.013
-     ],
-     [
-      20,
-      0.0083
-     ],
-     [
-      21,
-      0.0043
-     ],
-     [
-      22,
-      0.0028
-     ],
-     [
-      23,
-      0.0035
-     ],
-     [
-      24,
-      0.0046
-     ],
-     [
-      25,
-      0.0042
-     ],
-     [
-      26,
-      0.0027
-     ],
-     [
-      27,
-      0.0014
-     ],
-     [
-      28,
-      0.0008
-     ],
-     [
-      29,
-      0.0009
-     ],
-     [
-      30,
-      0.0012
-     ],
-     [
-      31,
-      0.0011
-     ],
-     [
-      32,
-      0.0007
-     ],
-     [
-      33,
-      0.0004
-     ],
-     [
-      36,
-      0.0003
-     ]
-    ],
-    "_effectiveMargin": 2.7
-   }
-  },
-  "htft": [
-   {
-    "key": "Away/Away",
-    "prob": 0.1503387695757515,
-    "odds": 6.65
-   },
-   {
-    "key": "Away/Draw",
-    "prob": 0.006371002589002361,
-    "odds": 156.96
-   },
-   {
-    "key": "Away/Home",
-    "prob": 0.10456137987920508,
-    "odds": 9.56
-   },
-   {
-    "key": "Draw/Away",
-    "prob": 0.004464221988295991,
-    "odds": 224
-   },
-   {
-    "key": "Draw/Draw",
-    "prob": 0.00047089544247660986,
-    "odds": 1000
-   },
-   {
-    "key": "Draw/Home",
-    "prob": 0.014675239966819104,
-    "odds": 68.14
-   },
-   {
-    "key": "Home/Away",
-    "prob": 0.027136126335452537,
-    "odds": 36.85
-   },
-   {
-    "key": "Home/Draw",
-    "prob": 0.00391615707282586,
-    "odds": 255.35
-   },
-   {
-    "key": "Home/Home",
-    "prob": 0.6880662071501709,
-    "odds": 1.45
-   }
-  ],
-  "notes": {
-   "lineups": "Hawthorn +4 / Essendon +26 fantasy pts vs their usual lineup → -2.9 pts to Hawthorn",
-   "teamNews": "+3.1 pts to Essendon | Hawthorn out: Mackenzie Eardley (Injured, 45 gms)",
-   "conditions": "-13.3 pts to the total (wind 22km/h -3.1; 100% chance of rain, 4.3mm forecast -10.8; 3:05pm local kickoff +0.6)",
-   "travel": "Local derby: both teams are based within 100km of the venue, so no home-ground advantage"
-  }
- },
- {
   "homeTeam": "Blues",
   "awayTeam": "GIANTS",
   "venue": "IKON Park",
@@ -7625,1816 +9,1811 @@
   "levels": {
    "full": {
     "label": "Full Game",
-    "predHome": 60.9,
-    "predAway": 20.9,
-    "predMargin": 40,
-    "predTotal": 81.7,
+    "predHome": 60.4,
+    "predAway": 20.6,
+    "predMargin": 39.8,
+    "predTotal": 81,
     "h2hIsCalibrated": true,
     "h2h": {
      "homeOdds": 1.06,
-     "awayOdds": 18.32,
+     "awayOdds": 18.01,
      "deadHeat": true
     },
     "result3": {
      "homeOdds": 1.06,
-     "drawOdds": 226.08,
-     "awayOdds": 19.08,
-     "pDraw": 0.0044
+     "drawOdds": 223.02,
+     "awayOdds": 18.75,
+     "pDraw": 0.0045
     },
     "line": {
-     "value": 40.5,
-     "homeOdds": 2.03,
-     "awayOdds": 1.97
+     "value": 39.5,
+     "homeOdds": 1.98,
+     "awayOdds": 2.02
     },
     "total": {
      "value": 80.5,
-     "overOdds": 1.99,
-     "underOdds": 2.02
+     "overOdds": 2.04,
+     "underOdds": 1.97
     },
     "marginBands24": [
      {
       "range": "1-24",
-      "homeOdds": 4.76,
-      "awayOdds": 21.06
+      "homeOdds": 4.72,
+      "awayOdds": 20.71
      },
      {
       "range": "25+",
-      "homeOdds": 1.36,
-      "awayOdds": 203.59
+      "homeOdds": 1.37,
+      "awayOdds": 198.64
      }
     ],
     "marginBands39": [
      {
       "range": "1-39",
-      "homeOdds": 2.3,
-      "awayOdds": 19.35
+      "homeOdds": 2.29,
+      "awayOdds": 19.02
      },
      {
       "range": "40+",
-      "homeOdds": 1.97,
+      "homeOdds": 1.98,
       "awayOdds": 1000
      }
     ],
     "altLines": [
      {
-      "line": 4.5,
+      "line": 3.5,
       "homeOdds": 1.08,
-      "awayOdds": 12.9
+      "awayOdds": 13.69
+     },
+     {
+      "line": 4.5,
+      "homeOdds": 1.09,
+      "awayOdds": 12.7
      },
      {
       "line": 5.5,
       "homeOdds": 1.09,
-      "awayOdds": 11.98
+      "awayOdds": 11.79
      },
      {
       "line": 6.5,
       "homeOdds": 1.1,
-      "awayOdds": 11.14
+      "awayOdds": 10.97
      },
      {
       "line": 7.5,
       "homeOdds": 1.11,
-      "awayOdds": 10.37
+      "awayOdds": 10.21
      },
      {
       "line": 8.5,
       "homeOdds": 1.12,
-      "awayOdds": 9.66
+      "awayOdds": 9.52
      },
      {
       "line": 9.5,
-      "homeOdds": 1.12,
-      "awayOdds": 9.02
+      "homeOdds": 1.13,
+      "awayOdds": 8.89
      },
      {
       "line": 10.5,
-      "homeOdds": 1.13,
-      "awayOdds": 8.43
+      "homeOdds": 1.14,
+      "awayOdds": 8.31
      },
      {
       "line": 11.5,
       "homeOdds": 1.15,
-      "awayOdds": 7.89
+      "awayOdds": 7.78
      },
      {
       "line": 12.5,
       "homeOdds": 1.16,
-      "awayOdds": 7.39
+      "awayOdds": 7.29
      },
      {
       "line": 13.5,
       "homeOdds": 1.17,
-      "awayOdds": 6.94
+      "awayOdds": 6.85
      },
      {
       "line": 14.5,
       "homeOdds": 1.18,
-      "awayOdds": 6.52
+      "awayOdds": 6.43
      },
      {
       "line": 15.5,
-      "homeOdds": 1.19,
-      "awayOdds": 6.13
+      "homeOdds": 1.2,
+      "awayOdds": 6.05
      },
      {
       "line": 16.5,
       "homeOdds": 1.21,
-      "awayOdds": 5.78
+      "awayOdds": 5.7
      },
      {
       "line": 17.5,
-      "homeOdds": 1.22,
-      "awayOdds": 5.45
+      "homeOdds": 1.23,
+      "awayOdds": 5.38
      },
      {
       "line": 18.5,
       "homeOdds": 1.24,
-      "awayOdds": 5.15
+      "awayOdds": 5.08
      },
      {
       "line": 19.5,
       "homeOdds": 1.26,
-      "awayOdds": 4.87
+      "awayOdds": 4.81
      },
      {
       "line": 20.5,
       "homeOdds": 1.28,
-      "awayOdds": 4.61
+      "awayOdds": 4.55
      },
      {
       "line": 21.5,
       "homeOdds": 1.3,
-      "awayOdds": 4.37
+      "awayOdds": 4.32
      },
      {
       "line": 22.5,
       "homeOdds": 1.32,
-      "awayOdds": 4.14
+      "awayOdds": 4.1
      },
      {
       "line": 23.5,
-      "homeOdds": 1.34,
-      "awayOdds": 3.94
+      "homeOdds": 1.35,
+      "awayOdds": 3.9
      },
      {
       "line": 24.5,
-      "homeOdds": 1.36,
-      "awayOdds": 3.75
+      "homeOdds": 1.37,
+      "awayOdds": 3.71
      },
      {
       "line": 25.5,
-      "homeOdds": 1.39,
-      "awayOdds": 3.57
+      "homeOdds": 1.4,
+      "awayOdds": 3.53
      },
      {
       "line": 26.5,
       "homeOdds": 1.42,
-      "awayOdds": 3.4
+      "awayOdds": 3.37
      },
      {
       "line": 27.5,
-      "homeOdds": 1.44,
-      "awayOdds": 3.25
+      "homeOdds": 1.45,
+      "awayOdds": 3.22
      },
      {
       "line": 28.5,
       "homeOdds": 1.48,
-      "awayOdds": 3.11
+      "awayOdds": 3.08
      },
      {
       "line": 29.5,
       "homeOdds": 1.51,
-      "awayOdds": 2.97
+      "awayOdds": 2.94
      },
      {
       "line": 30.5,
-      "homeOdds": 1.54,
-      "awayOdds": 2.85
+      "homeOdds": 1.55,
+      "awayOdds": 2.82
      },
      {
       "line": 31.5,
-      "homeOdds": 1.58,
-      "awayOdds": 2.73
+      "homeOdds": 1.59,
+      "awayOdds": 2.71
      },
      {
       "line": 32.5,
       "homeOdds": 1.62,
-      "awayOdds": 2.62
+      "awayOdds": 2.6
      },
      {
       "line": 33.5,
-      "homeOdds": 1.66,
-      "awayOdds": 2.52
+      "homeOdds": 1.67,
+      "awayOdds": 2.5
      },
      {
       "line": 34.5,
-      "homeOdds": 1.7,
-      "awayOdds": 2.43
+      "homeOdds": 1.71,
+      "awayOdds": 2.41
      },
      {
       "line": 35.5,
-      "homeOdds": 1.75,
-      "awayOdds": 2.34
+      "homeOdds": 1.76,
+      "awayOdds": 2.32
      },
      {
       "line": 36.5,
-      "homeOdds": 1.8,
-      "awayOdds": 2.25
+      "homeOdds": 1.81,
+      "awayOdds": 2.24
      },
      {
       "line": 37.5,
-      "homeOdds": 1.85,
-      "awayOdds": 2.18
+      "homeOdds": 1.86,
+      "awayOdds": 2.16
      },
      {
       "line": 38.5,
-      "homeOdds": 1.91,
-      "awayOdds": 2.1
+      "homeOdds": 1.92,
+      "awayOdds": 2.09
      },
      {
       "line": 39.5,
-      "homeOdds": 1.97,
-      "awayOdds": 2.04
+      "homeOdds": 1.98,
+      "awayOdds": 2.02
      },
      {
       "line": 40.5,
-      "homeOdds": 2.03,
-      "awayOdds": 1.97
+      "homeOdds": 2.04,
+      "awayOdds": 1.96
      },
      {
       "line": 41.5,
-      "homeOdds": 2.1,
-      "awayOdds": 1.91
+      "homeOdds": 2.11,
+      "awayOdds": 1.9
      },
      {
       "line": 42.5,
-      "homeOdds": 2.17,
-      "awayOdds": 1.86
+      "homeOdds": 2.19,
+      "awayOdds": 1.84
      },
      {
       "line": 43.5,
-      "homeOdds": 2.25,
-      "awayOdds": 1.8
+      "homeOdds": 2.26,
+      "awayOdds": 1.79
      },
      {
       "line": 44.5,
-      "homeOdds": 2.33,
-      "awayOdds": 1.75
+      "homeOdds": 2.35,
+      "awayOdds": 1.74
      },
      {
       "line": 45.5,
-      "homeOdds": 2.42,
-      "awayOdds": 1.71
+      "homeOdds": 2.44,
+      "awayOdds": 1.7
      },
      {
       "line": 46.5,
-      "homeOdds": 2.51,
-      "awayOdds": 1.66
+      "homeOdds": 2.53,
+      "awayOdds": 1.65
      },
      {
       "line": 47.5,
-      "homeOdds": 2.61,
-      "awayOdds": 1.62
+      "homeOdds": 2.63,
+      "awayOdds": 1.61
      },
      {
       "line": 48.5,
-      "homeOdds": 2.72,
-      "awayOdds": 1.58
+      "homeOdds": 2.74,
+      "awayOdds": 1.57
      },
      {
       "line": 49.5,
-      "homeOdds": 2.84,
+      "homeOdds": 2.86,
       "awayOdds": 1.54
      },
      {
       "line": 50.5,
-      "homeOdds": 2.96,
-      "awayOdds": 1.51
+      "homeOdds": 2.99,
+      "awayOdds": 1.5
      },
      {
       "line": 51.5,
-      "homeOdds": 3.09,
-      "awayOdds": 1.48
+      "homeOdds": 3.12,
+      "awayOdds": 1.47
      },
      {
       "line": 52.5,
-      "homeOdds": 3.23,
-      "awayOdds": 1.45
+      "homeOdds": 3.27,
+      "awayOdds": 1.44
      },
      {
       "line": 53.5,
-      "homeOdds": 3.39,
-      "awayOdds": 1.42
+      "homeOdds": 3.42,
+      "awayOdds": 1.41
      },
      {
       "line": 54.5,
-      "homeOdds": 3.55,
+      "homeOdds": 3.59,
       "awayOdds": 1.39
      },
      {
       "line": 55.5,
-      "homeOdds": 3.73,
-      "awayOdds": 1.37
+      "homeOdds": 3.77,
+      "awayOdds": 1.36
      },
      {
       "line": 56.5,
-      "homeOdds": 3.92,
+      "homeOdds": 3.96,
       "awayOdds": 1.34
      },
      {
       "line": 57.5,
-      "homeOdds": 4.12,
+      "homeOdds": 4.17,
       "awayOdds": 1.32
      },
      {
       "line": 58.5,
-      "homeOdds": 4.34,
-      "awayOdds": 1.3
+      "homeOdds": 4.39,
+      "awayOdds": 1.29
      },
      {
       "line": 59.5,
-      "homeOdds": 4.58,
+      "homeOdds": 4.63,
       "awayOdds": 1.28
      },
      {
       "line": 60.5,
-      "homeOdds": 4.84,
+      "homeOdds": 4.9,
       "awayOdds": 1.26
      },
      {
       "line": 61.5,
-      "homeOdds": 5.12,
+      "homeOdds": 5.18,
       "awayOdds": 1.24
      },
      {
       "line": 62.5,
-      "homeOdds": 5.42,
-      "awayOdds": 1.23
+      "homeOdds": 5.48,
+      "awayOdds": 1.22
      },
      {
       "line": 63.5,
-      "homeOdds": 5.74,
+      "homeOdds": 5.82,
       "awayOdds": 1.21
      },
      {
       "line": 64.5,
-      "homeOdds": 6.1,
-      "awayOdds": 1.2
+      "homeOdds": 6.18,
+      "awayOdds": 1.19
      },
      {
       "line": 65.5,
-      "homeOdds": 6.48,
+      "homeOdds": 6.57,
       "awayOdds": 1.18
      },
      {
       "line": 66.5,
-      "homeOdds": 6.9,
+      "homeOdds": 6.99,
       "awayOdds": 1.17
      },
      {
       "line": 67.5,
-      "homeOdds": 7.35,
+      "homeOdds": 7.45,
       "awayOdds": 1.16
      },
      {
       "line": 68.5,
-      "homeOdds": 7.84,
-      "awayOdds": 1.15
-     },
-     {
-      "line": 69.5,
-      "homeOdds": 8.38,
+      "homeOdds": 7.95,
       "awayOdds": 1.14
      },
      {
-      "line": 70.5,
-      "homeOdds": 8.96,
+      "line": 69.5,
+      "homeOdds": 8.5,
       "awayOdds": 1.13
      },
      {
-      "line": 71.5,
-      "homeOdds": 9.6,
+      "line": 70.5,
+      "homeOdds": 9.09,
       "awayOdds": 1.12
      },
      {
+      "line": 71.5,
+      "homeOdds": 9.74,
+      "awayOdds": 1.11
+     },
+     {
       "line": 72.5,
-      "homeOdds": 10.29,
+      "homeOdds": 10.45,
       "awayOdds": 1.11
      },
      {
       "line": 73.5,
-      "homeOdds": 11.06,
+      "homeOdds": 11.23,
       "awayOdds": 1.1
      },
      {
       "line": 74.5,
-      "homeOdds": 11.89,
+      "homeOdds": 12.08,
       "awayOdds": 1.09
      },
      {
       "line": 75.5,
-      "homeOdds": 12.81,
-      "awayOdds": 1.08
-     },
-     {
-      "line": 76.5,
-      "homeOdds": 13.81,
+      "homeOdds": 13.01,
       "awayOdds": 1.08
      }
     ],
     "altTotals": [
      {
       "line": 50.5,
-      "overOdds": 1.08,
-      "underOdds": 13.31
+      "overOdds": 1.09,
+      "underOdds": 12.27
      },
      {
       "line": 51.5,
-      "overOdds": 1.09,
-      "underOdds": 12.13
+      "overOdds": 1.1,
+      "underOdds": 11.21
      },
      {
       "line": 52.5,
-      "overOdds": 1.1,
-      "underOdds": 11.08
+      "overOdds": 1.11,
+      "underOdds": 10.26
      },
      {
       "line": 53.5,
-      "overOdds": 1.11,
-      "underOdds": 10.14
+      "overOdds": 1.12,
+      "underOdds": 9.42
      },
      {
       "line": 54.5,
-      "overOdds": 1.12,
-      "underOdds": 9.3
+      "overOdds": 1.13,
+      "underOdds": 8.66
      },
      {
       "line": 55.5,
-      "overOdds": 1.13,
-      "underOdds": 8.56
+      "overOdds": 1.14,
+      "underOdds": 7.98
      },
      {
       "line": 56.5,
-      "overOdds": 1.15,
-      "underOdds": 7.88
+      "overOdds": 1.16,
+      "underOdds": 7.37
      },
      {
       "line": 57.5,
-      "overOdds": 1.16,
-      "underOdds": 7.28
+      "overOdds": 1.17,
+      "underOdds": 6.83
      },
      {
       "line": 58.5,
-      "overOdds": 1.17,
-      "underOdds": 6.74
+      "overOdds": 1.19,
+      "underOdds": 6.33
      },
      {
       "line": 59.5,
-      "overOdds": 1.19,
-      "underOdds": 6.25
+      "overOdds": 1.2,
+      "underOdds": 5.89
      },
      {
       "line": 60.5,
-      "overOdds": 1.21,
-      "underOdds": 5.81
+      "overOdds": 1.22,
+      "underOdds": 5.49
      },
      {
       "line": 61.5,
-      "overOdds": 1.23,
-      "underOdds": 5.42
+      "overOdds": 1.24,
+      "underOdds": 5.12
      },
      {
       "line": 62.5,
-      "overOdds": 1.25,
-      "underOdds": 5.06
+      "overOdds": 1.26,
+      "underOdds": 4.79
      },
      {
       "line": 63.5,
-      "overOdds": 1.27,
-      "underOdds": 4.73
+      "overOdds": 1.29,
+      "underOdds": 4.49
      },
      {
       "line": 64.5,
-      "overOdds": 1.29,
-      "underOdds": 4.43
+      "overOdds": 1.31,
+      "underOdds": 4.22
      },
      {
       "line": 65.5,
-      "overOdds": 1.32,
-      "underOdds": 4.16
+      "overOdds": 1.34,
+      "underOdds": 3.97
      },
      {
       "line": 66.5,
-      "overOdds": 1.34,
-      "underOdds": 3.92
+      "overOdds": 1.36,
+      "underOdds": 3.74
      },
      {
       "line": 67.5,
-      "overOdds": 1.37,
-      "underOdds": 3.69
+      "overOdds": 1.39,
+      "underOdds": 3.53
      },
      {
       "line": 68.5,
-      "overOdds": 1.4,
-      "underOdds": 3.49
+      "overOdds": 1.43,
+      "underOdds": 3.34
      },
      {
       "line": 69.5,
-      "overOdds": 1.43,
-      "underOdds": 3.3
+      "overOdds": 1.46,
+      "underOdds": 3.17
      },
      {
       "line": 70.5,
-      "overOdds": 1.47,
-      "underOdds": 3.13
+      "overOdds": 1.5,
+      "underOdds": 3.01
      },
      {
       "line": 71.5,
-      "overOdds": 1.51,
-      "underOdds": 2.97
+      "overOdds": 1.54,
+      "underOdds": 2.86
      },
      {
       "line": 72.5,
-      "overOdds": 1.55,
-      "underOdds": 2.83
+      "overOdds": 1.58,
+      "underOdds": 2.73
      },
      {
       "line": 73.5,
-      "overOdds": 1.59,
-      "underOdds": 2.7
+      "overOdds": 1.62,
+      "underOdds": 2.6
      },
      {
       "line": 74.5,
-      "overOdds": 1.64,
-      "underOdds": 2.57
+      "overOdds": 1.67,
+      "underOdds": 2.49
      },
      {
       "line": 75.5,
-      "overOdds": 1.68,
-      "underOdds": 2.46
+      "overOdds": 1.72,
+      "underOdds": 2.38
      },
      {
       "line": 76.5,
-      "overOdds": 1.74,
-      "underOdds": 2.36
+      "overOdds": 1.78,
+      "underOdds": 2.29
      },
      {
       "line": 77.5,
-      "overOdds": 1.79,
-      "underOdds": 2.26
+      "overOdds": 1.84,
+      "underOdds": 2.2
      },
      {
       "line": 78.5,
-      "overOdds": 1.85,
-      "underOdds": 2.17
+      "overOdds": 1.9,
+      "underOdds": 2.11
      },
      {
       "line": 79.5,
-      "overOdds": 1.92,
-      "underOdds": 2.09
+      "overOdds": 1.96,
+      "underOdds": 2.04
      },
      {
       "line": 80.5,
-      "overOdds": 1.99,
-      "underOdds": 2.02
+      "overOdds": 2.04,
+      "underOdds": 1.97
      },
      {
       "line": 81.5,
-      "overOdds": 2.06,
-      "underOdds": 1.94
+      "overOdds": 2.11,
+      "underOdds": 1.9
      },
      {
       "line": 82.5,
-      "overOdds": 2.14,
-      "underOdds": 1.88
+      "overOdds": 2.19,
+      "underOdds": 1.84
      },
      {
       "line": 83.5,
-      "overOdds": 2.22,
-      "underOdds": 1.82
+      "overOdds": 2.28,
+      "underOdds": 1.78
      },
      {
       "line": 84.5,
-      "overOdds": 2.31,
-      "underOdds": 1.76
+      "overOdds": 2.38,
+      "underOdds": 1.73
      },
      {
       "line": 85.5,
-      "overOdds": 2.41,
-      "underOdds": 1.71
+      "overOdds": 2.48,
+      "underOdds": 1.68
      },
      {
       "line": 86.5,
-      "overOdds": 2.51,
-      "underOdds": 1.66
+      "overOdds": 2.58,
+      "underOdds": 1.63
      },
      {
       "line": 87.5,
-      "overOdds": 2.62,
-      "underOdds": 1.62
+      "overOdds": 2.7,
+      "underOdds": 1.59
      },
      {
       "line": 88.5,
-      "overOdds": 2.74,
-      "underOdds": 1.57
+      "overOdds": 2.82,
+      "underOdds": 1.55
      },
      {
       "line": 89.5,
-      "overOdds": 2.87,
-      "underOdds": 1.54
+      "overOdds": 2.95,
+      "underOdds": 1.51
      },
      {
       "line": 90.5,
-      "overOdds": 3,
-      "underOdds": 1.5
+      "overOdds": 3.1,
+      "underOdds": 1.48
      },
      {
       "line": 91.5,
-      "overOdds": 3.15,
-      "underOdds": 1.47
+      "overOdds": 3.25,
+      "underOdds": 1.44
      },
      {
       "line": 92.5,
-      "overOdds": 3.31,
-      "underOdds": 1.43
+      "overOdds": 3.41,
+      "underOdds": 1.41
      },
      {
       "line": 93.5,
-      "overOdds": 3.48,
-      "underOdds": 1.4
+      "overOdds": 3.59,
+      "underOdds": 1.39
      },
      {
       "line": 94.5,
-      "overOdds": 3.66,
-      "underOdds": 1.38
+      "overOdds": 3.78,
+      "underOdds": 1.36
      },
      {
       "line": 95.5,
-      "overOdds": 3.86,
-      "underOdds": 1.35
+      "overOdds": 3.98,
+      "underOdds": 1.34
      },
      {
       "line": 96.5,
-      "overOdds": 4.07,
-      "underOdds": 1.33
+      "overOdds": 4.2,
+      "underOdds": 1.31
      },
      {
       "line": 97.5,
-      "overOdds": 4.3,
-      "underOdds": 1.3
+      "overOdds": 4.44,
+      "underOdds": 1.29
      },
      {
       "line": 98.5,
-      "overOdds": 4.54,
-      "underOdds": 1.28
+      "overOdds": 4.7,
+      "underOdds": 1.27
      },
      {
       "line": 99.5,
-      "overOdds": 4.81,
-      "underOdds": 1.26
+      "overOdds": 4.97,
+      "underOdds": 1.25
      },
      {
       "line": 100.5,
-      "overOdds": 5.09,
-      "underOdds": 1.24
-     },
-     {
-      "line": 101.5,
-      "overOdds": 5.4,
+      "overOdds": 5.27,
       "underOdds": 1.23
      },
      {
-      "line": 102.5,
-      "overOdds": 5.73,
-      "underOdds": 1.21
+      "line": 101.5,
+      "overOdds": 5.59,
+      "underOdds": 1.22
      },
      {
-      "line": 103.5,
-      "overOdds": 6.1,
+      "line": 102.5,
+      "overOdds": 5.94,
       "underOdds": 1.2
      },
      {
-      "line": 104.5,
-      "overOdds": 6.49,
-      "underOdds": 1.18
+      "line": 103.5,
+      "overOdds": 6.32,
+      "underOdds": 1.19
      },
      {
-      "line": 105.5,
-      "overOdds": 6.91,
+      "line": 104.5,
+      "overOdds": 6.72,
       "underOdds": 1.17
      },
      {
-      "line": 106.5,
-      "overOdds": 7.37,
+      "line": 105.5,
+      "overOdds": 7.16,
       "underOdds": 1.16
      },
      {
-      "line": 107.5,
-      "overOdds": 7.87,
+      "line": 106.5,
+      "overOdds": 7.64,
       "underOdds": 1.15
      },
      {
+      "line": 107.5,
+      "overOdds": 8.16,
+      "underOdds": 1.14
+     },
+     {
       "line": 108.5,
-      "overOdds": 8.41,
+      "overOdds": 8.72,
       "underOdds": 1.13
      },
      {
       "line": 109.5,
-      "overOdds": 9,
-      "underOdds": 1.13
+      "overOdds": 9.33,
+      "underOdds": 1.12
      },
      {
       "line": 110.5,
-      "overOdds": 9.64,
-      "underOdds": 1.12
+      "overOdds": 10,
+      "underOdds": 1.11
      }
     ],
-    "_effectiveMargin": 40,
-    "_pHome": 0.9454196855863384,
+    "_effectiveMargin": 39.8,
+    "_pHome": 0.9444723525443843,
     "homeTeamTotal": {
-     "predScore": 60.9,
-     "value": 59.5,
-     "overOdds": 2.04,
-     "underOdds": 1.96,
+     "predScore": 60.4,
+     "value": 58.5,
+     "overOdds": 1.99,
+     "underOdds": 2.01,
      "altTotals": [
+      {
+       "line": 28.5,
+       "overOdds": 1.01,
+       "underOdds": 87.5
+      },
       {
        "line": 29.5,
        "overOdds": 1.01,
-       "underOdds": 80.72
+       "underOdds": 69.79
       },
       {
        "line": 30.5,
        "overOdds": 1.02,
-       "underOdds": 64.4
+       "underOdds": 56.13
       },
       {
        "line": 31.5,
        "overOdds": 1.02,
-       "underOdds": 51.82
+       "underOdds": 45.52
       },
       {
        "line": 32.5,
-       "overOdds": 1.02,
-       "underOdds": 42.06
+       "overOdds": 1.03,
+       "underOdds": 37.21
       },
       {
        "line": 33.5,
        "overOdds": 1.03,
-       "underOdds": 34.42
+       "underOdds": 30.67
       },
       {
        "line": 34.5,
        "overOdds": 1.04,
-       "underOdds": 28.4
+       "underOdds": 25.48
       },
       {
        "line": 35.5,
-       "overOdds": 1.04,
-       "underOdds": 23.62
+       "overOdds": 1.05,
+       "underOdds": 21.33
       },
       {
        "line": 36.5,
-       "overOdds": 1.05,
-       "underOdds": 19.8
+       "overOdds": 1.06,
+       "underOdds": 17.99
       },
       {
        "line": 37.5,
-       "overOdds": 1.06,
-       "underOdds": 16.73
+       "overOdds": 1.07,
+       "underOdds": 15.29
       },
       {
        "line": 38.5,
        "overOdds": 1.08,
-       "underOdds": 14.24
+       "underOdds": 13.09
       },
       {
        "line": 39.5,
-       "overOdds": 1.09,
-       "underOdds": 12.21
+       "overOdds": 1.1,
+       "underOdds": 11.28
       },
       {
        "line": 40.5,
-       "overOdds": 1.1,
-       "underOdds": 10.55
+       "overOdds": 1.11,
+       "underOdds": 9.8
       },
       {
        "line": 41.5,
-       "overOdds": 1.12,
-       "underOdds": 9.17
+       "overOdds": 1.13,
+       "underOdds": 8.56
       },
       {
        "line": 42.5,
-       "overOdds": 1.14,
-       "underOdds": 8.04
+       "overOdds": 1.15,
+       "underOdds": 7.53
       },
       {
        "line": 43.5,
-       "overOdds": 1.16,
-       "underOdds": 7.08
+       "overOdds": 1.18,
+       "underOdds": 6.67
       },
       {
        "line": 44.5,
-       "overOdds": 1.19,
-       "underOdds": 6.29
+       "overOdds": 1.2,
+       "underOdds": 5.94
       },
       {
        "line": 45.5,
-       "overOdds": 1.22,
-       "underOdds": 5.61
+       "overOdds": 1.23,
+       "underOdds": 5.33
       },
       {
        "line": 46.5,
-       "overOdds": 1.25,
-       "underOdds": 5.04
+       "overOdds": 1.26,
+       "underOdds": 4.8
       },
       {
        "line": 47.5,
-       "overOdds": 1.28,
-       "underOdds": 4.56
+       "overOdds": 1.3,
+       "underOdds": 4.35
       },
       {
        "line": 48.5,
-       "overOdds": 1.32,
-       "underOdds": 4.14
+       "overOdds": 1.34,
+       "underOdds": 3.97
       },
       {
        "line": 49.5,
-       "overOdds": 1.36,
-       "underOdds": 3.78
+       "overOdds": 1.38,
+       "underOdds": 3.64
       },
       {
        "line": 50.5,
-       "overOdds": 1.4,
-       "underOdds": 3.47
+       "overOdds": 1.43,
+       "underOdds": 3.35
       },
       {
        "line": 51.5,
-       "overOdds": 1.45,
-       "underOdds": 3.2
+       "overOdds": 1.48,
+       "underOdds": 3.1
       },
       {
        "line": 52.5,
-       "overOdds": 1.51,
-       "underOdds": 2.97
+       "overOdds": 1.53,
+       "underOdds": 2.88
       },
       {
        "line": 53.5,
-       "overOdds": 1.57,
-       "underOdds": 2.77
+       "overOdds": 1.59,
+       "underOdds": 2.69
       },
       {
        "line": 54.5,
-       "overOdds": 1.63,
-       "underOdds": 2.59
+       "overOdds": 1.66,
+       "underOdds": 2.52
       },
       {
        "line": 55.5,
-       "overOdds": 1.7,
-       "underOdds": 2.43
+       "overOdds": 1.73,
+       "underOdds": 2.37
       },
       {
        "line": 56.5,
-       "overOdds": 1.78,
-       "underOdds": 2.29
+       "overOdds": 1.81,
+       "underOdds": 2.24
       },
       {
        "line": 57.5,
-       "overOdds": 1.86,
-       "underOdds": 2.17
+       "overOdds": 1.89,
+       "underOdds": 2.12
       },
       {
        "line": 58.5,
-       "overOdds": 1.95,
-       "underOdds": 2.06
+       "overOdds": 1.99,
+       "underOdds": 2.01
       },
       {
        "line": 59.5,
-       "overOdds": 2.04,
-       "underOdds": 1.96
+       "overOdds": 2.09,
+       "underOdds": 1.92
       },
       {
        "line": 60.5,
-       "overOdds": 2.15,
-       "underOdds": 1.87
+       "overOdds": 2.19,
+       "underOdds": 1.84
       },
       {
        "line": 61.5,
-       "overOdds": 2.26,
-       "underOdds": 1.79
+       "overOdds": 2.31,
+       "underOdds": 1.76
       },
       {
        "line": 62.5,
-       "overOdds": 2.39,
-       "underOdds": 1.72
+       "overOdds": 2.44,
+       "underOdds": 1.69
       },
       {
        "line": 63.5,
-       "overOdds": 2.52,
-       "underOdds": 1.66
+       "overOdds": 2.58,
+       "underOdds": 1.63
       },
       {
        "line": 64.5,
-       "overOdds": 2.66,
-       "underOdds": 1.6
+       "overOdds": 2.73,
+       "underOdds": 1.58
       },
       {
        "line": 65.5,
-       "overOdds": 2.82,
-       "underOdds": 1.55
+       "overOdds": 2.89,
+       "underOdds": 1.53
       },
       {
        "line": 66.5,
-       "overOdds": 2.99,
-       "underOdds": 1.5
+       "overOdds": 3.07,
+       "underOdds": 1.48
       },
       {
        "line": 67.5,
-       "overOdds": 3.18,
-       "underOdds": 1.46
+       "overOdds": 3.26,
+       "underOdds": 1.44
       },
       {
        "line": 68.5,
-       "overOdds": 3.38,
-       "underOdds": 1.42
+       "overOdds": 3.47,
+       "underOdds": 1.4
       },
       {
        "line": 69.5,
-       "overOdds": 3.6,
-       "underOdds": 1.38
+       "overOdds": 3.7,
+       "underOdds": 1.37
       },
       {
        "line": 70.5,
-       "overOdds": 3.84,
-       "underOdds": 1.35
+       "overOdds": 3.95,
+       "underOdds": 1.34
       },
       {
        "line": 71.5,
-       "overOdds": 4.1,
-       "underOdds": 1.32
+       "overOdds": 4.22,
+       "underOdds": 1.31
       },
       {
        "line": 72.5,
-       "overOdds": 4.38,
-       "underOdds": 1.3
+       "overOdds": 4.51,
+       "underOdds": 1.28
       },
       {
        "line": 73.5,
-       "overOdds": 4.69,
-       "underOdds": 1.27
+       "overOdds": 4.83,
+       "underOdds": 1.26
       },
       {
        "line": 74.5,
-       "overOdds": 5.03,
-       "underOdds": 1.25
+       "overOdds": 5.19,
+       "underOdds": 1.24
       },
       {
        "line": 75.5,
-       "overOdds": 5.4,
-       "underOdds": 1.23
+       "overOdds": 5.57,
+       "underOdds": 1.22
       },
       {
        "line": 76.5,
-       "overOdds": 5.81,
-       "underOdds": 1.21
+       "overOdds": 5.99,
+       "underOdds": 1.2
       },
       {
        "line": 77.5,
-       "overOdds": 6.25,
-       "underOdds": 1.19
+       "overOdds": 6.46,
+       "underOdds": 1.18
       },
       {
        "line": 78.5,
-       "overOdds": 6.74,
+       "overOdds": 6.97,
        "underOdds": 1.17
       },
       {
        "line": 79.5,
-       "overOdds": 7.28,
-       "underOdds": 1.16
-      },
-      {
-       "line": 80.5,
-       "overOdds": 7.87,
+       "overOdds": 7.53,
        "underOdds": 1.15
       },
       {
+       "line": 80.5,
+       "overOdds": 8.14,
+       "underOdds": 1.14
+      },
+      {
        "line": 81.5,
-       "overOdds": 8.51,
+       "overOdds": 8.82,
        "underOdds": 1.13
       },
       {
        "line": 82.5,
-       "overOdds": 9.23,
+       "overOdds": 9.56,
        "underOdds": 1.12
       },
       {
        "line": 83.5,
-       "overOdds": 10.02,
+       "overOdds": 10.39,
        "underOdds": 1.11
       },
       {
        "line": 84.5,
-       "overOdds": 10.89,
+       "overOdds": 11.3,
        "underOdds": 1.1
       },
       {
        "line": 85.5,
-       "overOdds": 11.85,
+       "overOdds": 12.31,
        "underOdds": 1.09
       },
       {
        "line": 86.5,
-       "overOdds": 12.92,
+       "overOdds": 13.43,
        "underOdds": 1.08
       },
       {
        "line": 87.5,
-       "overOdds": 14.1,
-       "underOdds": 1.08
-      },
-      {
-       "line": 88.5,
-       "overOdds": 15.41,
+       "overOdds": 14.67,
        "underOdds": 1.07
       },
       {
-       "line": 89.5,
-       "overOdds": 16.87,
-       "underOdds": 1.06
+       "line": 88.5,
+       "overOdds": 16.04,
+       "underOdds": 1.07
       }
      ]
     },
     "awayTeamTotal": {
-     "predScore": 20.8,
-     "value": 19.5,
-     "overOdds": 2.05,
-     "underOdds": 1.95,
+     "predScore": 20.6,
+     "value": 18.5,
+     "overOdds": 1.97,
+     "underOdds": 2.03,
      "altTotals": [
       {
        "line": 0.5,
        "overOdds": 1.11,
-       "underOdds": 10.47
+       "underOdds": 10.02
       },
       {
        "line": 1.5,
-       "overOdds": 1.12,
-       "underOdds": 9.11
+       "overOdds": 1.13,
+       "underOdds": 8.75
       },
       {
        "line": 2.5,
-       "overOdds": 1.14,
-       "underOdds": 7.98
+       "overOdds": 1.15,
+       "underOdds": 7.69
       },
       {
        "line": 3.5,
        "overOdds": 1.17,
-       "underOdds": 7.04
+       "underOdds": 6.8
       },
       {
        "line": 4.5,
-       "overOdds": 1.19,
-       "underOdds": 6.25
+       "overOdds": 1.2,
+       "underOdds": 6.05
       },
       {
        "line": 5.5,
-       "overOdds": 1.22,
-       "underOdds": 5.58
+       "overOdds": 1.23,
+       "underOdds": 5.42
       },
       {
        "line": 6.5,
-       "overOdds": 1.25,
-       "underOdds": 5.02
+       "overOdds": 1.26,
+       "underOdds": 4.88
       },
       {
        "line": 7.5,
-       "overOdds": 1.28,
-       "underOdds": 4.53
+       "overOdds": 1.29,
+       "underOdds": 4.42
       },
       {
        "line": 8.5,
-       "overOdds": 1.32,
-       "underOdds": 4.12
+       "overOdds": 1.33,
+       "underOdds": 4.03
       },
       {
        "line": 9.5,
-       "overOdds": 1.36,
-       "underOdds": 3.77
+       "overOdds": 1.37,
+       "underOdds": 3.69
       },
       {
        "line": 10.5,
-       "overOdds": 1.41,
-       "underOdds": 3.46
+       "overOdds": 1.42,
+       "underOdds": 3.39
       },
       {
        "line": 11.5,
-       "overOdds": 1.46,
-       "underOdds": 3.19
+       "overOdds": 1.47,
+       "underOdds": 3.13
       },
       {
        "line": 12.5,
-       "overOdds": 1.51,
-       "underOdds": 2.96
+       "overOdds": 1.52,
+       "underOdds": 2.91
       },
       {
        "line": 13.5,
-       "overOdds": 1.57,
-       "underOdds": 2.76
+       "overOdds": 1.58,
+       "underOdds": 2.71
       },
       {
        "line": 14.5,
-       "overOdds": 1.63,
-       "underOdds": 2.58
+       "overOdds": 1.65,
+       "underOdds": 2.54
       },
       {
        "line": 15.5,
-       "overOdds": 1.7,
-       "underOdds": 2.42
+       "overOdds": 1.72,
+       "underOdds": 2.39
       },
       {
        "line": 16.5,
-       "overOdds": 1.78,
-       "underOdds": 2.28
+       "overOdds": 1.8,
+       "underOdds": 2.26
       },
       {
        "line": 17.5,
-       "overOdds": 1.86,
-       "underOdds": 2.16
+       "overOdds": 1.88,
+       "underOdds": 2.14
       },
       {
        "line": 18.5,
-       "overOdds": 1.95,
-       "underOdds": 2.05
+       "overOdds": 1.97,
+       "underOdds": 2.03
       },
       {
        "line": 19.5,
-       "overOdds": 2.05,
-       "underOdds": 1.95
+       "overOdds": 2.07,
+       "underOdds": 1.94
       },
       {
        "line": 20.5,
-       "overOdds": 2.15,
-       "underOdds": 1.87
+       "overOdds": 2.18,
+       "underOdds": 1.85
       },
       {
        "line": 21.5,
-       "overOdds": 2.27,
-       "underOdds": 1.79
+       "overOdds": 2.29,
+       "underOdds": 1.77
       },
       {
        "line": 22.5,
-       "overOdds": 2.39,
-       "underOdds": 1.72
+       "overOdds": 2.42,
+       "underOdds": 1.71
       },
       {
        "line": 23.5,
-       "overOdds": 2.53,
-       "underOdds": 1.66
+       "overOdds": 2.55,
+       "underOdds": 1.64
       },
       {
        "line": 24.5,
-       "overOdds": 2.67,
-       "underOdds": 1.6
+       "overOdds": 2.7,
+       "underOdds": 1.59
       },
       {
        "line": 25.5,
-       "overOdds": 2.83,
-       "underOdds": 1.55
+       "overOdds": 2.86,
+       "underOdds": 1.54
       },
       {
        "line": 26.5,
-       "overOdds": 3,
-       "underOdds": 1.5
+       "overOdds": 3.04,
+       "underOdds": 1.49
       },
       {
        "line": 27.5,
-       "overOdds": 3.19,
-       "underOdds": 1.46
+       "overOdds": 3.23,
+       "underOdds": 1.45
       },
       {
        "line": 28.5,
-       "overOdds": 3.39,
-       "underOdds": 1.42
+       "overOdds": 3.43,
+       "underOdds": 1.41
       },
       {
        "line": 29.5,
-       "overOdds": 3.61,
+       "overOdds": 3.66,
        "underOdds": 1.38
       },
       {
        "line": 30.5,
-       "overOdds": 3.85,
-       "underOdds": 1.35
+       "overOdds": 3.9,
+       "underOdds": 1.34
       },
       {
        "line": 31.5,
-       "overOdds": 4.11,
+       "overOdds": 4.17,
        "underOdds": 1.32
       },
       {
        "line": 32.5,
-       "overOdds": 4.4,
+       "overOdds": 4.46,
        "underOdds": 1.29
       },
       {
        "line": 33.5,
-       "overOdds": 4.71,
-       "underOdds": 1.27
+       "overOdds": 4.78,
+       "underOdds": 1.26
       },
       {
        "line": 34.5,
-       "overOdds": 5.05,
-       "underOdds": 1.25
+       "overOdds": 5.13,
+       "underOdds": 1.24
       },
       {
        "line": 35.5,
-       "overOdds": 5.42,
-       "underOdds": 1.23
+       "overOdds": 5.51,
+       "underOdds": 1.22
       },
       {
        "line": 36.5,
-       "overOdds": 5.83,
-       "underOdds": 1.21
+       "overOdds": 5.92,
+       "underOdds": 1.2
       },
       {
        "line": 37.5,
-       "overOdds": 6.28,
+       "overOdds": 6.38,
        "underOdds": 1.19
       },
       {
        "line": 38.5,
-       "overOdds": 6.77,
+       "overOdds": 6.88,
        "underOdds": 1.17
       },
       {
        "line": 39.5,
-       "overOdds": 7.3,
+       "overOdds": 7.43,
        "underOdds": 1.16
       },
       {
        "line": 40.5,
-       "overOdds": 7.9,
-       "underOdds": 1.15
+       "overOdds": 8.04,
+       "underOdds": 1.14
       },
       {
        "line": 41.5,
-       "overOdds": 8.55,
+       "overOdds": 8.7,
        "underOdds": 1.13
       },
       {
        "line": 42.5,
-       "overOdds": 9.27,
+       "overOdds": 9.44,
        "underOdds": 1.12
       },
       {
        "line": 43.5,
-       "overOdds": 10.06,
+       "overOdds": 10.25,
        "underOdds": 1.11
       },
       {
        "line": 44.5,
-       "overOdds": 10.93,
+       "overOdds": 11.15,
        "underOdds": 1.1
       },
       {
        "line": 45.5,
-       "overOdds": 11.9,
+       "overOdds": 12.14,
        "underOdds": 1.09
       },
       {
        "line": 46.5,
-       "overOdds": 12.97,
+       "overOdds": 13.24,
        "underOdds": 1.08
       },
       {
        "line": 47.5,
-       "overOdds": 14.16,
-       "underOdds": 1.08
-      },
-      {
-       "line": 48.5,
-       "overOdds": 15.48,
+       "overOdds": 14.45,
        "underOdds": 1.07
       },
       {
-       "line": 49.5,
-       "overOdds": 16.94,
-       "underOdds": 1.06
+       "line": 48.5,
+       "overOdds": 15.81,
+       "underOdds": 1.07
       }
      ]
     },
     "firstScore": {
      "homeOdds": 1.55,
-     "awayOdds": 2.83
+     "awayOdds": 2.82
     },
     "firstGoal": {
      "homeOdds": 1.33,
-     "awayOdds": 4.02
+     "awayOdds": 4
     },
     "firstScoringPlay": {
-     "homeGoal": 3.09,
-     "homeBehind": 3.09,
-     "awayGoal": 5.66,
-     "awayBehind": 5.66
+     "homeGoal": 3.1,
+     "homeBehind": 3.1,
+     "awayGoal": 5.65,
+     "awayBehind": 5.65
     }
    },
    "h1": {
     "label": "1st Half",
-    "predHome": 31.3,
-    "predAway": 9.3,
-    "predMargin": 22,
-    "predTotal": 40.5,
+    "predHome": 31.1,
+    "predAway": 9.2,
+    "predMargin": 21.9,
+    "predTotal": 40.2,
     "h2hIsCalibrated": true,
     "h2h": {
      "homeOdds": 1.11,
-     "awayOdds": 10.95,
-     "drawOdds": 98.92
+     "awayOdds": 10.8,
+     "drawOdds": 97.93
     },
     "result3": {
      "homeOdds": 1.11,
-     "drawOdds": 98.92,
-     "awayOdds": 10.95,
-     "pDraw": 0.0101
+     "drawOdds": 97.93,
+     "awayOdds": 10.8,
+     "pDraw": 0.0102
     },
     "line": {
-     "value": 22.5,
-     "homeOdds": 2.05,
-     "awayOdds": 1.95
+     "value": 21.5,
+     "homeOdds": 1.97,
+     "awayOdds": 2.04
     },
     "total": {
      "value": 40.5,
-     "overOdds": 1.99,
-     "underOdds": 2.01
+     "overOdds": 2.03,
+     "underOdds": 1.97
     },
     "marginBands24": [
      {
       "range": "1-24",
-      "homeOdds": 2.19,
-      "awayOdds": 11.31
+      "homeOdds": 2.18,
+      "awayOdds": 11.16
      },
      {
       "range": "25+",
-      "homeOdds": 2.27,
-      "awayOdds": 339.18
+      "homeOdds": 2.28,
+      "awayOdds": 331.21
      }
     ],
     "marginBands39": [
      {
       "range": "1-39",
       "homeOdds": 1.34,
-      "awayOdds": 10.96
+      "awayOdds": 10.81
      },
      {
       "range": "40+",
-      "homeOdds": 6.66,
+      "homeOdds": 6.74,
       "awayOdds": 1000
      }
     ],
     "altLines": [
      {
+      "line": -2.5,
+      "homeOdds": 1.08,
+      "awayOdds": 13.42
+     },
+     {
       "line": -1.5,
       "homeOdds": 1.09,
-      "awayOdds": 12.19
+      "awayOdds": 12.02
      },
      {
       "line": -0.5,
       "homeOdds": 1.1,
-      "awayOdds": 10.95
+      "awayOdds": 10.8
      },
      {
       "line": 0.5,
       "homeOdds": 1.11,
-      "awayOdds": 9.86
+      "awayOdds": 9.72
      },
      {
       "line": 1.5,
       "homeOdds": 1.13,
-      "awayOdds": 8.9
+      "awayOdds": 8.78
      },
      {
       "line": 2.5,
       "homeOdds": 1.14,
-      "awayOdds": 8.06
+      "awayOdds": 7.96
      },
      {
       "line": 3.5,
       "homeOdds": 1.16,
-      "awayOdds": 7.32
+      "awayOdds": 7.23
      },
      {
       "line": 4.5,
       "homeOdds": 1.18,
-      "awayOdds": 6.67
+      "awayOdds": 6.59
      },
      {
       "line": 5.5,
       "homeOdds": 1.2,
-      "awayOdds": 6.09
+      "awayOdds": 6.02
      },
      {
       "line": 6.5,
       "homeOdds": 1.22,
-      "awayOdds": 5.58
+      "awayOdds": 5.51
      },
      {
       "line": 7.5,
-      "homeOdds": 1.24,
-      "awayOdds": 5.12
+      "homeOdds": 1.25,
+      "awayOdds": 5.07
      },
      {
       "line": 8.5,
       "homeOdds": 1.27,
-      "awayOdds": 4.72
+      "awayOdds": 4.67
      },
      {
       "line": 9.5,
       "homeOdds": 1.3,
-      "awayOdds": 4.36
+      "awayOdds": 4.31
      },
      {
       "line": 10.5,
       "homeOdds": 1.33,
-      "awayOdds": 4.03
+      "awayOdds": 3.99
      },
      {
       "line": 11.5,
-      "homeOdds": 1.36,
-      "awayOdds": 3.75
+      "homeOdds": 1.37,
+      "awayOdds": 3.71
      },
      {
       "line": 12.5,
-      "homeOdds": 1.4,
-      "awayOdds": 3.49
+      "homeOdds": 1.41,
+      "awayOdds": 3.46
      },
      {
       "line": 13.5,
-      "homeOdds": 1.44,
-      "awayOdds": 3.25
+      "homeOdds": 1.45,
+      "awayOdds": 3.23
      },
      {
       "line": 14.5,
-      "homeOdds": 1.49,
-      "awayOdds": 3.05
+      "homeOdds": 1.5,
+      "awayOdds": 3.02
      },
      {
       "line": 15.5,
-      "homeOdds": 1.54,
-      "awayOdds": 2.86
+      "homeOdds": 1.55,
+      "awayOdds": 2.83
      },
      {
       "line": 16.5,
-      "homeOdds": 1.59,
-      "awayOdds": 2.69
+      "homeOdds": 1.6,
+      "awayOdds": 2.67
      },
      {
       "line": 17.5,
-      "homeOdds": 1.65,
-      "awayOdds": 2.53
+      "homeOdds": 1.66,
+      "awayOdds": 2.51
      },
      {
       "line": 18.5,
-      "homeOdds": 1.72,
-      "awayOdds": 2.39
+      "homeOdds": 1.73,
+      "awayOdds": 2.38
      },
      {
       "line": 19.5,
-      "homeOdds": 1.79,
-      "awayOdds": 2.27
+      "homeOdds": 1.8,
+      "awayOdds": 2.25
      },
      {
       "line": 20.5,
-      "homeOdds": 1.87,
-      "awayOdds": 2.15
+      "homeOdds": 1.88,
+      "awayOdds": 2.14
      },
      {
       "line": 21.5,
-      "homeOdds": 1.95,
-      "awayOdds": 2.05
+      "homeOdds": 1.97,
+      "awayOdds": 2.04
      },
      {
       "line": 22.5,
-      "homeOdds": 2.05,
-      "awayOdds": 1.95
+      "homeOdds": 2.06,
+      "awayOdds": 1.94
      },
      {
       "line": 23.5,
-      "homeOdds": 2.15,
-      "awayOdds": 1.87
+      "homeOdds": 2.17,
+      "awayOdds": 1.86
      },
      {
       "line": 24.5,
-      "homeOdds": 2.27,
-      "awayOdds": 1.79
+      "homeOdds": 2.28,
+      "awayOdds": 1.78
      },
      {
       "line": 25.5,
-      "homeOdds": 2.39,
-      "awayOdds": 1.72
+      "homeOdds": 2.41,
+      "awayOdds": 1.71
      },
      {
       "line": 26.5,
-      "homeOdds": 2.53,
+      "homeOdds": 2.55,
       "awayOdds": 1.65
      },
      {
       "line": 27.5,
-      "homeOdds": 2.68,
+      "homeOdds": 2.71,
       "awayOdds": 1.59
      },
      {
       "line": 28.5,
-      "homeOdds": 2.85,
-      "awayOdds": 1.54
+      "homeOdds": 2.88,
+      "awayOdds": 1.53
      },
      {
       "line": 29.5,
-      "homeOdds": 3.04,
-      "awayOdds": 1.49
+      "homeOdds": 3.07,
+      "awayOdds": 1.48
      },
      {
       "line": 30.5,
-      "homeOdds": 3.25,
+      "homeOdds": 3.28,
       "awayOdds": 1.44
      },
      {
       "line": 31.5,
-      "homeOdds": 3.48,
+      "homeOdds": 3.52,
       "awayOdds": 1.4
      },
      {
       "line": 32.5,
-      "homeOdds": 3.74,
+      "homeOdds": 3.78,
       "awayOdds": 1.36
      },
      {
       "line": 33.5,
-      "homeOdds": 4.03,
+      "homeOdds": 4.07,
       "awayOdds": 1.33
      },
      {
       "line": 34.5,
-      "homeOdds": 4.35,
-      "awayOdds": 1.3
+      "homeOdds": 4.4,
+      "awayOdds": 1.29
      },
      {
       "line": 35.5,
-      "homeOdds": 4.71,
+      "homeOdds": 4.76,
       "awayOdds": 1.27
      },
      {
       "line": 36.5,
-      "homeOdds": 5.12,
+      "homeOdds": 5.17,
       "awayOdds": 1.24
      },
      {
       "line": 37.5,
-      "homeOdds": 5.57,
+      "homeOdds": 5.64,
       "awayOdds": 1.22
      },
      {
       "line": 38.5,
-      "homeOdds": 6.08,
-      "awayOdds": 1.2
+      "homeOdds": 6.15,
+      "awayOdds": 1.19
      },
      {
       "line": 39.5,
-      "homeOdds": 6.66,
-      "awayOdds": 1.18
+      "homeOdds": 6.74,
+      "awayOdds": 1.17
      },
      {
       "line": 40.5,
-      "homeOdds": 7.31,
+      "homeOdds": 7.4,
       "awayOdds": 1.16
      },
      {
       "line": 41.5,
-      "homeOdds": 8.05,
+      "homeOdds": 8.15,
       "awayOdds": 1.14
      },
      {
       "line": 42.5,
-      "homeOdds": 8.89,
-      "awayOdds": 1.13
+      "homeOdds": 9.01,
+      "awayOdds": 1.12
      },
      {
       "line": 43.5,
-      "homeOdds": 9.84,
+      "homeOdds": 9.98,
       "awayOdds": 1.11
      },
      {
       "line": 44.5,
-      "homeOdds": 10.93,
+      "homeOdds": 11.09,
       "awayOdds": 1.1
      },
      {
       "line": 45.5,
-      "homeOdds": 12.18,
+      "homeOdds": 12.35,
       "awayOdds": 1.09
-     },
-     {
-      "line": 46.5,
-      "homeOdds": 13.6,
-      "awayOdds": 1.08
      }
     ],
     "altTotals": [
      {
       "line": 20.5,
-      "overOdds": 1.07,
-      "underOdds": 14.86
+      "overOdds": 1.08,
+      "underOdds": 13.49
      },
      {
       "line": 21.5,
-      "overOdds": 1.08,
-      "underOdds": 12.89
+      "overOdds": 1.09,
+      "underOdds": 11.77
      },
      {
       "line": 22.5,
-      "overOdds": 1.1,
-      "underOdds": 11.23
+      "overOdds": 1.11,
+      "underOdds": 10.31
      },
      {
       "line": 23.5,
-      "overOdds": 1.11,
-      "underOdds": 9.84
+      "overOdds": 1.12,
+      "underOdds": 9.08
      },
      {
       "line": 24.5,
-      "overOdds": 1.13,
-      "underOdds": 8.66
+      "overOdds": 1.14,
+      "underOdds": 8.03
      },
      {
       "line": 25.5,
-      "overOdds": 1.15,
-      "underOdds": 7.65
+      "overOdds": 1.16,
+      "underOdds": 7.13
      },
      {
       "line": 26.5,
-      "overOdds": 1.17,
-      "underOdds": 6.79
+      "overOdds": 1.19,
+      "underOdds": 6.36
      },
      {
       "line": 27.5,
-      "overOdds": 1.2,
-      "underOdds": 6.06
+      "overOdds": 1.21,
+      "underOdds": 5.69
      },
      {
       "line": 28.5,
-      "overOdds": 1.23,
-      "underOdds": 5.43
+      "overOdds": 1.24,
+      "underOdds": 5.12
      },
      {
       "line": 29.5,
-      "overOdds": 1.26,
-      "underOdds": 4.88
+      "overOdds": 1.28,
+      "underOdds": 4.63
      },
      {
       "line": 30.5,
-      "overOdds": 1.29,
-      "underOdds": 4.41
+      "overOdds": 1.31,
+      "underOdds": 4.2
      },
      {
       "line": 31.5,
-      "overOdds": 1.33,
-      "underOdds": 4
+      "overOdds": 1.35,
+      "underOdds": 3.82
      },
      {
       "line": 32.5,
-      "overOdds": 1.38,
-      "underOdds": 3.65
+      "overOdds": 1.4,
+      "underOdds": 3.5
      },
      {
       "line": 33.5,
-      "overOdds": 1.43,
-      "underOdds": 3.34
+      "overOdds": 1.45,
+      "underOdds": 3.21
      },
      {
       "line": 34.5,
-      "overOdds": 1.48,
-      "underOdds": 3.07
+      "overOdds": 1.51,
+      "underOdds": 2.96
      },
      {
       "line": 35.5,
-      "overOdds": 1.55,
-      "underOdds": 2.83
+      "overOdds": 1.57,
+      "underOdds": 2.74
      },
      {
       "line": 36.5,
-      "overOdds": 1.62,
-      "underOdds": 2.62
+      "overOdds": 1.65,
+      "underOdds": 2.55
      },
      {
       "line": 37.5,
-      "overOdds": 1.7,
-      "underOdds": 2.44
+      "overOdds": 1.73,
+      "underOdds": 2.37
      },
      {
       "line": 38.5,
-      "overOdds": 1.78,
-      "underOdds": 2.28
+      "overOdds": 1.82,
+      "underOdds": 2.22
      },
      {
       "line": 39.5,
-      "overOdds": 1.88,
-      "underOdds": 2.13
+      "overOdds": 1.92,
+      "underOdds": 2.09
      },
      {
       "line": 40.5,
-      "overOdds": 1.99,
-      "underOdds": 2.01
+      "overOdds": 2.03,
+      "underOdds": 1.97
      },
      {
       "line": 41.5,
-      "overOdds": 2.12,
-      "underOdds": 1.89
+      "overOdds": 2.16,
+      "underOdds": 1.86
      },
      {
       "line": 42.5,
-      "overOdds": 2.26,
-      "underOdds": 1.79
+      "overOdds": 2.31,
+      "underOdds": 1.76
      },
      {
       "line": 43.5,
-      "overOdds": 2.42,
-      "underOdds": 1.7
+      "overOdds": 2.47,
+      "underOdds": 1.68
      },
      {
       "line": 44.5,
-      "overOdds": 2.6,
-      "underOdds": 1.62
+      "overOdds": 2.66,
+      "underOdds": 1.6
      },
      {
       "line": 45.5,
-      "overOdds": 2.81,
-      "underOdds": 1.55
+      "overOdds": 2.87,
+      "underOdds": 1.54
      },
      {
       "line": 46.5,
-      "overOdds": 3.04,
-      "underOdds": 1.49
+      "overOdds": 3.1,
+      "underOdds": 1.48
      },
      {
       "line": 47.5,
-      "overOdds": 3.31,
-      "underOdds": 1.43
+      "overOdds": 3.38,
+      "underOdds": 1.42
      },
      {
       "line": 48.5,
-      "overOdds": 3.62,
-      "underOdds": 1.38
+      "overOdds": 3.68,
+      "underOdds": 1.37
      },
      {
       "line": 49.5,
-      "overOdds": 3.97,
-      "underOdds": 1.34
+      "overOdds": 4.04,
+      "underOdds": 1.33
      },
      {
       "line": 50.5,
-      "overOdds": 4.37,
-      "underOdds": 1.3
+      "overOdds": 4.44,
+      "underOdds": 1.29
      },
      {
       "line": 51.5,
-      "overOdds": 4.83,
+      "overOdds": 4.91,
       "underOdds": 1.26
      },
      {
       "line": 52.5,
-      "overOdds": 5.37,
-      "underOdds": 1.23
+      "overOdds": 5.45,
+      "underOdds": 1.22
      },
      {
       "line": 53.5,
-      "overOdds": 5.99,
+      "overOdds": 6.07,
       "underOdds": 1.2
      },
      {
       "line": 54.5,
-      "overOdds": 6.72,
+      "overOdds": 6.8,
       "underOdds": 1.17
      },
      {
       "line": 55.5,
-      "overOdds": 7.56,
+      "overOdds": 7.64,
       "underOdds": 1.15
      },
      {
       "line": 56.5,
-      "overOdds": 8.55,
+      "overOdds": 8.62,
       "underOdds": 1.13
      },
      {
       "line": 57.5,
-      "overOdds": 9.72,
+      "overOdds": 9.78,
       "underOdds": 1.11
      },
      {
       "line": 58.5,
-      "overOdds": 11.09,
+      "overOdds": 11.14,
       "underOdds": 1.1
      },
      {
       "line": 59.5,
-      "overOdds": 12.72,
+      "overOdds": 12.75,
       "underOdds": 1.09
      },
      {
@@ -9443,65 +1822,65 @@
       "underOdds": 1.07
      }
     ],
-    "_effectiveMargin": 22,
-    "_pHome": 0.9036988234727723
+    "_effectiveMargin": 21.9,
+    "_pHome": 0.9023624088712782
    },
    "q1": {
     "label": "1st Quarter",
-    "predHome": 15.9,
-    "predAway": 4.4,
-    "predMargin": 11.6,
-    "predTotal": 20.3,
+    "predHome": 15.8,
+    "predAway": 4.3,
+    "predMargin": 11.5,
+    "predTotal": 20.1,
     "h2hIsCalibrated": true,
     "h2h": {
      "homeOdds": 1.14,
-     "awayOdds": 10.26,
-     "drawOdds": 39.07
+     "awayOdds": 10.25,
+     "drawOdds": 38.58
     },
     "line": {
      "value": 11.5,
-     "homeOdds": 2.03,
-     "awayOdds": 1.97
+     "homeOdds": 2.04,
+     "awayOdds": 1.96
     },
     "total": {
      "value": 19.5,
-     "overOdds": 1.91,
-     "underOdds": 2.09
+     "overOdds": 1.94,
+     "underOdds": 2.06
     },
     "marginBands6": [
      {
       "range": "1-6",
-      "homeOdds": 5.41,
-      "awayOdds": 13.76
+      "homeOdds": 5.37,
+      "awayOdds": 13.72
      },
      {
       "range": "7+",
-      "homeOdds": 1.44,
-      "awayOdds": 40.29
+      "homeOdds": 1.45,
+      "awayOdds": 40.55
      }
     ],
     "marginBands11": [
      {
       "range": "1-11",
-      "homeOdds": 2.6,
-      "awayOdds": 11.07
+      "homeOdds": 2.58,
+      "awayOdds": 11.06
      },
      {
       "range": "12+",
-      "homeOdds": 2.03,
-      "awayOdds": 139.47
+      "homeOdds": 2.04,
+      "awayOdds": 140.9
      }
     ],
     "altLines": [
      {
       "line": -3.5,
       "homeOdds": 1.07,
-      "awayOdds": 15.74
+      "awayOdds": 15.73
      },
      {
       "line": -2.5,
       "homeOdds": 1.08,
-      "awayOdds": 13.32
+      "awayOdds": 13.31
      },
      {
       "line": -1.5,
@@ -9511,141 +1890,141 @@
      {
       "line": -0.5,
       "homeOdds": 1.11,
-      "awayOdds": 10.26
+      "awayOdds": 10.25
      },
      {
       "line": 0.5,
       "homeOdds": 1.14,
-      "awayOdds": 8.12
+      "awayOdds": 8.1
      },
      {
       "line": 1.5,
       "homeOdds": 1.19,
-      "awayOdds": 6.25
+      "awayOdds": 6.21
      },
      {
       "line": 2.5,
       "homeOdds": 1.25,
-      "awayOdds": 5.06
+      "awayOdds": 5.03
      },
      {
       "line": 3.5,
-      "homeOdds": 1.29,
-      "awayOdds": 4.41
+      "homeOdds": 1.3,
+      "awayOdds": 4.38
      },
      {
       "line": 4.5,
       "homeOdds": 1.33,
-      "awayOdds": 4.04
+      "awayOdds": 4.02
      },
      {
       "line": 5.5,
       "homeOdds": 1.37,
-      "awayOdds": 3.7
+      "awayOdds": 3.69
      },
      {
       "line": 6.5,
-      "homeOdds": 1.44,
-      "awayOdds": 3.25
+      "homeOdds": 1.45,
+      "awayOdds": 3.23
      },
      {
       "line": 7.5,
       "homeOdds": 1.57,
-      "awayOdds": 2.77
+      "awayOdds": 2.75
      },
      {
       "line": 8.5,
-      "homeOdds": 1.71,
-      "awayOdds": 2.41
+      "homeOdds": 1.72,
+      "awayOdds": 2.4
      },
      {
       "line": 9.5,
-      "homeOdds": 1.84,
-      "awayOdds": 2.19
+      "homeOdds": 1.85,
+      "awayOdds": 2.18
      },
      {
       "line": 10.5,
-      "homeOdds": 1.94,
-      "awayOdds": 2.07
+      "homeOdds": 1.95,
+      "awayOdds": 2.06
      },
      {
       "line": 11.5,
-      "homeOdds": 2.03,
-      "awayOdds": 1.97
+      "homeOdds": 2.04,
+      "awayOdds": 1.96
      },
      {
       "line": 12.5,
-      "homeOdds": 2.2,
+      "homeOdds": 2.21,
       "awayOdds": 1.83
      },
      {
       "line": 13.5,
-      "homeOdds": 2.47,
-      "awayOdds": 1.68
+      "homeOdds": 2.49,
+      "awayOdds": 1.67
      },
      {
       "line": 14.5,
-      "homeOdds": 2.81,
-      "awayOdds": 1.55
+      "homeOdds": 2.84,
+      "awayOdds": 1.54
      },
      {
       "line": 15.5,
-      "homeOdds": 3.15,
-      "awayOdds": 1.47
+      "homeOdds": 3.18,
+      "awayOdds": 1.46
      },
      {
       "line": 16.5,
-      "homeOdds": 3.41,
+      "homeOdds": 3.45,
       "awayOdds": 1.41
      },
      {
       "line": 17.5,
-      "homeOdds": 3.66,
-      "awayOdds": 1.38
+      "homeOdds": 3.7,
+      "awayOdds": 1.37
      },
      {
       "line": 18.5,
-      "homeOdds": 4.04,
-      "awayOdds": 1.33
+      "homeOdds": 4.09,
+      "awayOdds": 1.32
      },
      {
       "line": 19.5,
-      "homeOdds": 4.68,
+      "homeOdds": 4.74,
       "awayOdds": 1.27
      },
      {
       "line": 20.5,
-      "homeOdds": 5.55,
+      "homeOdds": 5.63,
       "awayOdds": 1.22
      },
      {
       "line": 21.5,
-      "homeOdds": 6.46,
+      "homeOdds": 6.56,
       "awayOdds": 1.18
      },
      {
       "line": 22.5,
-      "homeOdds": 7.21,
+      "homeOdds": 7.32,
       "awayOdds": 1.16
      },
      {
       "line": 23.5,
-      "homeOdds": 7.88,
-      "awayOdds": 1.15
+      "homeOdds": 8.01,
+      "awayOdds": 1.14
      },
      {
       "line": 24.5,
-      "homeOdds": 8.87,
-      "awayOdds": 1.13
+      "homeOdds": 9.02,
+      "awayOdds": 1.12
      },
      {
       "line": 25.5,
-      "homeOdds": 10.55,
+      "homeOdds": 10.75,
       "awayOdds": 1.1
      },
      {
       "line": 26.5,
-      "homeOdds": 12.94,
+      "homeOdds": 13.21,
       "awayOdds": 1.08
      }
     ],
@@ -9653,146 +2032,146 @@
      {
       "line": 5.5,
       "overOdds": 1.06,
-      "underOdds": 17.48
+      "underOdds": 16.56
      },
      {
       "line": 6.5,
       "overOdds": 1.08,
-      "underOdds": 13.52
+      "underOdds": 12.87
      },
      {
       "line": 7.5,
-      "overOdds": 1.11,
-      "underOdds": 10
+      "overOdds": 1.12,
+      "underOdds": 9.57
      },
      {
       "line": 8.5,
-      "overOdds": 1.14,
-      "underOdds": 7.9
+      "overOdds": 1.15,
+      "underOdds": 7.59
      },
      {
       "line": 9.5,
-      "overOdds": 1.17,
-      "underOdds": 6.86
+      "overOdds": 1.18,
+      "underOdds": 6.61
      },
      {
       "line": 10.5,
-      "overOdds": 1.19,
-      "underOdds": 6.34
-     },
-     {
-      "line": 11.5,
       "overOdds": 1.2,
       "underOdds": 6.12
      },
      {
+      "line": 11.5,
+      "overOdds": 1.2,
+      "underOdds": 5.9
+     },
+     {
       "line": 12.5,
-      "overOdds": 1.25,
-      "underOdds": 5.03
+      "overOdds": 1.26,
+      "underOdds": 4.88
      },
      {
       "line": 13.5,
-      "overOdds": 1.33,
-      "underOdds": 4
+      "overOdds": 1.35,
+      "underOdds": 3.89
      },
      {
       "line": 14.5,
-      "overOdds": 1.43,
-      "underOdds": 3.35
+      "overOdds": 1.44,
+      "underOdds": 3.27
      },
      {
       "line": 15.5,
-      "overOdds": 1.5,
-      "underOdds": 3.01
+      "overOdds": 1.51,
+      "underOdds": 2.95
      },
      {
       "line": 16.5,
-      "overOdds": 1.54,
-      "underOdds": 2.85
+      "overOdds": 1.56,
+      "underOdds": 2.79
      },
      {
       "line": 17.5,
-      "overOdds": 1.56,
-      "underOdds": 2.78
+      "overOdds": 1.58,
+      "underOdds": 2.72
      },
      {
       "line": 18.5,
-      "overOdds": 1.69,
-      "underOdds": 2.44
+      "overOdds": 1.72,
+      "underOdds": 2.4
      },
      {
       "line": 19.5,
-      "overOdds": 1.91,
-      "underOdds": 2.09
+      "overOdds": 1.94,
+      "underOdds": 2.06
      },
      {
       "line": 20.5,
-      "overOdds": 2.16,
-      "underOdds": 1.86
+      "overOdds": 2.2,
+      "underOdds": 1.84
      },
      {
       "line": 21.5,
-      "overOdds": 2.36,
-      "underOdds": 1.74
+      "overOdds": 2.4,
+      "underOdds": 1.72
      },
      {
       "line": 22.5,
-      "overOdds": 2.48,
-      "underOdds": 1.67
+      "overOdds": 2.52,
+      "underOdds": 1.66
      },
      {
       "line": 23.5,
-      "overOdds": 2.54,
-      "underOdds": 1.65
+      "overOdds": 2.58,
+      "underOdds": 1.63
      },
      {
       "line": 24.5,
-      "overOdds": 2.89,
-      "underOdds": 1.53
+      "overOdds": 2.94,
+      "underOdds": 1.52
      },
      {
       "line": 25.5,
-      "overOdds": 3.5,
-      "underOdds": 1.4
+      "overOdds": 3.56,
+      "underOdds": 1.39
      },
      {
       "line": 26.5,
-      "overOdds": 4.24,
-      "underOdds": 1.31
+      "overOdds": 4.32,
+      "underOdds": 1.3
      },
      {
       "line": 27.5,
-      "overOdds": 4.87,
-      "underOdds": 1.26
+      "overOdds": 4.96,
+      "underOdds": 1.25
      },
      {
       "line": 28.5,
-      "overOdds": 5.26,
+      "overOdds": 5.36,
       "underOdds": 1.23
      },
      {
       "line": 29.5,
-      "overOdds": 5.43,
-      "underOdds": 1.23
+      "overOdds": 5.54,
+      "underOdds": 1.22
      },
      {
       "line": 30.5,
-      "overOdds": 6.51,
+      "overOdds": 6.63,
       "underOdds": 1.18
      },
      {
       "line": 31.5,
-      "overOdds": 8.52,
+      "overOdds": 8.69,
       "underOdds": 1.13
      },
      {
       "line": 32.5,
-      "overOdds": 11.24,
+      "overOdds": 11.45,
       "underOdds": 1.1
      },
      {
       "line": 33.5,
-      "overOdds": 13.67,
+      "overOdds": 13.93,
       "underOdds": 1.08
      }
     ],
@@ -9803,7 +2182,7 @@
      ],
      [
       -17,
-      0.0007
+      0.0006
      ],
      [
       -16,
@@ -9811,7 +2190,7 @@
      ],
      [
       -15,
-      0.0006
+      0.0005
      ],
      [
       -14,
@@ -9851,11 +2230,11 @@
      ],
      [
       -5,
-      0.0143
+      0.0144
      ],
      [
       -4,
-      0.0146
+      0.0147
      ],
      [
       -3,
@@ -9867,27 +2246,27 @@
      ],
      [
       -1,
-      0.0131
+      0.0132
      ],
      [
       0,
-      0.0256
+      0.0259
      ],
      [
       1,
-      0.037
+      0.0375
      ],
      [
       2,
-      0.0376
+      0.0379
      ],
      [
       3,
-      0.0291
+      0.0292
      ],
      [
       4,
-      0.0208
+      0.0207
      ],
      [
       5,
@@ -9895,55 +2274,55 @@
      ],
      [
       6,
-      0.038
+      0.0384
      ],
      [
       7,
-      0.0533
+      0.0539
      ],
      [
       8,
-      0.0537
+      0.0541
      ],
      [
       9,
-      0.0411
+      0.0412
      ],
      [
       10,
-      0.0276
+      0.0275
      ],
      [
       11,
-      0.0248
+      0.0247
      ],
      [
       12,
-      0.0368
+      0.037
      ],
      [
       13,
-      0.0498
+      0.0501
      ],
      [
       14,
-      0.0497
+      0.0499
      ],
      [
       15,
-      0.0378
+      0.0377
      ],
      [
       16,
-      0.0246
+      0.0244
      ],
      [
       17,
-      0.0196
+      0.0194
      ],
      [
       18,
-      0.0259
+      0.0258
      ],
      [
       19,
@@ -9951,71 +2330,71 @@
      ],
      [
       20,
-      0.0334
+      0.0333
      ],
      [
       21,
-      0.0253
+      0.0251
      ],
      [
       22,
-      0.0161
+      0.0159
      ],
      [
       23,
-      0.0118
+      0.0117
      ],
      [
       24,
-      0.0142
+      0.0141
      ],
      [
       25,
-      0.0179
+      0.0178
      ],
      [
       26,
-      0.0175
+      0.0174
      ],
      [
       27,
-      0.0132
+      0.013
      ],
      [
       28,
-      0.0083
+      0.0081
      ],
      [
       29,
-      0.0057
-     ],
-     [
-      30,
-      0.0063
-     ],
-     [
-      31,
-      0.0077
-     ],
-     [
-      32,
-      0.0075
-     ],
-     [
-      33,
       0.0056
      ],
      [
+      30,
+      0.0062
+     ],
+     [
+      31,
+      0.0076
+     ],
+     [
+      32,
+      0.0074
+     ],
+     [
+      33,
+      0.0055
+     ],
+     [
       34,
-      0.0035
+      0.0034
      ],
      [
       35,
-      0.0023
+      0.0022
      ],
      [
       36,
-      0.0024
+      0.0023
      ],
      [
       37,
@@ -10023,7 +2402,7 @@
      ],
      [
       38,
-      0.0027
+      0.0026
      ],
      [
       39,
@@ -10039,7 +2418,7 @@
      ],
      [
       42,
-      0.0008
+      0.0007
      ],
      [
       43,
@@ -10058,60 +2437,60 @@
       0.0004
      ]
     ],
-    "_effectiveMargin": 11.6
+    "_effectiveMargin": 11.5
    }
   },
   "htft": [
    {
     "key": "Away/Away",
-    "prob": 0.03947508748210895,
-    "odds": 25.33
+    "prob": 0.04011684019827165,
+    "odds": 24.93
    },
    {
     "key": "Away/Draw",
-    "prob": 0.002346127226035527,
-    "odds": 426.23
+    "prob": 0.002373066307597274,
+    "odds": 421.4
    },
    {
     "key": "Away/Home",
-    "prob": 0.04958441871956148,
-    "odds": 20.17
+    "prob": 0.04989214911317205,
+    "odds": 20.04
    },
    {
     "key": "Draw/Away",
-    "prob": 0.0016612276065870596,
-    "odds": 601.96
+    "prob": 0.0016884023714235016,
+    "odds": 592.28
    },
    {
     "key": "Draw/Draw",
-    "prob": 0.00020090137931634555,
+    "prob": 0.00020352936731588694,
     "odds": 1000
    },
    {
     "key": "Draw/Home",
-    "prob": 0.008251501761599042,
-    "odds": 121.19
+    "prob": 0.008299794625265366,
+    "odds": 120.48
    },
    {
     "key": "Home/Away",
-    "prob": 0.011479836101449356,
-    "odds": 87.11
+    "prob": 0.01167573999847768,
+    "odds": 85.65
    },
    {
     "key": "Home/Draw",
-    "prob": 0.0018902660132370727,
-    "odds": 529.03
+    "prob": 0.001917709899812152,
+    "odds": 521.46
    },
    {
     "key": "Home/Home",
-    "prob": 0.8851106337101051,
+    "prob": 0.8838327681186643,
     "odds": 1.13
    }
   ],
   "notes": {
-   "lineups": "Carlton +19 / GWS +25 fantasy pts vs their usual lineup → -0.7 pts to Carlton",
+   "lineups": "Carlton +19 / GWS +24 fantasy pts vs their usual lineup → -0.7 pts to Carlton",
    "teamNews": null,
-   "conditions": "-14.5 pts to the total (wind 20km/h -2.0; 100% chance of rain, 1.6mm forecast -10.8; 5:05pm local kickoff -1.7)",
+   "conditions": "-15.3 pts to the total (wind 20km/h -2.1; 100% chance of rain, 3mm forecast -11.4; 5:05pm local kickoff -1.8)",
    "travel": null
   }
  }

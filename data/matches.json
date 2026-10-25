@@ -3135,6 +3135,72 @@
     "venueState": "VIC"
   },
   {
+    "matchId": "CD_M20262641106",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-25T01:35:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V341",
+    "homeTeam": "Swans",
+    "awayTeam": "Eagles",
+    "homeScore": 78,
+    "awayScore": 56,
+    "homeGoals": 12,
+    "homeBehinds": 6,
+    "awayGoals": 8,
+    "awayBehinds": 8,
+    "homeQtr": [
+      19,
+      21,
+      18,
+      20
+    ],
+    "awayQtr": [
+      22,
+      26,
+      8,
+      0
+    ],
+    "margin": 22,
+    "totalScore": 134,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
+  },
+  {
+    "matchId": "CD_M20262641107",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 11",
+    "date": "2026-10-25T02:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V120",
+    "homeTeam": "Kangaroos",
+    "awayTeam": "Crows",
+    "homeScore": 38,
+    "awayScore": 29,
+    "homeGoals": 5,
+    "homeBehinds": 8,
+    "awayGoals": 4,
+    "awayBehinds": 5,
+    "homeQtr": [
+      13,
+      1,
+      8,
+      16
+    ],
+    "awayQtr": [
+      10,
+      7,
+      6,
+      6
+    ],
+    "margin": 9,
+    "totalScore": 67,
+    "venueName": "North Hobart Oval",
+    "venueLocation": "Hobart",
+    "venueState": "TAS"
+  },
+  {
     "matchId": "CD_M20252640101",
     "season": "2025 NAB AFLW Season",
     "round": "Round 1",
