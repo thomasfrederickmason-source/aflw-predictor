@@ -12910,5 +12910,21 @@
     "margin": 15,
     "totalScore": 61,
     "homeWin": true
+  },
+  {
+    "matchId": "CD_M20262641201",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-10-30T08:15:00.000+0000",
+    "homeTeam": "Cats",
+    "awayTeam": "Bulldogs",
+    "homeRatingPre": 1783.807445880563,
+    "awayRatingPre": 1675.8379157953416,
+    "homeWinProbModel": 0.6699302301964641,
+    "homeScore": 88,
+    "awayScore": 20,
+    "margin": 68,
+    "totalScore": 108,
+    "homeWin": true
   }
 ]

@@ -3267,6 +3267,39 @@
     "venueState": "VIC"
   },
   {
+    "matchId": "CD_M20262641201",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-10-30T08:15:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V30",
+    "homeTeam": "Cats",
+    "awayTeam": "Bulldogs",
+    "homeScore": 88,
+    "awayScore": 20,
+    "homeGoals": 13,
+    "homeBehinds": 10,
+    "awayGoals": 3,
+    "awayBehinds": 2,
+    "homeQtr": [
+      26,
+      31,
+      14,
+      17
+    ],
+    "awayQtr": [
+      6,
+      7,
+      7,
+      0
+    ],
+    "margin": 68,
+    "totalScore": 108,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
+  },
+  {
     "matchId": "CD_M20252640101",
     "season": "2025 NAB AFLW Season",
     "round": "Round 1",

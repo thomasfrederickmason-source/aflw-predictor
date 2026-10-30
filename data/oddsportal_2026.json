@@ -1,19 +1,45 @@
 {
- "fetchedAt": "2026-10-25T09:51:02.477Z",
+ "fetchedAt": "2026-10-30T13:36:13.279Z",
  "source": "https://www.oddsportal.com/aussie-rules/australia/afl-women/results/",
  "pageCount": 2,
  "rows": [
   {
+   "date": 1793348100,
+   "homeTeam": "Geelong Cats W",
+   "awayTeam": "Western Bulldogs W",
+   "homeScore": 88,
+   "awayScore": 20,
+   "status": "Finished",
+   "homeAvgOdds": 1.06,
+   "homeMaxOdds": 1.06,
+   "awayAvgOdds": 8,
+   "awayMaxOdds": 8,
+   "bookmakerCount": 1
+  },
+  {
    "date": 1792908300,
    "homeTeam": "Carlton Blues W",
    "awayTeam": "GWS Giants W",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "Scheduled",
+   "homeScore": 38,
+   "awayScore": 23,
+   "status": "Finished",
    "homeAvgOdds": 1.02,
    "homeMaxOdds": 1.02,
    "awayAvgOdds": 12,
    "awayMaxOdds": 12,
+   "bookmakerCount": 1
+  },
+  {
+   "date": 1792901100,
+   "homeTeam": "Hawthorn Hawks W",
+   "awayTeam": "Essendon Bombers W",
+   "homeScore": 25,
+   "awayScore": 20,
+   "status": "Finished",
+   "homeAvgOdds": 1.1,
+   "homeMaxOdds": 1.1,
+   "awayAvgOdds": 6.5,
+   "awayMaxOdds": 6.5,
    "bookmakerCount": 1
   },
   {
@@ -625,19 +651,6 @@
    "homeMaxOdds": 2.1,
    "awayAvgOdds": 1.66,
    "awayMaxOdds": 1.66,
-   "bookmakerCount": 1
-  },
-  {
-   "date": 1789794300,
-   "homeTeam": "Fremantle Dockers W",
-   "awayTeam": "Western Bulldogs W",
-   "homeScore": 30,
-   "awayScore": 40,
-   "status": "Finished",
-   "homeAvgOdds": 1.66,
-   "homeMaxOdds": 1.66,
-   "awayAvgOdds": 2.1,
-   "awayMaxOdds": 2.1,
    "bookmakerCount": 1
   }
  ]

@@ -10489,5 +10489,18 @@
     "actualAwayScore": 23,
     "predTotal": 101.88309755989275,
     "actualTotal": 61
+  },
+  {
+    "matchId": "CD_M20262641201",
+    "season": "2026 NAB AFLW Season",
+    "date": "2026-10-30T08:15:00.000+0000",
+    "homeTeam": "Cats",
+    "awayTeam": "Bulldogs",
+    "predHomeScore": 46.86830823554718,
+    "predAwayScore": 42.836603778577484,
+    "actualHomeScore": 88,
+    "actualAwayScore": 20,
+    "predTotal": 89.70491201412466,
+    "actualTotal": 108
   }
 ]
