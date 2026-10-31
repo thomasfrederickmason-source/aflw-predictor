@@ -1,21 +1,5 @@
 [
   {
-    "date": 1793434500,
-    "homeTeam": "West Coast Eagles W",
-    "awayTeam": "Hawthorn Hawks W",
-    "venue": "Sullivan Logistics Stadium",
-    "venueTown": "Perth",
-    "venueTimezone": "Australia/Perth",
-    "roundNumber": 12,
-    "roundName": "Round 12",
-    "homeAvgOdds": null,
-    "homeMaxOdds": null,
-    "awayAvgOdds": null,
-    "awayMaxOdds": null,
-    "bookmakerCount": 0,
-    "status": "UNCONFIRMED_TEAMS"
-  },
-  {
     "date": 1793496900,
     "homeTeam": "GWS Giants W",
     "awayTeam": "Gold Coast Suns W",

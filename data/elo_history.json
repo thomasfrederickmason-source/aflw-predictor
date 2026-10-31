@@ -12958,5 +12958,37 @@
     "margin": -68,
     "totalScore": 134,
     "homeWin": false
+  },
+  {
+    "matchId": "CD_M20262641204",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-10-31T06:05:00.000+0000",
+    "homeTeam": "Lions",
+    "awayTeam": "Blues",
+    "homeRatingPre": 1482.5736896797125,
+    "awayRatingPre": 1664.9351112982101,
+    "homeWinProbModel": 0.2761960184896753,
+    "homeScore": 35,
+    "awayScore": 40,
+    "margin": -5,
+    "totalScore": 75,
+    "homeWin": false
+  },
+  {
+    "matchId": "CD_M20262641205",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-10-31T08:15:00.000+0000",
+    "homeTeam": "Eagles",
+    "awayTeam": "Hawks",
+    "homeRatingPre": 1385.7205359031168,
+    "awayRatingPre": 1562.1854406534865,
+    "homeWinProbModel": 0.28303292065968383,
+    "homeScore": 39,
+    "awayScore": 94,
+    "margin": -55,
+    "totalScore": 133,
+    "homeWin": false
   }
 ]

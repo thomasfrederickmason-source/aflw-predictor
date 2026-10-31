@@ -1,57 +1,57 @@
 {
- "fittedAt": "2026-10-31T07:01:19.954Z",
- "matches": 809,
- "modernEraMatches": 327,
+ "fittedAt": "2026-10-31T13:05:50.157Z",
+ "matches": 811,
+ "modernEraMatches": 329,
  "hga": 15,
  "blend": {
-  "intercept": 1.464760810079621,
-  "scoreModelMargin": 0.19480966765839927,
-  "ridgeMargin": 0.8409112856698108,
-  "lineupNet": 0.1372460651278123,
-  "residualSD": 23.11
+  "intercept": 1.3165955967745273,
+  "scoreModelMargin": 0.19712954244171244,
+  "ridgeMargin": 0.8403475248872337,
+  "lineupNet": 0.13731106963538522,
+  "residualSD": 23.14
  },
  "fullMarginSD": 25,
- "matchTotalSD": 22.79,
+ "matchTotalSD": 22.89,
  "teamScore": {
-  "residualSD": 16.92,
-  "skew": 0.542
+  "residualSD": 16.96,
+  "skew": 0.552
  },
  "roster": {
-  "slopePerCareerGame": 0.0662,
+  "slopePerCareerGame": 0.0656,
   "countedReasons": [
    "Injured",
    "Illness",
    "Suspension",
    "Personal Reason"
   ],
-  "fittedOn": 810,
-  "fittedAt": "2026-10-31T07:01:20.023Z"
+  "fittedOn": 812,
+  "fittedAt": "2026-10-31T13:05:50.261Z"
  },
  "conditions": {
-  "windPerKmh": -0.5626,
-  "windMean": 15.33,
+  "windPerKmh": -0.56,
+  "windMean": 15.32,
   "forecastWindShrink": 0.8,
-  "rainLog": -20.218,
-  "rainLogMean": 0.042,
+  "rainLog": -19.474,
+  "rainLogMean": 0.0426,
   "rainMinMm": 0.5,
-  "perHour": -1.1875,
-  "hourMean": 15.585,
-  "fittedOn": 752,
+  "perHour": -1.1757,
+  "hourMean": 15.587,
+  "fittedOn": 754,
   "fromSeason": 2019,
-  "fittedAt": "2026-10-31T07:01:21.007Z",
+  "fittedAt": "2026-10-31T13:05:51.759Z",
   "forecastRain": {
-   "coef": -19.933,
-   "mean": 0.1145,
+   "coef": -19.598,
+   "mean": 0.1152,
    "minMm": 0.5,
    "maxMm": 1,
-   "fittedOn": 654,
+   "fittedOn": 658,
    "fromSeason": 2024,
-   "fittedAt": "2026-10-31T07:01:22.290Z"
+   "fittedAt": "2026-10-31T13:05:54.058Z"
   }
  },
  "halves": {
   "h1TotalSD": 13.7,
-  "q1TotalSD": 9.63,
-  "n": 327
+  "q1TotalSD": 9.66,
+  "n": 329
  }
 }

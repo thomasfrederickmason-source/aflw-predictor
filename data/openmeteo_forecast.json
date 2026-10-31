@@ -1,25 +1,14 @@
 [
  {
-  "homeTeam": "West Coast Eagles W",
-  "awayTeam": "Hawthorn Hawks W",
-  "venue": "Sullivan Logistics Stadium",
-  "venueTown": "Perth",
-  "kickoffLocal": "2026-10-31T16:15",
-  "preMatchRainMm": 0.2,
-  "duringMatchRainMm": 0.9,
-  "duringMatchWindKmh": 17.6,
-  "duringMatchMaxRainProbPct": 73
- },
- {
   "homeTeam": "GWS Giants W",
   "awayTeam": "Gold Coast Suns W",
   "venue": "Henson Park",
   "venueTown": "Sydney",
   "kickoffLocal": "2026-11-01T12:35",
-  "preMatchRainMm": 0,
-  "duringMatchRainMm": 0.2,
-  "duringMatchWindKmh": 12.2,
-  "duringMatchMaxRainProbPct": 55
+  "preMatchRainMm": 0.7,
+  "duringMatchRainMm": 0.4,
+  "duringMatchWindKmh": 12,
+  "duringMatchMaxRainProbPct": 71
  },
  {
   "homeTeam": "Essendon Bombers W",
@@ -27,10 +16,10 @@
   "venue": "Windy Hill",
   "venueTown": "Melbourne",
   "kickoffLocal": "2026-11-01T13:05",
-  "preMatchRainMm": 0.1,
-  "duringMatchRainMm": 0.2,
-  "duringMatchWindKmh": 9.4,
-  "duringMatchMaxRainProbPct": 25
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.6,
+  "duringMatchMaxRainProbPct": 13
  },
  {
   "homeTeam": "Adelaide Crows W",
@@ -38,10 +27,10 @@
   "venue": "Unley Oval",
   "venueTown": "Adelaide",
   "kickoffLocal": "2026-11-01T15:05",
-  "preMatchRainMm": 0,
-  "duringMatchRainMm": 2.1,
-  "duringMatchWindKmh": 9.3,
-  "duringMatchMaxRainProbPct": 76
+  "preMatchRainMm": 0.3,
+  "duringMatchRainMm": 4.3,
+  "duringMatchWindKmh": 13.1,
+  "duringMatchMaxRainProbPct": 73
  },
  {
   "homeTeam": "Fremantle Dockers W",
@@ -51,7 +40,7 @@
   "kickoffLocal": "2026-11-01T14:05",
   "preMatchRainMm": 0,
   "duringMatchRainMm": 0,
-  "duringMatchWindKmh": 17.5,
-  "duringMatchMaxRainProbPct": 3
+  "duringMatchWindKmh": 17.6,
+  "duringMatchMaxRainProbPct": 12
  }
 ]

@@ -3366,6 +3366,72 @@
     "venueState": "VIC"
   },
   {
+    "matchId": "CD_M20262641204",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-10-31T06:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V3765",
+    "homeTeam": "Lions",
+    "awayTeam": "Blues",
+    "homeScore": 35,
+    "awayScore": 40,
+    "homeGoals": 5,
+    "homeBehinds": 5,
+    "awayGoals": 6,
+    "awayBehinds": 4,
+    "homeQtr": [
+      2,
+      27,
+      0,
+      6
+    ],
+    "awayQtr": [
+      0,
+      7,
+      19,
+      14
+    ],
+    "margin": -5,
+    "totalScore": 75,
+    "venueName": "Brighton Homes Arena",
+    "venueLocation": "Ipswich",
+    "venueState": "QLD"
+  },
+  {
+    "matchId": "CD_M20262641205",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-10-31T08:15:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V101",
+    "homeTeam": "Eagles",
+    "awayTeam": "Hawks",
+    "homeScore": 39,
+    "awayScore": 94,
+    "homeGoals": 6,
+    "homeBehinds": 3,
+    "awayGoals": 14,
+    "awayBehinds": 10,
+    "homeQtr": [
+      12,
+      0,
+      21,
+      6
+    ],
+    "awayQtr": [
+      14,
+      34,
+      19,
+      27
+    ],
+    "margin": -55,
+    "totalScore": 133,
+    "venueName": "Sullivan Logistics Stadium",
+    "venueLocation": "Perth",
+    "venueState": "WA"
+  },
+  {
     "matchId": "CD_M20252640101",
     "season": "2025 NAB AFLW Season",
     "round": "Round 1",
