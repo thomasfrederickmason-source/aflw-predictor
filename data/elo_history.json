@@ -12926,5 +12926,37 @@
     "margin": 68,
     "totalScore": 108,
     "homeWin": true
+  },
+  {
+    "matchId": "CD_M20262641202",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-10-31T02:05:00.000+0000",
+    "homeTeam": "St Kilda",
+    "awayTeam": "Power",
+    "homeRatingPre": 1175.3343162667106,
+    "awayRatingPre": 1453.9461706451416,
+    "homeWinProbModel": 0.179834109154901,
+    "homeScore": 45,
+    "awayScore": 51,
+    "margin": -6,
+    "totalScore": 96,
+    "homeWin": false
+  },
+  {
+    "matchId": "CD_M20262641203",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-10-31T04:05:00.000+0000",
+    "homeTeam": "Richmond",
+    "awayTeam": "Kangaroos",
+    "homeRatingPre": 1292.5119391552244,
+    "awayRatingPre": 1963.073130542027,
+    "homeWinProbModel": 0.022450993301190783,
+    "homeScore": 33,
+    "awayScore": 101,
+    "margin": -68,
+    "totalScore": 134,
+    "homeWin": false
   }
 ]

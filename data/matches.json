@@ -3300,6 +3300,72 @@
     "venueState": "VIC"
   },
   {
+    "matchId": "CD_M20262641202",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-10-31T02:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V347",
+    "homeTeam": "St Kilda",
+    "awayTeam": "Power",
+    "homeScore": 45,
+    "awayScore": 51,
+    "homeGoals": 7,
+    "homeBehinds": 3,
+    "awayGoals": 7,
+    "awayBehinds": 9,
+    "homeQtr": [
+      7,
+      12,
+      13,
+      13
+    ],
+    "awayQtr": [
+      14,
+      8,
+      13,
+      16
+    ],
+    "margin": -6,
+    "totalScore": 96,
+    "venueName": "RSEA Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
+  },
+  {
+    "matchId": "CD_M20262641203",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-10-31T04:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V345",
+    "homeTeam": "Richmond",
+    "awayTeam": "Kangaroos",
+    "homeScore": 33,
+    "awayScore": 101,
+    "homeGoals": 5,
+    "homeBehinds": 3,
+    "awayGoals": 15,
+    "awayBehinds": 11,
+    "homeQtr": [
+      13,
+      1,
+      19,
+      0
+    ],
+    "awayQtr": [
+      30,
+      22,
+      26,
+      23
+    ],
+    "margin": -68,
+    "totalScore": 134,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
+  },
+  {
     "matchId": "CD_M20252640101",
     "season": "2025 NAB AFLW Season",
     "round": "Round 1",

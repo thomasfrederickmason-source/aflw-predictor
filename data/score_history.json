@@ -10502,5 +10502,31 @@
     "actualAwayScore": 20,
     "predTotal": 89.70491201412466,
     "actualTotal": 108
+  },
+  {
+    "matchId": "CD_M20262641202",
+    "season": "2026 NAB AFLW Season",
+    "date": "2026-10-31T02:05:00.000+0000",
+    "homeTeam": "St Kilda",
+    "awayTeam": "Power",
+    "predHomeScore": 29.104382228675,
+    "predAwayScore": 51.49054284422576,
+    "actualHomeScore": 45,
+    "actualAwayScore": 51,
+    "predTotal": 80.59492507290076,
+    "actualTotal": 96
+  },
+  {
+    "matchId": "CD_M20262641203",
+    "season": "2026 NAB AFLW Season",
+    "date": "2026-10-31T04:05:00.000+0000",
+    "homeTeam": "Richmond",
+    "awayTeam": "Kangaroos",
+    "predHomeScore": 21.032789486443463,
+    "predAwayScore": 83.76402238039394,
+    "actualHomeScore": 33,
+    "actualAwayScore": 101,
+    "predTotal": 104.7968118668374,
+    "actualTotal": 134
   }
 ]

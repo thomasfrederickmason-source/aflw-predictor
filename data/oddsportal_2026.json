@@ -1,8 +1,47 @@
 {
- "fetchedAt": "2026-10-30T13:36:13.279Z",
+ "fetchedAt": "2026-10-31T07:01:18.052Z",
  "source": "https://www.oddsportal.com/aussie-rules/australia/afl-women/results/",
- "pageCount": 2,
+ "pageCount": 3,
  "rows": [
+  {
+   "date": 1793434500,
+   "homeTeam": "West Coast Eagles W",
+   "awayTeam": "Hawthorn Hawks W",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "Scheduled",
+   "homeAvgOdds": 2.75,
+   "homeMaxOdds": 2.75,
+   "awayAvgOdds": 1.4,
+   "awayMaxOdds": 1.4,
+   "bookmakerCount": 1
+  },
+  {
+   "date": 1793426700,
+   "homeTeam": "Brisbane Lions W",
+   "awayTeam": "Carlton Blues W",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "Scheduled",
+   "homeAvgOdds": 2.5,
+   "homeMaxOdds": 2.5,
+   "awayAvgOdds": 1.5,
+   "awayMaxOdds": 1.5,
+   "bookmakerCount": 1
+  },
+  {
+   "date": 1793419500,
+   "homeTeam": "Richmond W",
+   "awayTeam": "North Melbourne W",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "Scheduled",
+   "homeAvgOdds": 51,
+   "homeMaxOdds": 51,
+   "awayAvgOdds": 1,
+   "awayMaxOdds": 1,
+   "bookmakerCount": 1
+  },
   {
    "date": 1793348100,
    "homeTeam": "Geelong Cats W",
@@ -599,58 +638,6 @@
    "homeMaxOdds": 1.62,
    "awayAvgOdds": 2.2,
    "awayMaxOdds": 2.2,
-   "bookmakerCount": 1
-  },
-  {
-   "date": 1789887900,
-   "homeTeam": "Brisbane Lions W",
-   "awayTeam": "Adelaide Crows W",
-   "homeScore": 30,
-   "awayScore": 39,
-   "status": "Finished",
-   "homeAvgOdds": 1.45,
-   "homeMaxOdds": 1.45,
-   "awayAvgOdds": 2.65,
-   "awayMaxOdds": 2.65,
-   "bookmakerCount": 1
-  },
-  {
-   "date": 1789880700,
-   "homeTeam": "St Kilda W",
-   "awayTeam": "West Coast Eagles W",
-   "homeScore": 25,
-   "awayScore": 36,
-   "status": "Finished",
-   "homeAvgOdds": 3.5,
-   "homeMaxOdds": 3.5,
-   "awayAvgOdds": 1.28,
-   "awayMaxOdds": 1.28,
-   "bookmakerCount": 1
-  },
-  {
-   "date": 1789873500,
-   "homeTeam": "Essendon Bombers W",
-   "awayTeam": "Gold Coast Suns W",
-   "homeScore": 10,
-   "awayScore": 51,
-   "status": "Finished",
-   "homeAvgOdds": 2.75,
-   "homeMaxOdds": 2.75,
-   "awayAvgOdds": 1.4,
-   "awayMaxOdds": 1.4,
-   "bookmakerCount": 1
-  },
-  {
-   "date": 1789871700,
-   "homeTeam": "GWS Giants W",
-   "awayTeam": "Richmond W",
-   "homeScore": 61,
-   "awayScore": 68,
-   "status": "Finished",
-   "homeAvgOdds": 2.1,
-   "homeMaxOdds": 2.1,
-   "awayAvgOdds": 1.66,
-   "awayMaxOdds": 1.66,
    "bookmakerCount": 1
   }
  ]
