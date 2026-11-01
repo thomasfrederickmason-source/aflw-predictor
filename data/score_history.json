@@ -10554,5 +10554,44 @@
     "actualAwayScore": 94,
     "predTotal": 83.45433122358966,
     "actualTotal": 133
+  },
+  {
+    "matchId": "CD_M20262641206",
+    "season": "2026 NAB AFLW Season",
+    "date": "2026-11-01T01:35:00.000+0000",
+    "homeTeam": "GIANTS",
+    "awayTeam": "SUNS",
+    "predHomeScore": 40.72795258547556,
+    "predAwayScore": 57.70256120491214,
+    "actualHomeScore": 53,
+    "actualAwayScore": 62,
+    "predTotal": 98.4305137903877,
+    "actualTotal": 115
+  },
+  {
+    "matchId": "CD_M20262641207",
+    "season": "2026 NAB AFLW Season",
+    "date": "2026-11-01T02:05:00.000+0000",
+    "homeTeam": "Bombers",
+    "awayTeam": "Magpies",
+    "predHomeScore": 42.17290491424706,
+    "predAwayScore": 31.78649147886798,
+    "actualHomeScore": 38,
+    "actualAwayScore": 31,
+    "predTotal": 73.95939639311504,
+    "actualTotal": 69
+  },
+  {
+    "matchId": "CD_M20262641208",
+    "season": "2026 NAB AFLW Season",
+    "date": "2026-11-01T04:05:00.000+0000",
+    "homeTeam": "Crows",
+    "awayTeam": "Demons",
+    "predHomeScore": 39.83584367712377,
+    "predAwayScore": 55.29298074605707,
+    "actualHomeScore": 29,
+    "actualAwayScore": 47,
+    "predTotal": 95.12882442318084,
+    "actualTotal": 76
   }
 ]

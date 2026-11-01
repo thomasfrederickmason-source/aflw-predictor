@@ -3432,6 +3432,105 @@
     "venueState": "WA"
   },
   {
+    "matchId": "CD_M20262641206",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-11-01T01:35:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V341",
+    "homeTeam": "GIANTS",
+    "awayTeam": "SUNS",
+    "homeScore": 53,
+    "awayScore": 62,
+    "homeGoals": 7,
+    "homeBehinds": 11,
+    "awayGoals": 9,
+    "awayBehinds": 8,
+    "homeQtr": [
+      10,
+      9,
+      33,
+      1
+    ],
+    "awayQtr": [
+      12,
+      26,
+      3,
+      21
+    ],
+    "margin": -9,
+    "totalScore": 115,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
+  },
+  {
+    "matchId": "CD_M20262641207",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-11-01T02:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V345",
+    "homeTeam": "Bombers",
+    "awayTeam": "Magpies",
+    "homeScore": 38,
+    "awayScore": 31,
+    "homeGoals": 4,
+    "homeBehinds": 14,
+    "awayGoals": 4,
+    "awayBehinds": 7,
+    "homeQtr": [
+      21,
+      2,
+      11,
+      4
+    ],
+    "awayQtr": [
+      1,
+      2,
+      14,
+      14
+    ],
+    "margin": 7,
+    "totalScore": 69,
+    "venueName": "Windy Hill",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
+  },
+  {
+    "matchId": "CD_M20262641208",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-11-01T04:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V336",
+    "homeTeam": "Crows",
+    "awayTeam": "Demons",
+    "homeScore": 29,
+    "awayScore": 47,
+    "homeGoals": 3,
+    "homeBehinds": 11,
+    "awayGoals": 6,
+    "awayBehinds": 11,
+    "homeQtr": [
+      7,
+      1,
+      9,
+      12
+    ],
+    "awayQtr": [
+      18,
+      15,
+      8,
+      6
+    ],
+    "margin": -18,
+    "totalScore": 76,
+    "venueName": "Unley Oval",
+    "venueLocation": "Adelaide",
+    "venueState": "SA"
+  },
+  {
     "matchId": "CD_M20252640101",
     "season": "2025 NAB AFLW Season",
     "round": "Round 1",

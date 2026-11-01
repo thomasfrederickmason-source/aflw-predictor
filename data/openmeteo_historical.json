@@ -6494,5 +6494,29 @@
   "rescaleFactor": 1,
   "bomDayTotalMm": null,
   "modelDayTotalMm": 7.5
+ },
+ "CD_M20262641206": {
+  "preMatchRainMm": 0.6,
+  "duringMatchRainMm": 0.2,
+  "duringMatchWindKmh": 12.149999999999999,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 4.2
+ },
+ "CD_M20262641207": {
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0.8,
+  "duringMatchWindKmh": 10.7,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 0.9
+ },
+ "CD_M20262641208": {
+  "preMatchRainMm": 1.7,
+  "duringMatchRainMm": 2.4,
+  "duringMatchWindKmh": 10.95,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 10
  }
 }

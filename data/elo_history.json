@@ -12990,5 +12990,53 @@
     "margin": -55,
     "totalScore": 133,
     "homeWin": false
+  },
+  {
+    "matchId": "CD_M20262641206",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-11-01T01:35:00.000+0000",
+    "homeTeam": "GIANTS",
+    "awayTeam": "SUNS",
+    "homeRatingPre": 1175.0525906270577,
+    "awayRatingPre": 1593.4467884152516,
+    "homeWinProbModel": 0.0893071878601273,
+    "homeScore": 53,
+    "awayScore": 62,
+    "margin": -9,
+    "totalScore": 115,
+    "homeWin": false
+  },
+  {
+    "matchId": "CD_M20262641207",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-11-01T02:05:00.000+0000",
+    "homeTeam": "Bombers",
+    "awayTeam": "Magpies",
+    "homeRatingPre": 1210.5883976040384,
+    "awayRatingPre": 1165.677265963538,
+    "homeWinProbModel": 0.5853745209641726,
+    "homeScore": 38,
+    "awayScore": 31,
+    "margin": 7,
+    "totalScore": 69,
+    "homeWin": true
+  },
+  {
+    "matchId": "CD_M20262641208",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-11-01T04:05:00.000+0000",
+    "homeTeam": "Crows",
+    "awayTeam": "Demons",
+    "homeRatingPre": 1558.380847627213,
+    "awayRatingPre": 1756.1561761605044,
+    "homeWinProbModel": 0.25881449527164263,
+    "homeScore": 29,
+    "awayScore": 47,
+    "margin": -18,
+    "totalScore": 76,
+    "homeWin": false
   }
 ]
