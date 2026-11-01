@@ -10593,5 +10593,18 @@
     "actualAwayScore": 47,
     "predTotal": 95.12882442318084,
     "actualTotal": 76
+  },
+  {
+    "matchId": "CD_M20262641209",
+    "season": "2026 NAB AFLW Season",
+    "date": "2026-11-01T06:05:00.000+0000",
+    "homeTeam": "Dockers",
+    "awayTeam": "Swans",
+    "predHomeScore": 44.47593964164022,
+    "predAwayScore": 45.07912510320225,
+    "actualHomeScore": 36,
+    "actualAwayScore": 37,
+    "predTotal": 89.55506474484247,
+    "actualTotal": 73
   }
 ]

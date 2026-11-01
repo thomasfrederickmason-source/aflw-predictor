@@ -3531,6 +3531,39 @@
     "venueState": "SA"
   },
   {
+    "matchId": "CD_M20262641209",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-11-01T06:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V3475",
+    "homeTeam": "Dockers",
+    "awayTeam": "Swans",
+    "homeScore": 36,
+    "awayScore": 37,
+    "homeGoals": 5,
+    "homeBehinds": 6,
+    "awayGoals": 5,
+    "awayBehinds": 7,
+    "homeQtr": [
+      6,
+      15,
+      2,
+      13
+    ],
+    "awayQtr": [
+      9,
+      7,
+      9,
+      12
+    ],
+    "margin": -1,
+    "totalScore": 73,
+    "venueName": "Cockburn ARC Oval",
+    "venueLocation": "Perth",
+    "venueState": "WA"
+  },
+  {
     "matchId": "CD_M20252640101",
     "season": "2025 NAB AFLW Season",
     "round": "Round 1",

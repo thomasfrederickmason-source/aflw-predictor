@@ -13038,5 +13038,21 @@
     "margin": -18,
     "totalScore": 76,
     "homeWin": false
+  },
+  {
+    "matchId": "CD_M20262641209",
+    "season": "2026 NAB AFLW Season",
+    "round": "Round 12",
+    "date": "2026-11-01T06:05:00.000+0000",
+    "homeTeam": "Dockers",
+    "awayTeam": "Swans",
+    "homeRatingPre": 1490.3602506641666,
+    "awayRatingPre": 1610.4119871187033,
+    "homeWinProbModel": 0.35326311251111503,
+    "homeScore": 36,
+    "awayScore": 37,
+    "margin": -1,
+    "totalScore": 73,
+    "homeWin": false
   }
 ]

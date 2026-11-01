@@ -1,46 +1,46 @@
 [
  {
-  "homeTeam": "GWS Giants W",
-  "awayTeam": "Gold Coast Suns W",
-  "venue": "Henson Park",
-  "venueTown": "Sydney",
-  "kickoffLocal": "2026-11-01T12:35",
-  "preMatchRainMm": 0.7,
-  "duringMatchRainMm": 0.4,
-  "duringMatchWindKmh": 12,
-  "duringMatchMaxRainProbPct": 71
- },
- {
-  "homeTeam": "Essendon Bombers W",
-  "awayTeam": "Collingwood Magpies W",
-  "venue": "Windy Hill",
-  "venueTown": "Melbourne",
-  "kickoffLocal": "2026-11-01T13:05",
-  "preMatchRainMm": 0,
-  "duringMatchRainMm": 0,
-  "duringMatchWindKmh": 8.6,
-  "duringMatchMaxRainProbPct": 13
- },
- {
-  "homeTeam": "Adelaide Crows W",
+  "homeTeam": "Geelong Cats W",
   "awayTeam": "Melbourne Demons W",
-  "venue": "Unley Oval",
-  "venueTown": "Adelaide",
-  "kickoffLocal": "2026-11-01T15:05",
-  "preMatchRainMm": 0.3,
-  "duringMatchRainMm": 4.3,
-  "duringMatchWindKmh": 13.1,
+  "venue": "IKON Park",
+  "venueTown": "Melbourne",
+  "kickoffLocal": "2026-11-07T13:05",
+  "preMatchRainMm": 0.2,
+  "duringMatchRainMm": 0.2,
+  "duringMatchWindKmh": 21.2,
   "duringMatchMaxRainProbPct": 73
  },
  {
-  "homeTeam": "Fremantle Dockers W",
-  "awayTeam": "Sydney Swans W",
-  "venue": "Cockburn ARC Oval",
-  "venueTown": "Perth",
-  "kickoffLocal": "2026-11-01T14:05",
+  "homeTeam": "North Melbourne W",
+  "awayTeam": "Carlton Blues W",
+  "venue": "IKON Park",
+  "venueTown": "Melbourne",
+  "kickoffLocal": "2026-11-07T16:05",
+  "preMatchRainMm": 0.2,
+  "duringMatchRainMm": 0.2,
+  "duringMatchWindKmh": 21.1,
+  "duringMatchMaxRainProbPct": 63
+ },
+ {
+  "homeTeam": "Sydney Swans W",
+  "awayTeam": "Western Bulldogs W",
+  "venue": "Henson Park",
+  "venueTown": "Sydney",
+  "kickoffLocal": "2026-11-08T13:05",
   "preMatchRainMm": 0,
   "duringMatchRainMm": 0,
-  "duringMatchWindKmh": 17.6,
-  "duringMatchMaxRainProbPct": 12
+  "duringMatchWindKmh": 24.1,
+  "duringMatchMaxRainProbPct": 50
+ },
+ {
+  "homeTeam": "Gold Coast Suns W",
+  "awayTeam": "Hawthorn Hawks W",
+  "venue": "People First Stadium",
+  "venueTown": "Gold Coast",
+  "kickoffLocal": "2026-11-08T14:05",
+  "preMatchRainMm": 0.2,
+  "duringMatchRainMm": 0.2,
+  "duringMatchWindKmh": 23.3,
+  "duringMatchMaxRainProbPct": 57
  }
 ]
