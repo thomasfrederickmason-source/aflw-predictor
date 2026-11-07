@@ -1,37 +1,5 @@
 [
   {
-    "date": 1794017100,
-    "homeTeam": "Geelong Cats W",
-    "awayTeam": "Melbourne Demons W",
-    "venue": "IKON Park",
-    "venueTown": "Melbourne",
-    "venueTimezone": "Australia/Melbourne",
-    "roundNumber": 13,
-    "roundName": "Qualifying & Elimination Finals",
-    "homeAvgOdds": null,
-    "homeMaxOdds": null,
-    "awayAvgOdds": null,
-    "awayMaxOdds": null,
-    "bookmakerCount": 0,
-    "status": "SCHEDULED"
-  },
-  {
-    "date": 1794027900,
-    "homeTeam": "North Melbourne W",
-    "awayTeam": "Carlton Blues W",
-    "venue": "IKON Park",
-    "venueTown": "Melbourne",
-    "venueTimezone": "Australia/Melbourne",
-    "roundNumber": 13,
-    "roundName": "Qualifying & Elimination Finals",
-    "homeAvgOdds": null,
-    "homeMaxOdds": null,
-    "awayAvgOdds": null,
-    "awayMaxOdds": null,
-    "bookmakerCount": 0,
-    "status": "SCHEDULED"
-  },
-  {
     "date": 1794103500,
     "homeTeam": "Sydney Swans W",
     "awayTeam": "Western Bulldogs W",
@@ -45,7 +13,7 @@
     "awayAvgOdds": null,
     "awayMaxOdds": null,
     "bookmakerCount": 0,
-    "status": "SCHEDULED"
+    "status": "UNCONFIRMED_TEAMS"
   },
   {
     "date": 1794110700,
@@ -61,6 +29,6 @@
     "awayAvgOdds": null,
     "awayMaxOdds": null,
     "bookmakerCount": 0,
-    "status": "SCHEDULED"
+    "status": "UNCONFIRMED_TEAMS"
   }
 ]

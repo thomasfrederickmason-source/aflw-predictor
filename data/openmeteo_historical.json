@@ -6526,5 +6526,21 @@
   "rescaleFactor": 1,
   "bomDayTotalMm": null,
   "modelDayTotalMm": 1.3
+ },
+ "CD_M20262641302": {
+  "preMatchRainMm": 0.7,
+  "duringMatchRainMm": 0.3,
+  "duringMatchWindKmh": 22.9,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 7.4
+ },
+ "CD_M20262641301": {
+  "preMatchRainMm": 0.2,
+  "duringMatchRainMm": 0.1,
+  "duringMatchWindKmh": 23.05,
+  "rescaleFactor": 1,
+  "bomDayTotalMm": null,
+  "modelDayTotalMm": 7.4
  }
 }

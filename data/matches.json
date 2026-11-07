@@ -3564,6 +3564,72 @@
     "venueState": "WA"
   },
   {
+    "matchId": "CD_M20262641302",
+    "season": "2026 NAB AFLW Season",
+    "round": "Qualifying & Elimination Finals",
+    "date": "2026-11-07T02:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V50",
+    "homeTeam": "Cats",
+    "awayTeam": "Demons",
+    "homeScore": 52,
+    "awayScore": 56,
+    "homeGoals": 8,
+    "homeBehinds": 4,
+    "awayGoals": 8,
+    "awayBehinds": 8,
+    "homeQtr": [
+      7,
+      25,
+      18,
+      2
+    ],
+    "awayQtr": [
+      4,
+      6,
+      28,
+      18
+    ],
+    "margin": -4,
+    "totalScore": 108,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
+  },
+  {
+    "matchId": "CD_M20262641301",
+    "season": "2026 NAB AFLW Season",
+    "round": "Qualifying & Elimination Finals",
+    "date": "2026-11-07T05:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V50",
+    "homeTeam": "Kangaroos",
+    "awayTeam": "Blues",
+    "homeScore": 49,
+    "awayScore": 13,
+    "homeGoals": 7,
+    "homeBehinds": 7,
+    "awayGoals": 1,
+    "awayBehinds": 7,
+    "homeQtr": [
+      0,
+      26,
+      9,
+      14
+    ],
+    "awayQtr": [
+      2,
+      1,
+      2,
+      8
+    ],
+    "margin": 36,
+    "totalScore": 62,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
+  },
+  {
     "matchId": "CD_M20252640101",
     "season": "2025 NAB AFLW Season",
     "round": "Round 1",

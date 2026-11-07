@@ -1,8 +1,21 @@
 {
- "fetchedAt": "2026-11-01T09:24:22.483Z",
+ "fetchedAt": "2026-11-07T08:50:28.075Z",
  "source": "https://www.oddsportal.com/aussie-rules/australia/afl-women/results/",
  "pageCount": 3,
  "rows": [
+  {
+   "date": 1793513100,
+   "homeTeam": "Fremantle Dockers W",
+   "awayTeam": "Sydney Swans W",
+   "homeScore": 36,
+   "awayScore": 37,
+   "status": "Finished",
+   "homeAvgOdds": 3.25,
+   "homeMaxOdds": 3.25,
+   "awayAvgOdds": 1.33,
+   "awayMaxOdds": 1.33,
+   "bookmakerCount": 1
+  },
   {
    "date": 1793505900,
    "homeTeam": "Adelaide Crows W",
