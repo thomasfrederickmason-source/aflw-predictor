@@ -10645,5 +10645,18 @@
     "actualAwayScore": 17,
     "predTotal": 84.54596854899246,
     "actualTotal": 63
+  },
+  {
+    "matchId": "CD_M20262641303",
+    "season": "2026 NAB AFLW Season",
+    "date": "2026-11-08T04:05:00.000+0000",
+    "homeTeam": "SUNS",
+    "awayTeam": "Hawks",
+    "predHomeScore": 41.2474188164758,
+    "predAwayScore": 54.101044956280504,
+    "actualHomeScore": 39,
+    "actualAwayScore": 57,
+    "predTotal": 95.3484637727563,
+    "actualTotal": 96
   }
 ]

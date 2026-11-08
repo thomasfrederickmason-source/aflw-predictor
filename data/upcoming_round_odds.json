@@ -1,26 +1,10 @@
 [
   {
-    "date": 1794186000,
-    "homeTeam": "Carlton Blues W",
-    "awayTeam": "Hawthorn Hawks W",
-    "venue": "To Be Confirmed",
-    "venueTown": "Victoria",
-    "venueTimezone": "Australia/Melbourne",
-    "roundNumber": 14,
-    "roundName": "Semi Finals",
-    "homeAvgOdds": null,
-    "homeMaxOdds": null,
-    "awayAvgOdds": null,
-    "awayMaxOdds": null,
-    "bookmakerCount": 0,
-    "status": "PLACEHOLDER"
-  },
-  {
-    "date": 1794186000,
+    "date": 1794632700,
     "homeTeam": "Geelong Cats W",
     "awayTeam": "Sydney Swans W",
-    "venue": "To Be Confirmed",
-    "venueTown": "Victoria",
+    "venue": "GMHBA Stadium",
+    "venueTown": "Geelong",
     "venueTimezone": "Australia/Melbourne",
     "roundNumber": 14,
     "roundName": "Semi Finals",
@@ -29,6 +13,22 @@
     "awayAvgOdds": null,
     "awayMaxOdds": null,
     "bookmakerCount": 0,
-    "status": "PLACEHOLDER"
+    "status": "SCHEDULED"
+  },
+  {
+    "date": 1794644100,
+    "homeTeam": "Carlton Blues W",
+    "awayTeam": "Hawthorn Hawks W",
+    "venue": "IKON Park",
+    "venueTown": "Melbourne",
+    "venueTimezone": "Australia/Melbourne",
+    "roundNumber": 14,
+    "roundName": "Semi Finals",
+    "homeAvgOdds": null,
+    "homeMaxOdds": null,
+    "awayAvgOdds": null,
+    "awayMaxOdds": null,
+    "bookmakerCount": 0,
+    "status": "SCHEDULED"
   }
 ]

@@ -13102,5 +13102,21 @@
     "margin": 29,
     "totalScore": 63,
     "homeWin": true
+  },
+  {
+    "matchId": "CD_M20262641303",
+    "season": "2026 NAB AFLW Season",
+    "round": "Qualifying & Elimination Finals",
+    "date": "2026-11-08T04:05:00.000+0000",
+    "homeTeam": "SUNS",
+    "awayTeam": "Hawks",
+    "homeRatingPre": 1600.397749267896,
+    "awayRatingPre": 1604.6417226930373,
+    "homeWinProbModel": 0.515474223254429,
+    "homeScore": 39,
+    "awayScore": 57,
+    "margin": -18,
+    "totalScore": 96,
+    "homeWin": false
   }
 ]

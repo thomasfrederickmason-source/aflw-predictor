@@ -3663,6 +3663,39 @@
     "venueState": "NSW"
   },
   {
+    "matchId": "CD_M20262641303",
+    "season": "2026 NAB AFLW Season",
+    "round": "Qualifying & Elimination Finals",
+    "date": "2026-11-08T04:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V81",
+    "homeTeam": "SUNS",
+    "awayTeam": "Hawks",
+    "homeScore": 39,
+    "awayScore": 57,
+    "homeGoals": 6,
+    "homeBehinds": 3,
+    "awayGoals": 8,
+    "awayBehinds": 9,
+    "homeQtr": [
+      7,
+      18,
+      1,
+      13
+    ],
+    "awayQtr": [
+      13,
+      9,
+      19,
+      16
+    ],
+    "margin": -18,
+    "totalScore": 96,
+    "venueName": "People First Stadium",
+    "venueLocation": "Gold Coast",
+    "venueState": "QLD"
+  },
+  {
     "matchId": "CD_M20252640101",
     "season": "2025 NAB AFLW Season",
     "round": "Round 1",

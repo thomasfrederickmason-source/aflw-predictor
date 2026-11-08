@@ -286207,5 +286207,421 @@
     }
    ]
   }
+ },
+ "CD_M20262641303": {
+  "matchId": "CD_M20262641303",
+  "roundNumber": 13,
+  "homeTeam": {
+   "teamId": "CD_T8786",
+   "ins": [
+    {
+     "playerId": "CD_I1017314",
+     "name": "Daisy D'Arcy",
+     "reason": null
+    },
+    {
+     "playerId": "CD_I1010257",
+     "name": "Clara Fitzpatrick",
+     "reason": null
+    },
+    {
+     "playerId": "CD_I1030189",
+     "name": "Ava Usher",
+     "reason": null
+    },
+    {
+     "playerId": "CD_I1030203",
+     "name": "Dekota Baron",
+     "reason": null
+    },
+    {
+     "playerId": "CD_I1009880",
+     "name": "Charlotte Wilson",
+     "reason": null
+    }
+   ],
+   "outs": [
+    {
+     "playerId": "CD_I1032495",
+     "name": "Rhianna Ingram",
+     "reason": "Injured"
+    },
+    {
+     "playerId": "CD_I1022192",
+     "name": "Meara Girvan",
+     "reason": "Injured"
+    },
+    {
+     "playerId": "CD_I1009770",
+     "name": "Elise Barwick",
+     "reason": "Omitted"
+    },
+    {
+     "playerId": "CD_I1030199",
+     "name": "Alannah Welsh",
+     "reason": "Omitted"
+    },
+    {
+     "playerId": "CD_I1026104",
+     "name": "Mia Salisbury",
+     "reason": "Omitted"
+    }
+   ],
+   "milestones": [
+    {
+     "playerId": "CD_I1010257",
+     "name": "Clara Fitzpatrick",
+     "milestone": null
+    }
+   ],
+   "clubDebuts": [],
+   "positions": [
+    {
+     "position": "BPL",
+     "playerId": "CD_I1028918",
+     "name": "Ellie Veerhuis",
+     "jumperNumber": 33,
+     "captain": false
+    },
+    {
+     "position": "FB",
+     "playerId": "CD_I1030201",
+     "name": "Georja Davies",
+     "jumperNumber": 4,
+     "captain": false
+    },
+    {
+     "position": "HBFL",
+     "playerId": "CD_I1017314",
+     "name": "Daisy D'Arcy",
+     "jumperNumber": 20,
+     "captain": false
+    },
+    {
+     "position": "CHB",
+     "playerId": "CD_I1010257",
+     "name": "Clara Fitzpatrick",
+     "jumperNumber": 9,
+     "captain": false
+    },
+    {
+     "position": "HBFR",
+     "playerId": "CD_I1033165",
+     "name": "Niamh McLaughlin",
+     "jumperNumber": 11,
+     "captain": false
+    },
+    {
+     "position": "WL",
+     "playerId": "CD_I1030195",
+     "name": "Mikayla Nurse",
+     "jumperNumber": 16,
+     "captain": false
+    },
+    {
+     "position": "C",
+     "playerId": "CD_I1015068",
+     "name": "Charlie Rowbottom",
+     "jumperNumber": 8,
+     "captain": false
+    },
+    {
+     "position": "WR",
+     "playerId": "CD_I1032499",
+     "name": "Bronte Parker",
+     "jumperNumber": 32,
+     "captain": false
+    },
+    {
+     "position": "HFFL",
+     "playerId": "CD_I1030189",
+     "name": "Ava Usher",
+     "jumperNumber": 10,
+     "captain": false
+    },
+    {
+     "position": "CHF",
+     "playerId": "CD_I1005269",
+     "name": "Anne Hatchard",
+     "jumperNumber": 34,
+     "captain": false
+    },
+    {
+     "position": "HFFR",
+     "playerId": "CD_I1030188",
+     "name": "Sunny Lappin",
+     "jumperNumber": 2,
+     "captain": false
+    },
+    {
+     "position": "FF",
+     "playerId": "CD_I1030203",
+     "name": "Dekota Baron",
+     "jumperNumber": 24,
+     "captain": false
+    },
+    {
+     "position": "FPR",
+     "playerId": "CD_I1024552",
+     "name": "Havana Harris",
+     "jumperNumber": 12,
+     "captain": false
+    },
+    {
+     "position": "RK",
+     "playerId": "CD_I1024535",
+     "name": "Darcie Davies",
+     "jumperNumber": 3,
+     "captain": false
+    },
+    {
+     "position": "RR",
+     "playerId": "CD_I1009868",
+     "name": "Maddy Brancatisano",
+     "jumperNumber": 5,
+     "captain": false
+    },
+    {
+     "position": "R",
+     "playerId": "CD_I1021456",
+     "name": "Lucy Single",
+     "jumperNumber": 13,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I997708",
+     "name": "Lily Mithen",
+     "jumperNumber": 14,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1028846",
+     "name": "Heidi Talbot",
+     "jumperNumber": 21,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1009880",
+     "name": "Charlotte Wilson",
+     "jumperNumber": 22,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1024299",
+     "name": "Paige Price",
+     "jumperNumber": 26,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1037639",
+     "name": "Lily Quigley",
+     "jumperNumber": 35,
+     "captain": false
+    },
+    {
+     "position": "EMERG",
+     "playerId": "CD_I1013028",
+     "name": "Katie Lynch",
+     "jumperNumber": 7,
+     "captain": false
+    },
+    {
+     "position": "EMERG",
+     "playerId": "CD_I1030199",
+     "name": "Alannah Welsh",
+     "jumperNumber": 15,
+     "captain": false
+    },
+    {
+     "position": "EMERG",
+     "playerId": "CD_I1026104",
+     "name": "Mia Salisbury",
+     "jumperNumber": 19,
+     "captain": false
+    }
+   ]
+  },
+  "awayTeam": {
+   "teamId": "CD_T9407",
+   "ins": [],
+   "outs": [],
+   "milestones": [],
+   "clubDebuts": [],
+   "positions": [
+    {
+     "position": "BPL",
+     "playerId": "CD_I1013015",
+     "name": "Tamara Smith",
+     "jumperNumber": 24,
+     "captain": false
+    },
+    {
+     "position": "FB",
+     "playerId": "CD_I1025669",
+     "name": "Annabelle Embelton",
+     "jumperNumber": 32,
+     "captain": false
+    },
+    {
+     "position": "HBFL",
+     "playerId": "CD_I1012575",
+     "name": "Casey Sherriff",
+     "jumperNumber": 12,
+     "captain": false
+    },
+    {
+     "position": "CHB",
+     "playerId": "CD_I1014869",
+     "name": "Jenna Richardson",
+     "jumperNumber": 11,
+     "captain": false
+    },
+    {
+     "position": "HBFR",
+     "playerId": "CD_I1019883",
+     "name": "Laura Elliott",
+     "jumperNumber": 20,
+     "captain": false
+    },
+    {
+     "position": "WL",
+     "playerId": "CD_I1021824",
+     "name": "Hayley McLaughlin",
+     "jumperNumber": 6,
+     "captain": false
+    },
+    {
+     "position": "C",
+     "playerId": "CD_I1025671",
+     "name": "Daisy Flockart",
+     "jumperNumber": 14,
+     "captain": false
+    },
+    {
+     "position": "WR",
+     "playerId": "CD_I1019828",
+     "name": "Keely Coyne",
+     "jumperNumber": 9,
+     "captain": false
+    },
+    {
+     "position": "HFFL",
+     "playerId": "CD_I1033163",
+     "name": "Niamh Martin",
+     "jumperNumber": 7,
+     "captain": false
+    },
+    {
+     "position": "CHF",
+     "playerId": "CD_I1021417",
+     "name": "Poppy Stockwell",
+     "jumperNumber": 28,
+     "captain": false
+    },
+    {
+     "position": "HFFR",
+     "playerId": "CD_I1014559",
+     "name": "Najwa Allen",
+     "jumperNumber": 4,
+     "captain": false
+    },
+    {
+     "position": "FF",
+     "playerId": "CD_I1029626",
+     "name": "Aine McDonagh",
+     "jumperNumber": 13,
+     "captain": false
+    },
+    {
+     "position": "FPR",
+     "playerId": "CD_I1025163",
+     "name": "Jacqueline Dupuy",
+     "jumperNumber": 38,
+     "captain": false
+    },
+    {
+     "position": "RK",
+     "playerId": "CD_I1026929",
+     "name": "Lucy Wales",
+     "jumperNumber": 31,
+     "captain": false
+    },
+    {
+     "position": "RR",
+     "playerId": "CD_I1019821",
+     "name": "Jasmine Fleming",
+     "jumperNumber": 5,
+     "captain": false
+    },
+    {
+     "position": "R",
+     "playerId": "CD_I1022111",
+     "name": "Eliza West",
+     "jumperNumber": 2,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I997649",
+     "name": "Kaitlyn Ashmore",
+     "jumperNumber": 10,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1021822",
+     "name": "Mikayla Williamson",
+     "jumperNumber": 27,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1021837",
+     "name": "Laura Stone",
+     "jumperNumber": 22,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1032571",
+     "name": "Mikaylah Antony",
+     "jumperNumber": 16,
+     "captain": false
+    },
+    {
+     "position": "INT",
+     "playerId": "CD_I1031303",
+     "name": "Elli Symonds",
+     "jumperNumber": 21,
+     "captain": false
+    },
+    {
+     "position": "EMERG",
+     "playerId": "CD_I1019830",
+     "name": "Bridie Hipwell",
+     "jumperNumber": 19,
+     "captain": false
+    },
+    {
+     "position": "EMERG",
+     "playerId": "CD_I1021844",
+     "name": "Jess Vukic",
+     "jumperNumber": 23,
+     "captain": false
+    },
+    {
+     "position": "EMERG",
+     "playerId": "CD_I1048141",
+     "name": "Hannah Looney",
+     "jumperNumber": 18,
+     "captain": false
+    }
+   ]
+  }
  }
 }
