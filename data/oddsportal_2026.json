@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-07T08:50:28.075Z",
+ "fetchedAt": "2026-11-08T06:05:11.512Z",
  "source": "https://www.oddsportal.com/aussie-rules/australia/afl-women/results/",
  "pageCount": 3,
  "rows": [
@@ -616,19 +616,6 @@
   },
   {
    "date": 1790478300,
-   "homeTeam": "Adelaide Crows W",
-   "awayTeam": "Fremantle Dockers W",
-   "homeScore": 35,
-   "awayScore": 60,
-   "status": "Finished",
-   "homeAvgOdds": 1.33,
-   "homeMaxOdds": 1.33,
-   "awayAvgOdds": 3.25,
-   "awayMaxOdds": 3.25,
-   "bookmakerCount": 1
-  },
-  {
-   "date": 1790478300,
    "homeTeam": "Collingwood Magpies W",
    "awayTeam": "GWS Giants W",
    "homeScore": 34,
@@ -638,19 +625,6 @@
    "homeMaxOdds": 1.8,
    "awayAvgOdds": 1.9,
    "awayMaxOdds": 1.9,
-   "bookmakerCount": 1
-  },
-  {
-   "date": 1790327700,
-   "homeTeam": "Melbourne Demons W",
-   "awayTeam": "North Melbourne W",
-   "homeScore": 34,
-   "awayScore": 65,
-   "status": "Finished",
-   "homeAvgOdds": 2.75,
-   "homeMaxOdds": 2.75,
-   "awayAvgOdds": 1.4,
-   "awayMaxOdds": 1.4,
    "bookmakerCount": 1
   }
  ]

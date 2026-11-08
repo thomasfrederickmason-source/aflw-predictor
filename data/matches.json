@@ -3630,6 +3630,39 @@
     "venueState": "VIC"
   },
   {
+    "matchId": "CD_M20262641304",
+    "season": "2026 NAB AFLW Season",
+    "round": "Qualifying & Elimination Finals",
+    "date": "2026-11-08T02:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V341",
+    "homeTeam": "Swans",
+    "awayTeam": "Bulldogs",
+    "homeScore": 46,
+    "awayScore": 17,
+    "homeGoals": 7,
+    "homeBehinds": 4,
+    "awayGoals": 2,
+    "awayBehinds": 5,
+    "homeQtr": [
+      25,
+      0,
+      15,
+      6
+    ],
+    "awayQtr": [
+      1,
+      7,
+      7,
+      2
+    ],
+    "margin": 29,
+    "totalScore": 63,
+    "venueName": "Henson Park",
+    "venueLocation": "Sydney",
+    "venueState": "NSW"
+  },
+  {
     "matchId": "CD_M20252640101",
     "season": "2025 NAB AFLW Season",
     "round": "Round 1",

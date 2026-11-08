@@ -10632,5 +10632,18 @@
     "actualAwayScore": 13,
     "predTotal": 87.55369682786845,
     "actualTotal": 62
+  },
+  {
+    "matchId": "CD_M20262641304",
+    "season": "2026 NAB AFLW Season",
+    "date": "2026-11-08T02:05:00.000+0000",
+    "homeTeam": "Swans",
+    "awayTeam": "Bulldogs",
+    "predHomeScore": 40.25589300721111,
+    "predAwayScore": 44.290075541781356,
+    "actualHomeScore": 46,
+    "actualAwayScore": 17,
+    "predTotal": 84.54596854899246,
+    "actualTotal": 63
   }
 ]

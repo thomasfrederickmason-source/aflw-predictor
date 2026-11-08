@@ -1,34 +1,34 @@
 [
   {
-    "date": 1794103500,
-    "homeTeam": "Sydney Swans W",
-    "awayTeam": "Western Bulldogs W",
-    "venue": "Henson Park",
-    "venueTown": "Sydney",
-    "venueTimezone": "Australia/Sydney",
-    "roundNumber": 13,
-    "roundName": "Qualifying & Elimination Finals",
+    "date": 1794186000,
+    "homeTeam": "Carlton Blues W",
+    "awayTeam": "Hawthorn Hawks W",
+    "venue": "To Be Confirmed",
+    "venueTown": "Victoria",
+    "venueTimezone": "Australia/Melbourne",
+    "roundNumber": 14,
+    "roundName": "Semi Finals",
     "homeAvgOdds": null,
     "homeMaxOdds": null,
     "awayAvgOdds": null,
     "awayMaxOdds": null,
     "bookmakerCount": 0,
-    "status": "UNCONFIRMED_TEAMS"
+    "status": "PLACEHOLDER"
   },
   {
-    "date": 1794110700,
-    "homeTeam": "Gold Coast Suns W",
-    "awayTeam": "Hawthorn Hawks W",
-    "venue": "People First Stadium",
-    "venueTown": "Gold Coast",
-    "venueTimezone": "Australia/Brisbane",
-    "roundNumber": 13,
-    "roundName": "Qualifying & Elimination Finals",
+    "date": 1794186000,
+    "homeTeam": "Geelong Cats W",
+    "awayTeam": "Sydney Swans W",
+    "venue": "To Be Confirmed",
+    "venueTown": "Victoria",
+    "venueTimezone": "Australia/Melbourne",
+    "roundNumber": 14,
+    "roundName": "Semi Finals",
     "homeAvgOdds": null,
     "homeMaxOdds": null,
     "awayAvgOdds": null,
     "awayMaxOdds": null,
     "bookmakerCount": 0,
-    "status": "UNCONFIRMED_TEAMS"
+    "status": "PLACEHOLDER"
   }
 ]

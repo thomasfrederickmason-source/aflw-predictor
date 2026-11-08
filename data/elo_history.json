@@ -13086,5 +13086,21 @@
     "margin": 36,
     "totalScore": 62,
     "homeWin": true
+  },
+  {
+    "matchId": "CD_M20262641304",
+    "season": "2026 NAB AFLW Season",
+    "round": "Qualifying & Elimination Finals",
+    "date": "2026-11-08T02:05:00.000+0000",
+    "homeTeam": "Swans",
+    "awayTeam": "Bulldogs",
+    "homeRatingPre": 1619.7601387186494,
+    "awayRatingPre": 1622.8951424936433,
+    "homeWinProbModel": 0.5170684673737932,
+    "homeScore": 46,
+    "awayScore": 17,
+    "margin": 29,
+    "totalScore": 63,
+    "homeWin": true
   }
 ]
