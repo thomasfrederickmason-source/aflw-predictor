@@ -10658,5 +10658,31 @@
     "actualAwayScore": 57,
     "predTotal": 95.3484637727563,
     "actualTotal": 96
+  },
+  {
+    "matchId": "CD_M20262641402",
+    "season": "2026 NAB AFLW Season",
+    "date": "2026-11-14T05:05:00.000+0000",
+    "homeTeam": "Cats",
+    "awayTeam": "Swans",
+    "predHomeScore": 66.40370012035056,
+    "predAwayScore": 46.903685767991355,
+    "actualHomeScore": 47,
+    "actualAwayScore": 50,
+    "predTotal": 113.30738588834191,
+    "actualTotal": 97
+  },
+  {
+    "matchId": "CD_M20262641401",
+    "season": "2026 NAB AFLW Season",
+    "date": "2026-11-14T08:15:00.000+0000",
+    "homeTeam": "Blues",
+    "awayTeam": "Hawks",
+    "predHomeScore": 43.08327091594889,
+    "predAwayScore": 40.98927049288451,
+    "actualHomeScore": 43,
+    "actualAwayScore": 38,
+    "predTotal": 84.07254140883339,
+    "actualTotal": 81
   }
 ]

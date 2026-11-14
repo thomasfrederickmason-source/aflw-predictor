@@ -13118,5 +13118,37 @@
     "margin": -18,
     "totalScore": 96,
     "homeWin": false
+  },
+  {
+    "matchId": "CD_M20262641402",
+    "season": "2026 NAB AFLW Season",
+    "round": "Semi Finals",
+    "date": "2026-11-14T05:05:00.000+0000",
+    "homeTeam": "Cats",
+    "awayTeam": "Swans",
+    "homeRatingPre": 1797.1765180569612,
+    "awayRatingPre": 1685.1095163272485,
+    "homeWinProbModel": 0.6751248012933958,
+    "homeScore": 47,
+    "awayScore": 50,
+    "margin": -3,
+    "totalScore": 97,
+    "homeWin": false
+  },
+  {
+    "matchId": "CD_M20262641401",
+    "season": "2026 NAB AFLW Season",
+    "round": "Semi Finals",
+    "date": "2026-11-14T08:15:00.000+0000",
+    "homeTeam": "Blues",
+    "awayTeam": "Hawks",
+    "homeRatingPre": 1663.9031406639988,
+    "awayRatingPre": 1665.6513006311013,
+    "homeWinProbModel": 0.5190616880597885,
+    "homeScore": 43,
+    "awayScore": 38,
+    "margin": 5,
+    "totalScore": 81,
+    "homeWin": true
   }
 ]

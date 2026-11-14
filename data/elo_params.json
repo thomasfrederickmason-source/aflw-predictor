@@ -2,9 +2,9 @@
  "k": 40,
  "hga": 15,
  "seasonRegression": 0.3333333333333333,
- "marginSlope": 0.08380375525188798,
- "marginIntercept": 0.4220765150703112,
- "fittedOn": 820,
- "lastMatch": "2026 NAB AFLW Season Qualifying & Elimination Finals",
- "fittedAt": "2026-11-08T06:43:49.904Z"
+ "marginSlope": 0.08376816519665735,
+ "marginIntercept": 0.40995231172701097,
+ "fittedOn": 822,
+ "lastMatch": "2026 NAB AFLW Season Semi Finals",
+ "fittedAt": "2026-11-14T11:30:47.134Z"
 }

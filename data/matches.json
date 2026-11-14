@@ -3696,6 +3696,72 @@
     "venueState": "QLD"
   },
   {
+    "matchId": "CD_M20262641402",
+    "season": "2026 NAB AFLW Season",
+    "round": "Semi Finals",
+    "date": "2026-11-14T05:05:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V30",
+    "homeTeam": "Cats",
+    "awayTeam": "Swans",
+    "homeScore": 47,
+    "awayScore": 50,
+    "homeGoals": 7,
+    "homeBehinds": 5,
+    "awayGoals": 8,
+    "awayBehinds": 2,
+    "homeQtr": [
+      6,
+      14,
+      14,
+      13
+    ],
+    "awayQtr": [
+      13,
+      12,
+      19,
+      6
+    ],
+    "margin": -3,
+    "totalScore": 97,
+    "venueName": "GMHBA Stadium",
+    "venueLocation": "Geelong",
+    "venueState": "VIC"
+  },
+  {
+    "matchId": "CD_M20262641401",
+    "season": "2026 NAB AFLW Season",
+    "round": "Semi Finals",
+    "date": "2026-11-14T08:15:00.000+0000",
+    "status": "CONCLUDED",
+    "venue": "CD_V50",
+    "homeTeam": "Blues",
+    "awayTeam": "Hawks",
+    "homeScore": 43,
+    "awayScore": 38,
+    "homeGoals": 6,
+    "homeBehinds": 7,
+    "awayGoals": 6,
+    "awayBehinds": 2,
+    "homeQtr": [
+      8,
+      13,
+      9,
+      13
+    ],
+    "awayQtr": [
+      19,
+      6,
+      1,
+      12
+    ],
+    "margin": 5,
+    "totalScore": 81,
+    "venueName": "IKON Park",
+    "venueLocation": "Melbourne",
+    "venueState": "VIC"
+  },
+  {
     "matchId": "CD_M20252640101",
     "season": "2025 NAB AFLW Season",
     "round": "Round 1",

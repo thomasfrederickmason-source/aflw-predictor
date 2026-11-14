@@ -1,8 +1,34 @@
 {
- "fetchedAt": "2026-11-08T06:43:48.475Z",
+ "fetchedAt": "2026-11-14T11:30:45.027Z",
  "source": "https://www.oddsportal.com/aussie-rules/australia/afl-women/results/",
  "pageCount": 3,
  "rows": [
+  {
+   "date": 1794644100,
+   "homeTeam": "Carlton Blues W",
+   "awayTeam": "Hawthorn Hawks W",
+   "homeScore": 43,
+   "awayScore": 38,
+   "status": "Finished",
+   "homeAvgOdds": 1.54,
+   "homeMaxOdds": 1.54,
+   "awayAvgOdds": 2.35,
+   "awayMaxOdds": 2.35,
+   "bookmakerCount": 1
+  },
+  {
+   "date": 1794632700,
+   "homeTeam": "Geelong Cats W",
+   "awayTeam": "Sydney Swans W",
+   "homeScore": 47,
+   "awayScore": 50,
+   "status": "Finished",
+   "homeAvgOdds": 1.14,
+   "homeMaxOdds": 1.14,
+   "awayAvgOdds": 5,
+   "awayMaxOdds": 5,
+   "bookmakerCount": 1
+  },
   {
    "date": 1793513100,
    "homeTeam": "Fremantle Dockers W",
@@ -599,32 +625,6 @@
    "homeMaxOdds": 1.1,
    "awayAvgOdds": 6.5,
    "awayMaxOdds": 6.5,
-   "bookmakerCount": 1
-  },
-  {
-   "date": 1790485500,
-   "homeTeam": "Sydney Swans W",
-   "awayTeam": "Brisbane Lions W",
-   "homeScore": 37,
-   "awayScore": 23,
-   "status": "Finished",
-   "homeAvgOdds": 1.66,
-   "homeMaxOdds": 1.66,
-   "awayAvgOdds": 2.1,
-   "awayMaxOdds": 2.1,
-   "bookmakerCount": 1
-  },
-  {
-   "date": 1790478300,
-   "homeTeam": "Collingwood Magpies W",
-   "awayTeam": "GWS Giants W",
-   "homeScore": 34,
-   "awayScore": 25,
-   "status": "Finished",
-   "homeAvgOdds": 1.8,
-   "homeMaxOdds": 1.8,
-   "awayAvgOdds": 1.9,
-   "awayMaxOdds": 1.9,
    "bookmakerCount": 1
   }
  ]

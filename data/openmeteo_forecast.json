@@ -1,24 +1,24 @@
 [
  {
-  "homeTeam": "Geelong Cats W",
+  "homeTeam": "North Melbourne W",
   "awayTeam": "Sydney Swans W",
-  "venue": "GMHBA Stadium",
-  "venueTown": "Geelong",
-  "kickoffLocal": "2026-11-14T16:05",
-  "preMatchRainMm": 0.4,
-  "duringMatchRainMm": 0.2,
-  "duringMatchWindKmh": 15.5,
+  "venue": "IKON Park",
+  "venueTown": "Melbourne",
+  "kickoffLocal": "2026-11-21T13:05",
+  "preMatchRainMm": 0,
+  "duringMatchRainMm": 0,
+  "duringMatchWindKmh": 8.2,
   "duringMatchMaxRainProbPct": 25
  },
  {
-  "homeTeam": "Carlton Blues W",
-  "awayTeam": "Hawthorn Hawks W",
+  "homeTeam": "Melbourne Demons W",
+  "awayTeam": "Carlton Blues W",
   "venue": "IKON Park",
   "venueTown": "Melbourne",
-  "kickoffLocal": "2026-11-14T19:15",
+  "kickoffLocal": "2026-11-21T16:05",
   "preMatchRainMm": 0,
   "duringMatchRainMm": 0,
-  "duringMatchWindKmh": 14.4,
-  "duringMatchMaxRainProbPct": 24
+  "duringMatchWindKmh": 9.2,
+  "duringMatchMaxRainProbPct": 27
  }
 ]
