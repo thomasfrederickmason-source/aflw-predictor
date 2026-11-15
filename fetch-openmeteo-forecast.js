@@ -25,6 +25,26 @@ function httpGetJson(url) {
   return JSON.parse(text);
 }
 
+// Open-Meteo now and then answers with an error body ({"error":true,"reason":...},
+// e.g. a rate limit or a brief outage) instead of a forecast. That used to
+// crash the whole reprice (run #120, 2026-11-13). Try a few times, and only
+// accept an answer that really carries the hourly figures.
+async function fetchForecast(url) {
+  let lastErr = 'no answer';
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      const data = httpGetJson(url);
+      const h = data && data.hourly;
+      if (h && Array.isArray(h.time) && Array.isArray(h.precipitation) && Array.isArray(h.wind_speed_10m)) return data;
+      lastErr = (data && data.reason) || 'answer had no hourly forecast';
+    } catch (e) {
+      lastErr = e.message;
+    }
+    if (attempt < 3) await new Promise(r => setTimeout(r, attempt * 3000));
+  }
+  throw new Error(lastErr);
+}
+
 const STATE_TZ_BY_COORD_HINT = 'Australia/Sydney'; // fallback only
 
 // crude state guess from known venue towns already in venue-coords.js —
@@ -66,6 +86,10 @@ function windowSums(hourly, kickoffLocal) {
 async function main() {
   const fixtures = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'upcoming_round_odds.json'), 'utf8'));
   const out = [];
+  const outFile = path.join(__dirname, 'data', 'openmeteo_forecast.json');
+  let previous = [];
+  try { previous = JSON.parse(fs.readFileSync(outFile, 'utf8')); } catch (e) { /* first run */ }
+  if (!Array.isArray(previous)) previous = [];
 
   for (const f of fixtures) {
     const venueKey = TOWN_ALIAS[f.venueTown] || f.venueTown;
@@ -79,18 +103,22 @@ async function main() {
     if (daysOut > 15) { console.log(`${f.homeTeam} v ${f.awayTeam}: ${daysOut} days out — beyond forecast range, skipping`); continue; }
 
     const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&hourly=precipitation,wind_speed_10m,precipitation_probability&timezone=${encodeURIComponent(tz)}&forecast_days=16`;
-    let data;
-    try {
-      data = httpGetJson(url);
-    } catch (e) {
-      console.log(`FAILED forecast fetch for ${venueKey}: ${e.message}`);
-      continue;
-    }
     const kickoffLocalStr = new Intl.DateTimeFormat('sv-SE', {
       timeZone: tz, year: 'numeric', month: '2-digit', day: '2-digit',
       hour: '2-digit', minute: '2-digit', hour12: false,
     }).format(utcDate).replace(' ', 'T');
     const kickoffLocal = new Date(kickoffLocalStr + ':00');
+
+    let data;
+    try {
+      data = await fetchForecast(url);
+    } catch (e) {
+      // keep the last forecast we had for this same game rather than pricing it with no weather
+      const prev = previous.find(p => p.homeTeam === f.homeTeam && p.awayTeam === f.awayTeam && p.kickoffLocal === kickoffLocalStr);
+      if (prev) { out.push(prev); console.log(`FAILED forecast fetch for ${venueKey}: ${e.message} — keeping the previous forecast for ${f.homeTeam} v ${f.awayTeam}`); }
+      else console.log(`FAILED forecast fetch for ${venueKey}: ${e.message} — no forecast for ${f.homeTeam} v ${f.awayTeam}`);
+      continue;
+    }
 
     const w = windowSums(data.hourly, kickoffLocal);
     out.push({
