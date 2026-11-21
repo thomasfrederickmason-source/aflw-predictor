@@ -1,0 +1,45 @@
+{
+  "capturedAt": "2026-11-21T07:43:49.203Z",
+  "round": "Round 16, 2026",
+  "roundName": "Grand Final",
+  "predictions": [
+    {
+      "date": 1795769100,
+      "homeTeam": "Kangaroos",
+      "awayTeam": "Demons",
+      "venue": "IKON Park",
+      "modelHomeProb": 0.7350812077025495,
+      "predictedMargin": 15.549285600015306,
+      "predHomeScore": 52.37476426354975,
+      "predAwayScore": 36.82547866353444,
+      "predTotal": 89.20024292708419,
+      "components": {
+        "eloHomeProb": 0.6948141795107862,
+        "blendHomeProb": 0.7753482358943129,
+        "blendMargin": 17.431521101463673,
+        "eloDiff": 142.9217284714407,
+        "ridgeMargin": 14.768000000000004,
+        "ridgeTotal": 90.66499999999999,
+        "scoreModelHome": 54.51977006921648,
+        "scoreModelAway": 35.60211998289961,
+        "totalScale": 0.98977332671897
+      },
+      "rosterAdjustmentApplied": false,
+      "rosterNote": null,
+      "rosterMarginAdjustment": 0,
+      "lineupShift": 0,
+      "lineupNote": "final teams not named yet (or still an extended squad) -- no lineup adjustment",
+      "travelAdjustmentApplied": true,
+      "travelNote": "local derby: both teams are based within 100km of the venue, so no home-ground advantage",
+      "weatherAdjustmentApplied": true,
+      "weatherNote": "-2.4 pts to the total (wind 7km/h +3.8; 26% chance of rain, 3.6mm forecast -1.2; 7:45pm local kickoff -5.1)",
+      "conditionsTotalAdjustment": -2.39,
+      "marketHomeOdds": null,
+      "marketAwayOdds": null,
+      "marketHomeProb": null,
+      "edge": null,
+      "actualHomeScore": null,
+      "actualAwayScore": null
+    }
+  ]
+}

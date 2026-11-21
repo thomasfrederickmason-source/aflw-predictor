@@ -1,24 +1,13 @@
 [
  {
   "homeTeam": "North Melbourne W",
-  "awayTeam": "Sydney Swans W",
+  "awayTeam": "Melbourne Demons W",
   "venue": "IKON Park",
   "venueTown": "Melbourne",
-  "kickoffLocal": "2026-11-21T13:05",
-  "preMatchRainMm": 0,
-  "duringMatchRainMm": 0,
-  "duringMatchWindKmh": 8.2,
-  "duringMatchMaxRainProbPct": 25
- },
- {
-  "homeTeam": "Melbourne Demons W",
-  "awayTeam": "Carlton Blues W",
-  "venue": "IKON Park",
-  "venueTown": "Melbourne",
-  "kickoffLocal": "2026-11-21T16:05",
-  "preMatchRainMm": 0,
-  "duringMatchRainMm": 0,
-  "duringMatchWindKmh": 9.2,
-  "duringMatchMaxRainProbPct": 27
+  "kickoffLocal": "2026-11-27T19:45",
+  "preMatchRainMm": 3.6,
+  "duringMatchRainMm": 3.6,
+  "duringMatchWindKmh": 7,
+  "duringMatchMaxRainProbPct": 26
  }
 ]

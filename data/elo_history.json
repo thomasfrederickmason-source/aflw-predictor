@@ -13150,5 +13150,37 @@
     "margin": 5,
     "totalScore": 81,
     "homeWin": true
+  },
+  {
+    "matchId": "CD_M20262641501",
+    "season": "2026 NAB AFLW Season",
+    "round": "Preliminary Finals",
+    "date": "2026-11-21T02:05:00.000+0000",
+    "homeTeam": "Kangaroos",
+    "awayTeam": "Swans",
+    "homeRatingPre": 1985.4302215164814,
+    "awayRatingPre": 1724.8411960854576,
+    "homeWinProbModel": 0.8301115373396107,
+    "homeScore": 83,
+    "awayScore": 51,
+    "margin": 32,
+    "totalScore": 134,
+    "homeWin": true
+  },
+  {
+    "matchId": "CD_M20262641502",
+    "season": "2026 NAB AFLW Season",
+    "round": "Preliminary Finals",
+    "date": "2026-11-21T05:05:00.000+0000",
+    "homeTeam": "Demons",
+    "awayTeam": "Blues",
+    "homeRatingPre": 1823.8741954525437,
+    "awayRatingPre": 1698.1657884058006,
+    "homeWinProbModel": 0.6921058180439671,
+    "homeScore": 75,
+    "awayScore": 45,
+    "margin": 30,
+    "totalScore": 120,
+    "homeWin": true
   }
 ]
